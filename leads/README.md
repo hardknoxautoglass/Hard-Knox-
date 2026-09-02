@@ -6,10 +6,10 @@ Full data: [`hamilton_county_auto_glass_leads.csv`](./hamilton_county_auto_glass
 
 ## 1. Executive Summary
 
-- **Total verified prospects: 147**
-- **A — High Priority: 75**
-- **B — Medium Priority: 57**
-- **C — Low Priority: 15**
+- **Total verified prospects: 166**
+- **A — High Priority: 77**
+- **B — Medium Priority: 68**
+- **C — Low Priority: 21**
 - **Businesses with a verified public email address: 12**
 - **Businesses with a verified/named decision-maker: 23**
 - **Businesses with a publicly sourced fleet-size figure: 12** (most others show "Not publicly verified" — no fleet count is publicly disclosed, and none was estimated or invented)
