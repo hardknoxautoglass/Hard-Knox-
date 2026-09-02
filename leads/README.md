@@ -2,13 +2,13 @@
 
 Verified prospect database of businesses physically located in Hamilton County, Tennessee that are realistic commercial customers for a mobile auto glass company (same-day service, lifetime warranty, veteran-owned, mobile windshield replacement/ADAS recalibration).
 
-Full data: [`hamilton_county_auto_glass_leads.csv`](./hamilton_county_auto_glass_leads.csv) — open in Excel/Google Sheets/Airtable.
+Full data: [`hamilton_county_auto_glass_leads.csv`](./hamilton_county_auto_glass_leads.csv) (open in Excel/Google Sheets/Airtable) or [`Hamilton_County_Auto_Glass_Leads.xlsx`](./Hamilton_County_Auto_Glass_Leads.xlsx) (formatted, ready-to-save workbook with a Summary tab).
 
 ## 1. Executive Summary
 
-- **Total verified prospects: 140**
-- **A — High Priority: 72**
-- **B — Medium Priority: 53**
+- **Total verified prospects: 147**
+- **A — High Priority: 75**
+- **B — Medium Priority: 57**
 - **C — Low Priority: 15**
 - **Businesses with a verified public email address: 12**
 - **Businesses with a verified/named decision-maker: 23**
@@ -40,11 +40,11 @@ These combine high fleet-likelihood with strong evidence of active operations an
 
 ## 3. Complete Verified Lead List
 
-See [`hamilton_county_auto_glass_leads.csv`](./hamilton_county_auto_glass_leads.csv) for all 140 records with the full required field set: Business Name, Industry, Lead Priority, Physical Address, City, State, ZIP, Phone, Email, Website, Contact Name, Contact Title, Estimated Fleet Size, Why They Are a Good Prospect, Active Business Evidence, Source 1, Source 2, Verification Date.
+See [`hamilton_county_auto_glass_leads.csv`](./hamilton_county_auto_glass_leads.csv) (or the `.xlsx`) for all 147 records with the full required field set: Business Name, Industry, Lead Priority, Physical Address, City, State, ZIP, Phone, Email, Website, Contact Name, Contact Title, Estimated Fleet Size, Why They Are a Good Prospect, Active Business Evidence, Source 1, Source 2, Verification Date.
 
-Coverage by sector: automotive dealerships/repair/collision/tire/rental (37), trucking/logistics/towing/moving/courier/school transport (28), construction & trades — GC/roofing/HVAC/plumbing/electrical/concrete/utility/restoration (23), government/institutional/utility/hospital/nonprofit fleets (16), distribution/rental/beverage/building-supply/property (19), and landscaping/tree/pest/cleaning/security/fire-protection/property management (21).
+Coverage by sector: automotive dealerships/repair/collision/tire/rental (37), trucking/logistics/towing/moving/courier/school transport (29), construction & trades — GC/roofing/HVAC/plumbing/electrical/concrete/utility/restoration (25), government/institutional/utility/hospital/nonprofit fleets (16), distribution/rental/beverage/building-supply/property (19), and landscaping/tree/pest/cleaning/security/fire-protection/property management (21).
 
-Geographic distribution: 127 Chattanooga, 6 Ooltewah, 3 Soddy-Daisy, 2 Hixson, 1 East Ridge, 1 Collegedale. No verifiable currently-operating businesses in the target categories were confirmed as physically headquartered in Signal Mountain, Lookout Mountain TN, Walden, Sale Creek, or Harrison — these are largely residential communities with little standalone commercial density; a few businesses above (e.g., Tire World, Quality Tire Pros) serve those areas from nearby Chattanooga addresses but are not counted as located there.
+**Geographic distribution across Hamilton County: 127 Chattanooga, 6 Ooltewah, 5 Hixson, 4 Soddy-Daisy, 2 Harrison, 1 East Ridge, 1 Collegedale, 1 Red Bank.** Chattanooga's dominance reflects reality, not a research gap — it is the county seat and holds the large majority of Hamilton County's commercial density (roughly 70%+ of the county's population and most of its industrial/retail corridors). A follow-up pass specifically targeted Red Bank, Harrison, Hixson, Soddy-Daisy, Collegedale, East Ridge, Signal Mountain, and Sale Creek and added 7 verified prospects outside Chattanooga proper (a Red Bank towing company, two Harrison landscaping/excavation contractors, a Hixson wrecker service, a Hixson collision-repair branch, a Hixson HVAC/gas-appliance contractor, and a Soddy-Daisy HVAC company). No verifiable, currently-operating business in the target categories could be confirmed as physically headquartered in Signal Mountain, Lookout Mountain TN, Walden, or Sale Creek — these are small, largely residential communities; several businesses above serve them (e.g., multiple tree-service companies market "Signal Mountain service") but are legitimately based in Chattanooga or Hixson, not in those towns themselves, so they aren't counted there.
 
 ## 4. Research Notes & Limitations
 
