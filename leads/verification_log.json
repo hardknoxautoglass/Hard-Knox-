@@ -1322,5 +1322,98 @@
 "i": 205,
 "status": "recheck",
 "note": "Alsco official site lists only Knoxville, Nashville and Memphis for TN - no Chattanooga branch page surfaced. Verify branch exists"
+},
+"219": {
+"i": 219,
+"status": "keep",
+"email": "matthewn@northgatedoors.com",
+"address": "4305 Bonny Oaks Dr",
+"zip": "37416",
+"evidence": "Contact page on northgatedoors.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed. Since 1972"
+},
+"220": {
+"i": 220,
+"status": "keep",
+"address": "7335 Hixson Pike",
+"zip": "37343",
+"evidence": "Hixson location page on accessdoorcompany.com",
+"note": "OFFICIAL SITE: Hixson address+phone confirmed"
+},
+"221": {
+"i": 221,
+"status": "keep",
+"address": "3500 Alton Park Blvd",
+"zip": "37410",
+"evidence": "Overhead Door of Chattanooga official site",
+"note": "OFFICIAL SITE: address+phone confirmed; 24/7 service"
+},
+"222": {
+"i": 222,
+"status": "keep",
+"address": "806 N Holtzclaw Ave",
+"zip": "37404",
+"evidence": "Chattanooga branch page on afsrepair.com",
+"note": "OFFICIAL SITE: branch address+phone confirmed"
+},
+"225": {
+"i": 225,
+"status": "keep",
+"address": "8890 Hunt Rd",
+"zip": "37379",
+"email": "lewishomebuilders@gmail.com",
+"evidence": "lewisfoundationrepair.com homepage",
+"note": "OFFICIAL SITE: address, phone and email confirmed"
+},
+"226": {
+"i": 226,
+"status": "keep",
+"address": "5910 Shallowford Rd Ste A",
+"zip": "37421",
+"evidence": "Contact/location pages on chattanoogaflooringcenter.com",
+"note": "OFFICIAL SITE: address+phone confirmed"
+},
+"227": {
+"i": 227,
+"status": "keep",
+"email": "rhonda@ooltewahflooringgallery.com",
+"address": "6719 Mountain View Rd Ste 117",
+"zip": "37363",
+"evidence": "Contact page on ooltewahflooringgallery.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed"
+},
+"229": {
+"i": 229,
+"status": "keep",
+"address": "7610 Lee Hwy",
+"zip": "37421",
+"evidence": "rswchattanooga.com official site",
+"note": "OFFICIAL SITE: address+phone confirmed"
+},
+"232": {
+"i": 232,
+"status": "keep",
+"address": "2505 N Orchard Knob Ave",
+"zip": "37406",
+"evidence": "breedinginsulationtn.com official site",
+"note": "OFFICIAL SITE: address+phone confirmed; 30+ yrs commercial insulation"
+},
+"236": {
+"i": 236,
+"status": "keep",
+"address": "8121 Ooltewah Georgetown Rd #106",
+"zip": "37363",
+"evidence": "Ooltewah location page on americanairhvac.com",
+"note": "OFFICIAL SITE: address+phone confirmed"
+},
+"223": {
+"i": 223,
+"status": "recheck",
+"note": "americanfw.com Chattanooga page exists but official site lists 865-982-0250 (Knoxville HQ); sheet phone 423-424-0825 not confirmed on their site"
+},
+"230": {
+"i": 230,
+"status": "recheck",
+"note": "No pages surfaced from 31winsulation.com - confirm the domain and that a Chattanooga branch exists"
 }
 }
