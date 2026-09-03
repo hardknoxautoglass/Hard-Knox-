@@ -2915,5 +2915,26 @@
 "note": "New lead. Caregivers drive to clients all day across Hamilton County. Locally owned franchise - decisions are made at this office, not corporate.",
 "evidence": "Own site: Chattanooga office page and Contact page list this address and phone; Meet Our Team page names local staff; Hixson listed in service area.",
 "new_lead": true
+},
+"401": {
+"i": 401,
+"status": "keep",
+"note": "New lead. Field service trucks run to customer sites daily. Also a Bobcat dealer. No email published.",
+"evidence": "Own site: Location page lists this address and phone (alt 423-867-3333); 30+ years in business; rentals, field service, preventative maintenance and hydraulic hose fabrication pages all active.",
+"new_lead": true
+},
+"402": {
+"i": 402,
+"status": "keep",
+"note": "New lead. Branch of a multi-state dealer HQ'd in Dalton GA - the Chattanooga branch runs its own service fleet. No email published.",
+"evidence": "Own site: Chattanooga location page lists this address, phone and hours; CLARK, Linde, Komatsu and Princeton dealer with rentals and service.",
+"new_lead": true
+},
+"403": {
+"i": 403,
+"status": "keep",
+"note": "New lead. Inspection and service techs cover the whole Tennessee Valley - high-mileage van fleet. No email published; contact form only.",
+"evidence": "Own site: Contact page lists this address, phone and hours with 24/7 emergency service; sprinkler, extinguisher, fire pump and hydrant service pages active across the Tennessee Valley.",
+"new_lead": true
 }
 }
