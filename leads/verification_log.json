@@ -2845,5 +2845,54 @@
 "phone": "(423) 752-5940",
 "evidence": "Downtown Chattanooga donor centre page on bloodassurance.org",
 "note": "OFFICIAL SITE: address and phone confirmed (general line 1-800-962-0628). They run mobile donor coaches to blood drives, which is the fleet worth talking about. No email published; contact form only."
+},
+"391": {
+"i": 391,
+"status": "keep",
+"note": "New lead. Heavy site-work fleet - dump trucks, pavers, service trucks. No email published; contact form only.",
+"evidence": "Own site: Chattanooga location page and Contact page list the Hixson office at 6111 Dayton Blvd with this phone; commercial/industrial concrete, asphalt paving and site development.",
+"new_lead": true
+},
+"392": {
+"i": 392,
+"status": "keep",
+"note": "New lead. Runs junk/dumpster trucks. Email address is obfuscated on their site - phone is the way in. No street address published.",
+"evidence": "Own site: Hixson service-area page states the company is located in Hamilton County; commercial junk removal and dumpster rental pages active.",
+"new_lead": true
+},
+"393": {
+"i": 393,
+"status": "keep",
+"note": "New lead. Runs crane trucks, chip trucks and bucket trucks - windshields take a beating in tree work.",
+"evidence": "Own site: Contact page lists this address and phone; 30+ years in business, dedicated Hixson service page, 24/7 emergency crews.",
+"new_lead": true
+},
+"394": {
+"i": 394,
+"status": "keep",
+"note": "New lead. Crew size implies several trucks and chippers. No street address published.",
+"evidence": "Own site: Contact page lists phone and email; team page names 4 Board Certified Master Arborists and 6 ISA Certified Arborists; Hixson service-area page active.",
+"new_lead": true
+},
+"395": {
+"i": 395,
+"status": "keep",
+"note": "New lead. Service-van fleet covering Hamilton County and into GA. No street address published.",
+"evidence": "Own site: Contact page lists phone and email; dedicated service pages for Hixson and Middle Valley.",
+"new_lead": true
+},
+"396": {
+"i": 396,
+"status": "keep",
+"note": "New lead. Gutter crews run trucks with roof-rack brake presses. No street address or email published.",
+"evidence": "Own site: home and gutter-repair pages identify the company as serving Hixson and Chattanooga and list this phone.",
+"new_lead": true
+},
+"397": {
+"i": 397,
+"status": "keep",
+"note": "New lead. No email or street address published; contact form only.",
+"evidence": "Own site: Contact page lists this phone; family-owned since 2021, with service pages for Hixson, Ooltewah, East Ridge and Cleveland.",
+"new_lead": true
 }
 }
