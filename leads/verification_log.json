@@ -1815,5 +1815,66 @@
 "email": "info@lookoutmountaindental.com",
 "evidence": "Contact page on lookoutmountaindental.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed."
+},
+"225": {
+"i": 225,
+"name": "Chattanooga Foundation Repair",
+"status": "keep",
+"address": "1704 Bailey Ave",
+"zip": "37404",
+"phone": "(423) 225-9487",
+"evidence": "chattanoogafoundationpros.com",
+"note": "OFFICIAL SITE: address and phone 423-225-9487 confirmed. Caution - the site also carries unrelated SEO filler pages, so treat it as thin; worth a live call before working the lead."
+},
+"232": {
+"i": 232,
+"name": "USA Insulation",
+"status": "keep",
+"evidence": "Chattanooga branch pages on usainsulation.net",
+"note": "OFFICIAL SITE: Chattanooga branch confirmed, with its own Hixson and Rossville service pages. Franchise site publishes no local phone, address or email."
+},
+"267": {
+"i": 267,
+"name": "Physicians Care East Ridge",
+"status": "keep",
+"address": "403 McBrien Rd",
+"city": "Chattanooga",
+"zip": "37412",
+"evidence": "East Ridge location page on urgentteam.com",
+"note": "OFFICIAL SITE: address confirmed. CORRECTED city to Chattanooga 37412 (the clinic's own mailing city, though it sits in East Ridge). Phone not published; site directs to PhyCare.net."
+},
+"308": {
+"i": 308,
+"name": "Physicians Care Walk-in Clinic",
+"status": "keep",
+"address": "4490 Hixson Pike",
+"city": "Chattanooga",
+"zip": "37343",
+"evidence": "Hixson location page on urgentteam.com",
+"note": "OFFICIAL SITE: address confirmed. CORRECTED city to Chattanooga 37343. Phone not published on the location page."
+},
+"289": {
+"i": 289,
+"name": "Northwest Exterminating (Hixson)",
+"status": "recheck",
+"website": "Not publicly available",
+"evidence": "none",
+"note": "WEBSITE WRONG: northwestexterminating.com returns nothing for this branch; the company's real domain is callnorthwest.com. Removed. This row also likely duplicates the Northwest Exterminating row for Ooltewah - check before keeping both."
+},
+"338": {
+"i": 338,
+"name": "Daisy Church of God",
+"status": "keep",
+"evidence": "daisychurchofgod.net homepage",
+"note": "OFFICIAL SITE: live, affiliated with Church of God (Cleveland TN). No address, phone or email published - sheet details unconfirmed."
+},
+"339": {
+"i": 339,
+"name": "Soddy Church of Christ",
+"status": "keep",
+"address": "11665 Hixson Pike",
+"zip": "37379",
+"evidence": "soddychurchofchrist.org",
+"note": "OFFICIAL SITE: address and phone confirmed. Mailing address PO Box 187, Soddy-Daisy 37384. No email published."
 }
 }
