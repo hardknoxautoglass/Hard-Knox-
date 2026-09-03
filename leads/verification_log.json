@@ -2805,5 +2805,75 @@
 "note": "NEW LEAD. Business-run page confirms the practice has served Hixson and Chattanooga for 35+ years and recently added two dentists. No phone or address published on the page.",
 "evidence": "Business-maintained Facebook page",
 "new_lead": true
+},
+"401": {
+"i": 401,
+"status": "keep",
+"note": "NEW LEAD. Branch page: address and phone confirmed. A rental fleet turns over glass constantly - one of the strongest prospects in Hixson. The sheet already carries the Avis Hixson branch.",
+"evidence": "Branch's own Facebook page",
+"new_lead": true
+},
+"402": {
+"i": 402,
+"status": "keep",
+"note": "NEW LEAD. Store page: address, phone and website confirmed. Tires, alignments, brakes and wheels - a natural referral partner as well as a fleet-service account.",
+"evidence": "Store's own Facebook page",
+"new_lead": true
+},
+"403": {
+"i": 403,
+"status": "keep",
+"note": "NEW LEAD. Store page: address and phone confirmed.",
+"evidence": "Store's own Facebook page",
+"new_lead": true
+},
+"404": {
+"i": 404,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address and phone confirmed. Independent shop, so a likelier referral partner than the chains.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"405": {
+"i": 405,
+"status": "keep",
+"note": "NEW LEAD. Store page: address and phone confirmed. Does commercial fleet servicing.",
+"evidence": "Store's own Facebook page",
+"new_lead": true
+},
+"406": {
+"i": 406,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address, phone and website confirmed. Finances commercial vehicles and equipment, so they know local fleet owners - a referral channel more than a direct account.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"407": {
+"i": 407,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address and phone confirmed. Home health staff drive to clients all day, so a real vehicle fleet.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"408": {
+"i": 408,
+"status": "keep",
+"note": "NEW LEAD. Facility page: address and phone confirmed. Runs resident transport vehicles. Sister facility to Life Care Center of Collegedale, already on the list.",
+"evidence": "Facility's own Facebook page",
+"new_lead": true
+},
+"409": {
+"i": 409,
+"status": "keep",
+"note": "NEW LEAD. Store page: address and phone confirmed. Franchise store rather than UPS's own delivery fleet, so a small-vehicle account at best.",
+"evidence": "Store's own Facebook page",
+"new_lead": true
+},
+"410": {
+"i": 410,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms a locally owned tire and auto shop with Hixson and Fort Oglethorpe locations. No phone or address published on the page.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
 }
 }
