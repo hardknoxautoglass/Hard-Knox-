@@ -2379,5 +2379,48 @@
 "status": "recheck",
 "evidence": "none",
 "note": "NOT CONFIRMED: no official site or business-run page found for CR Paint Inc on Signal Mountain. Needs a live check of 423-779-7907."
+},
+"214": {
+"i": 214,
+"name": "A&D Masonry",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms A&D Masonry Contractors is active, based in East Ridge rather than Chattanooga proper. No phone or address published there."
+},
+"215": {
+"i": 215,
+"name": "Masonry Specialist Corporation",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms the firm is active, based in East Ridge (37412) rather than Chattanooga proper. Office 8-5, closed 12-1. No phone or address published there."
+},
+"216": {
+"i": 216,
+"name": "All About Concrete",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms All About Concrete & Masonry is active in the Ooltewah area. No phone or address published there."
+},
+"217": {
+"i": 217,
+"name": "J&J Premier Painting",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms J&J Premier Painting is active, based in Middle Valley, serving homes and businesses. No phone or address published there."
+},
+"323": {
+"i": 323,
+"name": "Manzano Masonry",
+"status": "keep",
+"website": "manzanomasonry.com",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page: phone 423-298-8859 confirmed and website manzanomasonry.com found - the sheet had none. Registered as Manzano Masonry Group LLC and based in Dayton TN (Rhea County), not Soddy-Daisy, though it works the Chattanooga area."
+},
+"229": {
+"i": 229,
+"name": "Tri State Flooring",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found for a Tri State Flooring on Signal Mountain; the Tri-State Flooring pages that exist are in Memphis, Alabama and South Dakota. Needs a live check of 423-593-0116."
 }
 }
