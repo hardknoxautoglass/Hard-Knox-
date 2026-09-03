@@ -2295,5 +2295,47 @@
 "status": "recheck",
 "evidence": "none",
 "note": "NOT CONFIRMED: no official site or business-run page found under this name in Hixson. Needs a live check of 423-843-3391."
+},
+"250": {
+"i": 250,
+"name": "Legacy Funeral Home",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms Legacy Funeral Home and Cremation Center is active in Soddy-Daisy. No phone or address published there, so the sheet details are unconfirmed."
+},
+"291": {
+"i": 291,
+"name": "Harvey's Plumbing",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms Harvey's Plumbing is active in Hixson. No phone or address published there, so the sheet details are unconfirmed."
+},
+"324": {
+"i": 324,
+"name": "Nooga Door Company",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms the firm is active - it trades as Nooga Doors. No phone or address published there, so the sheet details are unconfirmed."
+},
+"318": {
+"i": 318,
+"name": "Cordell's Electric",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms it is active and now also offering construction services - registered as Cordell Electric Company LLC, not Cordell's Electric. Electrician of 38 years doing residential and commercial. No phone or address published there."
+},
+"280": {
+"i": 280,
+"name": "Walden Ridge Service Station",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page for Walden Ridge Service Station exists. No phone or address published there, so the sheet details are unconfirmed."
+},
+"368": {
+"i": 368,
+"name": "Signal Mountain Cleaners",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms Signal Mountain Cleaners is active. No phone or address published there, so the sheet details are unconfirmed."
 }
 }
