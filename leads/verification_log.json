@@ -2693,5 +2693,47 @@
 "status": "recheck",
 "evidence": "none",
 "note": "NOT CONFIRMED: no Educare found on Signal Mountain - the pages under that name are in NH, NC, FL, MS and Memphis. May have closed or renamed. Needs a live check of 423-517-0065."
+},
+"385": {
+"i": 385,
+"status": "keep",
+"note": "NEW LEAD. OFFICIAL SITE: address and departmental numbers confirmed - sales 423-875-2023, service 423-875-2058, body shop 423-870-9573, parts 423-870-4053. Dealer inventory plus a body shop and a service fleet; the body shop line is the one to call.",
+"evidence": "Dealership pages on marshalmizeford.com",
+"new_lead": true
+},
+"386": {
+"i": 386,
+"status": "keep",
+"note": "NEW LEAD. OFFICIAL SITE: address, phone and email confirmed. Mailing PO Box 1598, Hixson 37343-5598. Runs a standing fleet of service and meter trucks across the Hixson service area.",
+"evidence": "Contact page on hixsonutility.com",
+"new_lead": true
+},
+"387": {
+"i": 387,
+"status": "keep",
+"note": "NEW LEAD. OFFICIAL SITE: family-owned waste and recycling hauler with 30+ years, serving Hixson, Soddy-Daisy, East Brainerd and Catoosa County GA. Roll-off and route trucks. No phone or address published on the site - contact via their page.",
+"evidence": "expresswastesolutions.com and the company's own Facebook page",
+"new_lead": true
+},
+"388": {
+"i": 388,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address, phone, email and website confirmed. Three locations serving Hixson, Soddy-Daisy and greater Chattanooga; also trades as Speedy's Oil & Auto.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"389": {
+"i": 389,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms a full-service plumbing and heating company in Hixson serving Chattanooga since 1979 - a long-established service-van fleet. No phone or address published on the page.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"390": {
+"i": 390,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: Hixson address confirmed at 6252 Dayton Blvd. Phone 423-842-8081 came from the same listing but was not restated on the page - worth confirming on the call.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
 }
 }
