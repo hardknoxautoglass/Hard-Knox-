@@ -1516,5 +1516,128 @@
 "email": "ampvetclinic@gmail.com",
 "evidence": "Contact page on ampvetclinic.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. AAHA-accredited."
+},
+"258": {
+"i": 258,
+"name": "Northwest Exterminating",
+"status": "keep",
+"evidence": "Ooltewah location page on callnorthwest.com",
+"note": "OFFICIAL SITE: Ooltewah branch and phone 423-822-5760 confirmed. Street address not published; regional operator since 1951."
+},
+"260": {
+"i": 260,
+"name": "Tedford Family Dentistry",
+"status": "keep",
+"address": "9380 Bradmore Ln Ste 108",
+"zip": "37363",
+"evidence": "Contact page on tedfordfamilydentistry.com",
+"note": "OFFICIAL SITE: address and phone confirmed. Email on site is obfuscated, none published in the clear."
+},
+"263": {
+"i": 263,
+"name": "Galloway's Lawn Service",
+"status": "keep",
+"address": "3521 Hixson Pike",
+"city": "Chattanooga",
+"zip": "37415",
+"email": "tech@gallowayslawnservice.com",
+"evidence": "Contact page on gallowayslawnservice.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed. CORRECTED city to Chattanooga 37415 (sheet said Red Bank). Has a commercial grounds division."
+},
+"274": {
+"i": 274,
+"name": "Harrison Bay Boat",
+"status": "keep",
+"address": "7055 Harvest Run Dr",
+"zip": "37341",
+"evidence": "Contact page on harrisonbaystorage.com",
+"note": "OFFICIAL SITE: address and phone confirmed."
+},
+"275": {
+"i": 275,
+"name": "Island Cove Marina",
+"status": "keep",
+"address": "6701 Highway 58",
+"zip": "37341",
+"evidence": "Contact page on islandcove.com",
+"note": "OFFICIAL SITE: address and phone confirmed. Trades as Island Cove Outdoor Center; boat sales 423-344-1276."
+},
+"282": {
+"i": 282,
+"name": "Tree Busters",
+"status": "recheck",
+"website": "Not publicly available",
+"evidence": "none",
+"note": "WEBSITE WRONG: treeserviceschattanooga.com belongs to Nabor's Tree Service, not Tree Busters. Removed the website; needs an independent check that Tree Busters still operates."
+},
+"285": {
+"i": 285,
+"name": "Maxi Auto Service",
+"status": "keep",
+"address": "5229 Hixson Pike",
+"zip": "37343",
+"evidence": "Contact page on maxicarcarehixson.com",
+"note": "OFFICIAL SITE: address and phone confirmed. Site advertises fleet repair for imports and domestics - strong fleet prospect."
+},
+"293": {
+"i": 293,
+"name": "Ray's Plumbing",
+"status": "keep",
+"email": "raysplumbingchattanooga@gmail.com",
+"evidence": "Contact page on rayplumbingchattanooga.com",
+"note": "OFFICIAL SITE: phone and email confirmed. No street address published; serves greater Chattanooga from Hixson."
+},
+"292": {
+"i": 292,
+"name": "Precise Plumbing",
+"status": "recheck",
+"website": "Not publicly available",
+"evidence": "none",
+"note": "WEBSITE WRONG: preciseplumbing.com is a Los Angeles company (323/818 numbers), not the Hixson business. Removed. Also likely duplicates the Precise Plumbing row for Soddy-Daisy - check before keeping both."
+},
+"284": {
+"i": 284,
+"name": "Gudel's Garage",
+"status": "keep",
+"evidence": "gudelsgarageandtowing.com homepage",
+"note": "OFFICIAL SITE: live and belongs to the business; garage built on Hixson Pike in 1981, 24/7 towing plus repair. No address, phone or email published on the site - sheet phone unconfirmed."
+},
+"287": {
+"i": 287,
+"name": "HEP Is On The Way",
+"status": "keep",
+"evidence": "Hixson service-area pages on hepisontheway.com",
+"note": "OFFICIAL SITE: Hixson service area confirmed (plumbing, electrical, HVAC, roofing, 24/7). Multi-market operator incl. Knoxville and Cleveland; no local address or phone published."
+},
+"288": {
+"i": 288,
+"name": "L&B Lawn",
+"status": "keep",
+"evidence": "lblawnlandscaping.com homepage",
+"note": "OFFICIAL SITE: live; licensed and insured, serves commercial and residential. No phone, address or email published on the site."
+},
+"294": {
+"i": 294,
+"name": "Hixson Pike Dental",
+"status": "keep",
+"evidence": "hixsonpikedental.com",
+"note": "OFFICIAL SITE: phone confirmed. Street address not published; also serves Harrison."
+},
+"300": {
+"i": 300,
+"name": "Protech Automotive",
+"status": "keep",
+"address": "6462 Hixson Pike Ste 100",
+"zip": "37343",
+"email": "protechauto@mechanicnet.com",
+"evidence": "protechauto.mechanicnet.com contact details",
+"note": "OFFICIAL SITE: address, phone and email confirmed."
+},
+"306": {
+"i": 306,
+"name": "Chattanooga Paint",
+"status": "keep",
+"evidence": "Location pages on chattanoogapaint.com",
+"note": "OFFICIAL SITE: Hixson and Ooltewah stores confirmed, plus Dalton GA since 2024. Benjamin Moore retailer since 1985, does wholesale. Address and phone not published in search results."
 }
 }
