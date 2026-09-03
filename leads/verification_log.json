@@ -1229,8 +1229,10 @@
 },
 "205": {
 "i": 205,
-"status": "recheck",
-"note": "Alsco official site lists only Knoxville, Nashville and Memphis for TN - no Chattanooga branch page surfaced. Verify branch exists"
+"name": "Alsco Uniforms",
+"status": "keep",
+"evidence": "Chattanooga uniform and linen rental pages on alsco.com",
+"note": "OFFICIAL SITE: resolves the earlier flag. alsco.com does carry Chattanooga uniform-rental and linen-rental service pages, but Chattanooga has no branch page of its own the way Knoxville, Nashville and Memphis do - so the route is served from another branch. Their delivery trucks still run Chattanooga daily. No local address or phone published."
 },
 "207": {
 "i": 207,
@@ -1242,8 +1244,10 @@
 },
 "208": {
 "i": 208,
-"status": "recheck",
-"note": "Octapharma official Chattanooga page exists (center 133, off Brainerd Rd) but street address and phone not surfaced - needs targeted search"
+"name": "Octapharma Plasma",
+"status": "keep",
+"evidence": "Chattanooga center page (centre 133) on octapharmaplasma.com",
+"note": "OFFICIAL SITE: the Chattanooga centre is confirmed and sited off Brainerd Rd, but the company publishes no street address or local phone. Donor support line is 704-654-4970. The sheet's 423 number remains unconfirmed."
 },
 "209": {
 "i": 209,
@@ -1320,8 +1324,10 @@
 },
 "223": {
 "i": 223,
-"status": "recheck",
-"note": "americanfw.com Chattanooga page exists but official site lists 865-982-0250 (Knoxville HQ); sheet phone 423-424-0825 not confirmed on their site"
+"name": "American Foundation Repair",
+"status": "keep",
+"evidence": "Chattanooga location page on americanfw.com",
+"note": "OFFICIAL SITE: resolves the earlier flag. americanfw.com carries a Chattanooga location page and says they have served Chattanooga since 2007, including commercial waterproofing. They publish only the Knoxville HQ number, so the sheet's 423-424-0825 is still unconfirmed - ask for the Chattanooga crew."
 },
 "226": {
 "i": 226,
@@ -1359,8 +1365,10 @@
 },
 "231": {
 "i": 231,
+"name": "31W Insulation",
 "status": "recheck",
-"note": "No pages surfaced from 31winsulation.com - confirm the domain and that a Chattanooga branch exists"
+"evidence": "none",
+"note": "NOT CONFIRMED after a second attempt on both 31winsulation.com and 31-w.com: neither returns a Chattanooga branch. The 877 number in the sheet is a national line, not a local one. Needs a live call before working."
 },
 "233": {
 "i": 233,
@@ -1528,9 +1536,8 @@
 "i": 282,
 "name": "Tree Busters",
 "status": "recheck",
-"website": "Not publicly available",
 "evidence": "none",
-"note": "WEBSITE WRONG: treeserviceschattanooga.com belongs to Nabor's Tree Service, not Tree Busters. Removed the website; needs an independent check that Tree Busters still operates."
+"note": "NOT CONFIRMED after a second attempt: no business-run page for Tree Busters in Sale Creek or Soddy-Daisy; the only Tree Busters page found is in Massachusetts. The website originally on this row belonged to Nabor's Tree Service. Needs a live call to 423-503-0949."
 },
 "285": {
 "i": 285,
@@ -2112,14 +2119,14 @@
 "name": "Broadway Electric Service",
 "status": "recheck",
 "evidence": "none",
-"note": "NOT CONFIRMED: broadwayelectric.com is an unrelated Illinois firm and besc.com returned nothing, so no official source found for a Signal Mountain branch. Needs a live check of 423-886-7556."
+"note": "NOT CONFIRMED after a second attempt on besc.com and broadwayelectricservice.com: neither returns anything. broadwayelectric.com is an unrelated Illinois firm. Needs a live call to 423-886-7556."
 },
 "286": {
 "i": 286,
 "name": "Tennessee Roofing",
 "status": "recheck",
 "evidence": "none",
-"note": "NOT CONFIRMED: tennesseeroofing.com is an East Tennessee firm on an 865 Knoxville number, not obviously the Hixson company on 423-842-8826. Do not assume the domain belongs to this lead."
+"note": "NOT CONFIRMED after a second attempt: no official site or business-run page for Tennessee Roofing & Construction in Hixson, and tennesseeroofing.com is an 865-number Knoxville firm. Needs a live call to 423-842-8826."
 },
 "283": {
 "i": 283,
@@ -2152,9 +2159,9 @@
 "302": {
 "i": 302,
 "name": "Motivated Movers",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: motivatedmovers.com is an Atlanta GA company on a 404 number, not the Hixson business. No official source found for the local operation."
+"status": "keep",
+"evidence": "Motivated Movers Chattanooga's own Facebook page",
+"note": "RESOLVED: there is a Motivated Movers Chattanooga page and its phone is 423-994-0529, matching the sheet exactly. The earlier flag came from motivatedmovers.com, which is a separate Atlanta company on the same name. Moving trucks, so a real fleet."
 },
 "298": {
 "i": 298,
@@ -2571,7 +2578,7 @@
 "name": "Petra Roofing",
 "status": "recheck",
 "evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found for Petra Roofing & Siding in the Soddy-Daisy or Chattanooga area. Needs a live check of 423-593-1816."
+"note": "NOT CONFIRMED after a second attempt: petraexteriors.com is a Nashville contractor (licence #80976) with no Chattanooga service area listed, so it is not this business. Needs a live call to 423-593-1816."
 },
 "272": {
 "i": 272,
