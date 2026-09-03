@@ -1001,9 +1001,15 @@
 },
 "154": {
 "i": 154,
+"name": "A-1 Security Locksmith",
 "status": "keep",
 "address": "3523 Hixson Pike",
-"note": "verified a1securitylocksmithtn.com live; 35+ yrs"
+"city": "Chattanooga",
+"zip": "37415",
+"phone": "(423) 870-9790",
+"email": "info@cprestoration.net",
+"evidence": "Contact page on a1securitylocksmithtn.com",
+"note": "OFFICIAL SITE: address and phone confirmed, open 8-8 seven days, and they do auto lock work plus a 24/7 mobile van. CAUTION - the email they publish is info@cprestoration.net, a different company's domain, so it may be a shared template or a common owner. Verify it on the call before using it."
 },
 "155": {
 "i": 155,
@@ -1139,9 +1145,13 @@
 },
 "178": {
 "i": 178,
+"name": "Holston Gases",
 "status": "keep",
 "address": "1105 Stuart St",
-"note": "verified holstongases.com Chattanooga page live"
+"zip": "37406",
+"phone": "(423) 698-5312",
+"evidence": "Chattanooga branch page on holstongases.com",
+"note": "OFFICIAL SITE: Chattanooga branch address and phone confirmed, 7:30-17:00 Mon-Fri. Cylinder, bulk, propane and medical gas delivery, so a bobtail and cylinder-truck fleet. No branch email published."
 },
 "177": {
 "i": 177,
@@ -1217,10 +1227,10 @@
 },
 "195": {
 "i": 195,
+"name": "Express Courier International",
 "status": "keep",
-"website": "expresscourier.net",
-"address": "2131 Polymer Dr",
-"note": "CORRECTED website: expressdelivers.net wrong, actual is expresscourier.net"
+"evidence": "expresscourier.net",
+"note": "OFFICIAL SITE: confirmed as a same-day courier and logistics operator across ten states including Tennessee, running owner-operator drivers. No Chattanooga terminal phone, address or email published on the site."
 },
 "198": {
 "i": 198,
@@ -2808,5 +2818,32 @@
 "status": "keep",
 "evidence": "School's own Facebook page",
 "note": "NEW LEAD. School page confirms a Christian hybrid tutorial in Hixson; a second search found no official site publishing a number. Small, so likely a van rather than a fleet."
+},
+"187": {
+"i": 187,
+"name": "Erwin Marine Sales",
+"status": "keep",
+"evidence": "Contact and Chattanooga location pages on erwinmarinesales.com",
+"note": "OFFICIAL SITE: two Chattanooga sites confirmed - sales at 201 Riverfront Pkwy 37402 and the service yard at 3001 Kings Point Rd 37416, which is the address on this row. Boat sales, service, rentals and marinas across TN and AL. No phone or email published; they use a form."
+},
+"191": {
+"i": 191,
+"name": "Crockett Powersports",
+"status": "keep",
+"address": "4113 S Access Rd",
+"zip": "37406",
+"phone": "(423) 760-3670",
+"evidence": "crockettpowersports.com",
+"note": "OFFICIAL SITE: address and phone confirmed. Indian Motorcycle and CFMOTO dealer. Closed Sun-Mon. No email published."
+},
+"206": {
+"i": 206,
+"name": "Blood Assurance",
+"status": "keep",
+"address": "705 E 4th St",
+"zip": "37403",
+"phone": "(423) 752-5940",
+"evidence": "Downtown Chattanooga donor centre page on bloodassurance.org",
+"note": "OFFICIAL SITE: address and phone confirmed (general line 1-800-962-0628). They run mobile donor coaches to blood drives, which is the fleet worth talking about. No email published; contact form only."
 }
 }
