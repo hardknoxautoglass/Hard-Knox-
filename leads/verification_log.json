@@ -2114,5 +2114,40 @@
 "status": "recheck",
 "evidence": "none",
 "note": "NOT CONFIRMED: tennesseeroofing.com is an East Tennessee firm on an 865 Knoxville number, not obviously the Hixson company on 423-842-8826. Do not assume the domain belongs to this lead."
+},
+"283": {
+"i": 283,
+"name": "Conley Towing",
+"status": "keep",
+"address": "6714 Middle Valley Rd",
+"zip": "37343",
+"phone": "(423) 842-7243",
+"email": "conleywrecker14@yahoo.com",
+"website": "conleywrecker.com",
+"evidence": "Business-maintained Facebook page for Conley Wrecker Service",
+"note": "CORRECTED: trades as Conley Wrecker Service, not Conley Towing. Phone is 423-842-7243 (sheet had 423-842-3535). Found address, email and website conleywrecker.com. Owner David Ratledge, open 24h - runs a wrecker fleet."
+},
+"243": {
+"i": 243,
+"name": "Boundless Moving",
+"status": "keep",
+"phone": "(423) 763-1000",
+"website": "boundlessmoving.com",
+"evidence": "boundlessmoving.com Hixson and Chattanooga pages",
+"note": "OFFICIAL SITE: found their website - the sheet had none. CORRECTED phone to 423-763-1000 for moving (423-402-3888 for storage); the sheet's 423-402-8333 is not on their site. Serves Chattanooga and Cleveland; no street address published."
+},
+"264": {
+"i": 264,
+"name": "Broome's Wrecker Service",
+"status": "keep",
+"evidence": "Business-maintained Facebook page, East Ridge TN",
+"note": "Business-run Facebook page confirms Broome's Wrecker Service is active in East Ridge. No phone or address published there, so the sheet phone is unconfirmed."
+},
+"302": {
+"i": 302,
+"name": "Motivated Movers",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: motivatedmovers.com is an Atlanta GA company on a 404 number, not the Hixson business. No official source found for the local operation."
 }
 }
