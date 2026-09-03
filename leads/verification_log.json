@@ -1991,5 +1991,82 @@
 "zip": "37343",
 "evidence": "Hixson location page on italianrestauranthixson.com",
 "note": "OFFICIAL SITE: address and phone confirmed. CORRECTED city to Chattanooga per their own listing. Family-owned chain with GA locations; does catering."
+},
+"309": {
+"i": 309,
+"name": "Hixson Elementary",
+"status": "keep",
+"address": "5950 Winding Ln",
+"zip": "37343",
+"evidence": "hes.hcde.org, Hamilton County Schools",
+"note": "OFFICIAL SITE: address and phone confirmed (fax 423-870-0628, principal Ursula Greene). District uses web forms rather than published email."
+},
+"310": {
+"i": 310,
+"name": "Hawaiian Bros",
+"status": "keep",
+"address": "5118 Hixson Pike",
+"zip": "37343",
+"evidence": "Hixson location page on hawaiianbros.com",
+"note": "OFFICIAL SITE: address and phone confirmed. Dine-in, drive-thru and delivery."
+},
+"331": {
+"i": 331,
+"name": "Tractor Supply",
+"status": "keep",
+"address": "222 Sequoyah Rd Ste J",
+"zip": "37379",
+"evidence": "Store 176 page on tractorsupply.com",
+"note": "OFFICIAL SITE: address and phone confirmed. Store also does trailer rental and propane."
+},
+"337": {
+"i": 337,
+"name": "First Presbyterian Church",
+"status": "keep",
+"address": "10612 Dayton Pike",
+"zip": "37379",
+"evidence": "PC(USA) denominational congregation directory",
+"note": "Verified against the denomination's own congregation record: address and phone confirmed. Email listed only in obfuscated form. Congregation has no site of its own."
+},
+"363": {
+"i": 363,
+"name": "Mountain City Service",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run Facebook page confirms Mountain City Service Inc is active in Signal Mountain doing HVAC and plumbing. No phone or address published there, so the sheet phone is unconfirmed."
+},
+"311": {
+"i": 311,
+"name": "Chicken Salad Chick",
+"status": "keep",
+"address": "5100 Hixson Pike",
+"zip": "37343",
+"evidence": "Hixson location page on chickensaladchick.com",
+"note": "OFFICIAL SITE: address and phone confirmed. Closed Sundays."
+},
+"345": {
+"i": 345,
+"name": "Sto A Way Storage",
+"status": "keep",
+"address": "136 Bean St Unit A",
+"zip": "37379",
+"evidence": "U-Haul dealer location page for Sto A Way Storage",
+"note": "Verified on U-Haul's own dealer record: address and phone confirmed. Rents trucks, trailers and towing equipment as a U-Haul neighbourhood dealer."
+},
+"333": {
+"i": 333,
+"name": "Shuford's Smokehouse",
+"status": "keep",
+"website": "shufordsbbq.com",
+"evidence": "Soddy-Daisy menu page on shufordsbbq.com",
+"note": "OFFICIAL SITE: corrected website to shufordsbbq.com (the sheet pointed at a third-party menu aggregator). Their site confirms the Soddy-Daisy location but publishes no address or phone, so those remain unconfirmed."
+},
+"236": {
+"i": 236,
+"name": "North River Electric",
+"status": "recheck",
+"website": "northriverelectric.com",
+"evidence": "northriverelectric.com homepage",
+"note": "A northriverelectric.com site exists but publishes no contact details and does not state a Hixson location, so it is not confirmed as this company. Needs a live check."
 }
 }
