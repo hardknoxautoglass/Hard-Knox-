@@ -29,28 +29,6 @@
 "zip": "37408",
 "note": "verified mtnviewford.com live"
 },
-"14": {
-"i": 14,
-"status": "keep",
-"note": "verified myautobrokers.com live, phone confirmed"
-},
-"15": {
-"i": 15,
-"status": "keep",
-"website": "chattownautobrokers.com",
-"note": "found website; 5206 Austin Rd Hixson confirmed"
-},
-"16": {
-"i": 16,
-"status": "keep",
-"website": "south-services.edan.io",
-"note": "verified; 9548 Dayton Pike; alt phone 423-332-7295"
-},
-"17": {
-"i": 17,
-"status": "keep",
-"note": "verified thompsontruckgroup.com live; 2600 8th Ave"
-},
 "5": {
 "i": 5,
 "status": "keep",
@@ -76,11 +54,24 @@
 "address": "6035 International Dr",
 "note": "verified long-hyundai.com live"
 },
+"9": {
+"i": 9,
+"status": "keep",
+"address": "6039 International Dr",
+"note": "verified mercedesbenzatlong.com live"
+},
 "10": {
 "i": 10,
 "status": "keep",
 "address": "2131 Chapman Rd",
 "note": "verified acuraofchattanooga.com live"
+},
+"11": {
+"i": 11,
+"status": "keep",
+"phone": "(423) 414-3523",
+"address": "2211 Overnite Dr",
+"note": "verified carmax.com/stores/7186 live; phone corrected"
 },
 "12": {
 "i": 12,
@@ -94,16 +85,44 @@
 "address": "3951 Ringgold Rd",
 "note": "verified 423auto.com live"
 },
+"14": {
+"i": 14,
+"status": "keep",
+"note": "verified myautobrokers.com live, phone confirmed"
+},
+"15": {
+"i": 15,
+"status": "keep",
+"website": "chattownautobrokers.com",
+"note": "found website; 5206 Austin Rd Hixson confirmed"
+},
+"16": {
+"i": 16,
+"status": "keep",
+"website": "south-services.edan.io",
+"note": "verified; 9548 Dayton Pike; alt phone 423-332-7295"
+},
+"17": {
+"i": 17,
+"status": "keep",
+"note": "verified thompsontruckgroup.com live; 2600 8th Ave"
+},
+"18": {
+"i": 18,
+"status": "keep",
+"address": "6009 International Dr",
+"note": "verified classiccollision.com location page live"
+},
+"19": {
+"i": 19,
+"status": "keep",
+"address": "1410 Gunbarrel Rd",
+"note": "verified classiccollision.com location live"
+},
 "20": {
 "i": 20,
 "status": "keep",
 "note": "NOTE: Advanced Collision now operates under Classic Collision at same address/phone (4134 Jersey Pike, 423-485-3588) after acquisition"
-},
-"9": {
-"i": 9,
-"status": "keep",
-"address": "6039 International Dr",
-"note": "verified mercedesbenzatlong.com live"
 },
 "21": {
 "i": 21,
@@ -137,6 +156,12 @@
 "address": "245 Signal Mountain Rd",
 "note": "verified tireworldchattanooga.com live"
 },
+"26": {
+"i": 26,
+"status": "keep",
+"address": "1271 Market St",
+"note": "verified firestonecompleteautocare.com store page live"
+},
 "27": {
 "i": 27,
 "status": "keep",
@@ -157,6 +182,38 @@
 "website": "chattanoogamobiledetailing.com",
 "note": "found website"
 },
+"30": {
+"i": 30,
+"status": "keep",
+"address": "5912 Lee Hwy",
+"note": "verified enterprise.com branch 5630 live"
+},
+"31": {
+"i": 31,
+"status": "keep",
+"address": "1966 Northpoint Blvd Ste 114",
+"note": "verified avis.com Hixson location live"
+},
+"32": {
+"i": 32,
+"status": "keep",
+"address": "4139 S Creek Rd",
+"note": "verified pensketruckrental.com location 007410 live"
+},
+"33": {
+"i": 33,
+"status": "keep",
+"address": "2120 Stein Dr",
+"note": "verified dealersauto.com/chattanooga live; alt site chattaa.com"
+},
+"34": {
+"i": 34,
+"status": "keep",
+"address": "2801 Asbury Park St",
+"contact": "Tiffany Field",
+"contact_title": "Branch Manager",
+"note": "verified iaai.com/Locations/752 live"
+},
 "35": {
 "i": 35,
 "status": "keep",
@@ -167,6 +224,32 @@
 "i": 36,
 "status": "keep",
 "note": "verified sniderfleet.com live; national fleet tire chain w/ Chattanooga location"
+},
+"37": {
+"i": 37,
+"status": "keep",
+"address": "4080 Jenkins Rd",
+"note": "verified usxpress.com live"
+},
+"38": {
+"i": 38,
+"status": "keep",
+"email": "communications@covenanttransport.com",
+"address": "400 Birmingham Hwy",
+"note": "verified covenantlogistics.com live"
+},
+"39": {
+"i": 39,
+"status": "keep",
+"address": "2140 Chapman Rd",
+"note": "verified averitt.com Chattanooga terminal page live"
+},
+"40": {
+"i": 40,
+"status": "keep",
+"email": "mktg@kencogroup.com",
+"address": "2001 Riverside Dr",
+"note": "verified kencogroup.com live"
 },
 "41": {
 "i": 41,
@@ -180,6 +263,13 @@
 "email": "cha@kchtrans.com",
 "address": "1208 King St",
 "note": "verified kchtrans.com live; branch email better than generic info@"
+},
+"43": {
+"i": 43,
+"status": "keep",
+"email": "clientsuccessteam@steamlogistics.com",
+"address": "328 Broad St",
+"note": "verified steamlogistics.com live"
 },
 "44": {
 "i": 44,
@@ -259,6 +349,12 @@
 "address": "1900 Daisy St",
 "note": "verified alloutmoves.com live"
 },
+"56": {
+"i": 56,
+"status": "keep",
+"address": "115 Nowlin Ln Ste 5000",
+"note": "verified allmysons.com Chattanooga page live"
+},
 "57": {
 "i": 57,
 "status": "keep",
@@ -277,24 +373,17 @@
 "address": "2222 Polymer Dr",
 "note": "verified gocrosstown.com live"
 },
-"33": {
-"i": 33,
-"status": "keep",
-"address": "2120 Stein Dr",
-"note": "verified dealersauto.com/chattanooga live; alt site chattaa.com"
-},
-"43": {
-"i": 43,
-"status": "keep",
-"email": "clientsuccessteam@steamlogistics.com",
-"address": "328 Broad St",
-"note": "verified steamlogistics.com live"
-},
 "60": {
 "i": 60,
 "status": "keep",
 "address": "1636 Fernwood Cir",
 "note": "verified active 38 yrs; no real website (directory listing only)"
+},
+"61": {
+"i": 61,
+"status": "keep",
+"address": "2501 Dodds Ave",
+"note": "verified First Student operates HCDE buses #200+; depot address confirmed"
 },
 "62": {
 "i": 62,
@@ -354,6 +443,12 @@
 "address": "460 Dodson Ave",
 "note": "verified tstateroofing.com live"
 },
+"71": {
+"i": 71,
+"status": "keep",
+"address": "6011 Century Oaks Dr",
+"note": "verified hoffman-hoffman.com live"
+},
 "72": {
 "i": 72,
 "status": "keep",
@@ -367,12 +462,6 @@
 "address": "3306 Dodds Ave",
 "note": "found website"
 },
-"71": {
-"i": 71,
-"status": "keep",
-"address": "6011 Century Oaks Dr",
-"note": "verified hoffman-hoffman.com live"
-},
 "74": {
 "i": 74,
 "status": "keep",
@@ -384,6 +473,12 @@
 "status": "keep",
 "address": "1105 Mackey Ave",
 "note": "verified tedfugunt.com live"
+},
+"76": {
+"i": 76,
+"status": "keep",
+"address": "1016 Dallas Rd Ste 201",
+"note": "verified cbplumber.com live; since 1928"
 },
 "77": {
 "i": 77,
@@ -428,12 +523,11 @@
 "address": "6735 Ringgold Rd",
 "note": "verified brownbros.co live; founded 1996"
 },
-"86": {
-"i": 86,
+"84": {
+"i": 84,
 "status": "keep",
-"email": "claims@arcusrestoration.com",
-"address": "4626 Resource Dr Ste 107",
-"note": "verified arcusrestoration.com live"
+"address": "1916 Circle Dr",
+"note": "verified greater-chattanooga.pauldavis.com live"
 },
 "85": {
 "i": 85,
@@ -441,11 +535,12 @@
 "address": "8111 E Brainerd Rd",
 "note": "verified chattanoogawaterdamagepros.com live"
 },
-"84": {
-"i": 84,
+"86": {
+"i": 86,
 "status": "keep",
-"address": "1916 Circle Dr",
-"note": "verified greater-chattanooga.pauldavis.com live"
+"email": "claims@arcusrestoration.com",
+"address": "4626 Resource Dr Ste 107",
+"note": "verified arcusrestoration.com live"
 },
 "87": {
 "i": 87,
@@ -467,6 +562,12 @@
 "zip": "37404",
 "note": "verified hamiltontn.gov procurement page live"
 },
+"90": {
+"i": 90,
+"status": "keep",
+"address": "4005 Cromwell Rd",
+"note": "verified hamiltontn.gov Highway Dept page live"
+},
 "91": {
 "i": 91,
 "status": "keep",
@@ -478,602 +579,6 @@
 "status": "keep",
 "address": "1617 Wilcox Blvd",
 "note": "verified gocarta.org live; admin line confirmed"
-},
-"104": {
-"i": 104,
-"status": "keep",
-"address": "4075 S Access Rd",
-"note": "verified branch #260; phone+address confirmed"
-},
-"105": {
-"i": 105,
-"status": "keep",
-"address": "1913 E 24th St Pl",
-"note": "verified hercrentals.com Chattanooga branch"
-},
-"108": {
-"i": 108,
-"status": "keep",
-"address": "4295 Bonny Oaks Dr",
-"note": "verified powerequipco.com live"
-},
-"109": {
-"i": 109,
-"status": "keep",
-"address": "6509 Lee Hwy",
-"note": "verified actionrentals.com live; since 1988"
-},
-"101": {
-"i": 101,
-"status": "keep",
-"address": "6104 Preservation Dr",
-"note": "verified goodwillchatt.org live"
-},
-"103": {
-"i": 103,
-"status": "keep",
-"email": "gifts@chattfoodbank.org",
-"address": "2009 Curtain Pole Rd",
-"note": "verified chattfoodbank.org live"
-},
-"110": {
-"i": 110,
-"status": "keep",
-"email": "wedeliver@thsfs.com",
-"address": "801 E 12th St",
-"note": "verified thsfs.com live; 50+ yrs"
-},
-"111": {
-"i": 111,
-"status": "keep",
-"website": "chattanoogacocacola.com",
-"address": "2111 W Shepherd Rd",
-"note": "found website; Coca-Cola UNITED bottler"
-},
-"113": {
-"i": 113,
-"status": "keep",
-"address": "537 Market St Ste 100",
-"note": "verified active 95 yrs, BBB A+; no website"
-},
-"114": {
-"i": 114,
-"status": "keep",
-"email": "TCummings@tennesseecrown.com",
-"address": "3875 N Hawthorne St",
-"note": "verified tennesseecrown.com live; GM Thomas Cummings"
-},
-"115": {
-"i": 115,
-"status": "keep",
-"email": "TBcustomerservice@tristarbev.com",
-"address": "200 Shearer St",
-"note": "verified handfamilycompanies.com live"
-},
-"116": {
-"i": 116,
-"status": "keep",
-"email": "carmen@fulex.com",
-"address": "2700 Riverside Dr",
-"note": "verified fulex.com live"
-},
-"120": {
-"i": 120,
-"status": "keep",
-"email": "info.chattanooga@emjcorp.com",
-"address": "6148 Lee Hwy Ste 300",
-"note": "verified emjcorp.com live"
-},
-"121": {
-"i": 121,
-"status": "keep",
-"address": "801 N Holtzclaw Ave",
-"note": "verified chahousing.org live"
-},
-"122": {
-"i": 122,
-"status": "keep",
-"email": "paden.treepeople@gmail.com",
-"address": "7611 Hixson Pike",
-"note": "verified padentreepeople.com live"
-},
-"123": {
-"i": 123,
-"status": "keep",
-"email": "commongroundtree@gmail.com",
-"address": "2629 Simpson Ave",
-"note": "verified site live; NOTE alt phone 423-621-4045 also listed"
-},
-"124": {
-"i": 124,
-"status": "keep",
-"email": "info@lumberjackstn.com",
-"address": "4165 Bonny Oaks Dr",
-"note": "verified lumberjackstn.com live; since 2012"
-},
-"112": {
-"i": 112,
-"status": "delete",
-"note": "DELETED: Carter Distributing Co. was acquired by Cherokee Distributing (Knoxville) in Oct 2017 and no longer operates as an independent company. Directory listings are stale. Replaced by Cherokee Distributing Chattanooga."
-},
-"125": {
-"i": 125,
-"status": "keep",
-"website": "raylawns.com",
-"email": "briaray@gmail.com",
-"address": "9375 Standifer Gap Rd",
-"note": "found website+email; since 2002"
-},
-"126": {
-"i": 126,
-"status": "keep",
-"website": "ooltewahnursery.com",
-"email": "sales@ooltewahnursery.com",
-"address": "5829 Main St",
-"note": "found website+email; since 1989"
-},
-"130": {
-"i": 130,
-"status": "keep",
-"address": "6104 Ooltewah Georgetown Rd Ste B",
-"note": "verified perfectblendpestsolutions.com live"
-},
-"131": {
-"i": 131,
-"status": "keep",
-"address": "1800 E 29th St",
-"note": "verified chattanoogatermites.com live"
-},
-"133": {
-"i": 133,
-"status": "keep",
-"email": "craig@impactfacilitysolutions.com",
-"phone": "(423) 415-1045",
-"address": "832 Georgia Ave Ste 345",
-"note": "CORRECTED phone: site/chamber list 423-415-1045 (sheet had 423-645-0830)"
-},
-"135": {
-"i": 135,
-"status": "keep",
-"address": "1818 Broad St",
-"note": "verified chattanoogafire.com live; since 1945"
-},
-"136": {
-"i": 136,
-"status": "keep",
-"email": "rodney@pcmfire.com",
-"address": "3755 Pilot Point",
-"note": "verified pcmfire.com live"
-},
-"143": {
-"i": 143,
-"status": "keep",
-"address": "5605 Hixson Pike",
-"note": "verified rdwrecker.com live; 30+ yrs"
-},
-"145": {
-"i": 145,
-"status": "keep",
-"website": "gasappliancesunlimited.com",
-"address": "5604 Hwy 153",
-"contact": "Earl & Jan Penney",
-"note": "found website; owners named"
-},
-"146": {
-"i": 146,
-"status": "keep",
-"address": "12853 Old Dayton Pike",
-"note": "verified callbellheatingandair.com live"
-},
-"140": {
-"i": 140,
-"status": "keep",
-"address": "3003 Dayton Blvd",
-"note": "verified active 30+ yrs, USDOT 1023098; no website"
-},
-"141": {
-"i": 141,
-"status": "keep",
-"website": "rclchatt.com",
-"email": "Michael@rclchatt.com",
-"note": "found website+email; est 2021"
-},
-"142": {
-"i": 142,
-"status": "keep",
-"website": "jplandscapingandexcavation.com",
-"address": "8236 Harrison Bay Rd",
-"note": "found website"
-},
-"147": {
-"i": 147,
-"status": "keep",
-"email": "wannfuneralhome@gmail.com",
-"address": "3918 Tennessee Ave Ste 104",
-"note": "verified wannfuneralhome.com live; moved from old St Elmo bldg"
-},
-"149": {
-"i": 149,
-"status": "keep",
-"address": "5401 Hwy 153",
-"note": "verified dignitymemorial.com North Chapel page live"
-},
-"152": {
-"i": 152,
-"status": "keep",
-"website": "chattanoogapoolservices.com",
-"address": "7249 Aventine Way",
-"note": "found website"
-},
-"153": {
-"i": 153,
-"status": "keep",
-"address": "6102 Shallowford Rd Ste 105",
-"note": "verified pinnaclepoolsandspas.com live"
-},
-"155": {
-"i": 155,
-"status": "keep",
-"address": "3523 Hixson Pike",
-"note": "verified a1securitylocksmithtn.com live; 35+ yrs"
-},
-"156": {
-"i": 156,
-"status": "keep",
-"address": "5966 Dayton Blvd",
-"note": "verified active since 2000; largest independent appliance service in area; no website"
-},
-"157": {
-"i": 157,
-"status": "keep",
-"address": "2108 McBrien Rd",
-"note": "verified active; blogspot page only, no real website"
-},
-"158": {
-"i": 158,
-"status": "keep",
-"address": "1002 Hixson Pike",
-"note": "verified active via Yelp/YP; no website"
-},
-"159": {
-"i": 159,
-"status": "keep",
-"email": "Chattanooga@BrownBagNow.com",
-"address": "1924 Gunbarrel Rd",
-"note": "verified brownbagnow.com live; catering line 423-413-3383"
-},
-"134": {
-"i": 134,
-"status": "keep",
-"email": "info@waldensecurity.com",
-"address": "100 E 10th St",
-"note": "verified waldensecurity.com live; HQ line 423-702-8200"
-},
-"160": {
-"i": 160,
-"status": "keep",
-"email": "mwells@ewtcaters.com",
-"address": "507A W 26th St",
-"note": "verified ewtcaters.com live; 15+ yrs"
-},
-"161": {
-"i": 161,
-"status": "keep",
-"address": "5814 Ringgold Rd Ste C",
-"note": "verified signsinchattanooga.com live; 20+ yrs"
-},
-"162": {
-"i": 162,
-"status": "keep",
-"email": "sales@ortweinsign.com",
-"address": "2806 E 50th St",
-"note": "verified ortweinsign.com live"
-},
-"163": {
-"i": 163,
-"status": "keep",
-"website": "printingplussigns.com",
-"email": "orders@printingplussigns.com",
-"address": "1922 Dayton Blvd",
-"note": "found website+email"
-},
-"164": {
-"i": 164,
-"status": "keep",
-"email": "rick@getpowerwashed.com",
-"address": "3311 4th Ave",
-"note": "verified getpowerwashed.com live; main line 423-219-5319"
-},
-"165": {
-"i": 165,
-"status": "keep",
-"email": "trueshinechatt@gmail.com",
-"address": "5600 St Elmo Ave",
-"note": "verified trueshinewindowwashers.com live; since 1999"
-},
-"171": {
-"i": 171,
-"status": "keep",
-"address": "2189 Broad St",
-"note": "verified active via BBB/ScrapMonster; no website"
-},
-"172": {
-"i": 172,
-"status": "keep",
-"address": "835 Georgia Ave Ste 500",
-"note": "verified geosyntec.com Chattanooga office page live"
-},
-"177": {
-"i": 177,
-"status": "keep",
-"address": "1820 Hamill Rd",
-"contact": "David Mathews",
-"note": "verified active; website dmsmapping.com NOT confirmed in search - listings show no site"
-},
-"182": {
-"i": 182,
-"status": "keep",
-"email": "bentonoilservice@gmail.com",
-"address": "4831 Bonny Oaks Dr",
-"note": "verified active since 1953; found email"
-},
-"178": {
-"i": 178,
-"status": "delete",
-"note": "DELETED: 8949 Dayton Pike / 423-877-6303 is Gas Appliances Unlimited's Soddy-Daisy store, not ThompsonGas. No ThompsonGas branch verified in Soddy-Daisy. Duplicate of row for Gas Appliances Unlimited."
-},
-"179": {
-"i": 179,
-"status": "keep",
-"city": "Ooltewah",
-"address": "9536 Lee Hwy",
-"zip": "37363",
-"contact": "Anthony (Tony) Smith",
-"note": "CORRECTED city: Ooltewah not Collegedale. Phone confirmed; family owned since 1998"
-},
-"184": {
-"i": 184,
-"status": "keep",
-"address": "6228 Bonny Oaks Dr",
-"note": "CAUTION: YellowPages lists as CLOSED but Yelp listing updated 2025 with recent reviews. Confirm by phone before outreach"
-},
-"212": {
-"i": 212,
-"status": "keep",
-"address": "14 Pryor Dr Ste 405",
-"note": "verified rgfence.com live; Chattanooga branch opened Jan 2026"
-},
-"213": {
-"i": 213,
-"status": "keep",
-"website": "gp-masonry.com",
-"address": "2901 S Orchard Knob Ave",
-"phone": "(423) 624-9953",
-"note": "found website; phone confirmed via AGC + Buzzfile"
-},
-"214": {
-"i": 214,
-"status": "keep",
-"address": "4143 Ringgold Rd Ste J",
-"note": "verified allfences.net live; since 2004"
-},
-"201": {
-"i": 201,
-"status": "keep",
-"email": "office@chattvet.com",
-"address": "6146 Lee Hwy",
-"note": "verified chattvet.com live"
-},
-"198": {
-"i": 198,
-"status": "keep",
-"email": "hello@wilderanimalcare.com",
-"address": "903 Ladder Trail",
-"note": "verified wilderanimalcare.com live; runs Scout mobile clinic"
-},
-"199": {
-"i": 199,
-"status": "keep",
-"address": "2000 S Willow St",
-"note": "verified go-preis.com live; est 1982"
-},
-"204": {
-"i": 204,
-"status": "keep",
-"evidence": "Cintas official Chattanooga uniform services page",
-"note": "OFFICIAL SITE cintas.com: phone confirmed. No street address published for this branch; facility-services line is 423-401-8800"
-},
-"208": {
-"i": 208,
-"status": "recheck",
-"note": "Octapharma official Chattanooga page exists (center 133, off Brainerd Rd) but street address and phone not surfaced - needs targeted search"
-},
-"180": {
-"i": 180,
-"status": "keep",
-"address": "1105 Stuart St",
-"note": "verified holstongases.com Chattanooga page live"
-},
-"181": {
-"i": 181,
-"status": "keep",
-"phone": "(800) 678-1576",
-"address": "4191 S Creek Rd",
-"evidence": "Locations page on stockdsupply.com",
-"note": "OFFICIAL SITE: CORRECTED phone - site says 800-678-1576, sheet had 800-698-1576. HQ since 1979 (formerly Bolts & Nuts Corp)"
-},
-"185": {
-"i": 185,
-"status": "keep",
-"address": "6728 Ringgold Rd",
-"note": "verified rv.campingworld.com Chattanooga dealer page live"
-},
-"186": {
-"i": 186,
-"status": "keep",
-"website": "chattanoogacampersales.com",
-"email": "chattanoogacampers@gmail.com",
-"address": "5911 Ringgold Rd",
-"note": "found website+email"
-},
-"188": {
-"i": 188,
-"status": "keep",
-"address": "4280 Bonny Oaks Dr",
-"note": "verified skiersmarine.com Chattanooga location live"
-},
-"189": {
-"i": 189,
-"status": "keep",
-"email": "info@marinemax.com",
-"address": "201 Riverfront Pkwy",
-"note": "verified marinemax.com live"
-},
-"192": {
-"i": 192,
-"status": "keep",
-"email": "rctLeads@rambomarine.com",
-"address": "4301 TN-58",
-"note": "verified rambomarine.com live"
-},
-"193": {
-"i": 193,
-"status": "keep",
-"address": "979 E 3rd St Ste 127",
-"zip": "37403",
-"evidence": "Labcorp official location page for this PSC",
-"note": "OFFICIAL SITE locations.labcorp.com: address+phone confirmed"
-},
-"194": {
-"i": 194,
-"status": "keep",
-"address": "600 N Holtzclaw Ave Ste 210",
-"zip": "37404",
-"evidence": "Quest official location page",
-"note": "OFFICIAL SITE questdiagnostics.com: address+phone confirmed"
-},
-"197": {
-"i": 197,
-"status": "keep",
-"website": "expresscourier.net",
-"address": "2131 Polymer Dr",
-"note": "CORRECTED website: expressdelivers.net wrong, actual is expresscourier.net"
-},
-"203": {
-"i": 203,
-"status": "keep",
-"address": "412 E 10th St Ste 108",
-"zip": "37403",
-"evidence": "Canteen official Chattanooga branch page",
-"note": "OFFICIAL SITE canteen.com: address+phone confirmed; operated by franchise partner Five Star Breaktime Solutions"
-},
-"11": {
-"i": 11,
-"status": "keep",
-"phone": "(423) 414-3523",
-"address": "2211 Overnite Dr",
-"note": "verified carmax.com/stores/7186 live; phone corrected"
-},
-"18": {
-"i": 18,
-"status": "keep",
-"address": "6009 International Dr",
-"note": "verified classiccollision.com location page live"
-},
-"19": {
-"i": 19,
-"status": "keep",
-"address": "1410 Gunbarrel Rd",
-"note": "verified classiccollision.com location live"
-},
-"144": {
-"i": 144,
-"status": "keep",
-"phone": "(423) 875-5482",
-"address": "4854 Dayton Blvd",
-"note": "CORRECTED: the Hixson-area Classic Collision is at 4854 Dayton Blvd, 423-875-5482. Sheet phone 423-843-9950 not verifiable"
-},
-"26": {
-"i": 26,
-"status": "keep",
-"address": "1271 Market St",
-"note": "verified firestonecompleteautocare.com store page live"
-},
-"30": {
-"i": 30,
-"status": "keep",
-"address": "5912 Lee Hwy",
-"note": "verified enterprise.com branch 5630 live"
-},
-"31": {
-"i": 31,
-"status": "keep",
-"address": "1966 Northpoint Blvd Ste 114",
-"note": "verified avis.com Hixson location live"
-},
-"32": {
-"i": 32,
-"status": "keep",
-"address": "4139 S Creek Rd",
-"note": "verified pensketruckrental.com location 007410 live"
-},
-"34": {
-"i": 34,
-"status": "keep",
-"address": "2801 Asbury Park St",
-"contact": "Tiffany Field",
-"contact_title": "Branch Manager",
-"note": "verified iaai.com/Locations/752 live"
-},
-"37": {
-"i": 37,
-"status": "keep",
-"address": "4080 Jenkins Rd",
-"note": "verified usxpress.com live"
-},
-"38": {
-"i": 38,
-"status": "keep",
-"email": "communications@covenanttransport.com",
-"address": "400 Birmingham Hwy",
-"note": "verified covenantlogistics.com live"
-},
-"40": {
-"i": 40,
-"status": "keep",
-"email": "mktg@kencogroup.com",
-"address": "2001 Riverside Dr",
-"note": "verified kencogroup.com live"
-},
-"39": {
-"i": 39,
-"status": "keep",
-"address": "2140 Chapman Rd",
-"note": "verified averitt.com Chattanooga terminal page live"
-},
-"56": {
-"i": 56,
-"status": "keep",
-"address": "115 Nowlin Ln Ste 5000",
-"note": "verified allmysons.com Chattanooga page live"
-},
-"61": {
-"i": 61,
-"status": "keep",
-"address": "2501 Dodds Ave",
-"note": "verified First Student operates HCDE buses #200+; depot address confirmed"
-},
-"76": {
-"i": 76,
-"status": "keep",
-"address": "1016 Dallas Rd Ste 201",
-"note": "verified cbplumber.com live; since 1928"
-},
-"90": {
-"i": 90,
-"status": "keep",
-"address": "4005 Cromwell Rd",
-"note": "verified hamiltontn.gov Highway Dept page live"
 },
 "93": {
 "i": 93,
@@ -1127,11 +632,36 @@
 "address": "109 Wiehl St",
 "note": "verified amwater.com/tnaw live"
 },
+"101": {
+"i": 101,
+"status": "keep",
+"address": "6104 Preservation Dr",
+"note": "verified goodwillchatt.org live"
+},
 "102": {
 "i": 102,
 "status": "keep",
 "address": "1201 E Main St",
 "note": "verified habichatt.org live"
+},
+"103": {
+"i": 103,
+"status": "keep",
+"email": "gifts@chattfoodbank.org",
+"address": "2009 Curtain Pole Rd",
+"note": "verified chattfoodbank.org live"
+},
+"104": {
+"i": 104,
+"status": "keep",
+"address": "4075 S Access Rd",
+"note": "verified branch #260; phone+address confirmed"
+},
+"105": {
+"i": 105,
+"status": "keep",
+"address": "1913 E 24th St Pl",
+"note": "verified hercrentals.com Chattanooga branch"
 },
 "106": {
 "i": 106,
@@ -1146,94 +676,388 @@
 "address": "4840 Geminus Dr",
 "note": "verified equipmentshare.com Chattanooga page live"
 },
-"117": {
-"i": 117,
+"108": {
+"i": 108,
+"status": "keep",
+"address": "4295 Bonny Oaks Dr",
+"note": "verified powerequipco.com live"
+},
+"109": {
+"i": 109,
+"status": "keep",
+"address": "6509 Lee Hwy",
+"note": "verified actionrentals.com live; since 1988"
+},
+"110": {
+"i": 110,
+"status": "keep",
+"email": "wedeliver@thsfs.com",
+"address": "801 E 12th St",
+"note": "verified thsfs.com live; 50+ yrs"
+},
+"111": {
+"i": 111,
+"status": "keep",
+"website": "chattanoogacocacola.com",
+"address": "2111 W Shepherd Rd",
+"note": "found website; Coca-Cola UNITED bottler"
+},
+"112": {
+"i": 112,
+"status": "delete",
+"note": "DELETED: Carter Distributing Co. was acquired by Cherokee Distributing (Knoxville) in Oct 2017 and no longer operates as an independent company. Directory listings are stale. Replaced by Cherokee Distributing Chattanooga."
+},
+"112.5": {
+"i": 112.5,
+"status": "keep",
+"address": "537 Market St Ste 100",
+"note": "verified active 95 yrs, BBB A+; no website"
+},
+"113": {
+"i": 113,
+"status": "keep",
+"email": "TCummings@tennesseecrown.com",
+"address": "3875 N Hawthorne St",
+"note": "verified tennesseecrown.com live; GM Thomas Cummings"
+},
+"114": {
+"i": 114,
+"status": "keep",
+"email": "TBcustomerservice@tristarbev.com",
+"address": "200 Shearer St",
+"note": "verified handfamilycompanies.com live"
+},
+"115": {
+"i": 115,
+"status": "keep",
+"email": "carmen@fulex.com",
+"address": "2700 Riverside Dr",
+"note": "verified fulex.com live"
+},
+"116": {
+"i": 116,
 "status": "keep",
 "address": "2225 Polymer Dr",
 "note": "verified abcsupply.com location page live"
 },
-"118": {
-"i": 118,
+"117": {
+"i": 117,
 "status": "keep",
 "address": "4121 S Creek Rd",
 "note": "verified ferguson.com Chattanooga branch live"
 },
-"119": {
-"i": 119,
+"118": {
+"i": 118,
 "status": "keep",
 "address": "6815 Mountain View Rd",
 "note": "verified siteone.com store 198 live"
 },
-"127": {
-"i": 127,
+"119": {
+"i": 119,
+"status": "keep",
+"email": "info.chattanooga@emjcorp.com",
+"address": "6148 Lee Hwy Ste 300",
+"note": "verified emjcorp.com live"
+},
+"120": {
+"i": 120,
+"status": "keep",
+"address": "801 N Holtzclaw Ave",
+"note": "verified chahousing.org live"
+},
+"121": {
+"i": 121,
+"status": "keep",
+"email": "paden.treepeople@gmail.com",
+"address": "7611 Hixson Pike",
+"note": "verified padentreepeople.com live"
+},
+"122": {
+"i": 122,
+"status": "keep",
+"email": "commongroundtree@gmail.com",
+"address": "2629 Simpson Ave",
+"note": "verified site live; NOTE alt phone 423-621-4045 also listed"
+},
+"123": {
+"i": 123,
+"status": "keep",
+"email": "info@lumberjackstn.com",
+"address": "4165 Bonny Oaks Dr",
+"note": "verified lumberjackstn.com live; since 2012"
+},
+"124": {
+"i": 124,
+"status": "keep",
+"website": "raylawns.com",
+"email": "briaray@gmail.com",
+"address": "9375 Standifer Gap Rd",
+"note": "found website+email; since 2002"
+},
+"125": {
+"i": 125,
+"status": "keep",
+"website": "ooltewahnursery.com",
+"email": "sales@ooltewahnursery.com",
+"address": "5829 Main St",
+"note": "found website+email; since 1989"
+},
+"126": {
+"i": 126,
 "status": "keep",
 "email": "info@landscapeworkshop.com",
 "address": "3903 Volunteer Dr",
 "note": "verified landscapeworkshop.com Chattanooga branch page live"
 },
-"128": {
-"i": 128,
+"127": {
+"i": 127,
 "status": "keep",
 "address": "3501 Amnicola Hwy",
 "note": "verified arrowexterminators.com Chattanooga service center live"
 },
-"129": {
-"i": 129,
+"128": {
+"i": 128,
 "status": "keep",
 "address": "4735 Bonny Oaks Dr",
 "note": "verified cookspest.com/branch/chattanooga live"
 },
-"132": {
-"i": 132,
+"129": {
+"i": 129,
+"status": "keep",
+"address": "6104 Ooltewah Georgetown Rd Ste B",
+"note": "verified perfectblendpestsolutions.com live"
+},
+"130": {
+"i": 130,
+"status": "keep",
+"address": "1800 E 29th St",
+"note": "verified chattanoogatermites.com live"
+},
+"131": {
+"i": 131,
 "status": "keep",
 "address": "4315 N Creek Rd",
 "note": "verified masseyservices.com/chattanooga live"
 },
-"137": {
-"i": 137,
+"132": {
+"i": 132,
+"status": "keep",
+"email": "craig@impactfacilitysolutions.com",
+"phone": "(423) 415-1045",
+"address": "832 Georgia Ave Ste 345",
+"note": "CORRECTED phone: site/chamber list 423-415-1045 (sheet had 423-645-0830)"
+},
+"133": {
+"i": 133,
+"status": "keep",
+"email": "info@waldensecurity.com",
+"address": "100 E 10th St",
+"note": "verified waldensecurity.com live; HQ line 423-702-8200"
+},
+"134": {
+"i": 134,
+"status": "keep",
+"address": "1818 Broad St",
+"note": "verified chattanoogafire.com live; since 1945"
+},
+"135": {
+"i": 135,
+"status": "keep",
+"email": "rodney@pcmfire.com",
+"address": "3755 Pilot Point",
+"note": "verified pcmfire.com live"
+},
+"136": {
+"i": 136,
 "status": "keep",
 "address": "1418 McCallie Ave",
 "note": "verified evernest.co Chattanooga site live"
 },
-"138": {
-"i": 138,
+"137": {
+"i": 137,
 "status": "keep",
 "email": "amoffett@pmichattanooga.com",
 "address": "6720 Heritage Business Ct Ste 601",
 "note": "verified site live; named contact email better than generic"
 },
-"139": {
-"i": 139,
+"138": {
+"i": 138,
 "status": "keep",
 "address": "1504 S Smith St",
 "note": "verified chattanoogapm.com live"
 },
-"148": {
-"i": 148,
+"139": {
+"i": 139,
+"status": "keep",
+"address": "3003 Dayton Blvd",
+"note": "verified active 30+ yrs, USDOT 1023098; no website"
+},
+"140": {
+"i": 140,
+"status": "keep",
+"website": "rclchatt.com",
+"email": "Michael@rclchatt.com",
+"note": "found website+email; est 2021"
+},
+"142": {
+"i": 142,
+"status": "keep",
+"website": "jplandscapingandexcavation.com",
+"address": "8236 Harrison Bay Rd",
+"note": "found website"
+},
+"142.5": {
+"i": 142.5,
+"status": "keep",
+"address": "5605 Hixson Pike",
+"note": "verified rdwrecker.com live; 30+ yrs"
+},
+"143": {
+"i": 143,
+"status": "keep",
+"phone": "(423) 875-5482",
+"address": "4854 Dayton Blvd",
+"note": "CORRECTED: the Hixson-area Classic Collision is at 4854 Dayton Blvd, 423-875-5482. Sheet phone 423-843-9950 not verifiable"
+},
+"144": {
+"i": 144,
+"status": "keep",
+"website": "gasappliancesunlimited.com",
+"address": "5604 Hwy 153",
+"contact": "Earl & Jan Penney",
+"note": "found website; owners named"
+},
+"145": {
+"i": 145,
+"status": "keep",
+"address": "12853 Old Dayton Pike",
+"note": "verified callbellheatingandair.com live"
+},
+"146": {
+"i": 146,
+"status": "keep",
+"email": "wannfuneralhome@gmail.com",
+"address": "3918 Tennessee Ave Ste 104",
+"note": "verified wannfuneralhome.com live; moved from old St Elmo bldg"
+},
+"147": {
+"i": 147,
 "status": "keep",
 "address": "7414 Old Lee Hwy",
 "note": "verified dignitymemorial.com Valley View Chapel page live"
 },
-"150": {
-"i": 150,
+"148": {
+"i": 148,
+"status": "keep",
+"address": "5401 Hwy 153",
+"note": "verified dignitymemorial.com North Chapel page live"
+},
+"149": {
+"i": 149,
 "status": "keep",
 "address": "404 S Moore Rd",
 "note": "verified dignitymemorial.com East Chapel page live"
 },
-"151": {
-"i": 151,
+"150": {
+"i": 150,
 "status": "keep",
 "address": "2401 Bachman St Ste 6",
 "note": "verified asppoolco.com/chattanooga live"
 },
-"154": {
-"i": 154,
+"152": {
+"i": 152,
+"status": "keep",
+"website": "chattanoogapoolservices.com",
+"address": "7249 Aventine Way",
+"note": "found website"
+},
+"152.5": {
+"i": 152.5,
+"status": "keep",
+"address": "6102 Shallowford Rd Ste 105",
+"note": "verified pinnaclepoolsandspas.com live"
+},
+"153": {
+"i": 153,
 "status": "keep",
 "address": "2288 Gunbarrel Rd Ste 154 PMB 228",
 "note": "verified popalock.com Chattanooga franchise live"
 },
-"166": {
-"i": 166,
+"154": {
+"i": 154,
+"status": "keep",
+"address": "3523 Hixson Pike",
+"note": "verified a1securitylocksmithtn.com live; 35+ yrs"
+},
+"155": {
+"i": 155,
+"status": "keep",
+"address": "5966 Dayton Blvd",
+"note": "verified active since 2000; largest independent appliance service in area; no website"
+},
+"156": {
+"i": 156,
+"status": "keep",
+"address": "2108 McBrien Rd",
+"note": "verified active; blogspot page only, no real website"
+},
+"157": {
+"i": 157,
+"status": "keep",
+"address": "1002 Hixson Pike",
+"note": "verified active via Yelp/YP; no website"
+},
+"158": {
+"i": 158,
+"status": "keep",
+"email": "Chattanooga@BrownBagNow.com",
+"address": "1924 Gunbarrel Rd",
+"note": "verified brownbagnow.com live; catering line 423-413-3383"
+},
+"159": {
+"i": 159,
+"status": "keep",
+"email": "mwells@ewtcaters.com",
+"address": "507A W 26th St",
+"note": "verified ewtcaters.com live; 15+ yrs"
+},
+"160": {
+"i": 160,
+"status": "keep",
+"address": "5814 Ringgold Rd Ste C",
+"note": "verified signsinchattanooga.com live; 20+ yrs"
+},
+"161": {
+"i": 161,
+"status": "keep",
+"email": "sales@ortweinsign.com",
+"address": "2806 E 50th St",
+"note": "verified ortweinsign.com live"
+},
+"163": {
+"i": 163,
+"status": "keep",
+"website": "printingplussigns.com",
+"email": "orders@printingplussigns.com",
+"address": "1922 Dayton Blvd",
+"note": "found website+email"
+},
+"163.5": {
+"i": 163.5,
+"status": "keep",
+"email": "rick@getpowerwashed.com",
+"address": "3311 4th Ave",
+"note": "verified getpowerwashed.com live; main line 423-219-5319"
+},
+"164": {
+"i": 164,
+"status": "keep",
+"email": "trueshinechatt@gmail.com",
+"address": "5600 St Elmo Ave",
+"note": "verified trueshinewindowwashers.com live; since 1999"
+},
+"165": {
+"i": 165,
 "status": "keep",
 "email": "chattanooga@bintheredumpthat.com",
 "city": "Hixson",
@@ -1241,30 +1065,42 @@
 "zip": "37343",
 "note": "verified live; local office is in HIXSON"
 },
-"167": {
-"i": 167,
+"166": {
+"i": 166,
 "status": "keep",
 "address": "1106 McCallie Ave Ste 104",
 "note": "verified wetalktrashdumpsters.com live"
 },
-"168": {
-"i": 168,
+"167": {
+"i": 167,
 "status": "keep",
 "email": "sales@chattanoogadumpsterrental.org",
 "address": "959 Windtower Dr Ste 13",
 "note": "verified chattanoogadumpsterrental.org live"
 },
-"169": {
-"i": 169,
+"168": {
+"i": 168,
 "status": "keep",
 "address": "2000 Washington St",
 "note": "verified cmcrecycling.com/locations/chattanooga live"
 },
-"170": {
-"i": 170,
+"169": {
+"i": 169,
 "status": "keep",
 "address": "980 W 19th St",
 "note": "verified sarecycling.com yard page live"
+},
+"170": {
+"i": 170,
+"status": "keep",
+"address": "2189 Broad St",
+"note": "verified active via BBB/ScrapMonster; no website"
+},
+"172": {
+"i": 172,
+"status": "keep",
+"address": "835 Georgia Ave Ste 500",
+"note": "verified geosyntec.com Chattanooga office page live"
 },
 "173": {
 "i": 173,
@@ -1278,21 +1114,6 @@
 "address": "3903 Volunteer Dr #100",
 "note": "verified ecslimited.com Chattanooga page live"
 },
-"200": {
-"i": 200,
-"status": "keep",
-"address": "200 W ML King Blvd",
-"note": "verified getsafeandsound.com/locations/chattanooga live"
-},
-"218": {
-"i": 218,
-"status": "keep",
-"website": "chattanoogagaragedoors.com",
-"email": "will@chattanoogagaragedoors.com",
-"address": "5851 Fisk Ave",
-"phone": "(423) 899-3225",
-"note": "found website+email; 25+ yrs"
-},
 "175": {
 "i": 175,
 "status": "keep",
@@ -1301,6 +1122,156 @@
 "evidence": "Office page on teamues.com lists this address and phone",
 "note": "OFFICIAL SITE teamues.com: address+phone confirmed. Area manager Derek Kilday"
 },
+"176": {
+"i": 176,
+"status": "keep",
+"address": "1820 Hamill Rd",
+"contact": "David Mathews",
+"note": "verified active; website dmsmapping.com NOT confirmed in search - listings show no site"
+},
+"178": {
+"i": 178,
+"status": "delete",
+"note": "DELETED: 8949 Dayton Pike / 423-877-6303 is Gas Appliances Unlimited's Soddy-Daisy store, not ThompsonGas. No ThompsonGas branch verified in Soddy-Daisy. Duplicate of row for Gas Appliances Unlimited."
+},
+"177": {
+"i": 177,
+"status": "keep",
+"city": "Ooltewah",
+"address": "9536 Lee Hwy",
+"zip": "37363",
+"contact": "Anthony (Tony) Smith",
+"note": "CORRECTED city: Ooltewah not Collegedale. Phone confirmed; family owned since 1998"
+},
+"178.5": {
+"i": 178.5,
+"status": "keep",
+"address": "1105 Stuart St",
+"note": "verified holstongases.com Chattanooga page live"
+},
+"181": {
+"i": 181,
+"status": "keep",
+"phone": "(800) 678-1576",
+"address": "4191 S Creek Rd",
+"evidence": "Locations page on stockdsupply.com",
+"note": "OFFICIAL SITE: CORRECTED phone - site says 800-678-1576, sheet had 800-698-1576. HQ since 1979 (formerly Bolts & Nuts Corp)"
+},
+"180": {
+"i": 180,
+"status": "keep",
+"email": "bentonoilservice@gmail.com",
+"address": "4831 Bonny Oaks Dr",
+"note": "verified active since 1953; found email"
+},
+"182": {
+"i": 182,
+"status": "keep",
+"address": "6228 Bonny Oaks Dr",
+"note": "CAUTION: YellowPages lists as CLOSED but Yelp listing updated 2025 with recent reviews. Confirm by phone before outreach"
+},
+"185": {
+"i": 185,
+"status": "keep",
+"address": "6728 Ringgold Rd",
+"note": "verified rv.campingworld.com Chattanooga dealer page live"
+},
+"186": {
+"i": 186,
+"status": "keep",
+"website": "chattanoogacampersales.com",
+"email": "chattanoogacampers@gmail.com",
+"address": "5911 Ringgold Rd",
+"note": "found website+email"
+},
+"188": {
+"i": 188,
+"status": "keep",
+"address": "4280 Bonny Oaks Dr",
+"note": "verified skiersmarine.com Chattanooga location live"
+},
+"189": {
+"i": 189,
+"status": "keep",
+"email": "info@marinemax.com",
+"address": "201 Riverfront Pkwy",
+"note": "verified marinemax.com live"
+},
+"190": {
+"i": 190,
+"status": "keep",
+"email": "rctLeads@rambomarine.com",
+"address": "4301 TN-58",
+"note": "verified rambomarine.com live"
+},
+"193": {
+"i": 193,
+"status": "keep",
+"address": "979 E 3rd St Ste 127",
+"zip": "37403",
+"evidence": "Labcorp official location page for this PSC",
+"note": "OFFICIAL SITE locations.labcorp.com: address+phone confirmed"
+},
+"194": {
+"i": 194,
+"status": "keep",
+"address": "600 N Holtzclaw Ave Ste 210",
+"zip": "37404",
+"evidence": "Quest official location page",
+"note": "OFFICIAL SITE questdiagnostics.com: address+phone confirmed"
+},
+"195": {
+"i": 195,
+"status": "keep",
+"website": "expresscourier.net",
+"address": "2131 Polymer Dr",
+"note": "CORRECTED website: expressdelivers.net wrong, actual is expresscourier.net"
+},
+"198": {
+"i": 198,
+"status": "keep",
+"email": "hello@wilderanimalcare.com",
+"address": "903 Ladder Trail",
+"note": "verified wilderanimalcare.com live; runs Scout mobile clinic"
+},
+"197": {
+"i": 197,
+"status": "keep",
+"address": "2000 S Willow St",
+"note": "verified go-preis.com live; est 1982"
+},
+"200": {
+"i": 200,
+"status": "keep",
+"address": "200 W ML King Blvd",
+"note": "verified getsafeandsound.com/locations/chattanooga live"
+},
+"199": {
+"i": 199,
+"status": "keep",
+"email": "office@chattvet.com",
+"address": "6146 Lee Hwy",
+"note": "verified chattvet.com live"
+},
+"203": {
+"i": 203,
+"status": "keep",
+"address": "412 E 10th St Ste 108",
+"zip": "37403",
+"evidence": "Canteen official Chattanooga branch page",
+"note": "OFFICIAL SITE canteen.com: address+phone confirmed; operated by franchise partner Five Star Breaktime Solutions"
+},
+"204": {
+"i": 204,
+"status": "keep",
+"evidence": "Cintas official Chattanooga uniform services page",
+"note": "OFFICIAL SITE cintas.com: phone confirmed. No street address published for this branch; facility-services line is 423-401-8800"
+},
+"205": {
+"i": 205,
+"status": "recheck",
+"note": "Alsco official site lists only Knoxville, Nashville and Memphis for TN - no Chattanooga branch page surfaced. Verify branch exists"
+},
 "207": {
 "i": 207,
 "status": "keep",
@@ -1308,6 +1279,11 @@
 "zip": "37406",
 "evidence": "CSL Plasma official center page (center 010)",
 "note": "OFFICIAL SITE cslplasma.com: address+phone confirmed. Second Chattanooga center exists (center 407, 423-826-4040)"
+},
+"208": {
+"i": 208,
+"status": "recheck",
+"note": "Octapharma official Chattanooga page exists (center 133, off Brainerd Rd) but street address and phone not surfaced - needs targeted search"
 },
 "209": {
 "i": 209,
@@ -1318,10 +1294,34 @@
 "evidence": "Contact page on timesfreepress.com",
 "note": "OFFICIAL SITE: CORRECTED phone - site lists circulation 423-757-6262 and newsroom 423-757-6260; sheet had 423-756-6900 which the site does not list"
 },
-"205": {
-"i": 205,
-"status": "recheck",
-"note": "Alsco official site lists only Knoxville, Nashville and Memphis for TN - no Chattanooga branch page surfaced. Verify branch exists"
+"210": {
+"i": 210,
+"status": "keep",
+"address": "14 Pryor Dr Ste 405",
+"note": "verified rgfence.com live; Chattanooga branch opened Jan 2026"
+},
+"213": {
+"i": 213,
+"status": "keep",
+"website": "gp-masonry.com",
+"address": "2901 S Orchard Knob Ave",
+"phone": "(423) 624-9953",
+"note": "found website; phone confirmed via AGC + Buzzfile"
+},
+"212": {
+"i": 212,
+"status": "keep",
+"address": "4143 Ringgold Rd Ste J",
+"note": "verified allfences.net live; since 2004"
+},
+"218": {
+"i": 218,
+"status": "keep",
+"website": "chattanoogagaragedoors.com",
+"email": "will@chattanoogagaragedoors.com",
+"address": "5851 Fisk Ave",
+"phone": "(423) 899-3225",
+"note": "found website+email; 25+ yrs"
 },
 "219": {
 "i": 219,
@@ -1356,8 +1356,13 @@
 "evidence": "Chattanooga branch page on afsrepair.com",
 "note": "OFFICIAL SITE: branch address+phone confirmed"
 },
-"225": {
-"i": 225,
+"223": {
+"i": 223,
+"status": "recheck",
+"note": "americanfw.com Chattanooga page exists but official site lists 865-982-0250 (Knoxville HQ); sheet phone 423-424-0825 not confirmed on their site"
+},
+"226": {
+"i": 226,
 "status": "keep",
 "address": "8890 Hunt Rd",
 "zip": "37379",
@@ -1365,16 +1370,16 @@
 "evidence": "lewisfoundationrepair.com homepage",
 "note": "OFFICIAL SITE: address, phone and email confirmed"
 },
-"226": {
-"i": 226,
+"227": {
+"i": 227,
 "status": "keep",
 "address": "5910 Shallowford Rd Ste A",
 "zip": "37421",
 "evidence": "Contact/location pages on chattanoogaflooringcenter.com",
 "note": "OFFICIAL SITE: address+phone confirmed"
 },
-"227": {
-"i": 227,
+"228": {
+"i": 228,
 "status": "keep",
 "email": "rhonda@ooltewahflooringgallery.com",
 "address": "6719 Mountain View Rd Ste 117",
@@ -1382,38 +1387,33 @@
 "evidence": "Contact page on ooltewahflooringgallery.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed"
 },
-"229": {
-"i": 229,
+"230": {
+"i": 230,
 "status": "keep",
 "address": "7610 Lee Hwy",
 "zip": "37421",
 "evidence": "rswchattanooga.com official site",
 "note": "OFFICIAL SITE: address+phone confirmed"
 },
-"232": {
-"i": 232,
+"231": {
+"i": 231,
+"status": "recheck",
+"note": "No pages surfaced from 31winsulation.com - confirm the domain and that a Chattanooga branch exists"
+},
+"233": {
+"i": 233,
 "status": "keep",
 "address": "2505 N Orchard Knob Ave",
 "zip": "37406",
 "evidence": "breedinginsulationtn.com official site",
 "note": "OFFICIAL SITE: address+phone confirmed; 30+ yrs commercial insulation"
 },
-"236": {
-"i": 236,
+"237": {
+"i": 237,
 "status": "keep",
 "address": "8121 Ooltewah Georgetown Rd #106",
 "zip": "37363",
 "evidence": "Ooltewah location page on americanairhvac.com",
 "note": "OFFICIAL SITE: address+phone confirmed"
-},
-"223": {
-"i": 223,
-"status": "recheck",
-"note": "americanfw.com Chattanooga page exists but official site lists 865-982-0250 (Knoxville HQ); sheet phone 423-424-0825 not confirmed on their site"
-},
-"230": {
-"i": 230,
-"status": "recheck",
-"note": "No pages surfaced from 31winsulation.com - confirm the domain and that a Chattanooga branch exists"
 }
 }
