@@ -3090,5 +3090,54 @@
 "note": "New lead. Another fleet-wrap shop - same referral angle as Paragon. No street address or email published.",
 "evidence": "Own site: Contact page lists this phone; in the Chattanooga printing trade since 1997; vehicle wrap and fleet wrap pages active.",
 "new_lead": true
+},
+"426": {
+"i": 426,
+"status": "keep",
+"note": "New lead, surfaced by the Vibe Prospecting export and then confirmed on their own site. Street address is from the Vibe dataset, not the website - worth confirming on the call. Main line 865-250-1618.",
+"evidence": "Own site: dedicated Hixson pages (location, crane rigging, mobile taxi crane, HVAC crane work, our team) list the Hixson number; two locations, Hixson and Mascot TN, 24/7/365.",
+"new_lead": true
+},
+"427": {
+"i": 427,
+"status": "keep",
+"note": "New lead, surfaced by the Vibe Prospecting export and confirmed on their own site. Right on Hixson Pike. Waste hauling means trucks.",
+"evidence": "Own site: Contact page and a certification PDF hosted on their domain both carry this phone; ISO-14001 and ISO-50001 service pages plus a client list are active.",
+"new_lead": true
+},
+"428": {
+"i": 428,
+"status": "keep",
+"note": "New lead from the Vibe export. Note the Vibe dataset had them on Kanasita Drive in Hixson - their own site says 1400 Market Street, so I used the site. Motorcoach windshields are big money.",
+"evidence": "Own site: Contact page lists this address and phone plus a toll-free line (800-499-9877); educational tours, retail tours, scout and church group pages active.",
+"new_lead": true
+},
+"429": {
+"i": 429,
+"status": "keep",
+"note": "New lead from the Vibe export, confirmed on their own site. Address is from the Vibe dataset - confirm on the call. Roofing crews run loaded trucks.",
+"evidence": "Own site: Contact page lists this phone; dedicated Commercial Roofing Hixson page plus industrial and residential project galleries; family owned and operated.",
+"new_lead": true
+},
+"430": {
+"i": 430,
+"status": "keep",
+"note": "New lead from the Vibe export. Roll-off trucks. Operations look centred on Jasper TN with a Hixson mailing address - no phone published anywhere on the site, only a quote form.",
+"evidence": "Own site: Chattanooga contact page lists the Hixson PO Box; roll-off, commercial junk removal, construction waste and property cleanout pages active; 20+ years serving Greater Chattanooga, north Georgia and Marion County.",
+"new_lead": true
+},
+"431": {
+"i": 431,
+"status": "keep",
+"note": "New lead from the Vibe export, phone confirmed on their own site. Address is from the Vibe dataset - confirm on the call. Duct crews run equipment vans.",
+"evidence": "Own site: Hixson residential and commercial ductwork page lists this phone; service pages for Chattanooga, Soddy Daisy, Signal Mountain and East Brainerd all active.",
+"new_lead": true
+},
+"432": {
+"i": 432,
+"status": "keep",
+"note": "New lead from the Vibe export. Their site never prints a phone number - consultation form only. Address is from the Vibe dataset, unconfirmed. Fence crews haul post drivers and panels.",
+"evidence": "Own site: every service page is Hixson-branded (security, vinyl, rail, pool, chain-link, iron, picket fence installation) plus service-area pages for Chattanooga and Cleveland; family-owned and woman-led, free estimates and emergency repairs.",
+"new_lead": true
 }
 }
