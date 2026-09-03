@@ -2199,5 +2199,55 @@
 "status": "recheck",
 "evidence": "none",
 "note": "NOT CONFIRMED: no official site found and the Facebook page under this name returned no detail. Needs a live check of 423-332-6710."
+},
+"335": {
+"i": 335,
+"name": "Andy's Automotive",
+"status": "keep",
+"address": "8644 El Dee Ln",
+"zip": "37379",
+"email": "andysautomotive@epbfi.com",
+"website": "andysautomotivetn.com",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page: address, phone and email confirmed, and found their website - the sheet had none."
+},
+"371": {
+"i": 371,
+"name": "Mountain Service Imports",
+"status": "keep",
+"address": "800 Signal Mountain Blvd",
+"zip": "37377",
+"email": "mtnserviceimp@aol.com",
+"website": "mountainserviceimports.net",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page: address, phone and email confirmed, and found their website. Specialises in BMW, Mini, Audi, VW, Mercedes, Honda and Toyota."
+},
+"299": {
+"i": 299,
+"name": "S&S Auto Repair",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms S & S Auto Repair is active in the Hixson/Chattanooga area, but publishes no phone or address, so the sheet details are unconfirmed."
+},
+"347": {
+"i": 347,
+"name": "Southern Auto Care",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms Southern Auto Care operates in Collegedale, tied to Industrial Technologies at Southern Adventist University. No phone or address published there."
+},
+"372": {
+"i": 372,
+"name": "Maples Automotive",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms Maples Automotive is active on Signal Mountain. No phone or address published there, so the sheet details are unconfirmed."
+},
+"301": {
+"i": 301,
+"name": "Hixson Auto Sales",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: the only Hixson Auto Sales found is in Pine Bluff, Arkansas. No official site or business-run page for a Hixson TN dealer under this name. Needs a live check of 423-847-6530."
 }
 }
