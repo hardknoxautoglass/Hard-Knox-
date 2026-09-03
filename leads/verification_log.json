@@ -2149,5 +2149,55 @@
 "status": "recheck",
 "evidence": "none",
 "note": "NOT CONFIRMED: motivatedmovers.com is an Atlanta GA company on a 404 number, not the Hixson business. No official source found for the local operation."
+},
+"298": {
+"i": 298,
+"name": "Graham Auto Repair",
+"status": "keep",
+"address": "8615 Hixson Pike Ste 104",
+"zip": "37343",
+"email": "graham1autorepair@gmail.com",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page: address, phone and email confirmed. Family owned full-service shop, sited in Lakesite behind the New York Pizza building."
+},
+"330": {
+"i": 330,
+"name": "Daisy Feed & Seed",
+"status": "keep",
+"address": "9554 Dayton Pike",
+"zip": "37379",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page: address and phone confirmed. Open 8:00-5:30. No email published."
+},
+"380": {
+"i": 380,
+"name": "Market on the Mountain",
+"status": "keep",
+"address": "812 Scenic Hwy",
+"zip": "37350",
+"email": "marketonthemtn@gmail.com",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page: address, phone and email confirmed. Grocery and deli doing fresh daily carry-out."
+},
+"266": {
+"i": 266,
+"name": "East Ridge Auto Electric",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run Facebook page confirms East Ridge Auto Electric exists, but no phone or address is published there, so the sheet details are unconfirmed."
+},
+"262": {
+"i": 262,
+"name": "Red Bank Auto Electric",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site and no business-run page found under this name. Needs a live check of 423-877-5215 before working the lead."
+},
+"327": {
+"i": 327,
+"name": "Wilkey Roofing",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site found and the Facebook page under this name returned no detail. Needs a live check of 423-332-6710."
 }
 }
