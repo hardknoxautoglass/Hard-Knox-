@@ -2978,5 +2978,26 @@
 "note": "New lead. Night crews drive between accounts across the county. No email published.",
 "evidence": "Own site: home page lists this address, phone and hours; floor-services and careers pages active; Hixson named in the service area.",
 "new_lead": true
+},
+"410": {
+"i": 410,
+"status": "keep",
+"note": "New lead. Nightly crews across the Chattanooga area. Ask for Scott Harris - his direct line and email are both published.",
+"evidence": "Own site: Contact page lists this address, main office phone, hours, and a named customer-support contact (Scott Harris, 423-834-4340) with his email; Careers page active.",
+"new_lead": true
+},
+"411": {
+"i": 411,
+"status": "keep",
+"note": "New lead. Install and service trucks. The 847 prefix is the Hixson exchange.",
+"evidence": "Own site: Contact page lists this street address, PO Box 5688, phone, email and hours; 20+ years in irrigation design, installation and maintenance.",
+"new_lead": true
+},
+"412": {
+"i": 412,
+"status": "keep",
+"note": "New lead. Second number 706-979-4382 is a north Georgia line. No street address or email published.",
+"evidence": "Own site: Contact page lists two numbers (423-653-0995 and 706-979-4382); About page states 23+ years in welding repair and steel fabrication.",
+"new_lead": true
 }
 }
