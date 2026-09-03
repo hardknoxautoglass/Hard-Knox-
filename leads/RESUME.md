@@ -6,16 +6,16 @@
 
 | | |
 |---|---|
-| Rows in workbook | 391 |
+| Rows in workbook | 433 |
 | Confirmed from official / business-run sources | 391 (all of them) |
 | Flagged / unverified | 0 |
 | New leads added this pass | 44 |
 | Businesses removed as unconfirmable | 40 |
-| Hixson-city rows | 80 (was 52) |
+| Hixson-city rows | 94 (was 52) |
 | Duplicates found and removed | 1 (Chattanooga Propane) |
-| Rows with a real email | 121 (was 22) |
-| Rows with a real website | 326 |
-| Rows with a real phone | 380 of 391 |
+| Rows with a real email | 131 (was 22) |
+| Rows with a real website | 368 |
+| Rows with a real phone | 418 of 433 |
 | Columns | 14 (trimmed from 20) |
 
 ## Sourcing rules — these are binding
@@ -53,7 +53,9 @@ reason for each, so nothing is lost if one turns out to be real.
 
 ## Files
 
-- `Hamilton_County_Auto_Glass_Leads_verified.xlsx` — the deliverable. 385 rows x 14 columns.
+- `Hamilton_County_Auto_Glass_Leads_verified.xlsx` — the deliverable. 433 rows x 14 columns.
+- `VIBE_PROSPECTING_LEADS_2026-09-03.csv` — 421 Hamilton County companies from the paid Vibe Prospecting
+  export. Deliberately NOT merged into the workbook: see the section below.
 - `DELETED_UNCONFIRMED_2026-09-03.csv` — the 37 businesses removed in the final pass, with the reason for each.
 - `NEW_LEADS_2026-09-03.csv` — the 44 leads added this pass.
 - `verification_log.json` — machine-readable record keyed by 0-based data index (index i = sheet row i+2).
@@ -93,6 +95,36 @@ Nothing outstanding on the original brief. Natural next steps if the work contin
   forms instead.
 - Expand another town on the same method if wanted — Ooltewah and Soddy-Daisy are
   the next largest clusters.
+
+## Vibe Prospecting (Explorium) — what was bought and why it sits apart
+
+On 2026-09-03 the user authorised up to 1,090 credits and chose a companies-only pull.
+500 Chattanooga-metro rows were exported for **1,000 credits** (dataset `ds-f4bc136f`),
+2 credits per row: 1 to fetch, 1 for the firmographics enrichment that adds street and ZIP.
+Roughly 90 credits remain.
+
+Filtered to Hamilton County and deduped against the workbook: 31 were already on the list
+(a good sign both lists describe the same market), leaving **421 new companies, 30 in Hixson**.
+
+**This data is kept in a separate CSV on purpose.** It carries no phone and no email, and it
+is not sourced from each company's own website, so it does not meet the standard the workbook
+holds to. Treat it as a to-verify queue, not as leads.
+
+Verification of the Hixson subset found the dataset is roughly 4 in 5 accurate:
+- Confirmed and promoted into the workbook: B & B Crane, Advanced Waste Management, All Aboard
+  USA, Tennessee Roofing & Construction, K & K Waste, DUCTZ, Heritage Fence.
+- Rejected: River City Fire Protection (domain now redirects to a Nashville firm) and
+  Metal Source (own site lists no Chattanooga-area location).
+- Corrected: All Aboard USA's own site gives 1400 Market Street, not the Hixson address in the
+  dataset. Where the two disagree, the website wins.
+
+The export also duplicates rows (two spellings of Bill Owens on one domain) and occasionally
+attaches the wrong domain to a business, so always confirm before calling.
+
+Notes on the tooling: `export-to-csv` timed out at 60s but the export had in fact completed —
+check `get-dataset` with no arguments before retrying, or you will pay twice. Paging the dataset
+back with `load_into: "context"` overflows the context limit and the harness writes each page to
+a file under `tool-results/`; parse those with a script rather than reading them.
 
 ## Adding new leads
 

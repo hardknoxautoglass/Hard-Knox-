@@ -102,3 +102,46 @@ Many rows read "Not publicly available" for phone or address. That is deliberate
 those businesses publish nothing beyond a name on their own page, and per the
 sourcing rule nothing was filled in from a third-party directory. Those blanks are
 gettable on a call, not from the web.
+
+## Category expansion and a paid data pull — 2026-09-03 (later)
+
+### 35 more leads found by hand
+
+The list had whole trades missing. These went in after confirming each on the
+company's own website: gutters, junk removal, paving, food distribution,
+forklift dealers, crane and rigging, grease trap and septic pumping, commercial
+kitchen refrigeration, linen and uniform routes, janitorial, mobile fleet
+repair, security patrol, durable medical equipment, senior living, flooring,
+irrigation, welding, and vehicle wraps.
+
+Some worth calling out:
+- **Nichols Fleet Equipment, Pro Auto and Fleet Detailing, Chattanooga Mobile
+  Truck Repair, Paragon Printing and Printree** are all inside other people's
+  fleets every day. Those are referral conversations as much as sales calls.
+- **Quality Tire Pros** runs a dedicated fleet-services division across three
+  cities.
+- **CARTA** publishes its Director of Maintenance by name: Billy Summerrow.
+- **Hamilton County Highway Department** maintains the county's own vehicles at
+  423-209-5050; Fleet Management is separate at 423-209-6350.
+- **James Wilson Company** and **Building Services Inc** both publish named
+  inboxes rather than a general one — better odds of a reply.
+
+### The Vibe Prospecting purchase
+
+500 Chattanooga-metro company records for 1,000 of the 1,090 credits available.
+After filtering to Hamilton County and removing the 31 already on the list, 421
+new companies remain, 30 of them in Hixson. They are in
+`VIBE_PROSPECTING_LEADS_2026-09-03.csv`, **not** in the workbook.
+
+That separation is deliberate. The dataset has no phone numbers and no email
+addresses, and none of it comes from the companies' own websites. Merging it
+would quietly lower the standard every other row was held to.
+
+Spot-checking the Hixson subset put the data at roughly four in five accurate.
+Seven checked out and were promoted into the workbook with real phone numbers.
+Two did not: River City Fire Protection's domain now redirects to a Nashville
+company, and Metal Source's own site lists no location anywhere near here. One
+address was simply wrong — All Aboard USA is on Market Street downtown, not in
+Hixson as the dataset claimed.
+
+So: a good source of names to chase, and a poor source of facts to trust.
