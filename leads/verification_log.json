@@ -1650,5 +1650,62 @@
 "email": "chattanoogacampers@gmail.com",
 "address": "5911 Ringgold Rd",
 "note": "found website+email"
+},
+"329": {
+"i": 329,
+"name": "Harbor Lights Marina",
+"status": "keep",
+"address": "9680 Hixson Pike",
+"zip": "37379",
+"email": "info@harborlightsmarinatn.com",
+"evidence": "Contact page on harborlightsmarinatn.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed. Marina store and fuel dock on site."
+},
+"334": {
+"i": 334,
+"name": "Soddy Daisy Speed Shop",
+"status": "keep",
+"address": "9632 Dayton Pike",
+"zip": "37379",
+"evidence": "soddyspeed.com service pages",
+"note": "OFFICIAL SITE: address and phone confirmed. No email published."
+},
+"346": {
+"i": 346,
+"name": "Collegedale Exxon",
+"status": "keep",
+"address": "9416 Apison Pike",
+"zip": "37315",
+"evidence": "Contact page on collegedaleexxon.com",
+"note": "OFFICIAL SITE: address and phone confirmed. Fuel, towing and ASE-certified repair since 1974; email only via site form."
+},
+"354": {
+"i": 354,
+"name": "Village Market",
+"status": "keep",
+"address": "5002 University Dr",
+"zip": "37315",
+"email": "villagemarket@southern.edu",
+"evidence": "Contact page on vmcollegedale.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed. Run by Southern Adventist University."
+},
+"355": {
+"i": 355,
+"name": "College Press",
+"status": "keep",
+"address": "4981 Colcord Dr",
+"zip": "37315",
+"evidence": "Contact page on cplitho.com",
+"note": "OFFICIAL SITE: address confirmed. Commercial printer with warehousing, fulfilment and bulk mailing; phone and email not published in results."
+},
+"357": {
+"i": 357,
+"name": "Solutions Pharmacy",
+"status": "keep",
+"address": "5517 Little Debbie Pkwy",
+"zip": "37315",
+"email": "Pharmacist@solutions-pharmacy.com",
+"evidence": "Contact page on solutionspharmacy.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed. Note the email domain is solutions-pharmacy.com, hyphenated, unlike the website."
 }
 }
