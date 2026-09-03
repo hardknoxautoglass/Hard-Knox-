@@ -3048,5 +3048,19 @@
 "note": "New lead. Pump-truck fleet. Note the email is on flushfellas.com, not greasefellas.com - almost certainly the same owner running two brands, but confirm when you call.",
 "evidence": "Own site: Contact page lists this phone and email, open 24 hours; service pages for Hixson, Soddy-Daisy, Chattanooga and Cleveland, covering restaurants, grocery stores, churches and carwashes.",
 "new_lead": true
+},
+"420": {
+"i": 420,
+"status": "keep",
+"note": "New lead. Marked patrol vehicles running all night. Dispatch 423-888-5222 if the office does not pick up.",
+"evidence": "Own site: Contact page lists this address, an office line, a dispatch line (423-888-5222) and email; state-licensed and insured, led by former law enforcement.",
+"new_lead": true
+},
+"421": {
+"i": 421,
+"status": "keep",
+"note": "New lead. Two angles here - their own service trucks, and they are working on other people's fleets every day, so a referral arrangement is worth raising.",
+"evidence": "Own site: home page lists this address and phone; services big rigs, buses and RVs with mechanics on call 24 hours.",
+"new_lead": true
 }
 }
