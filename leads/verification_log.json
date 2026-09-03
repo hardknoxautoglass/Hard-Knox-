@@ -1707,5 +1707,62 @@
 "email": "Pharmacist@solutions-pharmacy.com",
 "evidence": "Contact page on solutionspharmacy.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. Note the email domain is solutions-pharmacy.com, hyphenated, unlike the website."
+},
+"348": {
+"i": 348,
+"name": "Life Care Center of Collegedale",
+"status": "keep",
+"address": "9210 Apison Pike",
+"zip": "37315",
+"evidence": "Contact page on lifecarecenterofcollegedale.com",
+"note": "OFFICIAL SITE: address and phone confirmed. No email published; fax 423-396-3420."
+},
+"349": {
+"i": 349,
+"name": "Southern Adventist University",
+"status": "keep",
+"address": "10035 Park Ln",
+"zip": "37315",
+"phone": "(423) 236-2716",
+"email": "transportation@southern.edu",
+"evidence": "Transportation Services contact page on southern.edu",
+"note": "OFFICIAL SITE: reached the actual fleet contact. Transportation Services is 423-236-2716 / transportation@southern.edu at 10035 Park Lane - use this rather than the 423-236-2000 switchboard the sheet had."
+},
+"361": {
+"i": 361,
+"name": "Collegedale Coin Laundry",
+"status": "keep",
+"address": "5032 Ooltewah Ringgold Rd",
+"city": "Ooltewah",
+"zip": "37363",
+"evidence": "collegedalecoinlaundry.com site pages",
+"note": "OFFICIAL SITE: address and phone confirmed. CORRECTED city to Ooltewah (sheet said Collegedale). Open 24h, trading since 1992. Email shown only truncated on the site."
+},
+"364": {
+"i": 364,
+"name": "D & G Roofing",
+"status": "keep",
+"address": "2016 Dayton Blvd",
+"city": "Chattanooga",
+"zip": "37415",
+"phone": "(423) 987-7529",
+"evidence": "Contact page on dgroofingco.com",
+"note": "OFFICIAL SITE: CORRECTED phone to 423-987-7529 (sheet had 423-877-5716) and city to Chattanooga (sheet said Signal Mountain). Also does siding, decks and painting."
+},
+"366": {
+"i": 366,
+"name": "Signal Mountain Nursery",
+"status": "keep",
+"address": "1100 Hubbard Rd",
+"zip": "37377",
+"evidence": "Contact page on signalmtnnursery.com",
+"note": "OFFICIAL SITE: address and phone confirmed. No email published."
+},
+"360": {
+"i": 360,
+"name": "Joy Chiropractic",
+"status": "keep",
+"evidence": "drjoychiropractic.com homepage",
+"note": "OFFICIAL SITE: live, Dr Joy-Lynn Norris, Collegedale. No address, phone or email published on the site - sheet phone unconfirmed."
 }
 }
