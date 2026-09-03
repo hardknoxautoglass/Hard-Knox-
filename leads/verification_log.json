@@ -2936,5 +2936,47 @@
 "note": "New lead. Inspection and service techs cover the whole Tennessee Valley - high-mileage van fleet. No email published; contact form only.",
 "evidence": "Own site: Contact page lists this address, phone and hours with 24/7 emergency service; sprinkler, extinguisher, fire pump and hydrant service pages active across the Tennessee Valley.",
 "new_lead": true
+},
+"404": {
+"i": 404,
+"status": "keep",
+"note": "New lead. Delivery box trucks running a 75-mile radius six days a week - high windshield exposure. No email published.",
+"evidence": "Own site: Contact page lists this address and phone; Coverage Area page states delivery within a 75-mile radius of Chattanooga; Our Staff and Cash & Carry pages active.",
+"new_lead": true
+},
+"405": {
+"i": 405,
+"status": "keep",
+"note": "New lead. Daily-delivery fleet. Their site routes everything through a sales contact form - no direct phone or email published, so walk in or use the form.",
+"evidence": "Own site: home page identifies the company as a broadline foodservice distributor in Chattanooga at this address, operating 100,000+ sq ft across two locations with daily deliveries.",
+"new_lead": true
+},
+"406": {
+"i": 406,
+"status": "keep",
+"note": "New lead. Cranes, rigging trucks and heavy-haul tractors, HQ'd here. Email goes to a named person, not a general box - better odds of a reply.",
+"evidence": "Own site: Chattanooga locations page lists this address, phone and email; Chattanooga is the headquarters, with branches in Mobile AL and Pensacola FL.",
+"new_lead": true
+},
+"407": {
+"i": 407,
+"status": "keep",
+"note": "New lead. Route trucks make weekly stops all over Hamilton County. Only a toll-free number is published - ask for the Chattanooga branch.",
+"evidence": "Own site: Chattanooga service-location and linen-services pages active; describes itself as independent, family-owned, 25 years serving TN, AL and GA.",
+"new_lead": true
+},
+"408": {
+"i": 408,
+"status": "keep",
+"note": "New lead. Downtown Chattanooga. Two named inboxes published - dewayne@ and linda@jameswilsonco.net. Cranes 6 to 90 ton plus haul tractors. No street address on the site.",
+"evidence": "Own site: Contact page lists this phone and two named email addresses with 24-hour emergency service; Services page covers plant relocation, industrial rigging and heavy hauling; 60+ years renting cranes.",
+"new_lead": true
+},
+"409": {
+"i": 409,
+"status": "keep",
+"note": "New lead. Night crews drive between accounts across the county. No email published.",
+"evidence": "Own site: home page lists this address, phone and hours; floor-services and careers pages active; Hixson named in the service area.",
+"new_lead": true
 }
 }
