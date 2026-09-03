@@ -580,21 +580,33 @@
 },
 "90": {
 "i": 90,
+"name": "Hamilton County Highway",
 "status": "keep",
-"address": "4005 Cromwell Rd",
-"note": "verified hamiltontn.gov Highway Dept page live"
+"phone": "(423) 209-5050",
+"evidence": "Highway Department page on hamiltontn.gov",
+"note": "OFFICIAL SITE: phone confirmed (fax 423-209-5051), open Mon-Thu 7:00-17:00. The page states the department maintains the County's government vehicles and runs the Traffic Shop and Stockroom - so this is the in-house fleet garage. Procurement and Fleet Management is a separate line, 423-209-6350."
 },
 "91": {
 "i": 91,
+"name": "Hamilton County Schools",
 "status": "keep",
 "address": "3074 Claude Ramsey Pkwy",
-"note": "verified hcde.org live; transportation hotline 423-498-5555"
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 498-7020",
+"email": "hcscommunications@hcde.org",
+"evidence": "Bus transportation page on hcde.org",
+"note": "OFFICIAL SITE: address, phone and email confirmed. This is the transportation department and bus garage. Day-to-day operation is contracted to First Student (423-498-5555), which is a separate row on this list - approach both."
 },
 "92": {
 "i": 92,
+"name": "CARTA (Chattanooga Area Regional",
 "status": "keep",
 "address": "1617 Wilcox Blvd",
-"note": "verified gocarta.org live; admin line confirmed"
+"zip": "37406",
+"phone": "(423) 629-1411",
+"evidence": "Contact and leadership pages on gocarta.org",
+"note": "OFFICIAL SITE: address and administrative phone confirmed (info line 423-629-1473, fax 423-698-2749). Their published Director of Maintenance is Billy Summerrow - ask for him rather than the switchboard, he owns the bus fleet. No email published."
 },
 "93": {
 "i": 93,
@@ -867,9 +879,14 @@
 },
 "134": {
 "i": 134,
+"name": "Chattanooga Fire Protection",
 "status": "keep",
 "address": "1818 Broad St",
-"note": "verified chattanoogafire.com live; since 1945"
+"zip": "37408",
+"phone": "(423) 265-1772",
+"email": "careers@chattanoogafire.com",
+"evidence": "Contact page on chattanoogafire.com",
+"note": "OFFICIAL SITE: address and phone confirmed (fax 423-267-4415), 24-hour emergency service. CAUTION - careers@chattanoogafire.com is the recruiting mailbox, the only address they publish; it is not a sales contact, so lead with the phone. Also has Knoxville, Calhoun GA and Woodstock GA branches."
 },
 "135": {
 "i": 135,
@@ -912,9 +929,11 @@
 },
 "142": {
 "i": 142,
+"name": "R & D Wrecker",
 "status": "keep",
-"address": "5605 Hixson Pike",
-"note": "verified rdwrecker.com live; 30+ yrs"
+"phone": "(423) 877-8698",
+"evidence": "Contact page on rdwrecker.com",
+"note": "OFFICIAL SITE: phone 423-877-8698 confirmed. 30+ years, and they run commercial towing contracts for dealerships, so a sizeable wrecker fleet. No email published."
 },
 "143": {
 "i": 143,
@@ -1276,9 +1295,12 @@
 },
 "210": {
 "i": 210,
+"name": "Rio Grande Fence",
 "status": "keep",
-"address": "14 Pryor Dr Ste 405",
-"note": "verified rgfence.com live; Chattanooga branch opened Jan 2026"
+"phone": "(423) 874-8700",
+"email": "bids@rgfence.com",
+"evidence": "Chattanooga service-area and contact pages on rgfence.com",
+"note": "OFFICIAL SITE: Chattanooga phone and the bids@rgfence.com address confirmed. Commercial and industrial fence contractor, so crew trucks on job sites daily. bids@ is company-wide, not Chattanooga-specific."
 },
 "213": {
 "i": 213,
