@@ -1935,5 +1935,61 @@
 "email": "goodshepherd@gslookout.com",
 "evidence": "Contact pages on gslookout.org",
 "note": "OFFICIAL SITE: address, phone and email confirmed. School 423-821-0044, church 423-821-1583. Note the email domain is gslookout.com while the site is gslookout.org."
+},
+"383": {
+"i": 383,
+"name": "Christ Reformed Baptist",
+"status": "keep",
+"address": "901 Scenic Hwy",
+"zip": "37350",
+"evidence": "Times & Location page on crbchattanooga.org",
+"note": "OFFICIAL SITE: address confirmed on Lookout Mountain. Phone and email not published - sheet phone unconfirmed."
+},
+"359": {
+"i": 359,
+"name": "Collegedale Credit Union",
+"status": "keep",
+"address": "5046 University Dr",
+"zip": "37315",
+"email": "ccu@collegedale.org",
+"evidence": "Office information page on collegedale.org",
+"note": "OFFICIAL SITE: address, phone and email confirmed. Also cculending@ and ccumemberservices@collegedale.org; fax 423-396-2702."
+},
+"350": {
+"i": 350,
+"name": "Southern Adventist University",
+"status": "keep",
+"address": "Wright Hall 3rd Floor, 4881 Taylor Cir",
+"zip": "37315",
+"evidence": "Food Services contact page on southern.edu",
+"note": "OFFICIAL SITE: phone 423-236-2708 confirmed; Dining Services sits in Wright Hall, 3rd floor. No direct email published - use transportation@southern.edu or the switchboard for fleet questions."
+},
+"353": {
+"i": 353,
+"name": "McKee Foods Bakery Store",
+"status": "keep",
+"address": "9515 Apison Pike",
+"zip": "37315",
+"evidence": "Bakery stores page on mckeefoods.com",
+"note": "OFFICIAL SITE: address and phone confirmed."
+},
+"344": {
+"i": 344,
+"name": "Fast Pace Health",
+"status": "keep",
+"address": "9325 Dayton Pike",
+"zip": "37379",
+"evidence": "Soddy-Daisy location page on fastpacehealth.com",
+"note": "OFFICIAL SITE: address and phone confirmed. Runs both urgent care and primary care in Soddy-Daisy."
+},
+"312": {
+"i": 312,
+"name": "Bibas Italian Restaurant",
+"status": "keep",
+"address": "5918 Hixson Pike",
+"city": "Chattanooga",
+"zip": "37343",
+"evidence": "Hixson location page on italianrestauranthixson.com",
+"note": "OFFICIAL SITE: address and phone confirmed. CORRECTED city to Chattanooga per their own listing. Family-owned chain with GA locations; does catering."
 }
 }
