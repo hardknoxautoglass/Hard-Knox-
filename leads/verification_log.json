@@ -1876,5 +1876,64 @@
 "zip": "37379",
 "evidence": "soddychurchofchrist.org",
 "note": "OFFICIAL SITE: address and phone confirmed. Mailing address PO Box 187, Soddy-Daisy 37384. No email published."
+},
+"340": {
+"i": 340,
+"name": "Holy Spirit Catholic Church",
+"status": "keep",
+"address": "10768 Dayton Pike",
+"zip": "37379",
+"email": "hscc_parish@holyspirittn.com",
+"evidence": "Contact page on holyspiritsoddydaisy.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed. Rectory 423-332-8383; mailing PO Box 1015, Soddy-Daisy 37384."
+},
+"341": {
+"i": 341,
+"name": "Soddy Daisy First Baptist",
+"status": "keep",
+"address": "10185 Dayton Pike",
+"zip": "37379",
+"email": "fbcsdsec@gmail.com",
+"evidence": "About page on fbcsoddydaisy.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed. Office Mon-Thu 9-4; pastor Brandon Johns."
+},
+"342": {
+"i": 342,
+"name": "Soddy Daisy Smiles",
+"status": "keep",
+"address": "9759 Dayton Pike",
+"zip": "37379",
+"email": "soddydaisysmiles@gmail.com",
+"evidence": "Contact page on soddydaisysmiles.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed."
+},
+"343": {
+"i": 343,
+"name": "Northpoint Dental",
+"status": "keep",
+"address": "124 Harrison Ln Ste 100",
+"zip": "37379",
+"email": "42012@nadentalgroup.com",
+"evidence": "Soddy-Daisy practice page on northpointdentalco.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed. Second line 423-243-3044; also has a Hixson practice."
+},
+"382": {
+"i": 382,
+"name": "Lookout Mountain Presbyterian",
+"status": "keep",
+"address": "316 N Bragg Ave",
+"zip": "37350",
+"evidence": "Contact page on lmpc.org",
+"note": "OFFICIAL SITE: address and phone confirmed. No email published."
+},
+"384": {
+"i": 384,
+"name": "Church of the Good Shepherd",
+"status": "keep",
+"address": "211 Franklin Rd",
+"zip": "37350",
+"email": "goodshepherd@gslookout.com",
+"evidence": "Contact pages on gslookout.org",
+"note": "OFFICIAL SITE: address, phone and email confirmed. School 423-821-0044, church 423-821-1583. Note the email domain is gslookout.com while the site is gslookout.org."
 }
 }
