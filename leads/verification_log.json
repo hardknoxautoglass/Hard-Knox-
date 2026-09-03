@@ -2249,5 +2249,51 @@
 "status": "recheck",
 "evidence": "none",
 "note": "NOT CONFIRMED: the only Hixson Auto Sales found is in Pine Bluff, Arkansas. No official site or business-run page for a Hixson TN dealer under this name. Needs a live check of 423-847-6530."
+},
+"321": {
+"i": 321,
+"name": "L H Lewis Tree Service",
+"status": "keep",
+"address": "8307 Dayton Pike",
+"zip": "37379",
+"email": "lhlewistreeservice@gmail.com",
+"website": "lhlewistreeservice.com",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page: address, phone and email confirmed, and found their website - the sheet had none. Trimming, removal and stump grinding, so bucket trucks and chippers."
+},
+"254": {
+"i": 254,
+"name": "Tennessee Valley Excavation",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms the firm is active in Ooltewah - note it trades as Tennessee Valley Excavating, not Excavation. Utility installation, footers, driveways, grading. No phone or address published there."
+},
+"269": {
+"i": 269,
+"name": "8 Point Trucking",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found under this name in Collegedale. Needs a live check of 423-421-5921."
+},
+"365": {
+"i": 365,
+"name": "Signal Tree and Dirt",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found under this name on Signal Mountain. Needs a live check of 423-413-2150."
+},
+"281": {
+"i": 281,
+"name": "Parham Landscaping",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found under this name. Needs a live check of 423-825-5502."
+},
+"307": {
+"i": 307,
+"name": "Grant-Neil Electric",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found under this name in Hixson. Needs a live check of 423-843-3391."
 }
 }
