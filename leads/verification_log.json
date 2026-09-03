@@ -800,9 +800,8 @@
 "172": {
 "i": 172,
 "status": "keep",
-"website": "pitstopportables.net",
-"address": "1516 E Main St",
-"note": "found website; since 1964, BBB A+"
+"address": "835 Georgia Ave Ste 500",
+"note": "verified geosyntec.com Chattanooga office page live"
 },
 "177": {
 "i": 177,
@@ -847,8 +846,10 @@
 "213": {
 "i": 213,
 "status": "keep",
-"address": "6425 Hixson Pike Ste 4",
-"note": "verified actionfenceofchatt.com live; since 1981"
+"website": "gp-masonry.com",
+"address": "2901 S Orchard Knob Ave",
+"phone": "(423) 624-9953",
+"note": "found website; phone confirmed via AGC + Buzzfile"
 },
 "214": {
 "i": 214,
@@ -866,9 +867,9 @@
 "198": {
 "i": 198,
 "status": "keep",
-"email": "support@mycityhomeinspector.com",
-"address": "5957 Dayton Blvd Ste A",
-"note": "verified chattanoogahomeinspector.com live; since 2014"
+"email": "hello@wilderanimalcare.com",
+"address": "903 Ladder Trail",
+"note": "verified wilderanimalcare.com live; runs Scout mobile clinic"
 },
 "199": {
 "i": 199,
@@ -879,15 +880,13 @@
 "204": {
 "i": 204,
 "status": "keep",
-"email": "info@tristateec.com",
-"address": "2101 Fort St",
-"note": "verified tristateec.com live; 50 yrs"
+"evidence": "Cintas official Chattanooga uniform services page",
+"note": "OFFICIAL SITE cintas.com: phone confirmed. No street address published for this branch; facility-services line is 423-401-8800"
 },
 "208": {
 "i": 208,
-"status": "keep",
-"address": "705 E 4th St",
-"note": "verified bloodassurance.org live"
+"status": "recheck",
+"note": "Octapharma official Chattanooga page exists (center 133, off Brainerd Rd) but street address and phone not surfaced - needs targeted search"
 },
 "180": {
 "i": 180,
@@ -898,15 +897,16 @@
 "181": {
 "i": 181,
 "status": "keep",
-"address": "1110 Stuart St",
-"note": "verified parmanenergy.com live; largest Chevron/Havoline distributor in US"
+"phone": "(800) 678-1576",
+"address": "4191 S Creek Rd",
+"evidence": "Locations page on stockdsupply.com",
+"note": "OFFICIAL SITE: CORRECTED phone - site says 800-678-1576, sheet had 800-698-1576. HQ since 1979 (formerly Bolts & Nuts Corp)"
 },
 "185": {
 "i": 185,
 "status": "keep",
-"email": "owner@sceniccityseptic.net",
-"address": "719 McCallie Ferry Rd",
-"note": "verified sceniccityseptic.net live"
+"address": "6728 Ringgold Rd",
+"note": "verified rv.campingworld.com Chattanooga dealer page live"
 },
 "186": {
 "i": 186,
@@ -919,16 +919,15 @@
 "188": {
 "i": 188,
 "status": "keep",
-"phone": "(423) 805-2267",
-"address": "8802 Old Lee Hwy",
-"note": "verified campersunlimited.net live; phone corrected"
+"address": "4280 Bonny Oaks Dr",
+"note": "verified skiersmarine.com Chattanooga location live"
 },
 "189": {
 "i": 189,
 "status": "keep",
-"website": "erwinmarinesales.com",
-"address": "3001 Kings Point Rd",
-"note": "found website"
+"email": "info@marinemax.com",
+"address": "201 Riverfront Pkwy",
+"note": "verified marinemax.com live"
 },
 "192": {
 "i": 192,
@@ -940,15 +939,18 @@
 "193": {
 "i": 193,
 "status": "keep",
-"address": "4113 S Access Rd",
-"note": "verified crockettpowersports.com live"
+"address": "979 E 3rd St Ste 127",
+"zip": "37403",
+"evidence": "Labcorp official location page for this PSC",
+"note": "OFFICIAL SITE locations.labcorp.com: address+phone confirmed"
 },
 "194": {
 "i": 194,
 "status": "keep",
-"website": "loomis.us",
-"address": "2305 Dodson Ave Ste B",
-"note": "found website"
+"address": "600 N Holtzclaw Ave Ste 210",
+"zip": "37404",
+"evidence": "Quest official location page",
+"note": "OFFICIAL SITE questdiagnostics.com: address+phone confirmed"
 },
 "197": {
 "i": 197,
@@ -960,9 +962,10 @@
 "203": {
 "i": 203,
 "status": "keep",
-"email": "billing@morganalarmsystems.com",
-"address": "1004 Holland Johnson Rd",
-"note": "verified morganalarmsystems.com live"
+"address": "412 E 10th St Ste 108",
+"zip": "37403",
+"evidence": "Canteen official Chattanooga branch page",
+"note": "OFFICIAL SITE canteen.com: address+phone confirmed; operated by franchise partner Five Star Breaktime Solutions"
 },
 "11": {
 "i": 11,
@@ -1262,5 +1265,62 @@
 "status": "keep",
 "address": "980 W 19th St",
 "note": "verified sarecycling.com yard page live"
+},
+"173": {
+"i": 173,
+"status": "keep",
+"address": "51 Lost Mound Dr Ste 135",
+"note": "verified terracon.com locations page live"
+},
+"174": {
+"i": 174,
+"status": "keep",
+"address": "3903 Volunteer Dr #100",
+"note": "verified ecslimited.com Chattanooga page live"
+},
+"200": {
+"i": 200,
+"status": "keep",
+"address": "200 W ML King Blvd",
+"note": "verified getsafeandsound.com/locations/chattanooga live"
+},
+"218": {
+"i": 218,
+"status": "keep",
+"website": "chattanoogagaragedoors.com",
+"email": "will@chattanoogagaragedoors.com",
+"address": "5851 Fisk Ave",
+"phone": "(423) 899-3225",
+"note": "found website+email; 25+ yrs"
+},
+"175": {
+"i": 175,
+"status": "keep",
+"address": "6607 Mountain View Rd Ste 139",
+"zip": "37363",
+"evidence": "Office page on teamues.com lists this address and phone",
+"note": "OFFICIAL SITE teamues.com: address+phone confirmed. Area manager Derek Kilday"
+},
+"207": {
+"i": 207,
+"status": "keep",
+"address": "1501 Riverside Dr Ste 110",
+"zip": "37406",
+"evidence": "CSL Plasma official center page (center 010)",
+"note": "OFFICIAL SITE cslplasma.com: address+phone confirmed. Second Chattanooga center exists (center 407, 423-826-4040)"
+},
+"209": {
+"i": 209,
+"status": "keep",
+"phone": "(423) 757-6262",
+"email": "circulationcs@timesfreepress.com",
+"address": "400 E 11th St",
+"evidence": "Contact page on timesfreepress.com",
+"note": "OFFICIAL SITE: CORRECTED phone - site lists circulation 423-757-6262 and newsroom 423-757-6260; sheet had 423-756-6900 which the site does not list"
+},
+"205": {
+"i": 205,
+"status": "recheck",
+"note": "Alsco official site lists only Knoxville, Nashville and Memphis for TN - no Chattanooga branch page surfaced. Verify branch exists"
 }
 }
