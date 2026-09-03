@@ -2469,5 +2469,50 @@
 "status": "recheck",
 "evidence": "none",
 "note": "NOT CONFIRMED: a Twin City Self Storage page exists but no Soddy-Daisy location surfaced; the named ones are in Illinois and Alabama. Needs a live check of 423-451-9933."
+},
+"259": {
+"i": 259,
+"name": "Wolftever Dental",
+"status": "keep",
+"website": "wolfteverdental.com",
+"evidence": "wolfteverdental.com and the practice's own Facebook page",
+"note": "OFFICIAL SITE: the practice now trades as White Oak Dental - wolfteverdental.com resolves to it and Dr Brooks Pruehs is still there. Found the website; the sheet had none. Address and phone not published in results."
+},
+"370": {
+"i": 370,
+"name": "Elder's Ace Hardware",
+"status": "keep",
+"city": "Walden",
+"evidence": "Store's own Facebook page, Elder's Ace Hardware of Walden",
+"note": "Business-run page: the branch is the Walden store, not Signal Mountain - city corrected. Regional Ace chain with stores across TN, GA and SC. No phone or address published there."
+},
+"381": {
+"i": 381,
+"name": "Woodall Agency",
+"status": "keep",
+"website": "woodallagency.com",
+"evidence": "woodallagency.com and the agency's own Facebook page",
+"note": "OFFICIAL SITE: found their website - the sheet had none. Agency confirmed active in Chattanooga. Address and phone not published in results."
+},
+"256": {
+"i": 256,
+"name": "Ooltewah Animal Clinic",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "A business page exists under this exact name, but no phone or address is published and several other Ooltewah vet practices share similar names - confirm which practice before working the lead."
+},
+"295": {
+"i": 295,
+"name": "True Dental",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms True Dental is active and serves Hixson, though the page is branded Chattanooga. No phone or address published there."
+},
+"356": {
+"i": 356,
+"name": "Collegedale Quick Print",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found for a Quick Print in Collegedale. Needs a live check of 423-236-2861."
 }
 }
