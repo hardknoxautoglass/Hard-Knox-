@@ -2580,5 +2580,49 @@
 "status": "recheck",
 "evidence": "none",
 "note": "NOT CONFIRMED: no official site or business-run page found for Teddys Transportation LLC in Collegedale. Needs a live check of 423-503-0258."
+},
+"265": {
+"i": 265,
+"name": "East Ridge Fast Lube",
+"status": "keep",
+"email": "eastridgefastlube@yahoo.com",
+"website": "chattfastlube.com",
+"evidence": "Business-maintained Facebook page for the operator",
+"note": "Business-run page: found email and website chattfastlube.com - the sheet had neither. Same operator runs Broad Street Fast Lube at 3225 Broad St, 423-752-0059; the East Ridge address and phone in the sheet were not shown on the page."
+},
+"261": {
+"i": 261,
+"name": "Red Bank Electric",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "A business page exists under this name in Red Bank, but no phone or address is published there, so the sheet details are unconfirmed."
+},
+"235": {
+"i": 235,
+"name": "Tower Services",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found for Tower Services Inc in Hixson; tower-services.com belongs to an unrelated agricultural firm in North Carolina. Needs a live check of 423-843-2363."
+},
+"247": {
+"i": 247,
+"name": "Precise Plumbing",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found for Precise Plumbing in Soddy-Daisy. Needs a live check of 423-843-0124. Note the Hixson row of the same name is also unconfirmed - they may be one business or neither."
+},
+"278": {
+"i": 278,
+"name": "Marispan Property Management",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found under this name; the spelling may be wrong. Needs a live check of 423-886-7392."
+},
+"317": {
+"i": 317,
+"name": "Allied Electrical",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found for Allied Electrical & Control in Soddy-Daisy. Needs a live check of 423-877-7421."
 }
 }
