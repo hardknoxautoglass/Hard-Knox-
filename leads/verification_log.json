@@ -2475,10 +2475,10 @@
 },
 "352": {
 "i": 352,
+"name": "Stanford Plumbing",
 "status": "keep",
-"note": "NEW LEAD. Business-run page confirms a full-service plumbing and heating company in Hixson serving Chattanooga since 1979 - a long-established service-van fleet. No phone or address published on the page.",
 "evidence": "Business-maintained Facebook page",
-"new_lead": true
+"note": "NEW LEAD. Business-run page confirms a full-service plumbing and heating company in Hixson serving Chattanooga since 1979. A second search found no official site publishing a number, so the phone must come from a call."
 },
 "353": {
 "i": 353,
@@ -2503,10 +2503,14 @@
 },
 "356": {
 "i": 356,
+"name": "Scenic City Plumbing",
 "status": "keep",
-"note": "NEW LEAD. Business-run page: Hixson address confirmed at 6148 Dayton Blvd. Does water service line work, so a van and equipment fleet. No phone published on the page.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"phone": "(423) 220-3302",
+"email": "infopipeline@sceniccityplumbing.com",
+"website": "sceniccityplumbing.com",
+"zip": "37343",
+"evidence": "Contact page on sceniccityplumbing.com",
+"note": "NEW LEAD. OFFICIAL SITE: found their website, phone and email - the page-only search had none of these. Water and drain line replacement across greater Chattanooga, so a van and equipment fleet. Hours Mon-Fri 8:00-16:30."
 },
 "357": {
 "i": 357,
@@ -2517,10 +2521,15 @@
 },
 "358": {
 "i": 358,
+"name": "White Star Dry Cleaners",
 "status": "keep",
-"note": "NEW LEAD. Business-run page confirms a family-owned dry cleaning and laundry business in Hixson serving Chattanooga. No phone or address published on the page.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"priority": "B",
+"address": "5936 Hixson Pike",
+"zip": "37343",
+"phone": "(423) 843-0558",
+"website": "whitestardrycleaners.com",
+"evidence": "Locations and contact pages on whitestardrycleaners.com",
+"note": "NEW LEAD. OFFICIAL SITE: Hixson is their main office at 5936 Hixson Pike, 423-843-0558, with further stores downtown and on Signal Mountain and a general line 423-777-7827. UPGRADED to B from C: they run pickup and delivery routes, so there are vans on the road daily, not just a shopfront."
 },
 "359": {
 "i": 359,
@@ -2556,10 +2565,15 @@
 },
 "363": {
 "i": 363,
+"name": "Hixson Dental Group",
 "status": "keep",
-"note": "NEW LEAD. Business-run page confirms the practice has served Hixson and Chattanooga for 35+ years and recently added two dentists. No phone or address published on the page.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"address": "1605 Williams Rd",
+"zip": "37343",
+"phone": "(423) 843-0418",
+"email": "info@hixsondentalgroup.com",
+"website": "hixsondentalgroup.com",
+"evidence": "Contact page on hixsondentalgroup.com",
+"note": "NEW LEAD. OFFICIAL SITE: found their website, address, phone and email. Serving Hixson and Chattanooga 35+ years."
 },
 "364": {
 "i": 364,
@@ -2626,10 +2640,10 @@
 },
 "373": {
 "i": 373,
+"name": "Highland Tire",
 "status": "keep",
-"note": "NEW LEAD. Business-run page confirms a locally owned tire and auto shop with Hixson and Fort Oglethorpe locations. No phone or address published on the page.",
 "evidence": "Business-maintained Facebook page",
-"new_lead": true
+"note": "NEW LEAD. Business-run page confirms a locally owned tire and auto shop with Hixson and Fort Oglethorpe locations. A second search found no official site - highlandtire.com is an unrelated Pennsylvania chain. Phone must come from a call."
 },
 "374": {
 "i": 374,
@@ -2752,9 +2766,9 @@
 },
 "390": {
 "i": 390,
+"name": "Canyon Creek Christian Academy",
 "status": "keep",
-"note": "NEW LEAD. School page confirms a Christian hybrid tutorial in Hixson. Small, so likely a van rather than a fleet. No phone or address published.",
 "evidence": "School's own Facebook page",
-"new_lead": true
+"note": "NEW LEAD. School page confirms a Christian hybrid tutorial in Hixson; a second search found no official site publishing a number. Small, so likely a van rather than a fleet."
 }
 }
