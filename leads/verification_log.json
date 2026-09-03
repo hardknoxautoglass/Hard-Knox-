@@ -704,11 +704,6 @@
 },
 "112": {
 "i": 112,
-"status": "delete",
-"note": "DELETED: Carter Distributing Co. was acquired by Cherokee Distributing (Knoxville) in Oct 2017 and no longer operates as an independent company. Directory listings are stale. Replaced by Cherokee Distributing Chattanooga."
-},
-"112.5": {
-"i": 112.5,
 "status": "keep",
 "address": "537 Market St Ste 100",
 "note": "verified active 95 yrs, BBB A+; no website"
@@ -902,13 +897,6 @@
 "142": {
 "i": 142,
 "status": "keep",
-"website": "jplandscapingandexcavation.com",
-"address": "8236 Harrison Bay Rd",
-"note": "found website"
-},
-"142.5": {
-"i": 142.5,
-"status": "keep",
 "address": "5605 Hixson Pike",
 "note": "verified rdwrecker.com live; 30+ yrs"
 },
@@ -966,13 +954,6 @@
 },
 "152": {
 "i": 152,
-"status": "keep",
-"website": "chattanoogapoolservices.com",
-"address": "7249 Aventine Way",
-"note": "found website"
-},
-"152.5": {
-"i": 152.5,
 "status": "keep",
 "address": "6102 Shallowford Rd Ste 105",
 "note": "verified pinnaclepoolsandspas.com live"
@@ -1036,14 +1017,6 @@
 },
 "163": {
 "i": 163,
-"status": "keep",
-"website": "printingplussigns.com",
-"email": "orders@printingplussigns.com",
-"address": "1922 Dayton Blvd",
-"note": "found website+email"
-},
-"163.5": {
-"i": 163.5,
 "status": "keep",
 "email": "rick@getpowerwashed.com",
 "address": "3311 4th Ave",
@@ -1131,8 +1104,9 @@
 },
 "178": {
 "i": 178,
-"status": "delete",
-"note": "DELETED: 8949 Dayton Pike / 423-877-6303 is Gas Appliances Unlimited's Soddy-Daisy store, not ThompsonGas. No ThompsonGas branch verified in Soddy-Daisy. Duplicate of row for Gas Appliances Unlimited."
+"status": "keep",
+"address": "1105 Stuart St",
+"note": "verified holstongases.com Chattanooga page live"
 },
 "177": {
 "i": 177,
@@ -1142,12 +1116,6 @@
 "zip": "37363",
 "contact": "Anthony (Tony) Smith",
 "note": "CORRECTED city: Ooltewah not Collegedale. Phone confirmed; family owned since 1998"
-},
-"178.5": {
-"i": 178.5,
-"status": "keep",
-"address": "1105 Stuart St",
-"note": "verified holstongases.com Chattanooga page live"
 },
 "181": {
 "i": 181,
@@ -1175,14 +1143,6 @@
 "status": "keep",
 "address": "6728 Ringgold Rd",
 "note": "verified rv.campingworld.com Chattanooga dealer page live"
-},
-"186": {
-"i": 186,
-"status": "keep",
-"website": "chattanoogacampersales.com",
-"email": "chattanoogacampers@gmail.com",
-"address": "5911 Ringgold Rd",
-"note": "found website+email"
 },
 "188": {
 "i": 188,
@@ -1633,11 +1593,62 @@
 "evidence": "protechauto.mechanicnet.com contact details",
 "note": "OFFICIAL SITE: address, phone and email confirmed."
 },
-"306": {
-"i": 306,
+"305": {
+"i": 305,
 "name": "Chattanooga Paint",
 "status": "keep",
 "evidence": "Location pages on chattanoogapaint.com",
 "note": "OFFICIAL SITE: Hixson and Ooltewah stores confirmed, plus Dalton GA since 2024. Benjamin Moore retailer since 1985, does wholesale. Address and phone not published in search results."
+},
+"296": {
+"i": 296,
+"name": "North River Church",
+"status": "keep",
+"address": "5954 Highway 153",
+"zip": "37343",
+"email": "pastor@northrivercma.org",
+"evidence": "Contact page on northrivercma.org",
+"note": "OFFICIAL SITE: address, phone and email confirmed."
+},
+"297": {
+"i": 297,
+"name": "Christian Brothers Automotive",
+"status": "keep",
+"address": "5595 Hixson Pike",
+"zip": "37343",
+"evidence": "Contact page on cbac.com/hixson",
+"note": "OFFICIAL SITE: address and phone confirmed. No email published; franchise uses a contact form."
+},
+"313": {
+"i": 313,
+"name": "Integrity Service Heating",
+"status": "keep",
+"address": "106 Karen Dr",
+"zip": "37379",
+"email": "info@integrityheatandcool.com",
+"evidence": "Contact page on integrityheatandcool.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed. Does commercial HVAC and restaurant equipment - good fleet prospect."
+},
+"314": {
+"i": 314,
+"name": "Soddy Daisy MountainView",
+"status": "keep",
+"evidence": "soddydaisymountainviewheatingcooling.com",
+"note": "OFFICIAL SITE: phone confirmed, 24/7 emergency service. No address or email published."
+},
+"315": {
+"i": 315,
+"name": "All Around Heating",
+"status": "keep",
+"evidence": "aaheatingandairtn.com about page",
+"note": "OFFICIAL SITE: live, Soddy-Daisy based, serves greater Chattanooga. No address, phone or email published - sheet phone unconfirmed."
+},
+"184": {
+"i": 184,
+"status": "keep",
+"website": "chattanoogacampersales.com",
+"email": "chattanoogacampers@gmail.com",
+"address": "5911 Ringgold Rd",
+"note": "found website+email"
 }
 }
