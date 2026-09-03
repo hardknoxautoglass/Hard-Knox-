@@ -1415,5 +1415,106 @@
 "zip": "37363",
 "evidence": "Ooltewah location page on americanairhvac.com",
 "note": "OFFICIAL SITE: address+phone confirmed"
+},
+"238": {
+"i": 238,
+"name": "Lee Roofing",
+"status": "keep",
+"phone": "(423) 589-1792",
+"evidence": "leeroofingcompany.com contact page",
+"note": "OFFICIAL SITE: CORRECTED phone to 423-589-1792 (sheet had 423-215-6365). Street address not published on their site."
+},
+"239": {
+"i": 239,
+"name": "One Source Heating",
+"status": "keep",
+"phone": "(423) 528-9866",
+"evidence": "Chattanooga service pages on onesourceair.com",
+"note": "OFFICIAL SITE: CORRECTED Chattanooga phone to 423-528-9866 (sheet had 423-567-8877). Multi-state operator, HQ Birmingham AL; local address not published."
+},
+"241": {
+"i": 241,
+"name": "Action Air",
+"status": "keep",
+"address": "7605 Hixson Pike",
+"zip": "37343",
+"evidence": "Hixson service-area page on callactionairtoday.com",
+"note": "OFFICIAL SITE: address and phone confirmed. Commercial HVAC division."
+},
+"242": {
+"i": 242,
+"name": "Jess Kerley Heating",
+"status": "keep",
+"address": "1716 Starboard Dr",
+"zip": "37343",
+"email": "sambmaddox@icloud.com",
+"evidence": "Contact page on jesskerleyhvac.net",
+"note": "OFFICIAL SITE: address, phone and email confirmed. Open 7 days."
+},
+"244": {
+"i": 244,
+"name": "Tri-State Pools Hixson",
+"status": "keep",
+"address": "5731 Highway 153",
+"zip": "37343",
+"evidence": "Contact page on tristatepoolshixson.com",
+"note": "OFFICIAL SITE: address and phone confirmed. Contact Beverly Reynolds."
+},
+"248": {
+"i": 248,
+"name": "Romero Roofing",
+"status": "keep",
+"address": "10406 Dayton Pike",
+"zip": "37379",
+"evidence": "romero-roofing.com about/contact pages",
+"note": "OFFICIAL SITE: address confirmed; trades as Romero Roofing and Exteriors, Inc. Phone not published on site, sheet number unconfirmed."
+},
+"249": {
+"i": 249,
+"name": "VLR Homes",
+"status": "keep",
+"address": "11206 Hixson Pike",
+"zip": "37379",
+"email": "office@vlrhomes.com",
+"evidence": "Contact page on vlrhomes.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed. Owner Francisco Romero."
+},
+"251": {
+"i": 251,
+"name": "Williamson & Sons",
+"status": "keep",
+"address": "8852 Dayton Pike",
+"zip": "37379",
+"evidence": "Directions page on williamsonandsons.com",
+"note": "OFFICIAL SITE: address and phone confirmed."
+},
+"252": {
+"i": 252,
+"name": "Storage Works",
+"status": "keep",
+"address": "8701 Dayton Pike Ste 101",
+"zip": "37379",
+"evidence": "Contact page on soddydaisystorageworks.com",
+"note": "OFFICIAL SITE: address and phone confirmed."
+},
+"255": {
+"i": 255,
+"name": "Ooltewah Veterinary Hospital",
+"status": "keep",
+"address": "5243 Little Debbie Pkwy",
+"zip": "37363",
+"email": "info@ooltewahvet.com",
+"evidence": "Contact page on ooltewahvet.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed. Family owned."
+},
+"257": {
+"i": 257,
+"name": "Animal Medical Professionals",
+"status": "keep",
+"address": "5620 Main St",
+"zip": "37363",
+"email": "ampvetclinic@gmail.com",
+"evidence": "Contact page on ampvetclinic.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed. AAHA-accredited."
 }
 }
