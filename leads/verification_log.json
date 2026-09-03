@@ -1764,5 +1764,56 @@
 "status": "keep",
 "evidence": "drjoychiropractic.com homepage",
 "note": "OFFICIAL SITE: live, Dr Joy-Lynn Norris, Collegedale. No address, phone or email published on the site - sheet phone unconfirmed."
+},
+"367": {
+"i": 367,
+"name": "Signal Pest Control",
+"status": "keep",
+"evidence": "signalmountainpestcontrol.com contact and about pages",
+"note": "OFFICIAL SITE: phone confirmed; has a commercial pest division and serves TN and North Georgia. No street address or email published, so the sheet address is unconfirmed."
+},
+"373": {
+"i": 373,
+"name": "Welch Dental Center",
+"status": "keep",
+"evidence": "welchdds.com",
+"note": "OFFICIAL SITE: phone confirmed (fax 423-886-2726). Street address and email not published, so the sheet address is unconfirmed."
+},
+"374": {
+"i": 374,
+"name": "Sawrie Family Dentistry",
+"status": "keep",
+"address": "1807 Taft Hwy Ste 4",
+"zip": "37377",
+"evidence": "sawriedental.com",
+"note": "OFFICIAL SITE: address and phone confirmed. Their own page title still shows an older 1229 Taft Highway address; 1807 Taft Hwy Ste 4 is the one they publish as current."
+},
+"376": {
+"i": 376,
+"name": "Pruett's Market",
+"status": "keep",
+"address": "1210 Taft Hwy",
+"zip": "37377",
+"evidence": "Signal Mountain location page on pruettsmarket.com",
+"note": "OFFICIAL SITE: address and phone confirmed. Grocery with deli, bakery and floral; no email published."
+},
+"378": {
+"i": 378,
+"name": "Signal Mountain Presbyterian",
+"status": "keep",
+"address": "612 James Blvd",
+"zip": "37377",
+"evidence": "signalpres.org",
+"note": "OFFICIAL SITE: address and phone confirmed (fax 423-886-3977). No email published."
+},
+"379": {
+"i": 379,
+"name": "Lookout Mountain Dental",
+"status": "keep",
+"address": "120 N Watauga Ln",
+"zip": "37350",
+"email": "info@lookoutmountaindental.com",
+"evidence": "Contact page on lookoutmountaindental.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed."
 }
 }
