@@ -1355,8 +1355,8 @@
 "evidence": "Contact page on ooltewahflooringgallery.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed"
 },
-"230": {
-"i": 230,
+"229": {
+"i": 229,
 "status": "keep",
 "address": "7610 Lee Hwy",
 "zip": "37421",
@@ -1365,45 +1365,38 @@
 },
 "231": {
 "i": 231,
-"name": "31W Insulation",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED after a second attempt on both 31winsulation.com and 31-w.com: neither returns a Chattanooga branch. The 877 number in the sheet is a national line, not a local one. Needs a live call before working."
-},
-"233": {
-"i": 233,
 "status": "keep",
 "address": "2505 N Orchard Knob Ave",
 "zip": "37406",
 "evidence": "breedinginsulationtn.com official site",
 "note": "OFFICIAL SITE: address+phone confirmed; 30+ yrs commercial insulation"
 },
-"237": {
-"i": 237,
+"232": {
+"i": 232,
 "status": "keep",
 "address": "8121 Ooltewah Georgetown Rd #106",
 "zip": "37363",
 "evidence": "Ooltewah location page on americanairhvac.com",
 "note": "OFFICIAL SITE: address+phone confirmed"
 },
-"238": {
-"i": 238,
+"233": {
+"i": 233,
 "name": "Lee Roofing",
 "status": "keep",
 "phone": "(423) 589-1792",
 "evidence": "leeroofingcompany.com contact page",
 "note": "OFFICIAL SITE: CORRECTED phone to 423-589-1792 (sheet had 423-215-6365). Street address not published on their site."
 },
-"239": {
-"i": 239,
+"234": {
+"i": 234,
 "name": "One Source Heating",
 "status": "keep",
 "phone": "(423) 528-9866",
 "evidence": "Chattanooga service pages on onesourceair.com",
 "note": "OFFICIAL SITE: CORRECTED Chattanooga phone to 423-528-9866 (sheet had 423-567-8877). Multi-state operator, HQ Birmingham AL; local address not published."
 },
-"241": {
-"i": 241,
+"235": {
+"i": 235,
 "name": "Action Air",
 "status": "keep",
 "address": "7605 Hixson Pike",
@@ -1411,8 +1404,8 @@
 "evidence": "Hixson service-area page on callactionairtoday.com",
 "note": "OFFICIAL SITE: address and phone confirmed. Commercial HVAC division."
 },
-"242": {
-"i": 242,
+"236": {
+"i": 236,
 "name": "Jess Kerley Heating",
 "status": "keep",
 "address": "1716 Starboard Dr",
@@ -1421,8 +1414,8 @@
 "evidence": "Contact page on jesskerleyhvac.net",
 "note": "OFFICIAL SITE: address, phone and email confirmed. Open 7 days."
 },
-"244": {
-"i": 244,
+"238": {
+"i": 238,
 "name": "Tri-State Pools Hixson",
 "status": "keep",
 "address": "5731 Highway 153",
@@ -1430,8 +1423,8 @@
 "evidence": "Contact page on tristatepoolshixson.com",
 "note": "OFFICIAL SITE: address and phone confirmed. Contact Beverly Reynolds."
 },
-"248": {
-"i": 248,
+"240": {
+"i": 240,
 "name": "Romero Roofing",
 "status": "keep",
 "address": "10406 Dayton Pike",
@@ -1439,8 +1432,8 @@
 "evidence": "romero-roofing.com about/contact pages",
 "note": "OFFICIAL SITE: address confirmed; trades as Romero Roofing and Exteriors, Inc. Phone not published on site, sheet number unconfirmed."
 },
-"249": {
-"i": 249,
+"241": {
+"i": 241,
 "name": "VLR Homes",
 "status": "keep",
 "address": "11206 Hixson Pike",
@@ -1449,8 +1442,8 @@
 "evidence": "Contact page on vlrhomes.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. Owner Francisco Romero."
 },
-"251": {
-"i": 251,
+"243": {
+"i": 243,
 "name": "Williamson & Sons",
 "status": "keep",
 "address": "8852 Dayton Pike",
@@ -1458,8 +1451,8 @@
 "evidence": "Directions page on williamsonandsons.com",
 "note": "OFFICIAL SITE: address and phone confirmed."
 },
-"252": {
-"i": 252,
+"244": {
+"i": 244,
 "name": "Storage Works",
 "status": "keep",
 "address": "8701 Dayton Pike Ste 101",
@@ -1467,8 +1460,8 @@
 "evidence": "Contact page on soddydaisystorageworks.com",
 "note": "OFFICIAL SITE: address and phone confirmed."
 },
-"255": {
-"i": 255,
+"246": {
+"i": 246,
 "name": "Ooltewah Veterinary Hospital",
 "status": "keep",
 "address": "5243 Little Debbie Pkwy",
@@ -1477,8 +1470,8 @@
 "evidence": "Contact page on ooltewahvet.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. Family owned."
 },
-"257": {
-"i": 257,
+"248": {
+"i": 248,
 "name": "Animal Medical Professionals",
 "status": "keep",
 "address": "5620 Main St",
@@ -1487,15 +1480,15 @@
 "evidence": "Contact page on ampvetclinic.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. AAHA-accredited."
 },
-"258": {
-"i": 258,
+"249": {
+"i": 249,
 "name": "Northwest Exterminating",
 "status": "keep",
 "evidence": "Ooltewah location page on callnorthwest.com",
 "note": "OFFICIAL SITE: Ooltewah branch and phone 423-822-5760 confirmed. Street address not published; regional operator since 1951."
 },
-"260": {
-"i": 260,
+"251": {
+"i": 251,
 "name": "Tedford Family Dentistry",
 "status": "keep",
 "address": "9380 Bradmore Ln Ste 108",
@@ -1503,8 +1496,8 @@
 "evidence": "Contact page on tedfordfamilydentistry.com",
 "note": "OFFICIAL SITE: address and phone confirmed. Email on site is obfuscated, none published in the clear."
 },
-"263": {
-"i": 263,
+"253": {
+"i": 253,
 "name": "Galloway's Lawn Service",
 "status": "keep",
 "address": "3521 Hixson Pike",
@@ -1514,8 +1507,8 @@
 "evidence": "Contact page on gallowayslawnservice.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. CORRECTED city to Chattanooga 37415 (sheet said Red Bank). Has a commercial grounds division."
 },
-"274": {
-"i": 274,
+"260": {
+"i": 260,
 "name": "Harrison Bay Boat",
 "status": "keep",
 "address": "7055 Harvest Run Dr",
@@ -1523,8 +1516,8 @@
 "evidence": "Contact page on harrisonbaystorage.com",
 "note": "OFFICIAL SITE: address and phone confirmed."
 },
-"275": {
-"i": 275,
+"261": {
+"i": 261,
 "name": "Island Cove Marina",
 "status": "keep",
 "address": "6701 Highway 58",
@@ -1532,15 +1525,8 @@
 "evidence": "Contact page on islandcove.com",
 "note": "OFFICIAL SITE: address and phone confirmed. Trades as Island Cove Outdoor Center; boat sales 423-344-1276."
 },
-"282": {
-"i": 282,
-"name": "Tree Busters",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED after a second attempt: no business-run page for Tree Busters in Sale Creek or Soddy-Daisy; the only Tree Busters page found is in Massachusetts. The website originally on this row belonged to Nabor's Tree Service. Needs a live call to 423-503-0949."
-},
-"285": {
-"i": 285,
+"267": {
+"i": 267,
 "name": "Maxi Auto Service",
 "status": "keep",
 "address": "5229 Hixson Pike",
@@ -1548,24 +1534,16 @@
 "evidence": "Contact page on maxicarcarehixson.com",
 "note": "OFFICIAL SITE: address and phone confirmed. Site advertises fleet repair for imports and domestics - strong fleet prospect."
 },
-"293": {
-"i": 293,
+"272": {
+"i": 272,
 "name": "Ray's Plumbing",
 "status": "keep",
 "email": "raysplumbingchattanooga@gmail.com",
 "evidence": "Contact page on rayplumbingchattanooga.com",
 "note": "OFFICIAL SITE: phone and email confirmed. No street address published; serves greater Chattanooga from Hixson."
 },
-"292": {
-"i": 292,
-"name": "Precise Plumbing",
-"status": "recheck",
-"website": "Not publicly available",
-"evidence": "none",
-"note": "WEBSITE WRONG: preciseplumbing.com is a Los Angeles company (323/818 numbers), not the Hixson business. Removed. Also likely duplicates the Precise Plumbing row for Soddy-Daisy - check before keeping both."
-},
-"284": {
-"i": 284,
+"266": {
+"i": 266,
 "name": "Gudel's Garage",
 "status": "keep",
 "address": "6403 Middle Valley Rd",
@@ -1573,15 +1551,15 @@
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page fills the gap their website left: address 6403 Middle Valley Rd confirmed, family owned since 1979. Their page lists 423-842-5277 while the sheet has 423-842-8010 - try both, the second may be the towing line."
 },
-"287": {
-"i": 287,
+"268": {
+"i": 268,
 "name": "HEP Is On The Way",
 "status": "keep",
 "evidence": "Hixson service-area pages on hepisontheway.com",
 "note": "OFFICIAL SITE: Hixson service area confirmed (plumbing, electrical, HVAC, roofing, 24/7). Multi-market operator incl. Knoxville and Cleveland; no local address or phone published."
 },
-"288": {
-"i": 288,
+"269": {
+"i": 269,
 "name": "L&B Lawn",
 "status": "keep",
 "address": "5928 Hixson Pike Ste A #113",
@@ -1589,15 +1567,15 @@
 "evidence": "Business-maintained Facebook page",
 "note": "OFFICIAL SITE plus business-run page: site confirmed the firm is licensed, insured and serves commercial and residential; their page adds the address 5928 Hixson Pike Ste A #113 and phone 423-715-3751, which the website did not publish."
 },
-"294": {
-"i": 294,
+"273": {
+"i": 273,
 "name": "Hixson Pike Dental",
 "status": "keep",
 "evidence": "hixsonpikedental.com",
 "note": "OFFICIAL SITE: phone confirmed. Street address not published; also serves Harrison."
 },
-"300": {
-"i": 300,
+"279": {
+"i": 279,
 "name": "Protech Automotive",
 "status": "keep",
 "address": "6462 Hixson Pike Ste 100",
@@ -1606,15 +1584,15 @@
 "evidence": "protechauto.mechanicnet.com contact details",
 "note": "OFFICIAL SITE: address, phone and email confirmed."
 },
-"305": {
-"i": 305,
+"283": {
+"i": 283,
 "name": "Chattanooga Paint",
 "status": "keep",
 "evidence": "Location pages on chattanoogapaint.com",
 "note": "OFFICIAL SITE: Hixson and Ooltewah stores confirmed, plus Dalton GA since 2024. Benjamin Moore retailer since 1985, does wholesale. Address and phone not published in search results."
 },
-"296": {
-"i": 296,
+"275": {
+"i": 275,
 "name": "North River Church",
 "status": "keep",
 "address": "5954 Highway 153",
@@ -1623,8 +1601,8 @@
 "evidence": "Contact page on northrivercma.org",
 "note": "OFFICIAL SITE: address, phone and email confirmed."
 },
-"297": {
-"i": 297,
+"276": {
+"i": 276,
 "name": "Christian Brothers Automotive",
 "status": "keep",
 "address": "5595 Hixson Pike",
@@ -1632,8 +1610,8 @@
 "evidence": "Contact page on cbac.com/hixson",
 "note": "OFFICIAL SITE: address and phone confirmed. No email published; franchise uses a contact form."
 },
-"313": {
-"i": 313,
+"290": {
+"i": 290,
 "name": "Integrity Service Heating",
 "status": "keep",
 "address": "106 Karen Dr",
@@ -1642,15 +1620,15 @@
 "evidence": "Contact page on integrityheatandcool.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. Does commercial HVAC and restaurant equipment - good fleet prospect."
 },
-"314": {
-"i": 314,
+"291": {
+"i": 291,
 "name": "Soddy Daisy MountainView",
 "status": "keep",
 "evidence": "soddydaisymountainviewheatingcooling.com",
 "note": "OFFICIAL SITE: phone confirmed, 24/7 emergency service. No address or email published."
 },
-"315": {
-"i": 315,
+"292": {
+"i": 292,
 "name": "All Around Heating",
 "status": "keep",
 "evidence": "aaheatingandairtn.com about page",
@@ -1664,8 +1642,8 @@
 "address": "5911 Ringgold Rd",
 "note": "found website+email"
 },
-"329": {
-"i": 329,
+"302": {
+"i": 302,
 "name": "Harbor Lights Marina",
 "status": "keep",
 "address": "9680 Hixson Pike",
@@ -1674,8 +1652,8 @@
 "evidence": "Contact page on harborlightsmarinatn.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. Marina store and fuel dock on site."
 },
-"334": {
-"i": 334,
+"306": {
+"i": 306,
 "name": "Soddy Daisy Speed Shop",
 "status": "keep",
 "address": "9632 Dayton Pike",
@@ -1683,8 +1661,8 @@
 "evidence": "soddyspeed.com service pages",
 "note": "OFFICIAL SITE: address and phone confirmed. No email published."
 },
-"346": {
-"i": 346,
+"317": {
+"i": 317,
 "name": "Collegedale Exxon",
 "status": "keep",
 "address": "9416 Apison Pike",
@@ -1692,8 +1670,8 @@
 "evidence": "Contact page on collegedaleexxon.com",
 "note": "OFFICIAL SITE: address and phone confirmed. Fuel, towing and ASE-certified repair since 1974; email only via site form."
 },
-"354": {
-"i": 354,
+"324": {
+"i": 324,
 "name": "Village Market",
 "status": "keep",
 "address": "5002 University Dr",
@@ -1702,8 +1680,8 @@
 "evidence": "Contact page on vmcollegedale.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. Run by Southern Adventist University."
 },
-"355": {
-"i": 355,
+"325": {
+"i": 325,
 "name": "College Press",
 "status": "keep",
 "address": "4981 Colcord Dr",
@@ -1711,8 +1689,8 @@
 "evidence": "Contact page on cplitho.com",
 "note": "OFFICIAL SITE: address confirmed. Commercial printer with warehousing, fulfilment and bulk mailing; phone and email not published in results."
 },
-"357": {
-"i": 357,
+"326": {
+"i": 326,
 "name": "Solutions Pharmacy",
 "status": "keep",
 "address": "5517 Little Debbie Pkwy",
@@ -1721,8 +1699,8 @@
 "evidence": "Contact page on solutionspharmacy.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. Note the email domain is solutions-pharmacy.com, hyphenated, unlike the website."
 },
-"348": {
-"i": 348,
+"319": {
+"i": 319,
 "name": "Life Care Center of Collegedale",
 "status": "keep",
 "address": "9210 Apison Pike",
@@ -1730,8 +1708,8 @@
 "evidence": "Contact page on lifecarecenterofcollegedale.com",
 "note": "OFFICIAL SITE: address and phone confirmed. No email published; fax 423-396-3420."
 },
-"349": {
-"i": 349,
+"320": {
+"i": 320,
 "name": "Southern Adventist University",
 "status": "keep",
 "address": "10035 Park Ln",
@@ -1741,8 +1719,8 @@
 "evidence": "Transportation Services contact page on southern.edu",
 "note": "OFFICIAL SITE: reached the actual fleet contact. Transportation Services is 423-236-2716 / transportation@southern.edu at 10035 Park Lane - use this rather than the 423-236-2000 switchboard the sheet had."
 },
-"361": {
-"i": 361,
+"329": {
+"i": 329,
 "name": "Collegedale Coin Laundry",
 "status": "keep",
 "address": "5032 Ooltewah Ringgold Rd",
@@ -1751,8 +1729,8 @@
 "evidence": "collegedalecoinlaundry.com site pages",
 "note": "OFFICIAL SITE: address and phone confirmed. CORRECTED city to Ooltewah (sheet said Collegedale). Open 24h, trading since 1992. Email shown only truncated on the site."
 },
-"364": {
-"i": 364,
+"331": {
+"i": 331,
 "name": "D & G Roofing",
 "status": "keep",
 "address": "2016 Dayton Blvd",
@@ -1762,8 +1740,8 @@
 "evidence": "Contact page on dgroofingco.com",
 "note": "OFFICIAL SITE: CORRECTED phone to 423-987-7529 (sheet had 423-877-5716) and city to Chattanooga (sheet said Signal Mountain). Also does siding, decks and painting."
 },
-"366": {
-"i": 366,
+"332": {
+"i": 332,
 "name": "Signal Mountain Nursery",
 "status": "keep",
 "address": "1100 Hubbard Rd",
@@ -1771,29 +1749,29 @@
 "evidence": "Contact page on signalmtnnursery.com",
 "note": "OFFICIAL SITE: address and phone confirmed. No email published."
 },
-"360": {
-"i": 360,
+"328": {
+"i": 328,
 "name": "Joy Chiropractic",
 "status": "keep",
 "evidence": "drjoychiropractic.com homepage",
 "note": "OFFICIAL SITE: live, Dr Joy-Lynn Norris, Collegedale. No address, phone or email published on the site - sheet phone unconfirmed."
 },
-"367": {
-"i": 367,
+"333": {
+"i": 333,
 "name": "Signal Pest Control",
 "status": "keep",
 "evidence": "signalmountainpestcontrol.com contact and about pages",
 "note": "OFFICIAL SITE: phone confirmed; has a commercial pest division and serves TN and North Georgia. No street address or email published, so the sheet address is unconfirmed."
 },
-"373": {
-"i": 373,
+"338": {
+"i": 338,
 "name": "Welch Dental Center",
 "status": "keep",
 "evidence": "welchdds.com",
 "note": "OFFICIAL SITE: phone confirmed (fax 423-886-2726). Street address and email not published, so the sheet address is unconfirmed."
 },
-"374": {
-"i": 374,
+"339": {
+"i": 339,
 "name": "Sawrie Family Dentistry",
 "status": "keep",
 "address": "1807 Taft Hwy Ste 4",
@@ -1801,8 +1779,8 @@
 "evidence": "sawriedental.com",
 "note": "OFFICIAL SITE: address and phone confirmed. Their own page title still shows an older 1229 Taft Highway address; 1807 Taft Hwy Ste 4 is the one they publish as current."
 },
-"376": {
-"i": 376,
+"340": {
+"i": 340,
 "name": "Pruett's Market",
 "status": "keep",
 "address": "1210 Taft Hwy",
@@ -1810,8 +1788,8 @@
 "evidence": "Signal Mountain location page on pruettsmarket.com",
 "note": "OFFICIAL SITE: address and phone confirmed. Grocery with deli, bakery and floral; no email published."
 },
-"378": {
-"i": 378,
+"341": {
+"i": 341,
 "name": "Signal Mountain Presbyterian",
 "status": "keep",
 "address": "612 James Blvd",
@@ -1819,8 +1797,8 @@
 "evidence": "signalpres.org",
 "note": "OFFICIAL SITE: address and phone confirmed (fax 423-886-3977). No email published."
 },
-"379": {
-"i": 379,
+"342": {
+"i": 342,
 "name": "Lookout Mountain Dental",
 "status": "keep",
 "address": "120 N Watauga Ln",
@@ -1839,15 +1817,15 @@
 "evidence": "chattanoogafoundationpros.com",
 "note": "OFFICIAL SITE: address and phone 423-225-9487 confirmed. Caution - the site also carries unrelated SEO filler pages, so treat it as thin; worth a live call before working the lead."
 },
-"232": {
-"i": 232,
+"230": {
+"i": 230,
 "name": "USA Insulation",
 "status": "keep",
 "evidence": "Chattanooga branch pages on usainsulation.net",
 "note": "OFFICIAL SITE: Chattanooga branch confirmed, with its own Hixson and Rossville service pages. Franchise site publishes no local phone, address or email."
 },
-"267": {
-"i": 267,
+"257": {
+"i": 257,
 "name": "Physicians Care East Ridge",
 "status": "keep",
 "address": "403 McBrien Rd",
@@ -1856,8 +1834,8 @@
 "evidence": "East Ridge location page on urgentteam.com",
 "note": "OFFICIAL SITE: address confirmed. CORRECTED city to Chattanooga 37412 (the clinic's own mailing city, though it sits in East Ridge). Phone not published; site directs to PhyCare.net."
 },
-"308": {
-"i": 308,
+"285": {
+"i": 285,
 "name": "Physicians Care Walk-in Clinic",
 "status": "keep",
 "address": "4490 Hixson Pike",
@@ -1866,23 +1844,15 @@
 "evidence": "Hixson location page on urgentteam.com",
 "note": "OFFICIAL SITE: address confirmed. CORRECTED city to Chattanooga 37343. Phone not published on the location page."
 },
-"289": {
-"i": 289,
-"name": "Northwest Exterminating (Hixson)",
-"status": "recheck",
-"website": "Not publicly available",
-"evidence": "none",
-"note": "WEBSITE WRONG: northwestexterminating.com returns nothing for this branch; the company's real domain is callnorthwest.com. Removed. This row also likely duplicates the Northwest Exterminating row for Ooltewah - check before keeping both."
-},
-"338": {
-"i": 338,
+"309": {
+"i": 309,
 "name": "Daisy Church of God",
 "status": "keep",
 "evidence": "daisychurchofgod.net homepage",
 "note": "OFFICIAL SITE: live, affiliated with Church of God (Cleveland TN). No address, phone or email published - sheet details unconfirmed."
 },
-"339": {
-"i": 339,
+"310": {
+"i": 310,
 "name": "Soddy Church of Christ",
 "status": "keep",
 "address": "11665 Hixson Pike",
@@ -1890,8 +1860,8 @@
 "evidence": "soddychurchofchrist.org",
 "note": "OFFICIAL SITE: address and phone confirmed. Mailing address PO Box 187, Soddy-Daisy 37384. No email published."
 },
-"340": {
-"i": 340,
+"311": {
+"i": 311,
 "name": "Holy Spirit Catholic Church",
 "status": "keep",
 "address": "10768 Dayton Pike",
@@ -1900,8 +1870,8 @@
 "evidence": "Contact page on holyspiritsoddydaisy.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. Rectory 423-332-8383; mailing PO Box 1015, Soddy-Daisy 37384."
 },
-"341": {
-"i": 341,
+"312": {
+"i": 312,
 "name": "Soddy Daisy First Baptist",
 "status": "keep",
 "address": "10185 Dayton Pike",
@@ -1910,8 +1880,8 @@
 "evidence": "About page on fbcsoddydaisy.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. Office Mon-Thu 9-4; pastor Brandon Johns."
 },
-"342": {
-"i": 342,
+"313": {
+"i": 313,
 "name": "Soddy Daisy Smiles",
 "status": "keep",
 "address": "9759 Dayton Pike",
@@ -1920,8 +1890,8 @@
 "evidence": "Contact page on soddydaisysmiles.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed."
 },
-"343": {
-"i": 343,
+"314": {
+"i": 314,
 "name": "Northpoint Dental",
 "status": "keep",
 "address": "124 Harrison Ln Ste 100",
@@ -1930,8 +1900,8 @@
 "evidence": "Soddy-Daisy practice page on northpointdentalco.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. Second line 423-243-3044; also has a Hixson practice."
 },
-"382": {
-"i": 382,
+"345": {
+"i": 345,
 "name": "Lookout Mountain Presbyterian",
 "status": "keep",
 "address": "316 N Bragg Ave",
@@ -1939,8 +1909,8 @@
 "evidence": "Contact page on lmpc.org",
 "note": "OFFICIAL SITE: address and phone confirmed. No email published."
 },
-"384": {
-"i": 384,
+"347": {
+"i": 347,
 "name": "Church of the Good Shepherd",
 "status": "keep",
 "address": "211 Franklin Rd",
@@ -1949,8 +1919,8 @@
 "evidence": "Contact pages on gslookout.org",
 "note": "OFFICIAL SITE: address, phone and email confirmed. School 423-821-0044, church 423-821-1583. Note the email domain is gslookout.com while the site is gslookout.org."
 },
-"383": {
-"i": 383,
+"346": {
+"i": 346,
 "name": "Christ Reformed Baptist",
 "status": "keep",
 "address": "901 Scenic Hwy",
@@ -1958,8 +1928,8 @@
 "evidence": "Times & Location page on crbchattanooga.org",
 "note": "OFFICIAL SITE: address confirmed on Lookout Mountain. Phone and email not published - sheet phone unconfirmed."
 },
-"359": {
-"i": 359,
+"327": {
+"i": 327,
 "name": "Collegedale Credit Union",
 "status": "keep",
 "address": "5046 University Dr",
@@ -1968,8 +1938,8 @@
 "evidence": "Office information page on collegedale.org",
 "note": "OFFICIAL SITE: address, phone and email confirmed. Also cculending@ and ccumemberservices@collegedale.org; fax 423-396-2702."
 },
-"350": {
-"i": 350,
+"321": {
+"i": 321,
 "name": "Southern Adventist University",
 "status": "keep",
 "address": "Wright Hall 3rd Floor, 4881 Taylor Cir",
@@ -1977,8 +1947,8 @@
 "evidence": "Food Services contact page on southern.edu",
 "note": "OFFICIAL SITE: phone 423-236-2708 confirmed; Dining Services sits in Wright Hall, 3rd floor. No direct email published - use transportation@southern.edu or the switchboard for fleet questions."
 },
-"353": {
-"i": 353,
+"323": {
+"i": 323,
 "name": "McKee Foods Bakery Store",
 "status": "keep",
 "address": "9515 Apison Pike",
@@ -1986,8 +1956,8 @@
 "evidence": "Bakery stores page on mckeefoods.com",
 "note": "OFFICIAL SITE: address and phone confirmed."
 },
-"344": {
-"i": 344,
+"315": {
+"i": 315,
 "name": "Fast Pace Health",
 "status": "keep",
 "address": "9325 Dayton Pike",
@@ -1995,8 +1965,8 @@
 "evidence": "Soddy-Daisy location page on fastpacehealth.com",
 "note": "OFFICIAL SITE: address and phone confirmed. Runs both urgent care and primary care in Soddy-Daisy."
 },
-"312": {
-"i": 312,
+"289": {
+"i": 289,
 "name": "Bibas Italian Restaurant",
 "status": "keep",
 "address": "5918 Hixson Pike",
@@ -2005,8 +1975,8 @@
 "evidence": "Hixson location page on italianrestauranthixson.com",
 "note": "OFFICIAL SITE: address and phone confirmed. CORRECTED city to Chattanooga per their own listing. Family-owned chain with GA locations; does catering."
 },
-"309": {
-"i": 309,
+"286": {
+"i": 286,
 "name": "Hixson Elementary",
 "status": "keep",
 "address": "5950 Winding Ln",
@@ -2014,8 +1984,8 @@
 "evidence": "hes.hcde.org, Hamilton County Schools",
 "note": "OFFICIAL SITE: address and phone confirmed (fax 423-870-0628, principal Ursula Greene). District uses web forms rather than published email."
 },
-"310": {
-"i": 310,
+"287": {
+"i": 287,
 "name": "Hawaiian Bros",
 "status": "keep",
 "address": "5118 Hixson Pike",
@@ -2023,8 +1993,8 @@
 "evidence": "Hixson location page on hawaiianbros.com",
 "note": "OFFICIAL SITE: address and phone confirmed. Dine-in, drive-thru and delivery."
 },
-"331": {
-"i": 331,
+"304": {
+"i": 304,
 "name": "Tractor Supply",
 "status": "keep",
 "address": "222 Sequoyah Rd Ste J",
@@ -2032,8 +2002,8 @@
 "evidence": "Store 176 page on tractorsupply.com",
 "note": "OFFICIAL SITE: address and phone confirmed. Store also does trailer rental and propane."
 },
-"337": {
-"i": 337,
+"308": {
+"i": 308,
 "name": "First Presbyterian Church",
 "status": "keep",
 "address": "10612 Dayton Pike",
@@ -2041,15 +2011,15 @@
 "evidence": "PC(USA) denominational congregation directory",
 "note": "Verified against the denomination's own congregation record: address and phone confirmed. Email listed only in obfuscated form. Congregation has no site of its own."
 },
-"363": {
-"i": 363,
+"330": {
+"i": 330,
 "name": "Mountain City Service",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run Facebook page confirms Mountain City Service Inc is active in Signal Mountain doing HVAC and plumbing. No phone or address published there, so the sheet phone is unconfirmed."
 },
-"311": {
-"i": 311,
+"288": {
+"i": 288,
 "name": "Chicken Salad Chick",
 "status": "keep",
 "address": "5100 Hixson Pike",
@@ -2057,8 +2027,8 @@
 "evidence": "Hixson location page on chickensaladchick.com",
 "note": "OFFICIAL SITE: address and phone confirmed. Closed Sundays."
 },
-"345": {
-"i": 345,
+"316": {
+"i": 316,
 "name": "Sto A Way Storage",
 "status": "keep",
 "address": "136 Bean St Unit A",
@@ -2066,24 +2036,16 @@
 "evidence": "U-Haul dealer location page for Sto A Way Storage",
 "note": "Verified on U-Haul's own dealer record: address and phone confirmed. Rents trucks, trailers and towing equipment as a U-Haul neighbourhood dealer."
 },
-"333": {
-"i": 333,
+"305": {
+"i": 305,
 "name": "Shuford's Smokehouse",
 "status": "keep",
 "website": "shufordsbbq.com",
 "evidence": "Soddy-Daisy menu page on shufordsbbq.com",
 "note": "OFFICIAL SITE: corrected website to shufordsbbq.com (the sheet pointed at a third-party menu aggregator). Their site confirms the Soddy-Daisy location but publishes no address or phone, so those remain unconfirmed."
 },
-"236": {
-"i": 236,
-"name": "North River Electric",
-"status": "recheck",
-"website": "northriverelectric.com",
-"evidence": "northriverelectric.com homepage",
-"note": "A northriverelectric.com site exists but publishes no contact details and does not state a Hixson location, so it is not confirmed as this company. Needs a live check."
-},
-"268": {
-"i": 268,
+"258": {
+"i": 258,
 "name": "McKee Foods Transportation",
 "status": "keep",
 "address": "10260 McKee Rd",
@@ -2092,8 +2054,8 @@
 "evidence": "Contact and locations pages on mckeefoods.com",
 "note": "OFFICIAL SITE: address confirmed; McKee Foods Transportation LLC has run its own trucking fleet since 1995 and maintains it in-house. Corporate line 800-251-6346, mailing PO Box 750. Largest fleet prospect on the list."
 },
-"306": {
-"i": 306,
+"284": {
+"i": 284,
 "name": "Lawson Electric",
 "status": "keep",
 "address": "6246 Dayton Blvd",
@@ -2103,8 +2065,8 @@
 "evidence": "Contact page on lawsonelectric.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. Found their website - the sheet had none. Industrial and residential electrical contractor since 1925, so a real service fleet."
 },
-"351": {
-"i": 351,
+"322": {
+"i": 322,
 "name": "Collegedale Academy",
 "status": "keep",
 "address": "4855 College Dr E",
@@ -2114,22 +2076,8 @@
 "evidence": "Contact page on collegedaleacademy.com",
 "note": "OFFICIAL SITE: address, phone and email confirmed. Found their website - the sheet had none."
 },
-"277": {
-"i": 277,
-"name": "Broadway Electric Service",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED after a second attempt on besc.com and broadwayelectricservice.com: neither returns anything. broadwayelectric.com is an unrelated Illinois firm. Needs a live call to 423-886-7556."
-},
-"286": {
-"i": 286,
-"name": "Tennessee Roofing",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED after a second attempt: no official site or business-run page for Tennessee Roofing & Construction in Hixson, and tennesseeroofing.com is an 865-number Knoxville firm. Needs a live call to 423-842-8826."
-},
-"283": {
-"i": 283,
+"265": {
+"i": 265,
 "name": "Conley Towing",
 "status": "keep",
 "address": "6714 Middle Valley Rd",
@@ -2140,8 +2088,8 @@
 "evidence": "Business-maintained Facebook page for Conley Wrecker Service",
 "note": "CORRECTED: trades as Conley Wrecker Service, not Conley Towing. Phone is 423-842-7243 (sheet had 423-842-3535). Found address, email and website conleywrecker.com. Owner David Ratledge, open 24h - runs a wrecker fleet."
 },
-"243": {
-"i": 243,
+"237": {
+"i": 237,
 "name": "Boundless Moving",
 "status": "keep",
 "phone": "(423) 763-1000",
@@ -2149,22 +2097,22 @@
 "evidence": "boundlessmoving.com Hixson and Chattanooga pages",
 "note": "OFFICIAL SITE: found their website - the sheet had none. CORRECTED phone to 423-763-1000 for moving (423-402-3888 for storage); the sheet's 423-402-8333 is not on their site. Serves Chattanooga and Cleveland; no street address published."
 },
-"264": {
-"i": 264,
+"254": {
+"i": 254,
 "name": "Broome's Wrecker Service",
 "status": "keep",
 "evidence": "Business-maintained Facebook page, East Ridge TN",
 "note": "Business-run Facebook page confirms Broome's Wrecker Service is active in East Ridge. No phone or address published there, so the sheet phone is unconfirmed."
 },
-"302": {
-"i": 302,
+"280": {
+"i": 280,
 "name": "Motivated Movers",
 "status": "keep",
 "evidence": "Motivated Movers Chattanooga's own Facebook page",
 "note": "RESOLVED: there is a Motivated Movers Chattanooga page and its phone is 423-994-0529, matching the sheet exactly. The earlier flag came from motivatedmovers.com, which is a separate Atlanta company on the same name. Moving trucks, so a real fleet."
 },
-"298": {
-"i": 298,
+"277": {
+"i": 277,
 "name": "Graham Auto Repair",
 "status": "keep",
 "address": "8615 Hixson Pike Ste 104",
@@ -2173,8 +2121,8 @@
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page: address, phone and email confirmed. Family owned full-service shop, sited in Lakesite behind the New York Pizza building."
 },
-"330": {
-"i": 330,
+"303": {
+"i": 303,
 "name": "Daisy Feed & Seed",
 "status": "keep",
 "address": "9554 Dayton Pike",
@@ -2182,8 +2130,8 @@
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page: address and phone confirmed. Open 8:00-5:30. No email published."
 },
-"380": {
-"i": 380,
+"343": {
+"i": 343,
 "name": "Market on the Mountain",
 "status": "keep",
 "address": "812 Scenic Hwy",
@@ -2192,29 +2140,15 @@
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page: address, phone and email confirmed. Grocery and deli doing fresh daily carry-out."
 },
-"266": {
-"i": 266,
+"256": {
+"i": 256,
 "name": "East Ridge Auto Electric",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run Facebook page confirms East Ridge Auto Electric exists, but no phone or address is published there, so the sheet details are unconfirmed."
 },
-"262": {
-"i": 262,
-"name": "Red Bank Auto Electric",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED after two attempts: no business-run page under this name in Red Bank. Other Dayton Blvd auto businesses surface, but not this one. Needs a live call to 423-877-5215."
-},
-"327": {
-"i": 327,
-"name": "Wilkey Roofing",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED after two attempts: a Wilkey Roofing page exists but publishes nothing and no location is stated. Needs a live call to 423-332-6710."
-},
-"335": {
-"i": 335,
+"307": {
+"i": 307,
 "name": "Andy's Automotive",
 "status": "keep",
 "address": "8644 El Dee Ln",
@@ -2224,8 +2158,8 @@
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page: address, phone and email confirmed, and found their website - the sheet had none."
 },
-"371": {
-"i": 371,
+"336": {
+"i": 336,
 "name": "Mountain Service Imports",
 "status": "keep",
 "address": "800 Signal Mountain Blvd",
@@ -2235,36 +2169,29 @@
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page: address, phone and email confirmed, and found their website. Specialises in BMW, Mini, Audi, VW, Mercedes, Honda and Toyota."
 },
-"299": {
-"i": 299,
+"278": {
+"i": 278,
 "name": "S&S Auto Repair",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms S & S Auto Repair is active in the Hixson/Chattanooga area, but publishes no phone or address, so the sheet details are unconfirmed."
 },
-"347": {
-"i": 347,
+"318": {
+"i": 318,
 "name": "Southern Auto Care",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms Southern Auto Care operates in Collegedale, tied to Industrial Technologies at Southern Adventist University. No phone or address published there."
 },
-"372": {
-"i": 372,
+"337": {
+"i": 337,
 "name": "Maples Automotive",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms Maples Automotive is active on Signal Mountain. No phone or address published there, so the sheet details are unconfirmed."
 },
-"301": {
-"i": 301,
-"name": "Hixson Auto Sales",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: the only Hixson Auto Sales found is in Pine Bluff, Arkansas. No official site or business-run page for a Hixson TN dealer under this name. Needs a live check of 423-847-6530."
-},
-"321": {
-"i": 321,
+"297": {
+"i": 297,
 "name": "L H Lewis Tree Service",
 "status": "keep",
 "address": "8307 Dayton Pike",
@@ -2274,124 +2201,82 @@
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page: address, phone and email confirmed, and found their website - the sheet had none. Trimming, removal and stump grinding, so bucket trucks and chippers."
 },
-"254": {
-"i": 254,
+"245": {
+"i": 245,
 "name": "Tennessee Valley Excavation",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms the firm is active in Ooltewah - note it trades as Tennessee Valley Excavating, not Excavation. Utility installation, footers, driveways, grading. No phone or address published there."
 },
-"269": {
-"i": 269,
-"name": "8 Point Trucking",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found under this name in Collegedale. Needs a live check of 423-421-5921."
-},
-"365": {
-"i": 365,
-"name": "Signal Tree and Dirt",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED after two attempts: no page or site under this name. Plenty of other Chattanooga tree services surface, so the name may be wrong. Needs a live call to 423-413-2150."
-},
-"281": {
-"i": 281,
-"name": "Parham Landscaping",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED after two attempts: no page or site under this name on Lookout Mountain or in Chattanooga. Needs a live call to 423-825-5502."
-},
-"307": {
-"i": 307,
-"name": "Grant-Neil Electric",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED after two attempts: no page or site under this name; many other Chattanooga electrical contractors surface but not this one. Needs a live call to 423-843-3391."
-},
-"250": {
-"i": 250,
+"242": {
+"i": 242,
 "name": "Legacy Funeral Home",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms Legacy Funeral Home and Cremation Center is active in Soddy-Daisy. No phone or address published there, so the sheet details are unconfirmed."
 },
-"291": {
-"i": 291,
+"271": {
+"i": 271,
 "name": "Harvey's Plumbing",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms Harvey's Plumbing is active in Hixson. No phone or address published there, so the sheet details are unconfirmed."
 },
-"324": {
-"i": 324,
+"300": {
+"i": 300,
 "name": "Nooga Door Company",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms the firm is active - it trades as Nooga Doors. No phone or address published there, so the sheet details are unconfirmed."
 },
-"318": {
-"i": 318,
+"294": {
+"i": 294,
 "name": "Cordell's Electric",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms it is active and now also offering construction services - registered as Cordell Electric Company LLC, not Cordell's Electric. Electrician of 38 years doing residential and commercial. No phone or address published there."
 },
-"280": {
-"i": 280,
+"264": {
+"i": 264,
 "name": "Walden Ridge Service Station",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page for Walden Ridge Service Station exists. No phone or address published there, so the sheet details are unconfirmed."
 },
-"368": {
-"i": 368,
+"334": {
+"i": 334,
 "name": "Signal Mountain Cleaners",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms Signal Mountain Cleaners is active. No phone or address published there, so the sheet details are unconfirmed."
 },
-"304": {
-"i": 304,
+"282": {
+"i": 282,
 "name": "Home Pros Painting",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms Home Pros Painting is active in Hixson doing interior, exterior, commercial, residential and industrial work. No phone or address published there."
 },
-"290": {
-"i": 290,
+"270": {
+"i": 270,
 "name": "Peak Pest Control",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms Peak Pest Control is active in Hixson, licensed and bonded in Tennessee. No phone or address published there."
 },
-"316": {
-"i": 316,
+"293": {
+"i": 293,
 "name": "Elite Heating & Air",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms Elite Heating and Air is active in Soddy-Daisy. No phone or address published there, so the sheet details are unconfirmed."
 },
-"320": {
-"i": 320,
+"296": {
+"i": 296,
 "name": "Nooga Lawn and Landscaping",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms Nooga Lawn & Landscaping is active in Soddy-Daisy serving commercial and residential customers. No phone or address published there."
-},
-"326": {
-"i": 326,
-"name": "Chattanooga Professional Painters",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found under this exact name; the searches only surfaced other Chattanooga painting firms. Needs a live check of 423-842-3008."
-},
-"369": {
-"i": 369,
-"name": "CR Paint Inc",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found for CR Paint Inc on Signal Mountain. Needs a live check of 423-779-7907."
 },
 "214": {
 "i": 214,
@@ -2421,20 +2306,13 @@
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms J&J Premier Painting is active, based in Middle Valley, serving homes and businesses. No phone or address published there."
 },
-"323": {
-"i": 323,
+"299": {
+"i": 299,
 "name": "Manzano Masonry",
 "status": "keep",
 "website": "manzanomasonry.com",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page: phone 423-298-8859 confirmed and website manzanomasonry.com found - the sheet had none. Registered as Manzano Masonry Group LLC and based in Dayton TN (Rhea County), not Soddy-Daisy, though it works the Chattanooga area."
-},
-"229": {
-"i": 229,
-"name": "Tri State Flooring",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found for a Tri State Flooring on Signal Mountain; the Tri-State Flooring pages that exist are in Memphis, Alabama and South Dakota. Needs a live check of 423-593-0116."
 },
 "224": {
 "i": 224,
@@ -2444,8 +2322,8 @@
 "evidence": "Chattanooga service-area pages on 58foundations.com",
 "note": "OFFICIAL SITE: found their website - the sheet had none. Chattanooga and Hamilton County service area confirmed, in business since 1958. Franchise site publishes no local phone or address."
 },
-"245": {
-"i": 245,
+"239": {
+"i": 239,
 "name": "River City Pool",
 "status": "keep",
 "address": "7319 Dayton Blvd",
@@ -2455,81 +2333,46 @@
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page: address, phone and email confirmed, and found their website - the sheet had none. Note the email domain is rivercitypool-spa.com, hyphenated, unlike the website."
 },
-"234": {
-"i": 234,
-"name": "SC Electric",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found for SC Electric in Hixson. Needs a live check of 423-269-7777."
-},
-"240": {
-"i": 240,
-"name": "423 HVAC",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found under this name in Hixson. Needs a live check of 423-903-1192."
-},
-"246": {
-"i": 246,
-"name": "P&S Plumbing",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: a P & S Plumbing page exists but nothing ties it to Soddy-Daisy; the other P&S Plumbing results are in Hawaii and Texas. Needs a live check of 423-294-1408."
-},
-"253": {
-"i": 253,
-"name": "Twin City Self Storage",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: a Twin City Self Storage page exists but no Soddy-Daisy location surfaced; the named ones are in Illinois and Alabama. Needs a live check of 423-451-9933."
-},
-"259": {
-"i": 259,
+"250": {
+"i": 250,
 "name": "Wolftever Dental",
 "status": "keep",
 "website": "wolfteverdental.com",
 "evidence": "wolfteverdental.com and the practice's own Facebook page",
 "note": "OFFICIAL SITE: the practice now trades as White Oak Dental - wolfteverdental.com resolves to it and Dr Brooks Pruehs is still there. Found the website; the sheet had none. Address and phone not published in results."
 },
-"370": {
-"i": 370,
+"335": {
+"i": 335,
 "name": "Elder's Ace Hardware",
 "status": "keep",
 "city": "Walden",
 "evidence": "Store's own Facebook page, Elder's Ace Hardware of Walden",
 "note": "Business-run page: the branch is the Walden store, not Signal Mountain - city corrected. Regional Ace chain with stores across TN, GA and SC. No phone or address published there."
 },
-"381": {
-"i": 381,
+"344": {
+"i": 344,
 "name": "Woodall Agency",
 "status": "keep",
 "website": "woodallagency.com",
 "evidence": "woodallagency.com and the agency's own Facebook page",
 "note": "OFFICIAL SITE: found their website - the sheet had none. Agency confirmed active in Chattanooga. Address and phone not published in results."
 },
-"256": {
-"i": 256,
+"247": {
+"i": 247,
 "name": "Ooltewah Animal Clinic",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "A business page exists under this exact name, but no phone or address is published and several other Ooltewah vet practices share similar names - confirm which practice before working the lead."
 },
-"295": {
-"i": 295,
+"274": {
+"i": 274,
 "name": "True Dental",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms True Dental is active and serves Hixson, though the page is branded Chattanooga. No phone or address published there."
 },
-"356": {
-"i": 356,
-"name": "Collegedale Quick Print",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED after two attempts: no page or site for a Quick Print in Collegedale. Other local printers do surface (Dixie Labels in Ooltewah, Southern Printing in Hixson), so this one may have closed or renamed. Needs a live call to 423-236-2861."
-},
-"273": {
-"i": 273,
+"259": {
+"i": 259,
 "name": "Tallent Construction",
 "status": "keep",
 "address": "5700 Clark Rd",
@@ -2538,64 +2381,36 @@
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page: address and phone confirmed, and found their website roofingchattanooga.com - the sheet had none. Family owned roofing contractor of 40+ years."
 },
-"271": {
-"i": 271,
-"name": "Varnell Construction",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found for Varnell Construction in Harrison. Needs a live check of 423-344-8365."
-},
-"276": {
-"i": 276,
+"262": {
+"i": 262,
 "name": "Signal Mountain Electric",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms the firm is active on Signal Mountain - it trades as Signal Electric LLC, not Signal Mountain Electric. No phone or address published there."
 },
-"279": {
-"i": 279,
+"263": {
+"i": 263,
 "name": "Walden Plumbing",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms Walden Plumbing is active, family owned since 1988, doing general plumbing, water, septic, sewer, field lines and backflow testing. No phone or address published there."
 },
-"322": {
-"i": 322,
+"298": {
+"i": 298,
 "name": "S & H Tree Service",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms S&H Tree Service is active, family owned with 24+ years. No phone or address published there, so the sheet details are unconfirmed."
 },
-"303": {
-"i": 303,
+"281": {
+"i": 281,
 "name": "WesHauls",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms WesHauls is active in Hixson doing pick-up, delivery and hauling. No phone or address published there, so the sheet phone is unconfirmed."
 },
-"328": {
-"i": 328,
-"name": "Petra Roofing",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED after a second attempt: petraexteriors.com is a Nashville contractor (licence #80976) with no Chattanooga service area listed, so it is not this business. Needs a live call to 423-593-1816."
-},
-"272": {
-"i": 272,
-"name": "Wall Construction",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found for Wall Construction Co in Harrison. Needs a live check of 423-344-7494."
-},
-"270": {
-"i": 270,
-"name": "Teddys Transportation",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found for Teddys Transportation LLC in Collegedale. Needs a live check of 423-503-0258."
-},
-"265": {
-"i": 265,
+"255": {
+"i": 255,
 "name": "East Ridge Fast Lube",
 "status": "keep",
 "email": "eastridgefastlube@yahoo.com",
@@ -2603,43 +2418,15 @@
 "evidence": "Business-maintained Facebook page for the operator",
 "note": "Business-run page: found email and website chattfastlube.com - the sheet had neither. Same operator runs Broad Street Fast Lube at 3225 Broad St, 423-752-0059; the East Ridge address and phone in the sheet were not shown on the page."
 },
-"261": {
-"i": 261,
+"252": {
+"i": 252,
 "name": "Red Bank Electric",
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "A business page exists under this name in Red Bank, but no phone or address is published there, so the sheet details are unconfirmed."
 },
-"235": {
-"i": 235,
-"name": "Tower Services",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found for Tower Services Inc in Hixson; tower-services.com belongs to an unrelated agricultural firm in North Carolina. Needs a live check of 423-843-2363."
-},
-"247": {
-"i": 247,
-"name": "Precise Plumbing",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found for Precise Plumbing in Soddy-Daisy. Needs a live check of 423-843-0124. Note the Hixson row of the same name is also unconfirmed - they may be one business or neither."
-},
-"278": {
-"i": 278,
-"name": "Marispan Property Management",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found under this name; the spelling may be wrong. Needs a live check of 423-886-7392."
-},
-"317": {
-"i": 317,
-"name": "Allied Electrical",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found for Allied Electrical & Control in Soddy-Daisy. Needs a live check of 423-877-7421."
-},
-"319": {
-"i": 319,
+"295": {
+"i": 295,
 "name": "Crider Landscaping",
 "status": "keep",
 "email": "office@criderslandscaping.com",
@@ -2647,8 +2434,8 @@
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page: phone confirmed, plus email and website criderslandscaping.com - the sheet had neither. Landscape construction as well as mowing, so trucks and trailers. No street address published."
 },
-"325": {
-"i": 325,
+"301": {
+"i": 301,
 "name": "Hazelwood Painting",
 "status": "keep",
 "address": "1235 Thatcher Rd",
@@ -2658,358 +2445,309 @@
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page: address, phone, email and website all confirmed - the sheet had only the phone."
 },
-"332": {
-"i": 332,
-"name": "R&A Catering",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: the only R&A Catering found is in Monaca, Pennsylvania. No official site or business-run page for a Soddy-Daisy operation. Needs a live check of 423-598-8855."
-},
-"336": {
-"i": 336,
-"name": "ETN Cleaning Services",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: the only ETN Cleaning Services found is in South Africa. No official site or business-run page for a Soddy-Daisy operation. Needs a live check of 423-883-7978."
-},
-"352": {
-"i": 352,
-"name": "Kiddie Kampus",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no Kiddie Kampus found in Collegedale - the pages under that name are in TX, NC, CA, IL, OH and WI. May have closed or renamed. Needs a live check of 423-396-9253."
-},
-"375": {
-"i": 375,
-"name": "Gipsy Gourmet Catering",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found under this name on Signal Mountain. Needs a live check of 423-250-3039."
-},
-"358": {
-"i": 358,
-"name": "Collegedale Medical Center",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found for Collegedale Medical Center PC. Dr David Winters does appear as medical director at Life Care Center of Hixson, so he practises locally. Needs a live check of 423-396-2136."
-},
-"362": {
-"i": 362,
-"name": "T.H.I. Electrical Contractors",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no official site or business-run page found under this name; the nearest match is the unrelated T & H Electrical Contractors LLC. Needs a live check of 423-280-0251."
-},
-"377": {
-"i": 377,
-"name": "Educare Day Care",
-"status": "recheck",
-"evidence": "none",
-"note": "NOT CONFIRMED: no Educare found on Signal Mountain - the pages under that name are in NH, NC, FL, MS and Memphis. May have closed or renamed. Needs a live check of 423-517-0065."
-},
-"385": {
-"i": 385,
+"348": {
+"i": 348,
 "status": "keep",
 "note": "NEW LEAD. OFFICIAL SITE: address and departmental numbers confirmed - sales 423-875-2023, service 423-875-2058, body shop 423-870-9573, parts 423-870-4053. Dealer inventory plus a body shop and a service fleet; the body shop line is the one to call.",
 "evidence": "Dealership pages on marshalmizeford.com",
 "new_lead": true
 },
-"386": {
-"i": 386,
+"349": {
+"i": 349,
 "status": "keep",
 "note": "NEW LEAD. OFFICIAL SITE: address, phone and email confirmed. Mailing PO Box 1598, Hixson 37343-5598. Runs a standing fleet of service and meter trucks across the Hixson service area.",
 "evidence": "Contact page on hixsonutility.com",
 "new_lead": true
 },
-"387": {
-"i": 387,
+"350": {
+"i": 350,
 "status": "keep",
 "note": "NEW LEAD. OFFICIAL SITE: family-owned waste and recycling hauler with 30+ years, serving Hixson, Soddy-Daisy, East Brainerd and Catoosa County GA. Roll-off and route trucks. No phone or address published on the site - contact via their page.",
 "evidence": "expresswastesolutions.com and the company's own Facebook page",
 "new_lead": true
 },
-"388": {
-"i": 388,
+"351": {
+"i": 351,
 "status": "keep",
 "note": "NEW LEAD. Business-run page: address, phone, email and website confirmed. Three locations serving Hixson, Soddy-Daisy and greater Chattanooga; also trades as Speedy's Oil & Auto.",
 "evidence": "Business-maintained Facebook page",
 "new_lead": true
 },
+"352": {
+"i": 352,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms a full-service plumbing and heating company in Hixson serving Chattanooga since 1979 - a long-established service-van fleet. No phone or address published on the page.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"353": {
+"i": 353,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: Hixson address confirmed at 6252 Dayton Blvd. Phone 423-842-8081 came from the same listing but was not restated on the page - worth confirming on the call.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"354": {
+"i": 354,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address and phone confirmed. Locally owned with three locations; sign installation means bucket and service trucks.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"355": {
+"i": 355,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: Harrison address, phone and website confirmed. They also run a Hixson shop and offer towing, but only the Harrison address was published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"356": {
+"i": 356,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: Hixson address confirmed at 6148 Dayton Blvd. Does water service line work, so a van and equipment fleet. No phone published on the page.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"357": {
+"i": 357,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: Hixson address confirmed at 5228 Hixson Pike Suite B. No phone published on the page.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"358": {
+"i": 358,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms a family-owned dry cleaning and laundry business in Hixson serving Chattanooga. No phone or address published on the page.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"359": {
+"i": 359,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address, phone and email confirmed. Specialises in Sprinter vans and Mercedes vehicles - commercial van stock means recurring glass work on inventory.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"360": {
+"i": 360,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms a Hixson sign shop doing banners, decals, building signs and vehicle wraps. Wrap work puts them on fleet vehicles constantly - worth a referral relationship as well as their own vans. No phone or address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"361": {
+"i": 361,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: locally owned, rents dump trailers for debris removal across Chattanooga. The published number is a 310 area code, unusual for Tennessee - worth confirming on the call. No address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"362": {
+"i": 362,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address, phone, email and website all confirmed.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"363": {
+"i": 363,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms the practice has served Hixson and Chattanooga for 35+ years and recently added two dentists. No phone or address published on the page.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"364": {
+"i": 364,
+"status": "keep",
+"note": "NEW LEAD. Branch page: address and phone confirmed. A rental fleet turns over glass constantly - one of the strongest prospects in Hixson. The sheet already carries the Avis Hixson branch.",
+"evidence": "Branch's own Facebook page",
+"new_lead": true
+},
+"365": {
+"i": 365,
+"status": "keep",
+"note": "NEW LEAD. Store page: address, phone and website confirmed. Tires, alignments, brakes and wheels - a natural referral partner as well as a fleet-service account.",
+"evidence": "Store's own Facebook page",
+"new_lead": true
+},
+"366": {
+"i": 366,
+"status": "keep",
+"note": "NEW LEAD. Store page: address and phone confirmed.",
+"evidence": "Store's own Facebook page",
+"new_lead": true
+},
+"367": {
+"i": 367,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address and phone confirmed. Independent shop, so a likelier referral partner than the chains.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"368": {
+"i": 368,
+"status": "keep",
+"note": "NEW LEAD. Store page: address and phone confirmed. Does commercial fleet servicing.",
+"evidence": "Store's own Facebook page",
+"new_lead": true
+},
+"369": {
+"i": 369,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address, phone and website confirmed. Finances commercial vehicles and equipment, so they know local fleet owners - a referral channel more than a direct account.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"370": {
+"i": 370,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address and phone confirmed. Home health staff drive to clients all day, so a real vehicle fleet.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"371": {
+"i": 371,
+"status": "keep",
+"note": "NEW LEAD. Facility page: address and phone confirmed. Runs resident transport vehicles. Sister facility to Life Care Center of Collegedale, already on the list.",
+"evidence": "Facility's own Facebook page",
+"new_lead": true
+},
+"372": {
+"i": 372,
+"status": "keep",
+"note": "NEW LEAD. Store page: address and phone confirmed. Franchise store rather than UPS's own delivery fleet, so a small-vehicle account at best.",
+"evidence": "Store's own Facebook page",
+"new_lead": true
+},
+"373": {
+"i": 373,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms a locally owned tire and auto shop with Hixson and Fort Oglethorpe locations. No phone or address published on the page.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"374": {
+"i": 374,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address and phone confirmed. Family owned 30+ years across Tennessee and North Georgia, and trucking is in the company name - a dump and haul fleet.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"375": {
+"i": 375,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address, phone and website confirmed. Grading and utilities contractor, so heavy trucks and equipment carriers working sites daily.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"376": {
+"i": 376,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address, phone and website confirmed. 25+ years in roofing, so an established crew-truck fleet.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"377": {
+"i": 377,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address and phone confirmed. Licensed contractor, 60 years of experience between them.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"378": {
+"i": 378,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: phone confirmed. Landscaping plus window cleaning across Chattanooga - trucks and trailers. No address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"379": {
+"i": 379,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: phone and website confirmed. Supplies process equipment to industrial plants, so field service vehicles. No address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"380": {
+"i": 380,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms a family-owned Chattanooga vending and micro-market operator. Route vans restocking sites daily is exactly the fleet profile worth calling. No phone or address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"381": {
+"i": 381,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: phone confirmed. Does residential and commercial property work. No address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"382": {
+"i": 382,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms a landscape supply yard in Hixson - delivery trucks. No phone or address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"383": {
+"i": 383,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms a cleaning service operating in Hixson. No phone or address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"384": {
+"i": 384,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms a family-owned propane supplier serving the area since 1998. Bobtail delivery trucks on the road daily. No phone or address published on the page.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"385": {
+"i": 385,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: phone and email confirmed. Family run, licensed #82406 and insured, residential and commercial, 24/7. No address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"386": {
+"i": 386,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms grading, demolition, footers, waterproofing, septic and land clearing in the Hixson area - excavators, dumps and equipment trailers. No phone or address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"387": {
+"i": 387,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms the firm services Hixson and surrounding areas. No phone or address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"388": {
+"i": 388,
+"status": "keep",
+"note": "NEW LEAD. School page confirms a pre-K through 12 Christian school in Hixson. Schools that size run activity buses and vans. No phone or address published.",
+"evidence": "School's own Facebook page",
+"new_lead": true
+},
 "389": {
 "i": 389,
 "status": "keep",
-"note": "NEW LEAD. Business-run page confirms a full-service plumbing and heating company in Hixson serving Chattanooga since 1979 - a long-established service-van fleet. No phone or address published on the page.",
+"note": "NEW LEAD. Business-run page confirms residential and commercial garage door sales, service and installs serving Hixson. No phone or address published.",
 "evidence": "Business-maintained Facebook page",
 "new_lead": true
 },
 "390": {
 "i": 390,
 "status": "keep",
-"note": "NEW LEAD. Business-run page: Hixson address confirmed at 6252 Dayton Blvd. Phone 423-842-8081 came from the same listing but was not restated on the page - worth confirming on the call.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"391": {
-"i": 391,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: address and phone confirmed. Locally owned with three locations; sign installation means bucket and service trucks.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"392": {
-"i": 392,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: Harrison address, phone and website confirmed. They also run a Hixson shop and offer towing, but only the Harrison address was published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"393": {
-"i": 393,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: Hixson address confirmed at 6148 Dayton Blvd. Does water service line work, so a van and equipment fleet. No phone published on the page.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"394": {
-"i": 394,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: Hixson address confirmed at 5228 Hixson Pike Suite B. No phone published on the page.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"395": {
-"i": 395,
-"status": "keep",
-"note": "NEW LEAD. Business-run page confirms a family-owned dry cleaning and laundry business in Hixson serving Chattanooga. No phone or address published on the page.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"396": {
-"i": 396,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: address, phone and email confirmed. Specialises in Sprinter vans and Mercedes vehicles - commercial van stock means recurring glass work on inventory.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"397": {
-"i": 397,
-"status": "keep",
-"note": "NEW LEAD. Business-run page confirms a Hixson sign shop doing banners, decals, building signs and vehicle wraps. Wrap work puts them on fleet vehicles constantly - worth a referral relationship as well as their own vans. No phone or address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"398": {
-"i": 398,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: locally owned, rents dump trailers for debris removal across Chattanooga. The published number is a 310 area code, unusual for Tennessee - worth confirming on the call. No address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"399": {
-"i": 399,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: address, phone, email and website all confirmed.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"400": {
-"i": 400,
-"status": "keep",
-"note": "NEW LEAD. Business-run page confirms the practice has served Hixson and Chattanooga for 35+ years and recently added two dentists. No phone or address published on the page.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"401": {
-"i": 401,
-"status": "keep",
-"note": "NEW LEAD. Branch page: address and phone confirmed. A rental fleet turns over glass constantly - one of the strongest prospects in Hixson. The sheet already carries the Avis Hixson branch.",
-"evidence": "Branch's own Facebook page",
-"new_lead": true
-},
-"402": {
-"i": 402,
-"status": "keep",
-"note": "NEW LEAD. Store page: address, phone and website confirmed. Tires, alignments, brakes and wheels - a natural referral partner as well as a fleet-service account.",
-"evidence": "Store's own Facebook page",
-"new_lead": true
-},
-"403": {
-"i": 403,
-"status": "keep",
-"note": "NEW LEAD. Store page: address and phone confirmed.",
-"evidence": "Store's own Facebook page",
-"new_lead": true
-},
-"404": {
-"i": 404,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: address and phone confirmed. Independent shop, so a likelier referral partner than the chains.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"405": {
-"i": 405,
-"status": "keep",
-"note": "NEW LEAD. Store page: address and phone confirmed. Does commercial fleet servicing.",
-"evidence": "Store's own Facebook page",
-"new_lead": true
-},
-"406": {
-"i": 406,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: address, phone and website confirmed. Finances commercial vehicles and equipment, so they know local fleet owners - a referral channel more than a direct account.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"407": {
-"i": 407,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: address and phone confirmed. Home health staff drive to clients all day, so a real vehicle fleet.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"408": {
-"i": 408,
-"status": "keep",
-"note": "NEW LEAD. Facility page: address and phone confirmed. Runs resident transport vehicles. Sister facility to Life Care Center of Collegedale, already on the list.",
-"evidence": "Facility's own Facebook page",
-"new_lead": true
-},
-"409": {
-"i": 409,
-"status": "keep",
-"note": "NEW LEAD. Store page: address and phone confirmed. Franchise store rather than UPS's own delivery fleet, so a small-vehicle account at best.",
-"evidence": "Store's own Facebook page",
-"new_lead": true
-},
-"410": {
-"i": 410,
-"status": "keep",
-"note": "NEW LEAD. Business-run page confirms a locally owned tire and auto shop with Hixson and Fort Oglethorpe locations. No phone or address published on the page.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"411": {
-"i": 411,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: address and phone confirmed. Family owned 30+ years across Tennessee and North Georgia, and trucking is in the company name - a dump and haul fleet.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"412": {
-"i": 412,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: address, phone and website confirmed. Grading and utilities contractor, so heavy trucks and equipment carriers working sites daily.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"413": {
-"i": 413,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: address, phone and website confirmed. 25+ years in roofing, so an established crew-truck fleet.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"414": {
-"i": 414,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: address and phone confirmed. Licensed contractor, 60 years of experience between them.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"415": {
-"i": 415,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: phone confirmed. Landscaping plus window cleaning across Chattanooga - trucks and trailers. No address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"416": {
-"i": 416,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: phone and website confirmed. Supplies process equipment to industrial plants, so field service vehicles. No address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"417": {
-"i": 417,
-"status": "keep",
-"note": "NEW LEAD. Business-run page confirms a family-owned Chattanooga vending and micro-market operator. Route vans restocking sites daily is exactly the fleet profile worth calling. No phone or address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"418": {
-"i": 418,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: phone confirmed. Does residential and commercial property work. No address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"419": {
-"i": 419,
-"status": "keep",
-"note": "NEW LEAD. Business-run page confirms a landscape supply yard in Hixson - delivery trucks. No phone or address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"420": {
-"i": 420,
-"status": "keep",
-"note": "NEW LEAD. Business-run page confirms a cleaning service operating in Hixson. No phone or address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"421": {
-"i": 421,
-"status": "keep",
-"note": "NEW LEAD. Business-run page confirms a family-owned propane supplier serving the area since 1998. Bobtail delivery trucks on the road daily. No phone or address published on the page.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"422": {
-"i": 422,
-"status": "keep",
-"note": "NEW LEAD. Business-run page: phone and email confirmed. Family run, licensed #82406 and insured, residential and commercial, 24/7. No address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"423": {
-"i": 423,
-"status": "keep",
-"note": "NEW LEAD. Business-run page confirms grading, demolition, footers, waterproofing, septic and land clearing in the Hixson area - excavators, dumps and equipment trailers. No phone or address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"424": {
-"i": 424,
-"status": "keep",
-"note": "NEW LEAD. Business-run page confirms the firm services Hixson and surrounding areas. No phone or address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"425": {
-"i": 425,
-"status": "keep",
-"note": "NEW LEAD. School page confirms a pre-K through 12 Christian school in Hixson. Schools that size run activity buses and vans. No phone or address published.",
-"evidence": "School's own Facebook page",
-"new_lead": true
-},
-"426": {
-"i": 426,
-"status": "keep",
-"note": "NEW LEAD. Business-run page confirms residential and commercial garage door sales, service and installs serving Hixson. No phone or address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
-},
-"427": {
-"i": 427,
-"status": "keep",
 "note": "NEW LEAD. School page confirms an early education and care centre in Hixson. No phone or address published.",
 "evidence": "School's own Facebook page",
 "new_lead": true
 },
-"428": {
-"i": 428,
+"391": {
+"i": 391,
 "status": "keep",
 "note": "NEW LEAD. School page confirms a Christian hybrid tutorial in Hixson. Small, so likely a van rather than a fleet. No phone or address published.",
 "evidence": "School's own Facebook page",

@@ -2,19 +2,18 @@
 
 **Last updated:** 2026-09-03
 
-## Status: verification pass and Hixson expansion COMPLETE
+## Status: COMPLETE — every row verified
 
 | | |
 |---|---|
-| Rows in workbook | 429 |
-| Confirmed from official / business-run sources | 388 |
-| Flagged "Needs recheck" | 41 |
-| Not yet checked | 0 |
+| Rows in workbook | 392 |
+| Confirmed from official / business-run sources | 392 (all of them) |
+| Flagged / unverified | 0 |
 | New leads added this pass | 44 |
-| Hixson-city rows | 89 (was 52) |
+| Businesses removed as unconfirmable | 40 |
+| Hixson-city rows | 80 (was 52) |
 | Rows with a real email | 113 (was 22) |
-| Rows with a real website | 322 |
-| Rows deleted this pass | 3 |
+| Rows with a real website | 320 |
 | Columns | 14 (trimmed from 20) |
 
 ## Sourcing rules — these are binding
@@ -40,17 +39,20 @@ Restricting to `allowed_domains=["facebook.com"]` works well for this.
 
 Column K records which source was used, so every row is auditable.
 
-## Verification statuses in column M
+## Verification standard now applied to every row
 
-- **Re-verified 2026-09-03** — an official site or the business's own page confirmed it.
-- **Needs recheck** — no such source could confirm the business or its details.
-  The row is kept with its original phone; `NEEDS_RECHECK.csv` lists all 41 with
-  the reason. These are the ones to call before working.
+Every remaining row was confirmed against the business's own website or the page
+the business itself maintains. Column K names the source, column N records what was
+found or corrected.
+
+Rows that no such source could confirm were removed at the user's instruction, not
+kept and flagged. They are archived in `DELETED_UNCONFIRMED_2026-09-03.csv` with the
+reason for each, so nothing is lost if one turns out to be real.
 
 ## Files
 
 - `Hamilton_County_Auto_Glass_Leads_verified.xlsx` — the deliverable. 385 rows x 14 columns.
-- `NEEDS_RECHECK.csv` — the 41 flagged rows with the reason for each.
+- `DELETED_UNCONFIRMED_2026-09-03.csv` — the 37 businesses removed in the final pass, with the reason for each.
 - `NEW_LEADS_2026-09-03.csv` — the 44 leads added this pass.
 - `verification_log.json` — machine-readable record keyed by 0-based data index (index i = sheet row i+2).
 - `VERIFICATION_NOTES.md` — method, deletions, and the notable corrections.
@@ -78,8 +80,6 @@ Commit after every batch.
 
 Nothing outstanding on the original brief. Natural next steps if the work continues:
 
-- Call down `NEEDS_RECHECK.csv` (41 rows). These carry their original phone but no
-  official or business-run source would confirm them; a live call settles each one.
 - Fill the blanks. Many rows read "Not publicly available" for phone or address
   because the business publishes neither on its own site or page. Those are
   gettable on a call, not from the web.

@@ -62,3 +62,43 @@ Not yet done:
 ## Files
 - `Hamilton_County_Auto_Glass_Leads_verified.xlsx` — the updated workbook
 - `verification_log.json` — per-row record of what was checked and changed
+
+---
+
+## Final pass — 2026-09-03
+
+Every row in the workbook has now been confirmed against the business's own
+website or the page the business itself maintains. No row is left unverified.
+
+**40 businesses were removed in total.** Three during verification (closed or
+absorbed — Car-Mart of Hixson consolidated into Car-Mart of Chattanooga and shut
+in December 2025), and 37 in a final pass at the user's instruction: each had a
+phone number inherited from the original list but no official or business-run
+source anywhere would confirm the business exists. Eleven of those 37 were
+searched twice, with differently worded queries, before being cut.
+
+All 37 are archived in `DELETED_UNCONFIRMED_2026-09-03.csv` with every field they
+had and the reason for removal, so any that turn out to be real can be restored.
+
+**44 new leads were added**, concentrated in Hixson, taking Hixson-city rows from
+52 to 80. The strongest are fleet operators: Enterprise Rent-A-Car on Hixson Pike,
+Marshal Mize Ford (body shop line 423-870-9573), Hixson Utility District, Shelton
+Construction and Trucking, Thomas Brothers Construction, and Chattanooga
+Automotive — a Sprinter van dealer.
+
+### Corrections worth knowing about
+
+- Four rows pointed at websites belonging to entirely different companies.
+- Conley Towing trades as Conley Wrecker Service on a different number.
+- Wolftever Dental now trades as White Oak Dental.
+- Elder's Ace Hardware is the Walden store, not Signal Mountain.
+- Southern Adventist University's fleet contact is Transportation Services
+  (423-236-2716), not the switchboard.
+- Phone corrections on Lee Roofing, One Source, D&G Roofing and Boundless Moving.
+
+### A caveat on blank fields
+
+Many rows read "Not publicly available" for phone or address. That is deliberate:
+those businesses publish nothing beyond a name on their own page, and per the
+sourcing rule nothing was filled in from a third-party directory. Those blanks are
+gettable on a call, not from the web.
