@@ -6,14 +6,16 @@
 
 | | |
 |---|---|
-| Rows in workbook | 392 |
-| Confirmed from official / business-run sources | 392 (all of them) |
+| Rows in workbook | 391 |
+| Confirmed from official / business-run sources | 391 (all of them) |
 | Flagged / unverified | 0 |
 | New leads added this pass | 44 |
 | Businesses removed as unconfirmable | 40 |
 | Hixson-city rows | 80 (was 52) |
-| Rows with a real email | 113 (was 22) |
-| Rows with a real website | 320 |
+| Duplicates found and removed | 1 (Chattanooga Propane) |
+| Rows with a real email | 121 (was 22) |
+| Rows with a real website | 326 |
+| Rows with a real phone | 380 of 391 |
 | Columns | 14 (trimmed from 20) |
 
 ## Sourcing rules — these are binding
@@ -80,9 +82,15 @@ Commit after every batch.
 
 Nothing outstanding on the original brief. Natural next steps if the work continues:
 
-- Fill the blanks. Many rows read "Not publicly available" for phone or address
-  because the business publishes neither on its own site or page. Those are
-  gettable on a call, not from the web.
+- Fill the blanks. 11 rows still have no phone and 270 have no email, because
+  those businesses publish neither on their own site or page. A gap-filling pass
+  was run over the worst of them: every one of the 11 remaining phone gaps was
+  searched twice. What is left needs a call, not another search.
+- Emails are the thinnest column and the one the user most wants filled. The
+  pattern that works is a domain-restricted search of the company's own site for
+  "contact us email address"; hit rate is roughly one in three on local
+  independents and near zero on national chains and dealerships, which publish
+  forms instead.
 - Expand another town on the same method if wanted — Ooltewah and Soddy-Daisy are
   the next largest clusters.
 
