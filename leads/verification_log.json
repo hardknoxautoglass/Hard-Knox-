@@ -3062,5 +3062,33 @@
 "note": "New lead. Two angles here - their own service trucks, and they are working on other people's fleets every day, so a referral arrangement is worth raising.",
 "evidence": "Own site: home page lists this address and phone; services big rigs, buses and RVs with mechanics on call 24 hours.",
 "new_lead": true
+},
+"422": {
+"i": 422,
+"status": "keep",
+"note": "New lead. Community shuttle bus and van run residents to appointments. 78-resident capacity. Decisions may route through the Ooltewah corporate office - start with the executive director here.",
+"evidence": "Own site: Hixson location page and community brochure PDF both list this address and phone; Hixson activity calendar current; transportation to appointments listed among services.",
+"new_lead": true
+},
+"423": {
+"i": 423,
+"status": "keep",
+"note": "New lead. Worth a call as a referral partner as much as a customer - they wrap other companies' fleets and see every windshield that comes through.",
+"evidence": "Own site: Contact page lists this address, phone, email and hours (by appointment); vehicle wrap, billboard and grand-format pages active.",
+"new_lead": true
+},
+"424": {
+"i": 424,
+"status": "keep",
+"note": "New lead. Two buildings means more resident transport vehicles than a single community. No email published.",
+"evidence": "Own site: Hixson community page lists this address and phone; independent living, assisted living and memory care pages active across two buildings half a mile apart.",
+"new_lead": true
+},
+"425": {
+"i": 425,
+"status": "keep",
+"note": "New lead. Another fleet-wrap shop - same referral angle as Paragon. No street address or email published.",
+"evidence": "Own site: Contact page lists this phone; in the Chattanooga printing trade since 1997; vehicle wrap and fleet wrap pages active.",
+"new_lead": true
 }
 }
