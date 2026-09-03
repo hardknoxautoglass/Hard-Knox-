@@ -1573,8 +1573,10 @@
 "i": 288,
 "name": "L&B Lawn",
 "status": "keep",
-"evidence": "lblawnlandscaping.com homepage",
-"note": "OFFICIAL SITE: live; licensed and insured, serves commercial and residential. No phone, address or email published on the site."
+"address": "5928 Hixson Pike Ste A #113",
+"zip": "37343",
+"evidence": "Business-maintained Facebook page",
+"note": "OFFICIAL SITE plus business-run page: site confirmed the firm is licensed, insured and serves commercial and residential; their page adds the address 5928 Hixson Pike Ste A #113 and phone 423-715-3751, which the website did not publish."
 },
 "294": {
 "i": 294,
@@ -2873,6 +2875,76 @@
 "i": 410,
 "status": "keep",
 "note": "NEW LEAD. Business-run page confirms a locally owned tire and auto shop with Hixson and Fort Oglethorpe locations. No phone or address published on the page.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"411": {
+"i": 411,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address and phone confirmed. Family owned 30+ years across Tennessee and North Georgia, and trucking is in the company name - a dump and haul fleet.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"412": {
+"i": 412,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address, phone and website confirmed. Grading and utilities contractor, so heavy trucks and equipment carriers working sites daily.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"413": {
+"i": 413,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address, phone and website confirmed. 25+ years in roofing, so an established crew-truck fleet.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"414": {
+"i": 414,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: address and phone confirmed. Licensed contractor, 60 years of experience between them.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"415": {
+"i": 415,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: phone confirmed. Landscaping plus window cleaning across Chattanooga - trucks and trailers. No address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"416": {
+"i": 416,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: phone and website confirmed. Supplies process equipment to industrial plants, so field service vehicles. No address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"417": {
+"i": 417,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms a family-owned Chattanooga vending and micro-market operator. Route vans restocking sites daily is exactly the fleet profile worth calling. No phone or address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"418": {
+"i": 418,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: phone confirmed. Does residential and commercial property work. No address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"419": {
+"i": 419,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms a landscape supply yard in Hixson - delivery trucks. No phone or address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"420": {
+"i": 420,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms a cleaning service operating in Hixson. No phone or address published.",
 "evidence": "Business-maintained Facebook page",
 "new_lead": true
 }
