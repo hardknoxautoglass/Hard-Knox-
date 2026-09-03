@@ -2624,5 +2624,53 @@
 "status": "recheck",
 "evidence": "none",
 "note": "NOT CONFIRMED: no official site or business-run page found for Allied Electrical & Control in Soddy-Daisy. Needs a live check of 423-877-7421."
+},
+"319": {
+"i": 319,
+"name": "Crider Landscaping",
+"status": "keep",
+"email": "office@criderslandscaping.com",
+"website": "criderslandscaping.com",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page: phone confirmed, plus email and website criderslandscaping.com - the sheet had neither. Landscape construction as well as mowing, so trucks and trailers. No street address published."
+},
+"325": {
+"i": 325,
+"name": "Hazelwood Painting",
+"status": "keep",
+"address": "1235 Thatcher Rd",
+"zip": "37379",
+"email": "hrhazelwood@gmail.com",
+"website": "hazelwoodpainting.com",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page: address, phone, email and website all confirmed - the sheet had only the phone."
+},
+"332": {
+"i": 332,
+"name": "R&A Catering",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: the only R&A Catering found is in Monaca, Pennsylvania. No official site or business-run page for a Soddy-Daisy operation. Needs a live check of 423-598-8855."
+},
+"336": {
+"i": 336,
+"name": "ETN Cleaning Services",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: the only ETN Cleaning Services found is in South Africa. No official site or business-run page for a Soddy-Daisy operation. Needs a live check of 423-883-7978."
+},
+"352": {
+"i": 352,
+"name": "Kiddie Kampus",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no Kiddie Kampus found in Collegedale - the pages under that name are in TX, NC, CA, IL, OH and WI. May have closed or renamed. Needs a live check of 423-396-9253."
+},
+"375": {
+"i": 375,
+"name": "Gipsy Gourmet Catering",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found under this name on Signal Mountain. Needs a live check of 423-250-3039."
 }
 }
