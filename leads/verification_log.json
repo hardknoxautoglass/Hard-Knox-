@@ -2422,5 +2422,52 @@
 "status": "recheck",
 "evidence": "none",
 "note": "NOT CONFIRMED: no official site or business-run page found for a Tri State Flooring on Signal Mountain; the Tri-State Flooring pages that exist are in Memphis, Alabama and South Dakota. Needs a live check of 423-593-0116."
+},
+"224": {
+"i": 224,
+"name": "58 Foundations",
+"status": "keep",
+"website": "58foundations.com",
+"evidence": "Chattanooga service-area pages on 58foundations.com",
+"note": "OFFICIAL SITE: found their website - the sheet had none. Chattanooga and Hamilton County service area confirmed, in business since 1958. Franchise site publishes no local phone or address."
+},
+"245": {
+"i": 245,
+"name": "River City Pool",
+"status": "keep",
+"address": "7319 Dayton Blvd",
+"zip": "37343",
+"email": "info@rivercitypool-spa.com",
+"website": "rivercitypoolandspa.com",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page: address, phone and email confirmed, and found their website - the sheet had none. Note the email domain is rivercitypool-spa.com, hyphenated, unlike the website."
+},
+"234": {
+"i": 234,
+"name": "SC Electric",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found for SC Electric in Hixson. Needs a live check of 423-269-7777."
+},
+"240": {
+"i": 240,
+"name": "423 HVAC",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found under this name in Hixson. Needs a live check of 423-903-1192."
+},
+"246": {
+"i": 246,
+"name": "P&S Plumbing",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: a P & S Plumbing page exists but nothing ties it to Soddy-Daisy; the other P&S Plumbing results are in Hawaii and Texas. Needs a live check of 423-294-1408."
+},
+"253": {
+"i": 253,
+"name": "Twin City Self Storage",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: a Twin City Self Storage page exists but no Soddy-Daisy location surfaced; the named ones are in Illinois and Alabama. Needs a live check of 423-451-9933."
 }
 }
