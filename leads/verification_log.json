@@ -104,8 +104,11 @@
 },
 "17": {
 "i": 17,
+"name": "Thompson Truck Group",
 "status": "keep",
-"note": "verified thompsontruckgroup.com live; 2600 8th Ave"
+"phone": "(423) 622-4161",
+"evidence": "Chattanooga location page on thompsontruckgroup.com",
+"note": "OFFICIAL SITE: Chattanooga parts and service line 423-622-4161 confirmed. Commercial truck sales, service, parts and Idealease leasing across east TN and VA. No email published."
 },
 "18": {
 "i": 18,
@@ -140,21 +143,29 @@
 },
 "23": {
 "i": 23,
+"name": "Hoven Collision Repair",
 "status": "keep",
-"address": "10344 Lee Hwy",
-"note": "verified hovencollision.com live"
+"phone": "(423) 238-6334",
+"evidence": "hovencollision.com location and services pages",
+"note": "OFFICIAL SITE: phone confirmed. Body shop in Ooltewah off Exit 11 on Old Lee Hwy. No email published - they use a form."
 },
 "24": {
 "i": 24,
+"name": "Quality Tire Pros",
 "status": "keep",
 "address": "322 Cherokee Blvd",
-"note": "verified qualitytirepros.com live"
+"zip": "37405",
+"phone": "(423) 267-9715",
+"evidence": "Contact and fleet-services pages on qualitytirepros.com",
+"note": "OFFICIAL SITE: address and phone confirmed. They run a dedicated fleet-services division covering Chattanooga, Fort Oglethorpe and Cleveland - so they already serve fleet operators and are worth a referral conversation. No email published."
 },
 "25": {
 "i": 25,
+"name": "Tire World & Auto Service",
 "status": "keep",
-"address": "245 Signal Mountain Rd",
-"note": "verified tireworldchattanooga.com live"
+"phone": "(423) 266-5237",
+"evidence": "Contact page on tireworldchattanooga.com",
+"note": "OFFICIAL SITE: phone confirmed, open Mon-Fri 7:30-17:00. No email published."
 },
 "26": {
 "i": 26,
@@ -216,9 +227,14 @@
 },
 "35": {
 "i": 35,
+"name": "Nichols Fleet Equipment",
 "status": "keep",
 "address": "2805 Riverport Rd",
-"note": "verified nicholsfleet.com live"
+"zip": "37406",
+"phone": "(423) 622-7528",
+"email": "info@nicholsfleet.com",
+"evidence": "Contact and service pages on nicholsfleet.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed; rentals@nicholsfleet.com is a second address. In business since 1991 building mechanics and service trucks and aerial platforms, plus a rental fleet - a top-tier prospect."
 },
 "36": {
 "i": 36,
