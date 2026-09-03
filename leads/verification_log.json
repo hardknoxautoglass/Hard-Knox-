@@ -2461,10 +2461,10 @@
 },
 "350": {
 "i": 350,
+"name": "Express Waste Solutions",
 "status": "keep",
-"note": "NEW LEAD. OFFICIAL SITE: family-owned waste and recycling hauler with 30+ years, serving Hixson, Soddy-Daisy, East Brainerd and Catoosa County GA. Roll-off and route trucks. No phone or address published on the site - contact via their page.",
-"evidence": "expresswastesolutions.com and the company's own Facebook page",
-"new_lead": true
+"evidence": "expresswastesolutions.com",
+"note": "NEW LEAD. OFFICIAL SITE: family-owned waste and recycling hauler, 30+ years, serving Hixson, Soddy-Daisy, East Brainerd and Catoosa County GA, with a published service and recycling schedule. Their site invites calls but publishes no number or address - ask via the site form."
 },
 "351": {
 "i": 351,
@@ -2531,10 +2531,14 @@
 },
 "360": {
 "i": 360,
+"name": "Signs Haus",
 "status": "keep",
-"note": "NEW LEAD. Business-run page confirms a Hixson sign shop doing banners, decals, building signs and vehicle wraps. Wrap work puts them on fleet vehicles constantly - worth a referral relationship as well as their own vans. No phone or address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"address": "6210 Dayton Blvd Ste D",
+"zip": "37343",
+"phone": "(423) 208-8539",
+"website": "signshaus.com",
+"evidence": "signshaus.com contact and services pages",
+"note": "NEW LEAD. OFFICIAL SITE: address, phone and website confirmed. Trades as Signs Haus LLC. They design, print and install car and truck wraps on whole fleets, so they are both a prospect and a referral partner. Their own listing says Chattanooga but 37343 is the Hixson ZIP."
 },
 "361": {
 "i": 361,
@@ -2671,10 +2675,13 @@
 },
 "380": {
 "i": 380,
+"name": "VendWell Vending",
 "status": "keep",
-"note": "NEW LEAD. Business-run page confirms a family-owned Chattanooga vending and micro-market operator. Route vans restocking sites daily is exactly the fleet profile worth calling. No phone or address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"phone": "(423) 767-1628",
+"email": "nickvendfood@gmail.com",
+"website": "vendwelltn.com",
+"evidence": "vendwelltn.com",
+"note": "NEW LEAD. OFFICIAL SITE: phone, email and website confirmed - the correct domain is vendwelltn.com, not vendwell.com. Smart vending machines and micro markets, so route vans daily. No street address published."
 },
 "381": {
 "i": 381,
@@ -2700,54 +2707,51 @@
 "384": {
 "i": 384,
 "status": "keep",
-"note": "NEW LEAD. Business-run page confirms a family-owned propane supplier serving the area since 1998. Bobtail delivery trucks on the road daily. No phone or address published on the page.",
+"note": "NEW LEAD. Business-run page: phone and email confirmed. Family run, licensed #82406 and insured, residential and commercial, 24/7. No address published.",
 "evidence": "Business-maintained Facebook page",
 "new_lead": true
 },
 "385": {
 "i": 385,
 "status": "keep",
-"note": "NEW LEAD. Business-run page: phone and email confirmed. Family run, licensed #82406 and insured, residential and commercial, 24/7. No address published.",
+"note": "NEW LEAD. Business-run page confirms grading, demolition, footers, waterproofing, septic and land clearing in the Hixson area - excavators, dumps and equipment trailers. No phone or address published.",
 "evidence": "Business-maintained Facebook page",
 "new_lead": true
 },
 "386": {
 "i": 386,
 "status": "keep",
-"note": "NEW LEAD. Business-run page confirms grading, demolition, footers, waterproofing, septic and land clearing in the Hixson area - excavators, dumps and equipment trailers. No phone or address published.",
+"note": "NEW LEAD. Business-run page confirms the firm services Hixson and surrounding areas. No phone or address published.",
 "evidence": "Business-maintained Facebook page",
 "new_lead": true
 },
 "387": {
 "i": 387,
+"name": "Berean Academy",
 "status": "keep",
-"note": "NEW LEAD. Business-run page confirms the firm services Hixson and surrounding areas. No phone or address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"evidence": "School's own Facebook page",
+"note": "NEW LEAD. School page confirms a pre-K through 12 Christian school in Hixson; a second search found no official site publishing a number. Schools that size run activity buses and vans."
 },
 "388": {
 "i": 388,
-"status": "keep",
-"note": "NEW LEAD. School page confirms a pre-K through 12 Christian school in Hixson. Schools that size run activity buses and vans. No phone or address published.",
-"evidence": "School's own Facebook page",
-"new_lead": true
-},
-"389": {
-"i": 389,
 "status": "keep",
 "note": "NEW LEAD. Business-run page confirms residential and commercial garage door sales, service and installs serving Hixson. No phone or address published.",
 "evidence": "Business-maintained Facebook page",
 "new_lead": true
 },
+"389": {
+"i": 389,
+"name": "Primrose School of Hixson",
+"status": "keep",
+"address": "5170 Preschool Ln",
+"zip": "37343",
+"phone": "(423) 870-4840",
+"website": "primroseschools.com/schools/hixson",
+"evidence": "Hixson school page on primroseschools.com",
+"note": "NEW LEAD. OFFICIAL SITE: address, phone and school page confirmed. Open 7:00-18:00 weekdays."
+},
 "390": {
 "i": 390,
-"status": "keep",
-"note": "NEW LEAD. School page confirms an early education and care centre in Hixson. No phone or address published.",
-"evidence": "School's own Facebook page",
-"new_lead": true
-},
-"391": {
-"i": 391,
 "status": "keep",
 "note": "NEW LEAD. School page confirms a Christian hybrid tutorial in Hixson. Small, so likely a van rather than a fleet. No phone or address published.",
 "evidence": "School's own Facebook page",
