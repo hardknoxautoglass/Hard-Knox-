@@ -2337,5 +2337,47 @@
 "status": "keep",
 "evidence": "Business-maintained Facebook page",
 "note": "Business-run page confirms Signal Mountain Cleaners is active. No phone or address published there, so the sheet details are unconfirmed."
+},
+"304": {
+"i": 304,
+"name": "Home Pros Painting",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms Home Pros Painting is active in Hixson doing interior, exterior, commercial, residential and industrial work. No phone or address published there."
+},
+"290": {
+"i": 290,
+"name": "Peak Pest Control",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms Peak Pest Control is active in Hixson, licensed and bonded in Tennessee. No phone or address published there."
+},
+"316": {
+"i": 316,
+"name": "Elite Heating & Air",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms Elite Heating and Air is active in Soddy-Daisy. No phone or address published there, so the sheet details are unconfirmed."
+},
+"320": {
+"i": 320,
+"name": "Nooga Lawn and Landscaping",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms Nooga Lawn & Landscaping is active in Soddy-Daisy serving commercial and residential customers. No phone or address published there."
+},
+"326": {
+"i": 326,
+"name": "Chattanooga Professional Painters",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found under this exact name; the searches only surfaced other Chattanooga painting firms. Needs a live check of 423-842-3008."
+},
+"369": {
+"i": 369,
+"name": "CR Paint Inc",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found for CR Paint Inc on Signal Mountain. Needs a live check of 423-779-7907."
 }
 }
