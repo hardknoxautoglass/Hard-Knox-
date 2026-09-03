@@ -1294,11 +1294,13 @@
 },
 "220": {
 "i": 220,
+"name": "Access Garage Door",
 "status": "keep",
-"address": "7335 Hixson Pike",
+"address": "7335 B Hixson Pike",
 "zip": "37343",
-"evidence": "Hixson location page on accessdoorcompany.com",
-"note": "OFFICIAL SITE: Hixson address+phone confirmed"
+"email": "info@accessfranchising.com",
+"evidence": "Business-maintained Facebook page plus accessdoorcompany.com",
+"note": "OFFICIAL SITE confirmed the Hixson address; their page adds email info@accessfranchising.com and a franchise line 877-267-3687. Does commercial rolling doors and enclosures as well as residential."
 },
 "221": {
 "i": 221,
@@ -1559,8 +1561,10 @@
 "i": 284,
 "name": "Gudel's Garage",
 "status": "keep",
-"evidence": "gudelsgarageandtowing.com homepage",
-"note": "OFFICIAL SITE: live and belongs to the business; garage built on Hixson Pike in 1981, 24/7 towing plus repair. No address, phone or email published on the site - sheet phone unconfirmed."
+"address": "6403 Middle Valley Rd",
+"zip": "37343",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page fills the gap their website left: address 6403 Middle Valley Rd confirmed, family owned since 1979. Their page lists 423-842-5277 while the sheet has 423-842-8010 - try both, the second may be the towing line."
 },
 "287": {
 "i": 287,
@@ -2946,6 +2950,62 @@
 "status": "keep",
 "note": "NEW LEAD. Business-run page confirms a cleaning service operating in Hixson. No phone or address published.",
 "evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"421": {
+"i": 421,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms a family-owned propane supplier serving the area since 1998. Bobtail delivery trucks on the road daily. No phone or address published on the page.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"422": {
+"i": 422,
+"status": "keep",
+"note": "NEW LEAD. Business-run page: phone and email confirmed. Family run, licensed #82406 and insured, residential and commercial, 24/7. No address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"423": {
+"i": 423,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms grading, demolition, footers, waterproofing, septic and land clearing in the Hixson area - excavators, dumps and equipment trailers. No phone or address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"424": {
+"i": 424,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms the firm services Hixson and surrounding areas. No phone or address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"425": {
+"i": 425,
+"status": "keep",
+"note": "NEW LEAD. School page confirms a pre-K through 12 Christian school in Hixson. Schools that size run activity buses and vans. No phone or address published.",
+"evidence": "School's own Facebook page",
+"new_lead": true
+},
+"426": {
+"i": 426,
+"status": "keep",
+"note": "NEW LEAD. Business-run page confirms residential and commercial garage door sales, service and installs serving Hixson. No phone or address published.",
+"evidence": "Business-maintained Facebook page",
+"new_lead": true
+},
+"427": {
+"i": 427,
+"status": "keep",
+"note": "NEW LEAD. School page confirms an early education and care centre in Hixson. No phone or address published.",
+"evidence": "School's own Facebook page",
+"new_lead": true
+},
+"428": {
+"i": 428,
+"status": "keep",
+"note": "NEW LEAD. School page confirms a Christian hybrid tutorial in Hixson. Small, so likely a van rather than a fleet. No phone or address published.",
+"evidence": "School's own Facebook page",
 "new_lead": true
 }
 }

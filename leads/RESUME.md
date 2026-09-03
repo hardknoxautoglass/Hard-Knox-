@@ -2,19 +2,20 @@
 
 **Last updated:** 2026-09-03
 
-## Status: verification pass COMPLETE
+## Status: verification pass and Hixson expansion COMPLETE
 
 | | |
 |---|---|
-| Rows in workbook | 385 |
-| Confirmed from official / business-run sources | 344 |
+| Rows in workbook | 429 |
+| Confirmed from official / business-run sources | 388 |
 | Flagged "Needs recheck" | 41 |
 | Not yet checked | 0 |
-| Rows with a real email | 107 (was 22) |
-| Rows with a real website | 306 |
+| New leads added this pass | 44 |
+| Hixson-city rows | 89 (was 52) |
+| Rows with a real email | 113 (was 22) |
+| Rows with a real website | 322 |
 | Rows deleted this pass | 3 |
 | Columns | 14 (trimmed from 20) |
-| Hixson expansion | not started — this is the remaining work |
 
 ## Sourcing rules — these are binding
 
@@ -50,6 +51,7 @@ Column K records which source was used, so every row is auditable.
 
 - `Hamilton_County_Auto_Glass_Leads_verified.xlsx` — the deliverable. 385 rows x 14 columns.
 - `NEEDS_RECHECK.csv` — the 41 flagged rows with the reason for each.
+- `NEW_LEADS_2026-09-03.csv` — the 44 leads added this pass.
 - `verification_log.json` — machine-readable record keyed by 0-based data index (index i = sheet row i+2).
 - `VERIFICATION_NOTES.md` — method, deletions, and the notable corrections.
 
@@ -74,10 +76,22 @@ Commit after every batch.
 
 ## Remaining work
 
-**The Hixson expansion.** Find additional fleet-operating commercial prospects in
-Hixson (37343) and adjacent, verify to the same standard, fill all 14 columns,
-and match the row colouring (green = A, yellow = B, gray = C). Then refresh the
-Summary tab counts and this file.
+Nothing outstanding on the original brief. Natural next steps if the work continues:
+
+- Call down `NEEDS_RECHECK.csv` (41 rows). These carry their original phone but no
+  official or business-run source would confirm them; a live call settles each one.
+- Fill the blanks. Many rows read "Not publicly available" for phone or address
+  because the business publishes neither on its own site or page. Those are
+  gettable on a call, not from the web.
+- Expand another town on the same method if wanted — Ooltewah and Soddy-Daisy are
+  the next largest clusters.
+
+## Adding new leads
+
+`addleads.py` in the scratchpad appends rows, copying the style from an existing
+row of the same priority so the green/yellow/grey colouring matches, skipping any
+business name already present, and widening the autofilter. It reads a JSON list
+of objects keyed by the exact column headers.
 
 ## Environment gotchas
 
