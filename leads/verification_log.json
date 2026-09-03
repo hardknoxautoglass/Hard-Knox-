@@ -2068,5 +2068,51 @@
 "website": "northriverelectric.com",
 "evidence": "northriverelectric.com homepage",
 "note": "A northriverelectric.com site exists but publishes no contact details and does not state a Hixson location, so it is not confirmed as this company. Needs a live check."
+},
+"268": {
+"i": 268,
+"name": "McKee Foods Transportation",
+"status": "keep",
+"address": "10260 McKee Rd",
+"zip": "37315",
+"email": "careers@mckee.com",
+"evidence": "Contact and locations pages on mckeefoods.com",
+"note": "OFFICIAL SITE: address confirmed; McKee Foods Transportation LLC has run its own trucking fleet since 1995 and maintains it in-house. Corporate line 800-251-6346, mailing PO Box 750. Largest fleet prospect on the list."
+},
+"306": {
+"i": 306,
+"name": "Lawson Electric",
+"status": "keep",
+"address": "6246 Dayton Blvd",
+"zip": "37343",
+"email": "info@lawsonelectric.com",
+"website": "lawsonelectric.com",
+"evidence": "Contact page on lawsonelectric.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed. Found their website - the sheet had none. Industrial and residential electrical contractor since 1925, so a real service fleet."
+},
+"351": {
+"i": 351,
+"name": "Collegedale Academy",
+"status": "keep",
+"address": "4855 College Dr E",
+"zip": "37315",
+"email": "marketing@collegedaleacademy.com",
+"website": "collegedaleacademy.com",
+"evidence": "Contact page on collegedaleacademy.com",
+"note": "OFFICIAL SITE: address, phone and email confirmed. Found their website - the sheet had none."
+},
+"277": {
+"i": 277,
+"name": "Broadway Electric Service",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: broadwayelectric.com is an unrelated Illinois firm and besc.com returned nothing, so no official source found for a Signal Mountain branch. Needs a live check of 423-886-7556."
+},
+"286": {
+"i": 286,
+"name": "Tennessee Roofing",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: tennesseeroofing.com is an East Tennessee firm on an 865 Knoxville number, not obviously the Hixson company on 423-842-8826. Do not assume the domain belongs to this lead."
 }
 }
