@@ -2999,5 +2999,33 @@
 "note": "New lead. Second number 706-979-4382 is a north Georgia line. No street address or email published.",
 "evidence": "Own site: Contact page lists two numbers (423-653-0995 and 706-979-4382); About page states 23+ years in welding repair and steel fabrication.",
 "new_lead": true
+},
+"413": {
+"i": 413,
+"status": "keep",
+"note": "New lead. Showroom is in Hixson but the site never prints the street address - ask when you call. Install crews haul material daily.",
+"evidence": "Own site: Contact and About pages place the showroom in Hixson TN and list this phone; Commercial Services page cites work for medical and dental offices, churches and assisted living.",
+"new_lead": true
+},
+"414": {
+"i": 414,
+"status": "keep",
+"note": "New lead. Restaurant service techs are on the road all day between accounts. No email or street address published.",
+"evidence": "Own site: home page lists this phone; active service blog through 2026 on commercial HVAC, walk-in coolers and ice machines across the Chattanooga area.",
+"new_lead": true
+},
+"415": {
+"i": 415,
+"status": "keep",
+"note": "New lead. They publish a text line as well as a phone - 423-400-7541. No email or address.",
+"evidence": "Own site: commercial refrigeration page lists this phone plus a text line (423-400-7541) and names Hixson in the service area.",
+"new_lead": true
+},
+"416": {
+"i": 416,
+"status": "keep",
+"note": "New lead. Family-owned, 20+ years. Their site never prints a phone number - the contact form is the only published route, so this one needs a drive-by or a form submission.",
+"evidence": "Own site: Contact and About pages list this address, 7am-7pm Mon-Sat with 24/7 emergency service, and name Hixson, Soddy Daisy, Ooltewah and Birchwood in the service area.",
+"new_lead": true
 }
 }
