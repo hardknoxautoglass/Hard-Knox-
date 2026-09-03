@@ -2514,5 +2514,71 @@
 "status": "recheck",
 "evidence": "none",
 "note": "NOT CONFIRMED: no official site or business-run page found for a Quick Print in Collegedale. Needs a live check of 423-236-2861."
+},
+"273": {
+"i": 273,
+"name": "Tallent Construction",
+"status": "keep",
+"address": "5700 Clark Rd",
+"zip": "37341",
+"website": "roofingchattanooga.com",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page: address and phone confirmed, and found their website roofingchattanooga.com - the sheet had none. Family owned roofing contractor of 40+ years."
+},
+"271": {
+"i": 271,
+"name": "Varnell Construction",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found for Varnell Construction in Harrison. Needs a live check of 423-344-8365."
+},
+"276": {
+"i": 276,
+"name": "Signal Mountain Electric",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms the firm is active on Signal Mountain - it trades as Signal Electric LLC, not Signal Mountain Electric. No phone or address published there."
+},
+"279": {
+"i": 279,
+"name": "Walden Plumbing",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms Walden Plumbing is active, family owned since 1988, doing general plumbing, water, septic, sewer, field lines and backflow testing. No phone or address published there."
+},
+"322": {
+"i": 322,
+"name": "S & H Tree Service",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms S&H Tree Service is active, family owned with 24+ years. No phone or address published there, so the sheet details are unconfirmed."
+},
+"303": {
+"i": 303,
+"name": "WesHauls",
+"status": "keep",
+"evidence": "Business-maintained Facebook page",
+"note": "Business-run page confirms WesHauls is active in Hixson doing pick-up, delivery and hauling. No phone or address published there, so the sheet phone is unconfirmed."
+},
+"328": {
+"i": 328,
+"name": "Petra Roofing",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found for Petra Roofing & Siding in the Soddy-Daisy or Chattanooga area. Needs a live check of 423-593-1816."
+},
+"272": {
+"i": 272,
+"name": "Wall Construction",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found for Wall Construction Co in Harrison. Needs a live check of 423-344-7494."
+},
+"270": {
+"i": 270,
+"name": "Teddys Transportation",
+"status": "recheck",
+"evidence": "none",
+"note": "NOT CONFIRMED: no official site or business-run page found for Teddys Transportation LLC in Collegedale. Needs a live check of 423-503-0258."
 }
 }
