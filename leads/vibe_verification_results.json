@@ -3610,5 +3610,53 @@
 "website": "concreteprotection.com",
 "evidence": "Own site: product data sheets, safety data sheets and warranty documents all carry 5959 Shallowford Rd. Suite 405, Chattanooga TN 37421 with this phone and this email; info@spraylock.com also appears.",
 "note": "A colloidal silica manufacturer at 51-200 staff, so technical reps travelling to pours rather than a crew fleet - held at B. The Shallowford Road suite matches the record. Note the company answers on two domains, concreteprotection.com and spraylock.com."
+},
+"Spray-Lock, Inc.": {
+"name": "Spray-Lock, Inc.",
+"status": "dup",
+"note": "Same company as Spray-Lock Concrete Protection (SCP), already verified and added: same 5959 Shallowford Road address and the spraylock.com domain that SCP's own documents also answer on. The Vibe export carries the business twice under two names."
+},
+"Stanley Excavation And Grading": {
+"name": "Stanley Excavation And Grading",
+"status": "confirmed",
+"industry": "Excavation, Grading & Land Clearing",
+"priority": "A",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37403",
+"phone": "(423) 413-7176",
+"email": "Not publicly available",
+"website": "stanleyexcavationgrading.com",
+"evidence": "Own site: publishes this phone and Mon-Sat 8-5 hours across its land clearing, excavation and grading, drainage, erosion control and septic pages, serving Chattanooga and north Georgia.",
+"note": "Excavation is heavy-equipment work - dump trucks, lowboys hauling machines and crew pickups running rough sites six days a week. Their own site publishes no street address or email, so the record's 1004 East 10th Street is left off."
+},
+"STATEWIDE SIDING SUPPLY, INC.": {
+"name": "STATEWIDE SIDING SUPPLY, INC.",
+"status": "confirmed",
+"industry": "Siding Supply & Installation",
+"priority": "B",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 892-0126",
+"email": "Not publicly available",
+"website": "residewithstatewide.com",
+"evidence": "Own site: publishes this local number and toll-free (800) 735-3513 for vinyl siding supply and re-siding work in Chattanooga.",
+"note": "Held at B: a toll-free line suggests a real supply operation with delivery trucks, but their own site prints no address, and the Shadow Point Circle address on the record reads residential, so it is unclear whether there is a yard behind this. Ask when you call."
+},
+"Sterchi Construction": {
+"name": "Sterchi Construction",
+"status": "nocontact",
+"note": "sterchiconstruction.com is live and substantial - contact, offices, team, testimonials and a dozen project pages from Lookout Mountain to Brady Point - but two domain-restricted searches will not surface a phone, email or street address. Family-owned GC since 1976 working Tennessee and Georgia; worth a retry."
+},
+"Streamline Xpress LLC": {
+"name": "Streamline Xpress LLC",
+"status": "nocontact",
+"note": "streamlinexpress.com resolves but only the homepage is indexed and neither search yields a phone, email or address. Frustrating, because a courier and delivery service on East Ridge Avenue would be a strong fleet lead - vans out all day. Worth chasing in person."
+},
+"Strickland Lawn": {
+"name": "Strickland Lawn",
+"status": "nocontact",
+"note": "stricklandlandscape.com serves only a 'Loading...' placeholder on two attempts - no readable content, no contact details. Site may be broken or mid-rebuild."
 }
 }
