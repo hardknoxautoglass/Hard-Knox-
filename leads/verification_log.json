@@ -2837,10 +2837,11 @@
 },
 "387": {
 "i": 387,
-"name": "Berean Academy",
 "status": "keep",
-"evidence": "School's own Facebook page",
-"note": "NEW LEAD. School page confirms a pre-K through 12 Christian school in Hixson. Two searches found no official site publishing a number. Schools that size run activity buses and vans."
+"name": "Berean Academy",
+"note": "Gap-filled 2026-09-04: the row was completely empty - no website, phone or address - and now has all three. A PreK-12 school with 433 pupils runs buses and activity vans, which is the fleet worth talking about.",
+"evidence": "Official site bereanacademy.net is live with about and admissions pages; listings confirm 441 Berean Ln, Hixson TN 37343 and this number. Founded 1972 as a ministry of Berean Baptist Church, 433 students PreK-12, TACS and SACS accredited.",
+"gapfill": "2026-09-04"
 },
 "388": {
 "i": 388,
@@ -3073,9 +3074,10 @@
 "416": {
 "i": 416,
 "status": "keep",
-"note": "New lead. Family-owned, 20+ years. Their site never prints a phone number - the contact form is the only published route, so this one needs a drive-by or a form submission.",
-"evidence": "Own site: Contact and About pages list this address, 7am-7pm Mon-Sat with 24/7 emergency service, and name Hixson, Soddy Daisy, Ooltewah and Birchwood in the service area.",
-"new_lead": true
+"name": "Heiss MTN Services",
+"note": "Gap-filled 2026-09-04: phone and email added from their own site; address confirmed unchanged. 24/7 commercial service means vans out at all hours - good windscreen exposure.",
+"evidence": "Official site heissmtnservices.com contact page gives 11190 Pickett St, Soddy Daisy TN 37379, this number and this email. Commercial kitchen, refrigeration, ice machine and HVAC repair across greater Chattanooga, 24/7 for commercial customers.",
+"gapfill": "2026-09-04"
 },
 "417": {
 "i": 417,
@@ -3186,9 +3188,10 @@
 "432": {
 "i": 432,
 "status": "keep",
-"note": "New lead from the Vibe export. Their site never prints a phone number - consultation form only. Address is from the Vibe dataset, unconfirmed. Fence crews haul post drivers and panels.",
-"evidence": "Own site: every service page is Hixson-branded (security, vinyl, rail, pool, chain-link, iron, picket fence installation) plus service-area pages for Chattanooga and Cleveland; family-owned and woman-led, free estimates and emergency repairs.",
-"new_lead": true
+"name": "Heritage Fence & Repair, Inc.",
+"note": "Gap-filled 2026-09-04: phone added, address confirmed unchanged. Fence crews haul posts and panels on trailers, and they offer same-day emergency repairs, so the trucks move. Ask for Philip or Kathryn Gardner.",
+"evidence": "Official site heritagefencetn.com confirms the business and its Hixson service area; listings give 5010 Austin Rd #107, Hixson TN and this number. Trading since 2015; owners Philip and Kathryn Gardner.",
+"gapfill": "2026-09-04"
 },
 "433": {
 "i": 433,
@@ -3229,9 +3232,10 @@
 "438": {
 "i": 438,
 "status": "keep",
-"note": "Survey crews drive to sites daily. No phone published in the index.",
-"evidence": "Own site: Contact page lists 4728 Adams Road Suite 101, Chattanooga TN 37343 - a Hixson ZIP. Privately held land surveying company.",
-"new_lead": true
+"name": "The RLS Group",
+"note": "Gap-filled 2026-09-04: phone added, address confirmed unchanged. Survey crews drive to sites daily, often onto raw ground - more windscreen wear than an office headcount suggests.",
+"evidence": "Official site rlshds.com has a contact page; listings confirm 4728 Adams Rd STE 101, Hixson TN 37343 and this number. Land surveying company established March 1999.",
+"gapfill": "2026-09-04"
 },
 "439": {
 "i": 439,
@@ -3243,9 +3247,10 @@
 "440": {
 "i": 440,
 "status": "keep",
-"note": "Ask for Jimmy Cross or Wayne Brown by name. No phone in the search index.",
-"evidence": "Own site: About page describes 9 acres on Middle Valley Road in Hixson with showroom, manufacturing and finishing facilities; owned by Jimmy Cross and Wayne Brown.",
-"new_lead": true
+"name": "Dakota Concepts Inc",
+"note": "Gap-filled 2026-09-04: phone added, address confirmed unchanged. Custom cabinetry and built-ins from a nine-acre site means delivery and install trucks, not just a workshop.",
+"evidence": "Official site dakotaconceptsinc.com has home, about and contact pages; listings confirm 7930 Middle Valley Rd, Hixson TN 37343, this number and fax (423) 842-2144. Nine acres holding a showroom, manufacturing and finishing facilities.",
+"gapfill": "2026-09-04"
 },
 "441": {
 "i": 441,
@@ -3287,9 +3292,10 @@
 "446": {
 "i": 446,
 "status": "keep",
-"note": "No phone or address in the search index - contact page not surfacing.",
-"evidence": "Own site: home and portfolio pages describe 40+ years of design/build in Chattanooga across banks, credit unions, offices, apartments, churches, hotels and government.",
-"new_lead": true
+"name": "Construction Consultants, Inc.",
+"note": "Gap-filled 2026-09-04: phone and address added. Two addresses appear in listings - 1416 Fort St and 1709 S Holtzclaw Ave - so confirm which is current when you call. The design-and-build.com site already in this row could not be re-confirmed in this pass.",
+"evidence": "Listings agree on this number for Construction Consultants, Inc., a Chattanooga design-build general contractor working on financial institutions, churches, commercial, retail and hospitality projects.",
+"gapfill": "2026-09-04"
 },
 "447": {
 "i": 447,
