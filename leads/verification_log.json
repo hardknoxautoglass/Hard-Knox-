@@ -1024,14 +1024,18 @@
 "155": {
 "i": 155,
 "status": "keep",
-"address": "5966 Dayton Blvd",
-"note": "verified active since 2000; largest independent appliance service in area; no website"
+"name": "Chattanooga Appliance",
+"note": "Gap-filled 2026-09-04: no official website could be tied to this business. A chattanoogaappliancerepair.com exists but nothing links it to this company at 5966 Dayton Blvd, and the area has several similarly named appliance firms, so it is not recorded. Phone in the row is unchanged.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "156": {
 "i": 156,
 "status": "keep",
-"address": "2108 McBrien Rd",
-"note": "verified active; blogspot page only, no real website"
+"name": "Volunteer Appliance Service Co.",
+"note": "Gap-filled 2026-09-04: no real website - only a dormant blogspot page, which is not recorded. The phone already in the row was confirmed unchanged. Family owned for 75+ years; mobile appliance service means vans out daily.",
+"evidence": "Google listings confirm (423) 867-4000 and place them at 2108 McBrien Rd / 1536 S Rugby Pl, Chattanooga TN 37412, serving northwest Georgia and Chattanooga since 1948, Mon-Fri 7-4.",
+"gapfill": "2026-09-04"
 },
 "157": {
 "i": 157,
@@ -1117,8 +1121,10 @@
 "170": {
 "i": 170,
 "status": "keep",
-"address": "2189 Broad St",
-"note": "verified active via BBB/ScrapMonster; no website"
+"name": "Baxwin Scrap Iron",
+"note": "Gap-filled 2026-09-04: no official website. Phone and address already in the row were confirmed unchanged. Scrap yards run roll-off and grapple trucks.",
+"evidence": "Google listings confirm (423) 267-1576 at 2189 Broad St, Chattanooga TN 37408, founded 1987, Mon-Fri 7:00-2:45 and Saturday mornings.",
+"gapfill": "2026-09-04"
 },
 "172": {
 "i": 172,
@@ -1190,8 +1196,10 @@
 "182": {
 "i": 182,
 "status": "keep",
-"address": "6228 Bonny Oaks Dr",
-"note": "CAUTION: YellowPages lists as CLOSED but Yelp listing updated 2025 with recent reviews. Confirm by phone before outreach"
+"name": "Dempsey and Sons Well Drilling",
+"note": "Gap-filled 2026-09-04: no official website, and TWO WARNINGS. One listing marks them CLOSED, so confirm they are trading before spending time on them. And 6228 Bonny Oaks Drive is Tri-State Drilling's address as well - either they share a yard or one listing has the wrong address. Worth untangling, since a well driller runs rigs worth having.",
+"evidence": "Google listings confirm (423) 894-5635 at 6228 Bonny Oaks Drive, Chattanooga TN 37416.",
+"gapfill": "2026-09-04"
 },
 "185": {
 "i": 185,
@@ -2271,10 +2279,11 @@
 },
 "242": {
 "i": 242,
-"name": "Legacy Funeral Home",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms Legacy Funeral Home and Cremation Center is active in Soddy-Daisy. No phone or address published there, so the sheet details are unconfirmed."
+"name": "Legacy Funeral Home & Cremation Center",
+"note": "Gap-filled 2026-09-04: website added, and the phone and address already in the row were confirmed unchanged. Funeral homes run hearses and limousines - low mileage but high-value glass, and they cannot have a chipped screen on a procession.",
+"evidence": "Official site legacyfuneralhome.com is live for funeral, memorial, pre-planning and cremation services with an on-site crematory; Google listings confirm 8911 Dallas Hollow Rd, Soddy Daisy TN 37379 and (423) 843-2525.",
+"gapfill": "2026-09-04"
 },
 "271": {
 "i": 271,
@@ -2353,10 +2362,11 @@
 },
 "215": {
 "i": 215,
-"name": "Masonry Specialist Corporation",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms the firm is active, based in East Ridge (37412) rather than Chattanooga proper. Office 8-5, closed 12-1. No phone or address published there."
+"name": "Masonry Specialist Corporation",
+"note": "Gap-filled 2026-09-04: no official website - the 'website' some directories show is just a Manta listing, which is not one. Phone and address already in the row were confirmed unchanged.",
+"evidence": "Google listings confirm (423) 622-2745 and fax (423) 629-4772 at 1417 Choate Rd, Chattanooga TN 37412, with P.O. Box 91496 for mail; 40 years in business as a general and masonry contractor.",
+"gapfill": "2026-09-04"
 },
 "216": {
 "i": 216,
