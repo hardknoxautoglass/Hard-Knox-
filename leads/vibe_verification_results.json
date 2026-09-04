@@ -4251,5 +4251,67 @@
 "name": "Lit Systems",
 "status": "nocontact",
 "note": "litsystems.com returns nothing on two domain-restricted searches - not indexed. 1-10 staff on Taft Highway, so a small prize in any case."
+},
+"Polaris Travel": {
+"name": "Polaris Travel",
+"status": "dead",
+"note": "The domain on the record is yelp.com - a third-party directory, not the company's own site, and the one source ruled out for this project. Nothing self-published exists to verify a business at 1210 Taft Highway Suite G, and a 1-10 staff travel agency has no fleet worth chasing anyway."
+},
+"Video Park": {
+"name": "Video Park",
+"status": "nocontact",
+"note": "videopark.com is live - a videotape and audio transfer lab on Signal Mountain, open by appointment, with equipment sales and preservation guides - and its contact page says it carries a phone number, email and map, but two domain-restricted searches cannot read any of them. A one-room transfer lab has essentially no fleet regardless."
+},
+"WALDENS RIDGE UTILITY DISTRICT OF HAMILTON COUNTY INC": {
+"name": "WALDENS RIDGE UTILITY DISTRICT OF HAMILTON COUNTY INC",
+"status": "confirmed",
+"industry": "Water Utility District",
+"priority": "A",
+"address": "3900 Taft Highway",
+"city": "Signal Mountain",
+"zip": "37377",
+"phone": "(423) 886-2683",
+"email": "Not publicly available",
+"website": "wrud.org",
+"evidence": "Own site: Contact page gives 3900 Taft Highway, Signal Mountain TN 37377 and this phone, covering Walden's Ridge and Lone Oak Utility Districts; news, holiday hours, meter and service-line pages all live.",
+"note": "A water utility runs service trucks, meter readers and backhoe crews across the mountain every day, on gravel shoulders and job sites - good windscreen exposure and, being a public district, a body that buys on quotes rather than impulse. Their own site confirms the record's Taft Highway address. No email published."
+},
+"Affinity Environmental Group": {
+"name": "Affinity Environmental Group",
+"status": "confirmed",
+"industry": "Environmental Remediation & Construction",
+"priority": "A",
+"address": "9916 Walden Street",
+"city": "Soddy Daisy",
+"zip": "37379",
+"phone": "(423) 332-7077",
+"email": "Not publicly available",
+"website": "affinityenvironmental.com",
+"evidence": "Own site: Contact page gives 9916 Walden Street, Soddy Daisy TN 37379 and this phone; asbestos removal, mould remediation, meth lab cleanup, radon, Phase I/II site remediation and both commercial and residential construction pages are live.",
+"note": "Remediation crews haul containment gear and waste in box trucks and trailers, and they also run a construction arm, so the fleet is bigger than the 1-10 headcount implies. Their own site confirms the record's Walden Street address. No email published."
+},
+"Complete Backflow Services": {
+"name": "Complete Backflow Services",
+"status": "confirmed",
+"industry": "Backflow Testing & Repair",
+"priority": "B",
+"address": "P.O. Box 663, Hixson",
+"city": "Soddy Daisy",
+"zip": "37379",
+"phone": "(423) 593-7919",
+"email": "Not publicly available",
+"website": "completebackflowservices.com",
+"evidence": "Own site: Contact page names both owners with direct mobiles - Mike Brown on 423-593-7919 and Scott Edgemon on 423-593-2930 - a Hixson PO Box for mail and a Soddy Daisy 37379 base.",
+"note": "Backflow testers drive between commercial premises all day doing annual certifications - small fleet, high mileage. Both owners publish mobile numbers, so there is no gatekeeper: Mike Brown or Scott Edgemon answer directly. Their own site gives only the PO Box, so the record's 1779 Ritz Way is not confirmed."
+},
+"Construction More": {
+"name": "Construction More",
+"status": "nocontact",
+"note": "more-than-construction.com is live as More Than Construction, Inc., doing both residential and commercial work, but two domain-restricted searches surface no phone, email or address - only homepage, blog, an interview page and one project."
+},
+"Cross Cabinets": {
+"name": "Cross Cabinets",
+"status": "nocontact",
+"note": "crosscabinets.com is live with kitchens, bathrooms, built-ins, portfolio and testimonial pages, owned by Nancy Stewart, and their contact page gives directions to the Wall Street showroom - turn left on Ducktown Road where it dead ends - but will not yield a phone or email across two searches. Ask for Nancy Stewart if someone reaches them another way."
 }
 }
