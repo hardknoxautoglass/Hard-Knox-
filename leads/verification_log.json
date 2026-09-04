@@ -2820,9 +2820,10 @@
 "383": {
 "i": 383,
 "status": "keep",
-"note": "NEW LEAD. Business-run page confirms a cleaning service operating in Hixson. No phone or address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"name": "Jacklyn Emerson Five Star Cleaning Services",
+"note": "Gap-filled 2026-09-04: nothing found. No website, no phone and no listing under this name; searches return only unrelated Chattanooga cleaning firms. Both website and phone remain empty - confirm the business exists and how it trades before spending time on it.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "384": {
 "i": 384,
@@ -3256,9 +3257,10 @@
 "439": {
 "i": 439,
 "status": "keep",
-"note": "Remodeling, not lawn care - the Vibe industry tag was wrong. Address from the Vibe dataset, unconfirmed.",
-"evidence": "Own site: sunroom page is Hixson-branded; siding, remodeling and contact pages cover Signal Mountain, Ridgeside and Fairmount.",
-"new_lead": true
+"name": "West Home Services LLC",
+"note": "Gap-filled 2026-09-04: phone, address and website added.",
+"evidence": "Official site westhomeservices.net is live; listings give 8021 Hale Road, Hixson TN 37343 and this number. Family owned home improvement with 40+ years' experience.",
+"gapfill": "2026-09-04"
 },
 "440": {
 "i": 440,
@@ -3316,9 +3318,10 @@
 "447": {
 "i": 447,
 "status": "keep",
-"note": "A union local, not a contractor - no vehicle fleet of its own, but the training centre does run vans. Address from the Vibe dataset.",
-"evidence": "Own site: MidSouth Carpenters Regional Council site covering Local 74.",
-"new_lead": true
+"name": "Local 74",
+"note": "Gap-filled 2026-09-04: phone, address and website added. Worth understanding what this is: a carpenters' union local, not a contractor, so it has no fleet of its own - but its members work for many of the contractors on this list, which makes it a noticeboard rather than a customer. Kept at C.",
+"evidence": "Official site ubclocal74.com has a contact page; listings give 6260 Dayton Blvd, Hixson TN 37343 and this number. United Brotherhood of Carpenters Local 74 - carpenters, millwrights, pile drivers, cabinet makers, floor coverers and interior systems.",
+"gapfill": "2026-09-04"
 },
 "448": {
 "i": 448,
@@ -3498,9 +3501,10 @@
 "472": {
 "i": 472,
 "status": "keep",
-"note": "Old-style .htm site. No contact details in the search index.",
-"evidence": "Own site: home, about and remodeling pages for a Chattanooga construction company.",
-"new_lead": true
+"name": "BROWN DOG CONSTRUCTION",
+"note": "Gap-filled 2026-09-04: phone, address and website added. Listings show a few different addresses; Union Springs Road is the one BBB and the Chamber agree on.",
+"evidence": "Official site browndogconstruction.com is live; BBB and the Chattanooga Chamber both give 5911 Union Springs Rd, Chattanooga TN 37415 and this number. Kitchen and bathroom remodelling and general contracting.",
+"gapfill": "2026-09-04"
 },
 "473": {
 "i": 473,
@@ -3859,9 +3863,10 @@
 "522": {
 "i": 522,
 "status": "keep",
-"note": "A professional chapter, not a business. The member directory is the useful part.",
-"evidence": "Own site: chapter home, board, committees and member directory pages; meets at the Construction Career Center, 2225 Roanoke Ave - the same building as AGC East Tennessee.",
-"new_lead": true
+"name": "CSI Construction Specification Institute Chattanooga Chapter",
+"note": "Gap-filled 2026-09-04: website added; the chapter publishes no phone of its own. This is a professional association of architects, specifiers and contractors, not a business with vehicles - so no fleet at all. Its real value is the annual Chattanooga Product Show, which is where the contractors on this list gather. Kept at C for the fleet, but the show may be worth more than a call.",
+"evidence": "Official site chattanoogacsi.org is live for the Chattanooga Chapter, with a newsletter and an annual product show; the national body's number is 1-800-689-2900.",
+"gapfill": "2026-09-04"
 },
 "523": {
 "i": 523,
@@ -3917,9 +3922,10 @@
 "530": {
 "i": 530,
 "status": "keep",
-"note": "An online product seller, not a service business - no fleet. No contact details in the index.",
-"evidence": "Own site: product, about and contact pages for home elevator door baffle space guards, sold direct to homeowners and contractors.",
-"new_lead": true
+"name": "DoorBaffles.com",
+"note": "Gap-filled 2026-09-04: this is REMI Home Elevators' product brand, not a separate company - same Orchard Knob address, already on this list as its own row. Treat the two as one call, and the number recorded here is REMI's toll-free line. Kept at C because the fleet belongs to the REMI row.",
+"evidence": "Official site doorbaffles.com sells home elevator door baffle space guards; REMI Home Elevators' own safety-notice page requires every REMI customer to fit one, and REMI is at 1709 N Orchard Knob Ave, Chattanooga TN 37406 on 800-545-6120.",
+"gapfill": "2026-09-04"
 },
 "531": {
 "i": 531,
