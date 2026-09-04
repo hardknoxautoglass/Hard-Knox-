@@ -2665,5 +2665,71 @@
 "website": "miraclemethod.com/chattanooga",
 "evidence": "Own site: the Chattanooga location pages give 2600 East 30th Street, Chattanooga TN 37407, this local number and a showroom open by appointment 8-5 weekdays.",
 "note": "Refinishing crews travel to homes and commercial jobs in vans. Ask for Gabriel Gilliam, the commercial project manager, on (423) 226-3378 - that is the number their own commercial page gives. The site says East 30th Street in 37407, correcting the record's East 30th Avenue and 37402."
+},
+"Mission Stone Tile- Chattanooga, TN": {
+"name": "Mission Stone Tile- Chattanooga, TN",
+"status": "dead",
+"note": "Bad record twice over. The domain on it, vksalonchatt.com, is a hair salon, not a tile business. Mission Stone & Tile's real site, missionstonetile.com, is an online retailer with only an 888 number and confirms no Chattanooga showroom, so nothing self-published supports a business at 55 East Main Street."
+},
+"Monolith Landscape Design": {
+"name": "Monolith Landscape Design",
+"status": "confirmed",
+"industry": "Landscape Design & Irrigation",
+"priority": "B",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37415",
+"phone": "(423) 414-4912",
+"email": "micah@monolithlandscapedesign.com",
+"website": "monolithlandscapedesign.com",
+"evidence": "Own site: Contact page gives this phone, this email and Mon-Fri 8-4 hours, serving Chattanooga and the surrounding region since 2016.",
+"note": "Maintenance crews out weekly plus irrigation and lighting installs, so trucks and trailers on the road. Micah is the named contact. Their own site does not print a street address, so the record's 1915 Dayton Boulevard is left off."
+},
+"MORGAN CONSTRUCTION COMPANY": {
+"name": "MORGAN CONSTRUCTION COMPANY",
+"status": "confirmed",
+"industry": "Commercial General Contractor",
+"priority": "A",
+"address": "690 Manufacturers Road Suite 100",
+"city": "Chattanooga",
+"zip": "37405",
+"phone": "(423) 266-6218",
+"email": "Not publicly available",
+"website": "morganconstruction.com",
+"evidence": "Own site: Contact page gives 690 Manufacturers Rd Suite 100, Chattanooga TN 37405, phone 423.266.6218 and fax 423.756.4581. Market pages cover retail, warehousing, healthcare, hospitality and education across ten states.",
+"note": "Forty-year commercial GC working TN, KY, VA, the Carolinas, the Gulf states and Florida - superintendent trucks travelling constantly. Ask for Wes Bonds, named on their about pages. No email published; bids go through the bid-information page."
+},
+"Mountain City Construction Company, LLC": {
+"name": "Mountain City Construction Company, LLC",
+"status": "nocontact",
+"note": "mtncityconstruction.com is live - custom homes, renovations and recent-project pages all indexed - but two domain-restricted searches surface no phone, email or address. They route everything through a contact form. Note the site claims 40+ years of remodeling experience, which does not match the record; small builder either way."
+},
+"Mpl Construction Company": {
+"name": "Mpl Construction Company",
+"status": "confirmed",
+"industry": "Commercial General Contractor",
+"priority": "A",
+"address": "115 Cedar Lane",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 899-7737",
+"email": "Not publicly available",
+"website": "mplconstruction.com",
+"evidence": "Own site: Contact page gives 115 Cedar Ln, Chattanooga TN 37421, this phone and Mon-Fri 8-5 hours. Project pages cover Boyd-Buchanan, Servpro, Hunter Oil and Woodbridge Chattanooga.",
+"note": "Commercial GC with crews on Chattanooga-area job sites. Worth knowing they built for Nichols Fleet Equipment, which is already on the list - a warm introduction either way. No email published."
+},
+"Mr. Handyman of Chattanooga": {
+"name": "Mr. Handyman of Chattanooga",
+"status": "confirmed",
+"industry": "Handyman & Property Maintenance",
+"priority": "B",
+"address": "5959 Shallowford Road Suite 219",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 405-7656",
+"email": "Not publicly available",
+"website": "mrhandyman.com/chattanooga",
+"evidence": "Own site: the Chattanooga location pages give 5959 Shallowford Road Suite 219, Chattanooga TN 37421 and this local number, with residential, commercial and Cleveland TN service pages live.",
+"note": "Neighborly franchise running branded vans on residential and commercial calls daily, and they cover Cleveland TN as well - decent windshield volume for a small fleet. Franchise sites publish no email."
 }
 }
