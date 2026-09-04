@@ -2854,5 +2854,80 @@
 "website": "osteenconstruction.com",
 "evidence": "Own site: every page carries the phone in its title, and the site gives 4637 Guild Trail, Chattanooga TN 37409. Design, build, sustain, FAQ and testimonials pages all live.",
 "note": "Small historic-renovation and custom-build firm with crew trucks. Worth noting they also run Southern Window Films as a 3M certified window film dealer and installer - so they are in the film trade themselves, which makes them a referral contact as much as a customer."
+},
+"Overlooked Materials": {
+"name": "Overlooked Materials",
+"status": "confirmed",
+"industry": "Glass & Styrofoam Recycling",
+"priority": "B",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37405",
+"phone": "Not publicly available",
+"email": "morgan.holl@hillcity.ventures",
+"website": "overlookedmaterials.com",
+"evidence": "Own site: founder-message and contact pages name Morgan Holl as founder and publish this email; about, commercial, pilot and collection-event pages are all live and describe a facility near downtown Chattanooga.",
+"note": "The most useful name in this batch even though the fleet is small. They are the Chattanooga area's glass recycler - a natural home for scrap windshield glass and a partner worth talking to rather than just a customer. No phone published; their own privacy page puts them in 37405, not the 37404 on the record, and no street address is given. Email is on the founder's hillcity.ventures domain, which is what their own site publishes."
+},
+"Oxy Green": {
+"name": "Oxy Green",
+"status": "confirmed",
+"industry": "Carpet & Upholstery Cleaning",
+"priority": "B",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 488-9976",
+"email": "Not publicly available",
+"website": "oxygreencarpetcleaningchattanooga.com",
+"evidence": "Own site: publishes this number for calls or texts and describes low-moisture carpet, upholstery, hardwood and boat cleaning across the area.",
+"note": "Owner-operator running service vans to homes, offices and marinas. Call or text the same number - that is how their site says to reach them. No address or email published."
+},
+"P&C Construction, INC.": {
+"name": "P&C Construction, INC.",
+"status": "confirmed",
+"industry": "Commercial General Contractor",
+"priority": "A",
+"address": "1037 West Main Street",
+"city": "Chattanooga",
+"zip": "37402",
+"phone": "(423) 493-0051",
+"email": "info@pc-const.com",
+"website": "pc-const.com",
+"evidence": "Own site: Contact page gives 1037 W Main St, Chattanooga TN 37402, phone (423) 493-0051, fax (423) 493-0058 and departmental emails - info, bidding, hr and accounting. Project pages include PlayCore, Patten Group and Main Street Meats.",
+"note": "Strong A lead: a nationally awarded GC at 51-200 staff with superintendent and crew trucks on Chattanooga job sites. They publish four working email addresses, which almost nothing else in this queue does - bidding@ or info@ will both reach a person."
+},
+"Papa Services": {
+"name": "Papa Services",
+"status": "confirmed",
+"industry": "Hauling & Junk Removal",
+"priority": "A",
+"address": "1311 Bennett Avenue",
+"city": "Chattanooga",
+"zip": "37404",
+"phone": "(423) 629-0700",
+"email": "Not publicly available",
+"website": "papaservices.com",
+"evidence": "Own site: gives 1311 Bennett Avenue, Chattanooga TN 37404, PO Box 3594, this phone and open-every-day hours.",
+"note": "'You call, we haul' - a hauling outfit is exactly the fleet profile worth chasing: trucks out every day, rock chips guaranteed. Their own site confirms the record's Bennett Avenue address. No email published."
+},
+"Patriot Concrete, LLC": {
+"name": "Patriot Concrete, LLC",
+"status": "nocontact",
+"note": "Not recorded as verified because the domain is compromised. patriotconcrete.co now serves an Indonesian gambling page ('PETANITOTO ... Slot Gacor') as its homepage while the old service pages still load underneath - a hijacked WordPress. Those older pages carry (423) 403-3747 and Ooltewah, Cleveland and Jasper service areas, but content on a hijacked site is not a source to trust, so it stays out of the workbook. Re-check if they move to a clean domain."
+},
+"Paul Davis Restoration of Chattanooga": {
+"name": "Paul Davis Restoration of Chattanooga",
+"status": "confirmed",
+"industry": "Property Damage Restoration",
+"priority": "A",
+"address": "1916 Circle Drive",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 899-2406",
+"email": "pdrchat@gmail.com",
+"website": "greater-chattanooga.pauldavis.com",
+"evidence": "Own site: the Greater Chattanooga franchise site gives 1916 Circle Dr, Chattanooga TN 37421, this phone and this email, with emergency response, residential, contents and insurance-agent pages all live.",
+"note": "Restoration outfits run trucks and vans on emergency calls at all hours, so windshield damage is routine. Their own site confirms the record's Circle Drive address and publishes a direct email, which is unusual for a franchise."
 }
 }
