@@ -2312,10 +2312,11 @@
 },
 "264": {
 "i": 264,
-"name": "Walden Ridge Service Station",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page for Walden Ridge Service Station exists. No phone or address published there, so the sheet details are unconfirmed."
+"name": "Walden Ridge Service Station",
+"note": "Gap-filled 2026-09-04: phone and address added. Automotive, motorcycle and small engine work plus a DOT carrier registration, so they run vehicles of their own as well as fixing others'. Do not confuse with Walden's Ridge Utility District or Waldens Ridge Emergency Services, both separate.",
+"evidence": "Listings agree on 1820 Taft Hwy, Signal Mountain TN 37377 and this number, Mon-Fri 8-5. Federal carrier registration USDOT 1159552 confirms the business.",
+"gapfill": "2026-09-04"
 },
 "334": {
 "i": 334,
@@ -2359,10 +2360,11 @@
 },
 "214": {
 "i": 214,
-"name": "A&D Masonry",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms A&D Masonry Contractors is active, based in East Ridge rather than Chattanooga proper. No phone or address published there."
+"name": "A&D Masonry",
+"note": "Gap-filled 2026-09-04: website and a working email added; the phone already in the row was confirmed unchanged.",
+"evidence": "Official site admasonry.us has a contact page giving 1013 Blanton Dr, Chattanooga TN 37412, (423) 999-0466 and this email, Mon-Sat 8-6.",
+"gapfill": "2026-09-04"
 },
 "215": {
 "i": 215,
@@ -2374,17 +2376,19 @@
 },
 "216": {
 "i": 216,
-"name": "All About Concrete",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms All About Concrete & Masonry is active in the Ooltewah area. No phone or address published there."
+"name": "All About Concrete & Masonry",
+"note": "Gap-filled 2026-09-04: website added, phone confirmed unchanged. A mobile number is published as well - (423) 225-3064 - which is often the faster route to a small crew.",
+"evidence": "Official site aaconcretemasonry.com is live for All About Concrete & Masonry serving Chattanooga and Knoxville; listings give (423) 208-4275 with a mobile on (423) 225-3064. 24+ years' experience, free estimates within 24 hours.",
+"gapfill": "2026-09-04"
 },
 "217": {
 "i": 217,
-"name": "J&J Premier Painting",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms J&J Premier Painting is active, based in Middle Valley, serving homes and businesses. No phone or address published there."
+"name": "J&J Premier Painting, Inc.",
+"note": "Gap-filled 2026-09-04: website added, phone confirmed unchanged. Note several unrelated J&J and JMJ painting firms trade in Chattanooga - paintingjj.com is the right one for this row.",
+"evidence": "Official site paintingjj.com is live; listings give 2529 Cedarton Ct, Chattanooga TN 37421 and (423) 362-9550. 15+ years, residential and commercial, large-scale commercial interior/exterior and garage floor epoxy.",
+"gapfill": "2026-09-04"
 },
 "299": {
 "i": 299,
@@ -2439,17 +2443,19 @@
 },
 "247": {
 "i": 247,
-"name": "Ooltewah Animal Clinic",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "A business page exists under this exact name, but no phone or address is published and several other Ooltewah vet practices share similar names - confirm which practice before working the lead."
+"name": "Ooltewah Animal Clinic",
+"note": "Gap-filled 2026-09-04: no website could be tied to this name. Ooltewah has four veterinary practices - Animal Medical Professionals, The Animal Care Center of Ooltewah, Ooltewah Veterinary Hospital and Applebrook - and none of them trades as 'Ooltewah Animal Clinic'. Nothing recorded rather than attach the wrong practice. Confirm the trading name before calling.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "274": {
 "i": 274,
-"name": "True Dental",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms True Dental is active and serves Hixson, though the page is branded Chattanooga. No phone or address published there."
+"name": "True Dental - Hixson",
+"note": "Gap-filled 2026-09-04: website and suite address added, phone confirmed unchanged. A dental practice has almost no fleet - kept at C - but the contact details are now complete.",
+"evidence": "Official site truedental.care has a Hixson location page; listings give 4513 Hixson Pike Suite 103, Hixson TN 37343 and (423) 875-6778.",
+"gapfill": "2026-09-04"
 },
 "259": {
 "i": 259,
