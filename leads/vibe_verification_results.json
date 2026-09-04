@@ -3839,5 +3839,62 @@
 "name": "Timber Creek Construction",
 "status": "nocontact",
 "note": "timbercrk.com is live with our-work, meet-the-team and tiny-homes pages, and names Noah and Chuck as the founders - Noah with 15 years in the trade and a UTC construction management degree, previously at Collier Construction - but two domain-restricted searches surface no phone, email or street address. Only 1-10 staff, so a small prize, but easy to reach through the team page if someone tries the form."
+},
+"Tipton Crane, LLC": {
+"name": "Tipton Crane, LLC",
+"status": "nocontact",
+"note": "tiptoncrane.com is live - tower crane rentals, sales, parts and service pages plus a blog - but two domain-restricted searches surface no phone, email or street address. Their own about page also puts the company in KIMBALL, TN, about 30 minutes west in Marion County, with Chattanooga listed only as a service area, so the 806 North Holtzclaw Avenue on the record is unconfirmed and may not be premises at all. Worth confirming before treating this as a Hamilton County lead - though a crane fleet would be worth the trouble."
+},
+"TOP THIS CONSTRUCTION, LLC": {
+"name": "TOP THIS CONSTRUCTION, LLC",
+"status": "nocontact",
+"note": "topthisonline.com resolves but only two pages are indexed and neither search yields a phone, email or address."
+},
+"Tower Construction Co": {
+"name": "Tower Construction Co",
+"status": "confirmed",
+"industry": "General Contractor",
+"priority": "A",
+"address": "2520 East 14th Street",
+"city": "Chattanooga",
+"zip": "37404",
+"phone": "(423) 629-2043",
+"email": "contact@towerconstructionco.com",
+"website": "towerconstructionco.com",
+"evidence": "Own site: Contact page gives 2520 E. 14th Street, Chattanooga TN 37404, this phone and this email; who-we-are, commercial and residential pages describe 30+ years of Chattanooga work.",
+"note": "Mid-sized GC doing both commercial and residential, so crew trucks daily. Full contact set including a working email, and their own site confirms the record's East 14th Street address."
+},
+"Transcomp Compliance Services - Join the Network": {
+"name": "Transcomp Compliance Services - Join the Network",
+"status": "confirmed",
+"industry": "DOT Compliance & Fleet Services",
+"priority": "B",
+"address": "5901 Shallowford Road",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 602-8722",
+"email": "Not publicly available",
+"website": "transcompnetwork.com",
+"evidence": "Own site: Contact page gives 5901 Shallowford Rd, Chattanooga TN 37421 and this phone; services, join-the-network and partner-affiliate pages describe DOT compliance, audits, inspections, permits and safety management for fleet operators.",
+"note": "The value here is not their own vehicles - it is who they talk to. Transcomp does DOT compliance for local fleet operators, so their client list is the target market, and their partner-affiliate programme is an open invitation to that kind of relationship. Worth a conversation about referrals as much as a sales call. Their own site confirms the record's Shallowford Road address."
+},
+"Tri-State Drilling, LLC": {
+"name": "Tri-State Drilling, LLC",
+"status": "confirmed",
+"industry": "Drilling Contractor",
+"priority": "A",
+"address": "6228 Bonny Oaks Drive",
+"city": "Chattanooga",
+"zip": "37416",
+"phone": "Not publicly available",
+"email": "Not publicly available",
+"website": "tsdrilling.com",
+"evidence": "Own site: Contact page gives 6228 Bonny Oaks Drive, Chattanooga TN 37416. History page traces the firm from Tri-State Testing and Drilling in 1985 to the 2007 spin-off; equipment pages state more than 19 drill units with trained crews and bases in Chattanooga, Nashville, Knoxville and the Huntsville/Decatur area.",
+"note": "One of the better fleet leads left: 19+ drill rigs plus the support trucks and water trucks that travel with them, working geotechnical, environmental and mineral exploration sites across the southeast. Rough ground, long hauls, plenty of stone chips. Two searches would not yield the phone off their contact page, so call at the Bonny Oaks address or use the form."
+},
+"TriState Enterprises": {
+"name": "TriState Enterprises",
+"status": "nocontact",
+"note": "tristate-enterprises.com returns nothing on two domain-restricted searches - not indexed. A commercial plumbing contractor on East Main Street would run service vans, so worth chasing another way. Not to be confused with Tri-State Drilling, a separate company on this same list."
 }
 }
