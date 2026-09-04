@@ -2231,10 +2231,11 @@
 },
 "318": {
 "i": 318,
-"name": "Southern Auto Care",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms Southern Auto Care operates in Collegedale, tied to Industrial Technologies at Southern Adventist University. No phone or address published there."
+"name": "Southern Auto Care",
+"note": "PHONE CORRECTED 2026-09-04. The row previously held (423) 719-4014, which the university's own page does not give; the correct line is (423) 236-2863, and they also take texts on 833.534.0845. Full-service shop on the Southern Adventist University campus, run by its Applied Technology programme but open to the public - so the fleet worth talking about is the university's, not the shop's.",
+"evidence": "Official site: Southern Adventist University's own page for Southern Auto Care gives Ledford Hall, 4961 Colcord Drive, Collegedale TN 37315, phone 423.236.2863, text 833.534.0845 and southernautocare@southern.edu, with hours Mon-Thu 8-12 and 1:30-6, Fri 8-12.",
+"gapfill": "2026-09-04"
 },
 "337": {
 "i": 337,
@@ -2279,17 +2280,19 @@
 },
 "300": {
 "i": 300,
-"name": "Nooga Door Company",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms the firm is active - it trades as Nooga Doors. No phone or address published there, so the sheet details are unconfirmed."
+"name": "Nooga Door Company",
+"note": "Gap-filled 2026-09-04: open Google search found no official website. Directories put them at 8857 Dayton Pike doing garage door service, which matches the row. Phone unconfirmed by any official source.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "294": {
 "i": 294,
-"name": "Cordell's Electric",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms it is active and now also offering construction services - registered as Cordell Electric Company LLC, not Cordell's Electric. Electrician of 38 years doing residential and commercial. No phone or address published there."
+"name": "Cordell's Electric",
+"note": "Gap-filled 2026-09-04: cordellelectric1.com exists but serves an unconfigured 'Web Server's Default Page', so there is no official website to read - not recorded. Directories say Cordell Electric Inc, trading since 1971, about four staff, at 104 Thrasher Pike, which matches the row; they name Paul Cordell as owner and Tony Cordell in the business. Ask for a Cordell.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "264": {
 "i": 264,
@@ -2321,17 +2324,19 @@
 },
 "293": {
 "i": 293,
-"name": "Elite Heating & Air",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms Elite Heating and Air is active in Soddy-Daisy. No phone or address published there, so the sheet details are unconfirmed."
+"name": "Elite Heating & Air",
+"note": "Gap-filled 2026-09-04: open Google search turned up no official website that can be confirmed. A directory points at elitehvac.org but nothing on that domain is indexed, so it cannot be tied to this business - not recorded. Directories give 12816 Old Dayton Pike, which matches the row. Phone on the row is unchanged and still needs confirming by call.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "296": {
 "i": 296,
-"name": "Nooga Lawn and Landscaping",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms Nooga Lawn & Landscaping is active in Soddy-Daisy serving commercial and residential customers. No phone or address published there."
+"name": "Nooga Lawn and Landscaping",
+"note": "Gap-filled 2026-09-04: open Google search found no official website. Directories describe hardscapes, lighting, patios, retaining walls and an irrigation crew out of 8414 Gulf View Dr, which matches the row, but none of it is self-published. Phone unconfirmed.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "214": {
 "i": 214,
@@ -2452,10 +2457,11 @@
 },
 "298": {
 "i": 298,
-"name": "S & H Tree Service",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms S&H Tree Service is active, family owned with 24+ years. No phone or address published there, so the sheet details are unconfirmed."
+"name": "S & H Tree Service",
+"note": "Gap-filled 2026-09-04: open Google search found no official website - the results are crowded with other Soddy-Daisy tree companies, none of them this one. Phone and address on the row remain unconfirmed.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "281": {
 "i": 281,
