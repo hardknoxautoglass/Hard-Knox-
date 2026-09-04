@@ -2,12 +2,25 @@
 
 **Last updated:** 2026-09-04
 
+## How to restart this work in a fresh session
+
+Paste this as the first message. It is deliberately short — everything else is on disk.
+
+> Read `leads/RESUME.md`, then keep verifying the Vibe queue from
+> `leads/VIBE_REMAINING_TO_VERIFY.csv`. Same method and same sourcing rules as before.
+> Record each batch with `leads/tools/rec.py` and commit after every batch.
+
+Do not paste the spreadsheet, the CSVs, or the old conversation into a new session.
+The state is in the files; re-reading them costs a fraction of re-reading a transcript.
+
 ## Status: PAUSED mid-verification of the Vibe queue — 220 of 414 done
 
-Picking this back up: the queue, the results and the remaining work are all on disk.
-- `leads/vibe_verification_results.json` — every decision made so far, keyed by business name.
+- `leads/vibe_queue.json` — all 414 queued companies (the working copy of the queue).
+- `leads/vibe_verification_results.json` — the 220 decisions made so far, keyed by business name.
 - `leads/VIBE_REMAINING_TO_VERIFY.csv` — the 194 still to check.
 - `leads/VIBE_REJECTED_2026-09-04.csv` — the 66 thrown out, with the reason for each.
+- `leads/tools/` — the scripts. `rec.py` records a verification batch, `addleads.py` appends
+  confirmed leads to the workbook, `apply.py` edits existing rows in place.
 
 Method that works: one WebSearch per company, `allowed_domains` set to that company's own
 domain, query "contact phone address email <trade> <city>". About 6 per turn. If the first
@@ -16,19 +29,21 @@ returns nothing, one retry with different wording, then mark `nocontact` and mov
 Roughly 1 in 5 Vibe records is junk — wrong state, parked domain, or an unrelated business
 attached to the name. Always confirm the city before trusting a row.
 
+### Workbook as it stands
+
 | | |
 |---|---|
-| Rows in workbook | 586 |
-| Confirmed from official / business-run sources | 391 (all of them) |
-| Flagged / unverified | 0 |
-| New leads added this pass | 44 |
-| Businesses removed as unconfirmable | 40 |
-| Hixson-city rows | 107 (was 52) |
-| Duplicates found and removed | 1 (Chattanooga Propane) |
-| Rows with a real email | 182 (was 22) |
-| Rows with a real website | 520 |
-| Rows with a real phone | 522 of 586 |
-| Columns | 14 (trimmed from 20) |
+| Rows | 586 |
+| Priority A / B / C | 251 / 243 / 92 |
+| Hixson-city rows | 107 |
+| With a phone | 522 |
+| With an email | 182 |
+| With a website | 520 |
+| With a street address | 495 |
+| Columns | 14 |
+
+Every row was confirmed against the business's own website or a page the business itself
+maintains. Column K names the source; column N records what was found or corrected.
 
 ## Sourcing rules — these are binding
 
@@ -65,10 +80,10 @@ reason for each, so nothing is lost if one turns out to be real.
 
 ## Files
 
-- `Hamilton_County_Auto_Glass_Leads_verified.xlsx` — the deliverable. 433 rows x 14 columns.
+- `Hamilton_County_Auto_Glass_Leads_verified.xlsx` — the deliverable. 586 rows x 14 columns.
 - `VIBE_PROSPECTING_LEADS_2026-09-03.csv` — 421 Hamilton County companies from the paid Vibe Prospecting
   export. Deliberately NOT merged into the workbook: see the section below.
-- `DELETED_UNCONFIRMED_2026-09-03.csv` — the 37 businesses removed in the final pass, with the reason for each.
+- `DELETED_UNCONFIRMED_2026-09-03.csv` — the 40 businesses removed in the final pass, with the reason for each.
 - `NEW_LEADS_2026-09-03.csv` — the 44 leads added this pass.
 - `verification_log.json` — machine-readable record keyed by 0-based data index (index i = sheet row i+2).
 - `VERIFICATION_NOTES.md` — method, deletions, and the notable corrections.
@@ -96,10 +111,13 @@ Commit after every batch.
 
 Nothing outstanding on the original brief. Natural next steps if the work continues:
 
-- Fill the blanks. 11 rows still have no phone and 270 have no email, because
-  those businesses publish neither on their own site or page. A gap-filling pass
-  was run over the worst of them: every one of the 11 remaining phone gaps was
-  searched twice. What is left needs a call, not another search.
+- Finish the queue: 194 Vibe rows still unverified. That is the main outstanding job.
+- Fill the blanks. 64 rows have no phone and 404 have no email, because those
+  businesses publish neither on their own site or page. The worst phone gaps were
+  searched twice already. What is left needs a call, not another search.
+- Chase by other means: Mercury Cab Co. (taxi fleet, no phone published), Idealease of
+  Chattanooga (truck leasing), Havron Contracting, Fulmer Concrete (100+ staff),
+  Hutton Construction (heavy civil).
 - Emails are the thinnest column and the one the user most wants filled. The
   pattern that works is a domain-restricted search of the company's own site for
   "contact us email address"; hit rate is roughly one in three on local
