@@ -2541,5 +2541,62 @@
 "name": "Lync America",
 "status": "nocontact",
 "note": "lyncamerica.com returns nothing on two domain-restricted searches - the site is not indexed, likely parked or gone. Worth a second look if it resurfaces: a freight company at 2517 8th Avenue would be a strong fleet lead."
+},
+"Marion Environmental, Inc": {
+"name": "Marion Environmental, Inc",
+"status": "nocontact",
+"note": "marionenvironmental.com returns nothing on two domain-restricted searches - the site is not indexed. The record describes a 51-200 staff environmental remediation firm at 115 Parmenas Lane, which would be a strong fleet lead, so worth chasing by phone rather than search."
+},
+"Maven Group LLC": {
+"name": "Maven Group LLC",
+"status": "confirmed",
+"industry": "Commercial Concrete & Civil Construction",
+"priority": "A",
+"address": "1500 East 42nd Street",
+"city": "Chattanooga",
+"zip": "37407",
+"phone": "(423) 541-1270",
+"email": "estimating@hcmaven.com",
+"website": "hcmaven.com",
+"evidence": "Own site: contact and site-visit pages give 1500 E 42nd Street, Chattanooga TN 37407, this phone, this email and Mon-Fri 8:30-5:00 hours. Commercial, residential and team pages all live.",
+"note": "Earth-supported concrete for commercial GCs across the Southeast - crew trucks and mixers on the road daily, so a strong fleet lead. Their own site gives 1500 E 42nd Street; the Vibe record's 1302 East 36th Street is stale, and the site wins."
+},
+"Max Defense System": {
+"name": "Max Defense System",
+"status": "confirmed",
+"industry": "Disinfection & Antimicrobial Services",
+"priority": "C",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37412",
+"phone": "(800) 651-3194",
+"email": "Not publicly available",
+"website": "maxdefensesystem.com",
+"evidence": "Own site: contact page publishes this 24-hour number, and their Chattanooga service page names Hixson, Ooltewah, Red Bank, Soddy Daisy and East Ridge as the area covered.",
+"note": "Priced down to C on purpose. Their own site is a nationwide network with landing pages for Phoenix, Fargo, Memphis and dozens more plus a 'become a service provider' page, so the work is subcontracted and there may be no owned fleet at the Merrill Street address. Only an 800 number is published - no local number, address or email."
+},
+"MC Builders, LLC": {
+"name": "MC Builders, LLC",
+"status": "nocontact",
+"note": "mc-buildersllc.com resolves but only the homepage is indexed; two domain-restricted searches surface no phone, email or address. Real GC by the look of it, just nothing readable from search."
+},
+"Mccoy Homes": {
+"name": "Mccoy Homes",
+"status": "nocontact",
+"note": "mccoyhomesinc.com returns no results on two domain-restricted searches. A general web search offered a phone and a Cherokee Blvd address but produced no link on their own domain to back it, so it is not recorded. 1-10 staff custom builder - low value anyway."
+},
+"McCright & Associates, LLC": {
+"name": "McCright & Associates, LLC",
+"status": "confirmed",
+"industry": "Housing Inspection & Compliance Services",
+"priority": "A",
+"address": "6650 East Brainerd Road",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 267-1300",
+"email": "Not publicly available",
+"website": "mccright.com",
+"evidence": "Own site: Contact Us page gives this phone, fax (423) 265-6222, P.O. Box 6038 Chattanooga TN 37401 for mail and 6650 E Brainerd Rd for deliveries. HQS, NSPIRE and compliance service pages all live.",
+"note": "Field inspectors for public housing authorities, so a large pool of staff cars covering properties across several states - good windshield volume. Street address is the delivery address from their own contact page, not the 928 McCallie Avenue on the Vibe record. No email published; they use a web form."
 }
 }
