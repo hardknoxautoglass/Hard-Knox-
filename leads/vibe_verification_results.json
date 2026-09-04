@@ -3725,5 +3725,62 @@
 "website": "tuparks.com",
 "evidence": "Own site: gives 1207 E 23rd Street, Chattanooga TN 37408, this phone and fax (423) 756-2626; portfolio, news and people pages are live, with Robert Parks and Larry Parks each having a page.",
 "note": "Long-established commercial GC - superintendent trucks on job sites across the south. Their own site puts them on East 23rd Street; the record's 711 East Main Street is stale, and the 301 East Main address on their site belongs to a project, not the office. No email published; ask for Robert or Larry Parks."
+},
+"Taimen Transport": {
+"name": "Taimen Transport",
+"status": "confirmed",
+"industry": "Third Party Logistics (3PL)",
+"priority": "B",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 693-0280",
+"email": "ship@taimentransport.com",
+"website": "taimentransport.com",
+"evidence": "Own site: publishes this phone and this email with a 15-minute response promise; network, technology, team and job pages are all live, covering truckload, expedite, air and LTL as a Chattanooga-headquartered 3PL.",
+"note": "Held at B despite the truck transportation label: a 3PL brokers freight onto other carriers' trucks, so the vehicles they own are staff cars, not the fleet the record implies. Their own site prints no street address, so the record's 1209 Pointe Centre Drive Suite 205 is left off - note that is the same building as Pointe General Contractors."
+},
+"TECHNICAL MAINTENANCE & ELECTRONICS, INC.": {
+"name": "TECHNICAL MAINTENANCE & ELECTRONICS, INC.",
+"status": "nocontact",
+"note": "tmandeinc.com resolves but only the homepage is indexed, and two domain-restricted searches yield no phone, email or address - the site says to contact them by phone, email or form without printing any of them in indexable text. Industrial and medical electronics repair across the southeast implies service vehicles, so worth a retry."
+},
+"Tennessee Valley Travel Agency": {
+"name": "Tennessee Valley Travel Agency",
+"status": "nocontact",
+"note": "tntravel.com returns nothing on two domain-restricted searches. A 1-10 staff travel agency has almost no fleet in any case - the Vibe record also files it under Environmental Services, which is plainly wrong, so the record is poor quality throughout."
+},
+"TENNESSEE WASTE HAULERS LLC": {
+"name": "TENNESSEE WASTE HAULERS LLC",
+"status": "confirmed",
+"industry": "Waste Hauling & Dumpster Rental",
+"priority": "A",
+"address": "1369 Wisdom Street",
+"city": "Chattanooga",
+"zip": "37406",
+"phone": "(423) 664-7000",
+"email": "Not publicly available",
+"website": "tennesseewastehaulers.com",
+"evidence": "Own site: gives 1369 Wisdom St, Chattanooga TN 37406, this phone and 7:30-5 weekday plus Saturday morning hours; residential, commercial and industrial waste and dumpster pages all live.",
+"note": "Roll-off trucks dropping and collecting dumpsters on construction sites - constant gravel, constant chips, and the sort of operator who replaces glass rather than living with it. The record carried only a PO Box; the street address comes from their own site. No email published."
+},
+"Terra Firma Chattanooga": {
+"name": "Terra Firma Chattanooga",
+"status": "nocontact",
+"note": "tfsoils.com is live and busy - soil stabilization, soil modification and full-depth reclamation pages plus a Chattanooga location page - but two domain-restricted searches will not surface the phone, email or address off the contact page. Worth a retry: reclamation crews run heavy equipment and haul trucks between Chattanooga, Huntsville and Mobile, and they share 2611 Riverside Drive with Phaltless, already on the list, which may be a way in."
+},
+"The Chattanooga Building Co": {
+"name": "The Chattanooga Building Co",
+"status": "confirmed",
+"industry": "Residential Builder & Outdoor Living",
+"priority": "B",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37404",
+"phone": "Not publicly available",
+"email": "contact@chattbuild.com",
+"website": "chattbuild.com",
+"evidence": "Own site: publishes this email; custom homes, ADU, additions, decks, fences and testimonials pages are all live for residential work in Chattanooga.",
+"note": "Small builder at 1-10 staff, so a couple of trucks - decks and fences mean hauling lumber on trailers. Email is the only route published; no phone or street address on their own site, so the record's 1612 East 14th Street is left off."
 }
 }
