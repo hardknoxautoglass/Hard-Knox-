@@ -483,8 +483,10 @@
 "65": {
 "i": 65,
 "status": "keep",
-"address": "1209 Pointe Centre Dr Ste 105",
-"note": "verified pointegeneralcontractors.com live"
+"name": "Pointe General Contractors LLC",
+"note": "OFFICIAL SITE 2026-09-04: site is live (home, about, projects and a vendor/bid page) but publishes NO phone number anywhere - only a form. The (423) 755-0845 on file is UNCONFIRMED; verify by phone. Their Vendor/Bids page is the practical way in: they solicit subcontractors directly through it.",
+"evidence": "pointegeneralcontractors.com/bid",
+"gapfill": "2026-09-04"
 },
 "66": {
 "i": 66,
@@ -514,14 +516,18 @@
 "70": {
 "i": 70,
 "status": "keep",
-"address": "460 Dodson Ave",
-"note": "verified tstateroofing.com live"
+"name": "Tri-State Roofing Contractors LLC",
+"note": "OFFICIAL SITE: phone (423) 803-4742 RE-CONFIRMED 2026-09-04 - it is published in their contact page title. Commercial roofers running an emergency-response service, so their trucks are out in storm weather - exactly when glass gets broken.",
+"evidence": "tstateroofing.com/contact",
+"gapfill": "2026-09-04"
 },
 "71": {
 "i": 71,
 "status": "keep",
-"address": "6011 Century Oaks Dr",
-"note": "verified hoffman-hoffman.com live"
+"name": "Hoffman & Hoffman",
+"note": "OFFICIAL SITE: phone (423) 693-2890 and 6011 Century Oaks Dr RE-CONFIRMED 2026-09-04. Commercial HVAC manufacturer's rep with its own Chattanooga branch and a service-van fleet; their published territory map covers this region from the Chattanooga office.",
+"evidence": "hoffman-hoffman.com/locations/chattanooga-tn-commercial-hvac/",
+"gapfill": "2026-09-04"
 },
 "72": {
 "i": 72,
@@ -557,9 +563,10 @@
 "77": {
 "i": 77,
 "status": "keep",
-"email": "josh@chaseplumbing.us",
-"address": "6112 Airways Blvd",
-"note": "verified chaseplumbinginc.com live"
+"name": "Chase Plumbing & Mechanical Inc.",
+"note": "OFFICIAL SITE: phone (423) 899-7899 RE-CONFIRMED 2026-09-04. Commercial and industrial plumbing and HVAC, 25 years in business - a service-van fleet.",
+"evidence": "chaseplumbinginc.com",
+"gapfill": "2026-09-04"
 },
 "78": {
 "i": 78,
@@ -594,14 +601,18 @@
 "83": {
 "i": 83,
 "status": "keep",
-"address": "6735 Ringgold Rd",
-"note": "verified brownbros.co live; founded 1996"
+"name": "Brown Bros. Inc.",
+"note": "OFFICIAL SITE: phone (423) 893-9595 and 6735 Ringgold Rd, East Ridge RE-CONFIRMED 2026-09-04. Civil construction and excavation with its own heavy-hauling division, working Chattanooga, Knoxville, Nashville, Birmingham, Dalton and Ringgold - so trucks and equipment carriers running long days on the highway.",
+"evidence": "brownbros.co",
+"gapfill": "2026-09-04"
 },
 "84": {
 "i": 84,
 "status": "keep",
-"address": "1916 Circle Dr",
-"note": "verified greater-chattanooga.pauldavis.com live"
+"name": "Paul Davis Restoration of Greater Chattanooga",
+"note": "OFFICIAL SITE: phone (423) 899-2406 and 1916 Circle Dr RE-CONFIRMED 2026-09-04, and EMAIL FOUND (pdrchat@gmail.com). 24/7 emergency restoration, so the van fleet runs at all hours. They also publish an insurance-agent page - they work claims daily and know the same adjusters you would bill.",
+"evidence": "greater-chattanooga.pauldavis.com",
+"gapfill": "2026-09-04"
 },
 "85": {
 "i": 85,
