@@ -2709,9 +2709,10 @@
 "370": {
 "i": 370,
 "status": "keep",
-"note": "NEW LEAD. Business-run page: address and phone confirmed. Home health staff drive to clients all day, so a real vehicle fleet.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"name": "Compassionate Health Care, LLC",
+"note": "Gap-filled 2026-09-04: website added, phone and address confirmed unchanged. Worth correcting the expectation though - listings describe a medical clinic doing physicals, DOT screens and blood tests rather than the home health care this row's industry field claims, so the visiting-nurse fleet may not exist. Their DOT physicals business is itself interesting: they see local truck drivers.",
+"evidence": "Listings give compassionatehealthcarellc.com and confirm 1013 Executive Dr, Hixson TN 37343 with (423) 875-2538, in business 16 years.",
+"gapfill": "2026-09-04"
 },
 "371": {
 "i": 371,
@@ -2759,16 +2760,18 @@
 "377": {
 "i": 377,
 "status": "keep",
-"note": "NEW LEAD. Business-run page: address and phone confirmed. Licensed contractor, 60 years of experience between them.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"name": "AJR Construction",
+"note": "Gap-filled 2026-09-04: no website could be tied to this business with confidence. Two candidates exist - ajrconstructionllc.com and ajrindustrial.com - but neither confirms the Hixson address in this row, and a third AJR Construction trades in Jasper TN. Not recorded rather than risk attaching the wrong company. Phone and address in the row are unchanged.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "378": {
 "i": 378,
 "status": "keep",
-"note": "NEW LEAD. Business-run page: phone confirmed. Landscaping plus window cleaning across Chattanooga - trucks and trailers. No address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"name": "Rowan Landscapes",
+"note": "Gap-filled 2026-09-04: website and address added, phone confirmed unchanged. Note they also do window cleaning per this row's industry, which makes them a mild trade neighbour as well as a customer.",
+"evidence": "Official site rowanlandscapes.com is live for Rowan Lawn & Landscapes, and listings give 6537 Harbor View Dr, Hixson TN 37343 with (423) 605-8989 - irrigation design and installation, lawn maintenance, landscape design, hardscaping and grounds management.",
+"gapfill": "2026-09-04"
 },
 "379": {
 "i": 379,
@@ -2811,23 +2814,26 @@
 "384": {
 "i": 384,
 "status": "keep",
-"note": "NEW LEAD. Business-run page: phone and email confirmed. Family run, licensed #82406 and insured, residential and commercial, 24/7. No address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"name": "Doyle Electric LLC",
+"note": "Gap-filled 2026-09-04: website added, phone confirmed unchanged. Ask for Brady Doyle. They also answer on a second domain, doyleelectricllc.co.",
+"evidence": "Official site doyle-electric-llc.com is live for a licensed, family-owned electrical contractor in Hixson serving Chattanooga, and confirms (423) 580-5617. Brady Doyle is founder and owner; 10+ years' experience.",
+"gapfill": "2026-09-04"
 },
 "385": {
 "i": 385,
-"name": "Extreme Excavating",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "NEW LEAD. Business-run page confirms grading, demolition, footers, waterproofing, septic and land clearing in the Hixson area - excavators, dumps and equipment trailers. Two searches found no official site; extremeexcavating.com is an unrelated Utah firm. Phone must come from a call."
+"name": "Extreme Excavating LLC",
+"note": "Gap-filled 2026-09-04: no phone or website found for a Hixson business of this name. The only Extreme Excavating with a site, extremeexcavatingtn.com, is in SEVIER COUNTY at the other end of the state, and there is a separate extremeexcavating.com elsewhere. Neither is this company. The row stays empty; treat it as unverified until someone confirms the business exists here.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "386": {
 "i": 386,
-"name": "River City Excavating",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "NEW LEAD. Business-run page confirms the firm services Hixson and surrounding areas. Two searches found no official site publishing a number."
+"name": "River City Excavating, LLC",
+"note": "Gap-filled 2026-09-04: the row was empty of both website and phone, and now has both. Excavation crews run trackhoes on lowboys and dump trucks over rough ground - a good fleet.",
+"evidence": "Official site rivercityexcavatingllc.com is live with excavating, concrete and services pages, publishing this number for Chattanooga excavation and site preparation - land clearing, septic, dirt work, grading, concrete and asphalt paving.",
+"gapfill": "2026-09-04"
 },
 "387": {
 "i": 387,
