@@ -2179,13 +2179,11 @@
 },
 "277": {
 "i": 277,
-"name": "Graham Auto Repair",
 "status": "keep",
-"address": "8615 Hixson Pike Ste 104",
-"zip": "37343",
-"email": "graham1autorepair@gmail.com",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page: address, phone and email confirmed. Family owned full-service shop, sited in Lakesite behind the New York Pizza building."
+"name": "Graham Auto Repair",
+"note": "Gap-filled 2026-09-04: no official website could be found - searches return other Hixson auto shops. The row already carries a phone and a real email, both left unchanged.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "303": {
 "i": 303,
@@ -2208,10 +2206,11 @@
 },
 "256": {
 "i": 256,
-"name": "East Ridge Auto Electric",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run Facebook page confirms East Ridge Auto Electric exists, but no phone or address is published there, so the sheet details are unconfirmed."
+"name": "East Ridge Auto Electric Company",
+"note": "Gap-filled 2026-09-04: no official website exists. Phone and address already in the row confirmed unchanged. Note this is the same Ringgold Road address as Broome's Wrecker Service, so the two are likely neighbours or related - handy if you are calling one.",
+"evidence": "Google listings confirm (423) 629-7951 at 4003 Ringgold Rd, Chattanooga TN 37412, with fax (423) 698-7871 and a second line on (423) 870-8749, Mon-Fri 8:30-5.",
+"gapfill": "2026-09-04"
 },
 "307": {
 "i": 307,
@@ -2332,10 +2331,11 @@
 },
 "270": {
 "i": 270,
-"name": "Peak Pest Control",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms Peak Pest Control is active in Hixson, licensed and bonded in Tennessee. No phone or address published there."
+"name": "Peak Pest Control",
+"note": "Gap-filled 2026-09-04: website added, phone and address confirmed unchanged. Pest control routes mean trucks out across the metro every day.",
+"evidence": "Official site peakpestservice.com is live with an appointment request page; listings confirm 5906 Cassandra Smith Rd Suite D, Hixson TN 37343 and (423) 386-5721. Locally owned since 2011, commercial, residential and termite work.",
+"gapfill": "2026-09-04"
 },
 "293": {
 "i": 293,
@@ -2459,17 +2459,19 @@
 },
 "262": {
 "i": 262,
-"name": "Signal Mountain Electric",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms the firm is active on Signal Mountain - it trades as Signal Electric LLC, not Signal Mountain Electric. No phone or address published there."
+"name": "Signal Mountain Electric, LLC",
+"note": "Gap-filled 2026-09-04: website added, phone and address already in the row confirmed unchanged.",
+"evidence": "Official site signal-electric.com is live; listings confirm 1136 James Blvd, Signal Mountain TN 37377 and (423) 591-1632, Mon-Fri 8-5 and Saturday mornings.",
+"gapfill": "2026-09-04"
 },
 "263": {
 "i": 263,
-"name": "Walden Plumbing",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms Walden Plumbing is active, family owned since 1988, doing general plumbing, water, septic, sewer, field lines and backflow testing. No phone or address published there."
+"name": "Walden Plumbing Company",
+"note": "PHONE CORRECTED 2026-09-04. The row held (423) 886-5631, which comes from directory listings; their own site publishes (423) 402-6245 and a named email for Dylan. Website and email both added.",
+"evidence": "Official site waldenplumbing.com contact page gives 4712 Wilson Ave, Signal Mountain TN 37377, this phone and this email. Established 1988; commercial new installation and service, backflow testing, gas piping, sewer and septic lines.",
+"gapfill": "2026-09-04"
 },
 "298": {
 "i": 298,
@@ -2481,10 +2483,11 @@
 },
 "281": {
 "i": 281,
-"name": "WesHauls",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms WesHauls is active in Hixson doing pick-up, delivery and hauling. No phone or address published there, so the sheet phone is unconfirmed."
+"name": "WesHauls",
+"note": "Gap-filled 2026-09-04: no official website - they trade through social media. Phone and address already in the row confirmed unchanged. Worth noting the tagline is identical to Papa Services, already on the list, so check you are not calling the same outfit twice.",
+"evidence": "Google listings place WesHauls at 5450 Highway 153 Ste 126 #1150, Hixson TN, doing pick-up, delivery, residential trash removal, assembly and moving under the tagline 'You Call, We Haul'.",
+"gapfill": "2026-09-04"
 },
 "255": {
 "i": 255,
