@@ -2731,5 +2731,71 @@
 "website": "mrhandyman.com/chattanooga",
 "evidence": "Own site: the Chattanooga location pages give 5959 Shallowford Road Suite 219, Chattanooga TN 37421 and this local number, with residential, commercial and Cleveland TN service pages live.",
 "note": "Neighborly franchise running branded vans on residential and commercial calls daily, and they cover Cleveland TN as well - decent windshield volume for a small fleet. Franchise sites publish no email."
+},
+"NABCO Electric Company, Inc.": {
+"name": "NABCO Electric Company, Inc.",
+"status": "confirmed",
+"industry": "Electrical Contractor",
+"priority": "A",
+"address": "2800 2nd Avenue",
+"city": "Chattanooga",
+"zip": "37407",
+"phone": "(423) 624-0073",
+"email": "info@nabcoelectric.com",
+"website": "nabcoelectric.com",
+"evidence": "Own site: contact and careers pages give 2800 2nd Ave, Chattanooga TN 37407, phone 423-624-0073, fax 423-624-8585 and this email. History page claims 60+ years and 17,000+ projects; commercial, industrial, institutional and transportation service pages all live.",
+"note": "One of the best leads in this batch - a large electrical contractor founded 1962 running service and crew trucks across commercial, industrial and highway work. Full contact set published including a real email, which is rare here."
+},
+"Naylor Engineering & Consulting, LLC": {
+"name": "Naylor Engineering & Consulting, LLC",
+"status": "confirmed",
+"industry": "Electrical Engineering Consulting",
+"priority": "C",
+"address": "2288 Gunbarrel Road Suite 154-350",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 509-8973",
+"email": "dean.naylor@naylor-ec.com",
+"website": "naylor-ec.com",
+"evidence": "Own site: gives this phone, this email and 2288 Gunbarrel Rd Suite 154-350, Chattanooga TN 37421; arc flash and short-circuit study pages state they have done this work since 2002.",
+"note": "Dean Naylor is the principal and the named contact. Arc flash and electrical safety studies mean site visits, but the suite number is a mailbox and the headcount is 1-10, so this is one or two vehicles at most - kept at C."
+},
+"NEW BLUE CONSTRUCTION, INC.": {
+"name": "NEW BLUE CONSTRUCTION, INC.",
+"status": "confirmed",
+"industry": "General Contractor",
+"priority": "A",
+"address": "1134 East 14th Street",
+"city": "Chattanooga",
+"zip": "37408",
+"phone": "(423) 490-7073",
+"email": "employment@newblueconstruction.com",
+"website": "newblueconstruction.com",
+"evidence": "Own site: Contact page gives 1134 E 14th Street, Chattanooga TN 37408 and this phone; team, careers, community and residential pages all live with named staff.",
+"note": "Residential and commercial GC with a real staff roster - Jonathan Lehman, Robbie Bivin, Stuart Gaines all have team pages. Their own site puts them at 1134 E 14th Street, not the 1600 East Main Street on the record. The only published email is the employment one, so use the phone."
+},
+"Nooga Lawns": {
+"name": "Nooga Lawns",
+"status": "dead",
+"note": "noogalawns.com no longer serves a lawn care business. The description harvested for this record is French handbag retail spam ('Coccinelle Magasin Pas Cher Soldes'), the signature of an expired or hijacked domain, and two domain-restricted searches return nothing at all. Bad record."
+},
+"Nooga Strong Construction": {
+"name": "Nooga Strong Construction",
+"status": "confirmed",
+"industry": "Remodeling Contractor",
+"priority": "B",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37411",
+"phone": "(423) 455-5461",
+"email": "Not publicly available",
+"website": "buildnoogastrong.com",
+"evidence": "Own site: Contact page publishes this phone and invites calls or texts; kitchen, bath, basement, exterior and deck remodeling pages all live.",
+"note": "Design-build remodeler running crew trucks to job sites. The 51-200 headcount on the record looks inflated for a remodeler with one office. Two searches would not surface a street address or email, so the record's 3711 Provence Street is left off."
+},
+"Nooga Turf": {
+"name": "Nooga Turf",
+"status": "nocontact",
+"note": "noogaturf.com resolves but serves NexGen Lawns' Chattanooga artificial-turf page - Nooga Turf is a dealer front for that national network, whose site also runs Nashville, Knoxville and Ohio pages. Neither noogaturf.com nor nexgenlawns.com surfaces a Chattanooga phone, address or email across two searches."
 }
 }
