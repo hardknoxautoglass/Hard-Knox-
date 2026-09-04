@@ -3553,5 +3553,62 @@
 "name": "Southern Valley Landscaping",
 "status": "nocontact",
 "note": "southernvalleylandscaping.com returns nothing on two domain-restricted searches - not indexed. A landscaping firm at 1101 West 40th Street would run trucks and trailers, so worth chasing another way."
+},
+"Spears Hopkins Paving Co": {
+"name": "Spears Hopkins Paving Co",
+"status": "confirmed",
+"industry": "Asphalt Paving Contractor",
+"priority": "A",
+"address": "5730 Fisk Avenue",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 674-3947",
+"email": "admin@spearshopkins.com",
+"website": "spearshopkins.com",
+"evidence": "Own site: Contact page gives 5730 Fisk Ave, Chattanooga TN 37421, this phone and this email; asphalt overlay, fabric overlay, full-depth reclamation, pervious pavement, projects and careers pages are all live.",
+"note": "Paving again - dump trucks, milling machines, rollers and crew pickups on gravel and torn-up lots, which is where windscreens go. Their own site confirms the record's Fisk Avenue address. Drew publishes a direct address, drew@spearshopkins.com, alongside the admin one."
+},
+"Special Touch Painting": {
+"name": "Special Touch Painting",
+"status": "nocontact",
+"note": "specialtouchpainting.com returns nothing on two domain-restricted searches - not indexed."
+},
+"Spirit Express LLC": {
+"name": "Spirit Express LLC",
+"status": "confirmed",
+"industry": "Petroleum Tanker Trucking",
+"priority": "A",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "Not publicly available",
+"email": "Not publicly available",
+"website": "spiritexpressllc.com",
+"evidence": "Own site: describes a fuel transportation specialist hauling liquid petroleum in tanker trailers, with a driver-trainer programme covering loading, unloading and tank trailer operation, and operations in Chattanooga, Knoxville, Nashville, Atlanta, Athens and Birmingham.",
+"note": "Kept at A despite having no contact details yet, because the fleet profile is as good as it gets on this list - petroleum tankers running six metros, which means tractors covering enormous mileage and a safety department that cares about glass. Two domain-restricted searches would not yield a phone or email, so this one needs a call to 2024 East Polymer Drive or a knock on the door."
+},
+"Splish Splash Pool Service": {
+"name": "Splish Splash Pool Service",
+"status": "dead",
+"note": "The domain on the record is webstarts.com, the generic WebStarts site-builder host rather than a company site - the same unusable pattern as the webs.com records. Nothing self-published to confirm a business at 3706 Mary Anna Drive."
+},
+"Sport Surface Specialties": {
+"name": "Sport Surface Specialties",
+"status": "nocontact",
+"note": "sportsurface.net belongs to Robertson Recreational Surfaces; their own site describes Sport Surface Specialties only as a sister company installing nationwide, and publishes no Chattanooga phone, email or office details across two searches. Nothing confirms an operation at 544 Chestnut Street beyond the shared brand."
+},
+"Spray-Lock Concrete Protection (SCP)": {
+"name": "Spray-Lock Concrete Protection (SCP)",
+"status": "confirmed",
+"industry": "Concrete Protection Products Manufacturer",
+"priority": "B",
+"address": "5959 Shallowford Road Suite 405",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 305-6151",
+"email": "scpleads@spraylock.com",
+"website": "concreteprotection.com",
+"evidence": "Own site: product data sheets, safety data sheets and warranty documents all carry 5959 Shallowford Rd. Suite 405, Chattanooga TN 37421 with this phone and this email; info@spraylock.com also appears.",
+"note": "A colloidal silica manufacturer at 51-200 staff, so technical reps travelling to pours rather than a crew fleet - held at B. The Shallowford Road suite matches the record. Note the company answers on two domains, concreteprotection.com and spraylock.com."
 }
 }
