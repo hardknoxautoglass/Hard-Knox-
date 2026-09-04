@@ -4798,5 +4798,19 @@
 "note": "Found while checking the Vibe record for 'U.S. Logistics Group, LLC', which carried this domain but a different name and address; that record was rejected and this company added on its own account. A truckload carrier is a strong fleet lead - tractors running expedited freight. Their own site publishes no phone or email, so call at the Brainerd Road suite or use the agency-opportunities page.",
 "evidence": "Own site: bwytransportinc.com gives 5600 Brainerd Rd Ste B-28, Chattanooga TN 37411 and describes a Chattanooga-based truckload carrier handling expedited and general freight; about, services, contact and agency-opportunity pages are all live.",
 "new_lead": true
+},
+"670": {
+"i": 670,
+"status": "keep",
+"note": "Held at B because this office is the area franchisor rather than the people holding the mops - only 1-10 staff of its own. The interesting angle is the other side of that: it places and supports dozens of independent janitorial franchisees across the region, every one of them driving to accounts, so one conversation here could open a lot of small fleets. Their own site confirms the record's MLK Boulevard address.",
+"evidence": "Own site: the Chattanooga area-franchisor pages give 200 W M.L.K. Blvd. #1000, Chattanooga TN 37402 and this phone, covering Hamilton County and north Georgia.",
+"new_lead": true
+},
+"671": {
+"i": 671,
+"status": "keep",
+"note": "Industrial, telecom and power generation work means field staff travelling to plants and tower sites, but only 1-10 staff of their own, so held at B. Two named people publish direct emails, which is the way in. Their own site gives only a PO Box - the record carried no address at all - so ask where the office is.",
+"evidence": "Own site: Contact page gives P.O. Box 22937, Chattanooga TN 37422, this phone and two named emails - Corey@ and Brent@Vega-Corp.com. Capability pages cover industrial, telecommunications, healthcare and power generation work.",
+"new_lead": true
 }
 }

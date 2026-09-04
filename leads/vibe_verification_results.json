@@ -3953,5 +3953,53 @@
 "website": "unityofchattanooga.org",
 "evidence": "Own site: Contact page gives 105 McBrien Rd, Chattanooga 37411, mailing address PO Box 4949, this phone and this email; calendar, events, counselling and mission pages all live.",
 "note": "Kept at C and the record corrected twice over: this is a church, not a trucking company as the Vibe industry field claims, and their own site puts them on McBrien Road, not the 400 East Main Street on the record. Congregation vans at most, so low fleet value - included only because the contact details are solid and churches do run vehicles."
+},
+"Vanguard Cleaning Systems of Southeast Tennessee": {
+"name": "Vanguard Cleaning Systems of Southeast Tennessee",
+"status": "confirmed",
+"industry": "Commercial Cleaning Franchisor",
+"priority": "B",
+"address": "200 West ML King Boulevard Suite 1000",
+"city": "Chattanooga",
+"zip": "37402",
+"phone": "(423) 321-0000",
+"email": "Not publicly available",
+"website": "vanguardcleaning.com/cleaning/tennessee-chattanooga",
+"evidence": "Own site: the Chattanooga area-franchisor pages give 200 W M.L.K. Blvd. #1000, Chattanooga TN 37402 and this phone, covering Hamilton County and north Georgia.",
+"note": "Held at B because this office is the area franchisor rather than the people holding the mops - only 1-10 staff of its own. The interesting angle is the other side of that: it places and supports dozens of independent janitorial franchisees across the region, every one of them driving to accounts, so one conversation here could open a lot of small fleets. Their own site confirms the record's MLK Boulevard address."
+},
+"Vega corporation of Tennessee": {
+"name": "Vega corporation of Tennessee",
+"status": "confirmed",
+"industry": "General Contractor & Construction Manager",
+"priority": "B",
+"address": "P.O. Box 22937",
+"city": "Chattanooga",
+"zip": "37422",
+"phone": "(423) 266-8876",
+"email": "corey@vega-corp.com",
+"website": "vega-corp.com",
+"evidence": "Own site: Contact page gives P.O. Box 22937, Chattanooga TN 37422, this phone and two named emails - Corey@ and Brent@Vega-Corp.com. Capability pages cover industrial, telecommunications, healthcare and power generation work.",
+"note": "Industrial, telecom and power generation work means field staff travelling to plants and tower sites, but only 1-10 staff of their own, so held at B. Two named people publish direct emails, which is the way in. Their own site gives only a PO Box - the record carried no address at all - so ask where the office is."
+},
+"Volunteer NDT Corp.": {
+"name": "Volunteer NDT Corp.",
+"status": "nocontact",
+"note": "volndt.com is live and clearly trading - scaffolding, inspection, mechanical insulation and scaffold rental pages, in business since 1991 serving the tri-state area - but two domain-restricted searches will not surface a phone, email or address. Worth chasing at 6046 Dayton Boulevard: scaffold rental means flatbeds and boom trucks hauling steel to industrial sites, which is a good fleet."
+},
+"W Rondon Construction LLC": {
+"name": "W Rondon Construction LLC",
+"status": "nocontact",
+"note": "wrondon.com is live with a gallery and a free-estimate form, and says the firm has worked in Chattanooga since 2004, but their contacts page serves a 'Coming Soon' placeholder and neither search yields a phone, email or address."
+},
+"Walden Log Homes": {
+"name": "Walden Log Homes",
+"status": "nocontact",
+"note": "waldenloghomes.com resolves and has a contact page at contact.html, but the search tool cannot read any content from it across two attempts - no phone, email or address recoverable. Only 1-10 staff in any case."
+},
+"Walden Ridge": {
+"name": "Walden Ridge",
+"status": "nocontact",
+"note": "waldenridgeco.com returns nothing on two domain-restricted searches. The 1100 Market Street address on the record is the same office suite address used by SimplyOutdoorKitchens, so it is likely shared office space rather than premises with a yard."
 }
 }
