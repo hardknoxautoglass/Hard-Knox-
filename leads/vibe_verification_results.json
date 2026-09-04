@@ -3439,5 +3439,62 @@
 "website": "servicemasterclean.com/servicemaster-of-chattanooga",
 "evidence": "Own site: the ServiceMaster of Chattanooga location and contact pages give 2121 McCallie Avenue, Chattanooga TN 37404 and this phone, trading as ServiceMaster Building Maintenance Contracts Inc.",
 "note": "Family owned since 1963 by the record, running cleaning crews between commercial accounts across the metro. Their own site confirms the McCallie Avenue address. No email - franchise sites use a quote form."
+},
+"Set In Stone Concrete LLC": {
+"name": "Set In Stone Concrete LLC",
+"status": "confirmed",
+"industry": "Custom Concrete, Steel & Wood Fabrication",
+"priority": "B",
+"address": "1222 East Main Street",
+"city": "Chattanooga",
+"zip": "37408",
+"phone": "(423) 493-3657",
+"email": "Not publicly available",
+"website": "concretecaster.com",
+"evidence": "Own site: Contact page gives 1222 East Main Street, Chattanooga TN 37408 and this phone; who-we-are and portfolio pages show GFRC work, fabric-formed sinks and concrete tables.",
+"note": "A fabrication studio rather than a concrete contractor - the record's 'construction company' description undersells what they actually do. Heavy custom pieces mean a delivery truck, so a modest fleet. Their own site confirms the East Main Street address. No email published."
+},
+"Shepherd Project Services": {
+"name": "Shepherd Project Services",
+"status": "nocontact",
+"note": "shepherdprojectservices.com is live - about, project-controls and contact pages all resolve - but two domain-restricted searches will not surface a phone, email or the MLK Boulevard suite. A minority and veteran owned construction management firm is worth a second attempt later."
+},
+"Signal Power": {
+"name": "Signal Power",
+"status": "confirmed",
+"industry": "Light Tower & Trailer Manufacturer",
+"priority": "B",
+"address": "3500 North Hawthorne Street",
+"city": "Chattanooga",
+"zip": "37406",
+"phone": "(423) 332-1086",
+"email": "Not publicly available",
+"website": "hybridledlighttower.com",
+"evidence": "Own site: about and product pages give 3500 North Hawthorne Street, Chattanooga TN 37406 and this phone, covering the HYBRIDTOWER and SOLARTOWER light towers, the HYBRIDTRAILER tool carrier and LED retrofit kits.",
+"note": "They build trailer-mounted light towers, so there are shop trucks and demo trailers moving, but the units themselves are towed by the customer - held at B. The only email address published on their own site is privacy@signal-power.com, which is the privacy-policy contact rather than a sales route, so it is not recorded as the company email; note the separate signal-power.com domain when you call."
+},
+"SimplyOutdoorKitchens.com": {
+"name": "SimplyOutdoorKitchens.com",
+"status": "confirmed",
+"industry": "Outdoor Kitchen Manufacturer & Installer",
+"priority": "B",
+"address": "1100 Market Street Suite 600",
+"city": "Chattanooga",
+"zip": "37402",
+"phone": "Not publicly available",
+"email": "dermenc@simplyoutdoorkitchens.com",
+"website": "simplyoutdoorkitchens.com",
+"evidence": "Own site: policy pages give 1100 Market Street Suite 600, Chattanooga TN 37402 and this email; the store front says they build in their own factory and install in a single day across Chattanooga and North Georgia.",
+"note": "Single-day installs of finished kitchen islands mean a truck and a crane or trailer on residential driveways - a real if small fleet. The record carried no street address; this comes from their own site. Market Street Suite 600 reads like an office rather than the factory, so ask where the shop is. No phone published."
+},
+"Smith Logistics": {
+"name": "Smith Logistics",
+"status": "nocontact",
+"note": "smithlogistics.net serves live air, ocean, land, warehouse, systems and tariff pages, but neither of two domain-restricted searches could read a phone, email or address off them, and the search tool twice confused the domain with an unrelated Smith Logistics in California. Worth a proper look: ocean and air freight, customs brokerage and interstate trucking at 4295 Cromwell Road would be a strong fleet lead."
+},
+"Southeast Conservation Corps": {
+"name": "Southeast Conservation Corps",
+"status": "nocontact",
+"note": "The domain on the record, linktr.ee, is a link aggregator rather than their own site. SECC is a programme of Conservation Legacy, whose site confirms it is based in Chattanooga and runs adult, youth and fire crews across the southeast, but publishes no phone, email or street address for the Chattanooga office. Worth chasing: conservation crews run vans and crew trucks to trailheads and burn sites, which is heavy windscreen wear."
 }
 }

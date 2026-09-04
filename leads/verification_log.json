@@ -4602,5 +4602,26 @@
 "note": "Family owned since 1963 by the record, running cleaning crews between commercial accounts across the metro. Their own site confirms the McCallie Avenue address. No email - franchise sites use a quote form.",
 "evidence": "Own site: the ServiceMaster of Chattanooga location and contact pages give 2121 McCallie Avenue, Chattanooga TN 37404 and this phone, trading as ServiceMaster Building Maintenance Contracts Inc.",
 "new_lead": true
+},
+"642": {
+"i": 642,
+"status": "keep",
+"note": "A fabrication studio rather than a concrete contractor - the record's 'construction company' description undersells what they actually do. Heavy custom pieces mean a delivery truck, so a modest fleet. Their own site confirms the East Main Street address. No email published.",
+"evidence": "Own site: Contact page gives 1222 East Main Street, Chattanooga TN 37408 and this phone; who-we-are and portfolio pages show GFRC work, fabric-formed sinks and concrete tables.",
+"new_lead": true
+},
+"643": {
+"i": 643,
+"status": "keep",
+"note": "They build trailer-mounted light towers, so there are shop trucks and demo trailers moving, but the units themselves are towed by the customer - held at B. The only email address published on their own site is privacy@signal-power.com, which is the privacy-policy contact rather than a sales route, so it is not recorded as the company email; note the separate signal-power.com domain when you call.",
+"evidence": "Own site: about and product pages give 3500 North Hawthorne Street, Chattanooga TN 37406 and this phone, covering the HYBRIDTOWER and SOLARTOWER light towers, the HYBRIDTRAILER tool carrier and LED retrofit kits.",
+"new_lead": true
+},
+"644": {
+"i": 644,
+"status": "keep",
+"note": "Single-day installs of finished kitchen islands mean a truck and a crane or trailer on residential driveways - a real if small fleet. The record carried no street address; this comes from their own site. Market Street Suite 600 reads like an office rather than the factory, so ask where the shop is. No phone published.",
+"evidence": "Own site: policy pages give 1100 Market Street Suite 600, Chattanooga TN 37402 and this email; the store front says they build in their own factory and install in a single day across Chattanooga and North Georgia.",
+"new_lead": true
 }
 }
