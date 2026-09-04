@@ -2,39 +2,50 @@
 "0": {
 "i": 0,
 "status": "keep",
-"note": "verified live; site+phone confirmed"
+"name": "Economy Honda Superstore",
+"note": "Phone re-checked 2026-09-04 against their own site - unchanged and correct. One number covers sales and service. Service department is the door that matters for glass.",
+"evidence": "Own site: contact and directions pages give 6001 Lee Highway, Chattanooga TN 37421 and (855) 225-0161 for both sales and service. Service open Mon-Fri 7-6, Sat 7:30-2.",
+"gapfill": "2026-09-04"
 },
 "1": {
 "i": 1,
 "status": "keep",
-"email": "jtaylor@capitaltoyota.net",
-"note": "verified; capitaltoyota.com live"
+"name": "Capital Toyota",
+"note": "PHONE CORRECTED 2026-09-04. The row held (423) 892-0661, which their own site does not publish; sales is 423-498-7422. The number to actually ring is the COLLISION CENTRE on 423-490-0216 - a dealer body shop is a direct glass buyer. Service is 423-498-7425.",
+"evidence": "Own site: contact page gives 5808 Lee Hwy, Chattanooga TN 37421 with sales 423-498-7422, service 423-498-7425, parts 423-498-6992 and collision centre 423-490-0216.",
+"gapfill": "2026-09-04"
 },
 "2": {
 "i": 2,
 "status": "keep",
-"address": "6001 International Dr",
-"note": "verified villagevw.com live"
+"name": "Village Volkswagen of Chattanooga",
+"note": "Phone re-checked 2026-09-04 against their own site - unchanged and correct. For glass work go to service and parts on (423) 855-4981 rather than the sales line recorded here.",
+"evidence": "Own site: contact page gives 6001 International Drive, Chattanooga TN 37421, sales (423) 664-9718 and service and parts on (423) 855-4981.",
+"gapfill": "2026-09-04"
 },
 "3": {
 "i": 3,
 "status": "keep",
-"email": "woverton@crowncars.com",
-"note": "verified crowncarsofchattanooga.com live"
+"name": "Crown Chrysler Dodge Jeep Ram Fiat",
+"note": "PHONE CHANGED 2026-09-04. The row held (423) 295-9893, which their own site does not publish - it now lists only toll-free numbers. The old local number may still ring, so try it if the 844 line is slow. Service is 844-818-4429.",
+"evidence": "Own site: contact page gives 2120 Chapman Rd, Chattanooga TN 37421 with main 844-371-6559, service 844-818-4429 and parts 844-921-6030.",
+"gapfill": "2026-09-04"
 },
 "4": {
 "i": 4,
 "status": "keep",
-"address": "301 E 20th St",
-"zip": "37408",
-"note": "verified mtnviewford.com live"
+"name": "Mtn View Ford Lincoln",
+"note": "Phone re-checked 2026-09-04 against their own site - unchanged and correct. One number for sales and service; ask for the service department.",
+"evidence": "Own site: contact page gives 301 E. 20th St, Chattanooga TN 37408 with 423-756-1331 for both sales and service. Family owned 45+ years.",
+"gapfill": "2026-09-04"
 },
 "5": {
 "i": 5,
 "status": "keep",
-"address": "2100 S Market St",
-"zip": "37408",
-"note": "verified mtnviewnissan.com live"
+"name": "Mtn View Nissan of Chattanooga",
+"note": "Phone re-checked 2026-09-04 against their own site - unchanged and correct. Same number reaches sales, service and parts.",
+"evidence": "Own site: contact and service pages give 2100 S Market St, Chattanooga TN 37408 with 423-756-1500 for sales, service and parts.",
+"gapfill": "2026-09-04"
 },
 "6": {
 "i": 6,
