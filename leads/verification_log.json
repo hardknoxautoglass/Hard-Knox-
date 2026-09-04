@@ -932,8 +932,10 @@
 "128": {
 "i": 128,
 "status": "keep",
-"address": "4735 Bonny Oaks Dr",
-"note": "verified cookspest.com/branch/chattanooga live"
+"name": "Cook's Pest Control - Chattanooga Branch",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 629-2563 RE-CONFIRMED on cookspest.com's own Chattanooga branch page, with 4735 Bonny Oaks Dr and Mon-Fri 8-5. Their page gives the ZIP as 37416, not the 37406 on file - corrected. Regional pest company running a large branded route-truck fleet out of this branch.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "129": {
 "i": 129,
@@ -950,34 +952,34 @@
 "131": {
 "i": 131,
 "status": "keep",
-"address": "4315 N Creek Rd",
-"note": "verified masseyservices.com/chattanooga live"
+"name": "Massey Services",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 892-5950 RE-CONFIRMED on masseyservices.com/chattanooga, address 4315 N Creek Rd 37406 confirmed. Hours Mon-Fri 7:00-20:00, Sat 8:00-14:00 - long service days mean high fleet mileage. They run a separate commercial division page for this location; that is the side with the bigger truck count.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "132": {
 "i": 132,
 "status": "keep",
-"email": "craig@impactfacilitysolutions.com",
-"phone": "(423) 415-1045",
-"address": "832 Georgia Ave Ste 345",
-"note": "CORRECTED phone: site/chamber list 423-415-1045 (sheet had 423-645-0830)"
+"name": "Impact Facility Solutions LLC",
+"note": "PHONE RE-CHECK 2026-09-04 - REVERTS THE 2026-09-03 CORRECTION. Two separate searches of impactfacilitysolutions.com both return (423) 645-0830 as the published number, and neither surfaces the 423-415-1045 that was written in on 2026-09-03 off a chamber listing. Their own site is the better source, so the number is restored to 423-645-0830; keep 423-415-1045 as a fallback to try. NAMED CONTACT: Craig Richard, owner (craig@impactfacilitysolutions.com). Commercial janitorial plus landscaping, window cleaning, pressure washing and lot striping, serving Chattanooga out to Dunlap, Dalton, Cleveland and LaFayette - a multi-crew van and truck fleet.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "133": {
 "i": 133,
 "status": "keep",
-"email": "info@waldensecurity.com",
-"address": "100 E 10th St",
-"note": "verified waldensecurity.com live; HQ line 423-702-8200"
+"name": "Walden Security",
+"note": "OFFICIAL SITE 2026-09-04: waldensecurity.com publishes BOTH numbers for this address - 423.702.8200 and 800.846.4350. Chattanooga is their head office, so the local line is now primary and the toll-free 800-846-4350 is the fallback; the number on file was not wrong, just the national one. 100 E Tenth St 37402 and info@waldensecurity.com confirmed. Guard company with marked patrol vehicles across commercial and government contracts.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "134": {
 "i": 134,
-"name": "Chattanooga Fire Protection",
 "status": "keep",
-"address": "1818 Broad St",
-"zip": "37408",
-"phone": "(423) 265-1772",
-"email": "careers@chattanoogafire.com",
-"evidence": "Contact page on chattanoogafire.com",
-"note": "OFFICIAL SITE: address and phone confirmed (fax 423-267-4415), 24-hour emergency service. CAUTION - careers@chattanoogafire.com is the recruiting mailbox, the only address they publish; it is not a sales contact, so lead with the phone. Also has Knoxville, Calhoun GA and Woodstock GA branches."
+"name": "Chattanooga Fire Protection Inc.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 265-1772 RE-CONFIRMED - they run it in their own page titles alongside the 24-hour emergency promise. Address 1818 Broad St 37408 and fax (423) 267-4415 confirmed. CAUTION STANDS: careers@chattanoogafire.com is the recruiting mailbox and the only address they publish, so lead with the phone. On call 365 days a year across sprinklers, alarms, suppression and extinguishers - service trucks running at all hours.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "135": {
 "i": 135,
@@ -989,8 +991,10 @@
 "136": {
 "i": 136,
 "status": "keep",
-"address": "1418 McCallie Ave",
-"note": "verified evernest.co Chattanooga site live"
+"name": "Evernest Property Management - Chattanooga",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 648-7368 RE-CONFIRMED on evernest.co's own Chattanooga location page, address 1418 McCallie Ave 37404 confirmed. National single-family manager with a local maintenance arm; the maintenance coordinator, not the leasing desk, is the one running vehicles.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "137": {
 "i": 137,
