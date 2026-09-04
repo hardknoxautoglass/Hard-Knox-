@@ -4490,5 +4490,33 @@
 "note": "Flooring stores run install crews and delivery trucks. Their own site is centred on Soddy Daisy with a Chattanooga location page, so the record's 417 Frazier Avenue may be the second store rather than the base - confirm which one you are calling. No email published.",
 "evidence": "Own site: front page publishes this phone and describes the store as the hometown flooring shop in Soddy Daisy, with a separate Chattanooga location page.",
 "new_lead": true
+},
+"626": {
+"i": 626,
+"status": "keep",
+"note": "Paving contractor - dump trucks, rollers and crew pickups on gravel and construction sites, which is the profile that breaks glass. Andrew Smith is the named contact and publishes a cell, 423-421-0457, as well as the office line. The record carried no street address at all; this comes from their own site.",
+"evidence": "Own site: Contact and Directions pages give 4657 Shallowford Rd, Chattanooga TN 37411, phone 423-892-2178, fax 423-892-2822 and this email. Team, services, commercial and past-project pages all live; 30+ years in site paving and roller compacted concrete.",
+"new_lead": true
+},
+"627": {
+"i": 627,
+"status": "keep",
+"note": "A manufacturer rather than a contractor, so the fleet is delivery trucks rather than crews - kept at B. Their own site confirms the record's Lee Highway address. No email published; they use a form.",
+"evidence": "Own site: Contact page gives 7616 Lee Highway, Chattanooga TN 37421, office (423) 892-8620, toll-free (800) 262-6669 and fax (423) 892-2107. Metal building, piping and platform curb product pages all live.",
+"new_lead": true
+},
+"628": {
+"i": 628,
+"status": "keep",
+"note": "Roofing suppliers run boom trucks loading shingles onto roofs across three states' worth of job sites - heavy fleet use and a good A lead. Family owned since 1927, so the same people answer the phone. Their own site does not print the street address, so the record's 1409 Fort Street is left off.",
+"evidence": "Own site: publishes this phone and describes a family-owned downtown Chattanooga supplier founded in 1927 by Charles Danner; shingle, EPDM/TPO and sealant pages serve Chattanooga, Ooltewah, Ringgold and Chickamauga.",
+"new_lead": true
+},
+"629": {
+"i": 629,
+"status": "keep",
+"note": "Residential and commercial roofing crews hauling materials daily. Their own site puts the office on Brainerd Road, not the Ringgold Road on the record. No email published.",
+"evidence": "Own site: Contact page gives 4548 Brainerd Road Suite 200, Chattanooga TN 37411 and this phone; roof replacement, installation, commercial roofing, gutters and deck pages all live.",
+"new_lead": true
 }
 }

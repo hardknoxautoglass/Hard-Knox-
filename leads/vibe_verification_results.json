@@ -3175,5 +3175,71 @@
 "name": "Robert Roberts LLC",
 "status": "nocontact",
 "note": "robertrobertsllc.com is live and clearly a working commercial GC - project pages for Flywheel, Results Physiotherapy and a Cleveland Utilities renovation, plus a subcontractor sign-up page and a company brochure PDF - but two domain-restricted searches will not surface a phone, email or street address. The brochure on their own site is the place to look if it can be opened directly."
+},
+"ROBERT SMITH INC": {
+"name": "ROBERT SMITH INC",
+"status": "confirmed",
+"industry": "Site Paving & Roller Compacted Concrete",
+"priority": "A",
+"address": "4657 Shallowford Road",
+"city": "Chattanooga",
+"zip": "37411",
+"phone": "(423) 892-2178",
+"email": "andrew@robertsmithinc.com",
+"website": "robertsmithinc.com",
+"evidence": "Own site: Contact and Directions pages give 4657 Shallowford Rd, Chattanooga TN 37411, phone 423-892-2178, fax 423-892-2822 and this email. Team, services, commercial and past-project pages all live; 30+ years in site paving and roller compacted concrete.",
+"note": "Paving contractor - dump trucks, rollers and crew pickups on gravel and construction sites, which is the profile that breaks glass. Andrew Smith is the named contact and publishes a cell, 423-421-0457, as well as the office line. The record carried no street address at all; this comes from their own site."
+},
+"Rocky Top Construction": {
+"name": "Rocky Top Construction",
+"status": "dead",
+"note": "The domain on the record is just webs.com, the generic Webs site-builder host, not a company site - the same unusable pattern that killed the Dacus Moving record. Nothing self-published to confirm a business at 739 Ashland Terrace."
+},
+"Roof Curb Systems": {
+"name": "Roof Curb Systems",
+"status": "dead",
+"note": "Out of area. Their own site puts them at 363 North Industrial Boulevard, TRENTON, GEORGIA 30752 (P.O. Box 648) with 706 and 800 numbers - the 100 Cherokee Boulevard Number 213 on the record is a Chattanooga mailbox, not premises. Keep the details if the search ever widens past Hamilton County: (706) 657-5571 and sales@roofcurb.com, about 25 minutes down I-59."
+},
+"ROOF PRODUCTS, INC.": {
+"name": "ROOF PRODUCTS, INC.",
+"status": "confirmed",
+"industry": "Roof Curb & Accessory Manufacturer",
+"priority": "B",
+"address": "7616 Lee Highway",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 892-8620",
+"email": "Not publicly available",
+"website": "rpicurbs.com",
+"evidence": "Own site: Contact page gives 7616 Lee Highway, Chattanooga TN 37421, office (423) 892-8620, toll-free (800) 262-6669 and fax (423) 892-2107. Metal building, piping and platform curb product pages all live.",
+"note": "A manufacturer rather than a contractor, so the fleet is delivery trucks rather than crews - kept at B. Their own site confirms the record's Lee Highway address. No email published; they use a form."
+},
+"ROOFING & SUPPLY COMPANY": {
+"name": "ROOFING & SUPPLY COMPANY",
+"status": "confirmed",
+"industry": "Roofing Materials Supplier",
+"priority": "A",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37402",
+"phone": "(423) 259-3244",
+"email": "Not publicly available",
+"website": "theroofingandsupplycotn.com",
+"evidence": "Own site: publishes this phone and describes a family-owned downtown Chattanooga supplier founded in 1927 by Charles Danner; shingle, EPDM/TPO and sealant pages serve Chattanooga, Ooltewah, Ringgold and Chickamauga.",
+"note": "Roofing suppliers run boom trucks loading shingles onto roofs across three states' worth of job sites - heavy fleet use and a good A lead. Family owned since 1927, so the same people answer the phone. Their own site does not print the street address, so the record's 1409 Fort Street is left off."
+},
+"RoofingCo.com": {
+"name": "RoofingCo.com",
+"status": "confirmed",
+"industry": "Roofing Contractor",
+"priority": "A",
+"address": "4548 Brainerd Road Suite 200",
+"city": "Chattanooga",
+"zip": "37411",
+"phone": "(423) 456-5504",
+"email": "Not publicly available",
+"website": "roofingco.com",
+"evidence": "Own site: Contact page gives 4548 Brainerd Road Suite 200, Chattanooga TN 37411 and this phone; roof replacement, installation, commercial roofing, gutters and deck pages all live.",
+"note": "Residential and commercial roofing crews hauling materials daily. Their own site puts the office on Brainerd Road, not the Ringgold Road on the record. No email published."
 }
 }
