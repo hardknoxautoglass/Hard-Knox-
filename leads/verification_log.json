@@ -344,9 +344,10 @@
 "46": {
 "i": 46,
 "status": "keep",
-"email": "dispatch.americantow1@gmail.com",
-"address": "5910 Shaw Ave",
-"note": "verified americantowingtn.com live"
+"name": "American Tow & Recovery",
+"note": "OFFICIAL SITE: phone (423) 760-1276 and 5910 Shaw Ave RE-CONFIRMED 2026-09-04, and EMAIL FOUND (dispatch.americantow1@gmail.com). Operates 24/7. Wrecker fleet works around the clock and takes windshield damage constantly - and they see wrecked customer vehicles before anyone else, so a referral arrangement is worth as much as their own fleet.",
+"evidence": "americantowingtn.com",
+"gapfill": "2026-09-04"
 },
 "47": {
 "i": 47,
@@ -359,9 +360,10 @@
 "48": {
 "i": 48,
 "status": "keep",
-"website": "nationaltow.net",
-"address": "2105 E 24th St Pl",
-"note": "found website; email confirmed"
+"name": "Mostellers Wrecker Inc.",
+"note": "WEBSITE CORRECTED 2026-09-04: the nationaltow.net address previously on file has NOTHING indexed and does not belong to this business - removed. No official site found. KEPT under the Google-search rule: business is findable and the phone (423) 622-5313 recurs consistently, and they are federally registered and active as MOSTELLERS WRECKER INC, USDOT 2461226, in the FMCSA SAFER carrier registry. Email janie@mostellersinc.com appears alongside the listing - note the mostellersinc.com domain, which may be their real site. 2105 E 24th St Pl. Verify the number by phone before a mailing.",
+"evidence": "FMCSA SAFER carrier registry USDOT 2461226",
+"gapfill": "2026-09-04"
 },
 "49": {
 "i": 49,
@@ -402,16 +404,18 @@
 "54": {
 "i": 54,
 "status": "keep",
-"email": "alambert@goodguymovers.com",
-"address": "2000 Stuart St",
-"note": "verified goodguymovers.com live; owner Andrew Lambert"
+"name": "Good Guys Moving & Delivery",
+"note": "OFFICIAL SITE: phone (423) 531-3841 RE-CONFIRMED 2026-09-04 on their Chattanooga location page. Locally owned, licensed and insured. Runs local moving, long-distance, last-mile delivery and warehousing - a box-truck fleet across all of it.",
+"evidence": "goodguymovers.com/locations-2/chattanooga/",
+"gapfill": "2026-09-04"
 },
 "55": {
 "i": 55,
 "status": "keep",
-"email": "info@alloutmoves.com",
-"address": "1900 Daisy St",
-"note": "verified alloutmoves.com live"
+"name": "All Out Moving & Storage",
+"note": "OFFICIAL SITE: phone (423) 716-3025 and 1900 Daisy St RE-CONFIRMED 2026-09-04, and EMAIL FOUND (info@alloutmoves.com). Serves Chattanooga, Lakesite, Lookout Mountain and Chickamauga GA - the trucks run the whole metro.",
+"evidence": "alloutmoves.com/contact-us/",
+"gapfill": "2026-09-04"
 },
 "56": {
 "i": 56,
@@ -422,8 +426,10 @@
 "57": {
 "i": 57,
 "status": "keep",
-"address": "6059 Relocation Way",
-"note": "verified goarmstrong.com live"
+"name": "Armstrong Relocation (Ooltewah)",
+"note": "OFFICIAL SITE: phone (423) 643-3720 and 6059 Relocation Way, Ooltewah RE-CONFIRMED 2026-09-04. This is Armstrong's main office for the Chattanooga region; the former Crown WMS business is now part of Armstrong. Large tractor-trailer and straight-truck fleet.",
+"evidence": "goarmstrong.com/locations/chattanooga/",
+"gapfill": "2026-09-04"
 },
 "58": {
 "i": 58,
@@ -448,8 +454,10 @@
 "61": {
 "i": 61,
 "status": "keep",
-"address": "2501 Dodds Ave",
-"note": "verified First Student operates HCDE buses #200+; depot address confirmed"
+"name": "First Student (Hamilton County Schools contractor)",
+"note": "OFFICIAL SITE 2026-09-04: 2501 Dodds Ave confirmed as an active First Student location (current Chattanooga driver postings are advertised at that address). Their site publishes NO local number - only corporate 513-362-4600 - so the (423) 209-5680 on file is UNCONFIRMED. School-bus contractor: a large bus fleet with flat laminated windshields, and glass work is scheduled through the terminal manager at Dodds Ave, not corporate.",
+"evidence": "firststudentinc.com/contact/ and Chattanooga postings at 2501 Dodds Ave",
+"gapfill": "2026-09-04"
 },
 "62": {
 "i": 62,
