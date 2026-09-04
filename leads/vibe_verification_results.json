@@ -3052,5 +3052,71 @@
 "website": "range-projects.com",
 "evidence": "Own site: Contact page gives 2801 Dodds Avenue, Chattanooga TN 37407. Project pages for Songbirds Guitar Museum, Covenant College, Market South and work with Branch Technology at the Field Museum in Chicago are all live.",
 "note": "Fabrication studio building furniture, stair systems, signage and retail displays, which means box trucks running installs - including out of state. Their own site confirms the Dodds Avenue address but publishes neither phone nor email across two searches, so this one needs a visit or a form."
+},
+"Reese Plumbing Co": {
+"name": "Reese Plumbing Co",
+"status": "nocontact",
+"note": "reeseplumbingco.com returns nothing on two domain-restricted searches - the site is not indexed. A plumbing outfit on Ashland Terrace would be worth having, so re-check if the site comes back."
+},
+"RELIABLE BUILDING SOLUTIONS, INC.": {
+"name": "RELIABLE BUILDING SOLUTIONS, INC.",
+"status": "confirmed",
+"industry": "Commercial Cleaning & Janitorial",
+"priority": "A",
+"address": "6232 Airpark Drive",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 954-9834",
+"email": "info@rbsi-online.com",
+"website": "rbsi-online.com",
+"evidence": "Own site: about and service pages give 6232 Airpark Drive, Chattanooga TN, this phone and this email, with named client testimonials from EPB and Hawks Property Management.",
+"note": "Crews service accounts across Chattanooga, Knoxville, Nashville, Dalton and Atlanta, so vehicles cover real highway miles - better fleet exposure than the headcount suggests. Full contact set including a working email."
+},
+"Reliable Heating & Air Conditioning": {
+"name": "Reliable Heating & Air Conditioning",
+"status": "confirmed",
+"industry": "HVAC Contractor",
+"priority": "A",
+"address": "404 Spears Avenue",
+"city": "Chattanooga",
+"zip": "37405",
+"phone": "(423) 266-2424",
+"email": "davidc@reliable-online.com",
+"website": "reliable-online.com",
+"evidence": "Own site: Contact page gives 404 Spears Ave, Chattanooga TN 37405 and this email; the 24-hour emergency service page publishes this number. Service, routine-call, technician and generator pages are all live.",
+"note": "An HVAC company running 24-hour emergency calls keeps a van fleet moving day and night - one of the better fleet profiles in this queue. Founded 1971 by the record, 1972 by their own about page. David C. answers a named email."
+},
+"REMI Home Elevators": {
+"name": "REMI Home Elevators",
+"status": "confirmed",
+"industry": "Residential Elevator Manufacturer & Installer",
+"priority": "B",
+"address": "1709 North Orchard Knob Avenue",
+"city": "Chattanooga",
+"zip": "37406",
+"phone": "(423) 991-3880",
+"email": "Not publicly available",
+"website": "remihomeelevators.com",
+"evidence": "Own site: gives 1709 N Orchard Knob Ave, Chattanooga TN 37406 and this phone; installation, shaft drawing, warranty and safety-notice pages are live.",
+"note": "Manufacturer as well as installer, so there are delivery and install vehicles, but much of the fitting is done through dealers - kept at B for that reason. Their own site confirms the record's Orchard Knob address. No email published."
+},
+"Restore Roofing": {
+"name": "Restore Roofing",
+"status": "confirmed",
+"industry": "Roofing Contractor",
+"priority": "B",
+"address": "608 South Holtzclaw Avenue",
+"city": "Chattanooga",
+"zip": "37404",
+"phone": "Not publicly available",
+"email": "Not publicly available",
+"website": "restoreroofing.biz",
+"evidence": "Own site: privacy and terms pages give 608 S Holtzclaw Ave, Chattanooga TN 37404; metal roofing, shingle and services pages are live and name Chattanooga, Tyner and Ridgeside as the service area.",
+"note": "Roofing crews haul materials on flatbeds and pickups, which is normally good windshield business, but two searches would not surface a phone or email - everything routes through a free-inspection form. Held at B until someone can reach a person."
+},
+"Revolution Wood Floors": {
+"name": "Revolution Wood Floors",
+"status": "nocontact",
+"note": "revolutionwoodfloorsinfo.com returns nothing on two domain-restricted searches. Note the Gunbarrel Road address on this record is the same 2288 Gunbarrel Road used by two other rows in this queue - it is a multi-tenant mailbox address, not a yard, so there may be little here even if the site returns."
 }
 }
