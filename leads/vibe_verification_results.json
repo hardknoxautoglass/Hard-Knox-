@@ -3782,5 +3782,62 @@
 "website": "chattbuild.com",
 "evidence": "Own site: publishes this email; custom homes, ADU, additions, decks, fences and testimonials pages are all live for residential work in Chattanooga.",
 "note": "Small builder at 1-10 staff, so a couple of trucks - decks and fences mean hauling lumber on trailers. Email is the only route published; no phone or street address on their own site, so the record's 1612 East 14th Street is left off."
+},
+"The Grounds Guys Landscape Management": {
+"name": "The Grounds Guys Landscape Management",
+"status": "confirmed",
+"industry": "Landscaping & Lawn Care",
+"priority": "A",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37410",
+"phone": "(423) 328-8974",
+"email": "Not publicly available",
+"website": "groundsguys.com/chattanooga",
+"evidence": "Own site: the Chattanooga franchise pages publish this number, with landscape design, lawn care, testimonials and estimate pages live, covering Ooltewah, Chattanooga and Harrison.",
+"note": "Landscape crews towing mower trailers between residential and commercial accounts - constant road time on gravel drives. The franchise pages publish no street address or email, so the record's 164 West 31st Street is left off."
+},
+"The Mail Box Store Chattanooga": {
+"name": "The Mail Box Store Chattanooga",
+"status": "dead",
+"note": "Their own site does not have this location. themailboxstore.net publishes state location pages for Arkansas, Georgia, Kentucky, Missouri, New Jersey, North Carolina and Pennsylvania, and four attempts turned up no Tennessee page and nothing for Shallowford Road. Nothing self-published supports a Chattanooga store, and a mailbox and packing shop is a marginal fleet lead in any case."
+},
+"The McBurney Corporation": {
+"name": "The McBurney Corporation",
+"status": "confirmed",
+"industry": "Boiler Systems Engineering & Construction",
+"priority": "A",
+"address": "2805 Riverside Drive",
+"city": "Chattanooga",
+"zip": "37406",
+"phone": "Not publicly available",
+"email": "Not publicly available",
+"website": "mcburney.com",
+"evidence": "Own site: gives 2805 Riverside Drive, Chattanooga TN 37406 for Steam & Control Systems Inc., which acquired McBurney in 2017. Engineering, construction, repairs and maintenance, control systems, fuel handling and spare parts pages are all live; the company dates itself to 1911.",
+"note": "Held at A on fleet profile: biomass boiler construction and field repair at 51-200 staff means service trucks and crews travelling to mills and plants across the southeast. Two searches would not yield a phone or email off their contact page, so this needs a call to the Riverside Drive address. Note they trade as Steam & Control Systems as well as McBurney."
+},
+"The Trucking MBA": {
+"name": "The Trucking MBA",
+"status": "nocontact",
+"note": "trucking.mba is live but it is a compliance software and training business for owner-operators - driver files, drug and alcohol consortium, 2290 filings, FMCSA updates - not a carrier, so the truck transportation label on the record misleads. Two searches surface no phone, email or address, and nothing on their own site confirms the 100 Main Street location."
+},
+"Tim Payne Painting": {
+"name": "Tim Payne Painting",
+"status": "confirmed",
+"industry": "Commercial Painting & Pressure Washing",
+"priority": "A",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 498-3799",
+"email": "spayne@timpaynepainters.com",
+"website": "timpaynepainters.com",
+"evidence": "Own site: Contact page gives this phone, this email and 8-5 weekday hours; commercial painting, pressure washing, soft washing and careers pages are live, serving Chattanooga, Nashville and Knoxville.",
+"note": "Thirty years in commercial and public sector painting across three cities - crew trucks and pressure-washing rigs covering highway miles between them. S. Payne answers a named email. Their own site publishes no street address, so the record's 8633 East Brainerd Road is left off."
+},
+"Timber Creek Construction": {
+"name": "Timber Creek Construction",
+"status": "nocontact",
+"note": "timbercrk.com is live with our-work, meet-the-team and tiny-homes pages, and names Noah and Chuck as the founders - Noah with 15 years in the trade and a UTC construction management degree, previously at Collier Construction - but two domain-restricted searches surface no phone, email or street address. Only 1-10 staff, so a small prize, but easy to reach through the team page if someone tries the form."
 }
 }
