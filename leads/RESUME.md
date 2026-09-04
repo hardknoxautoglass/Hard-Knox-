@@ -1,21 +1,33 @@
 # Resume point — lead verification
 
-**Last updated:** 2026-09-03
+**Last updated:** 2026-09-04
 
-## Status: COMPLETE — every row verified
+## Status: PAUSED mid-verification of the Vibe queue — 220 of 414 done
+
+Picking this back up: the queue, the results and the remaining work are all on disk.
+- `leads/vibe_verification_results.json` — every decision made so far, keyed by business name.
+- `leads/VIBE_REMAINING_TO_VERIFY.csv` — the 194 still to check.
+- `leads/VIBE_REJECTED_2026-09-04.csv` — the 66 thrown out, with the reason for each.
+
+Method that works: one WebSearch per company, `allowed_domains` set to that company's own
+domain, query "contact phone address email <trade> <city>". About 6 per turn. If the first
+returns nothing, one retry with different wording, then mark `nocontact` and move on.
+
+Roughly 1 in 5 Vibe records is junk — wrong state, parked domain, or an unrelated business
+attached to the name. Always confirm the city before trusting a row.
 
 | | |
 |---|---|
-| Rows in workbook | 433 |
+| Rows in workbook | 586 |
 | Confirmed from official / business-run sources | 391 (all of them) |
 | Flagged / unverified | 0 |
 | New leads added this pass | 44 |
 | Businesses removed as unconfirmable | 40 |
-| Hixson-city rows | 94 (was 52) |
+| Hixson-city rows | 107 (was 52) |
 | Duplicates found and removed | 1 (Chattanooga Propane) |
-| Rows with a real email | 131 (was 22) |
-| Rows with a real website | 368 |
-| Rows with a real phone | 418 of 433 |
+| Rows with a real email | 182 (was 22) |
+| Rows with a real website | 520 |
+| Rows with a real phone | 522 of 586 |
 | Columns | 14 (trimmed from 20) |
 
 ## Sourcing rules — these are binding

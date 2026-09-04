@@ -3139,5 +3139,1076 @@
 "note": "New lead from the Vibe export. Their site never prints a phone number - consultation form only. Address is from the Vibe dataset, unconfirmed. Fence crews haul post drivers and panels.",
 "evidence": "Own site: every service page is Hixson-branded (security, vinyl, rail, pool, chain-link, iron, picket fence installation) plus service-area pages for Chattanooga and Cleveland; family-owned and woman-led, free estimates and emergency repairs.",
 "new_lead": true
+},
+"433": {
+"i": 433,
+"status": "keep",
+"note": "Slab delivery and install trucks. Email is a personal comcast address - that is what they publish.",
+"evidence": "Own site: Contact page lists this address, phone and email; solid surface and countertop material pages active.",
+"new_lead": true
+},
+"434": {
+"i": 434,
+"status": "keep",
+"note": "Install crews run vans loaded with millwork.",
+"evidence": "Own site: About page lists this address, phone, email and hours; closet, mudroom and laundry install pages active across Chattanooga and Lookout Mountain.",
+"new_lead": true
+},
+"435": {
+"i": 435,
+"status": "keep",
+"note": "Steel erection means boom trucks and flatbeds. No street address published.",
+"evidence": "Own site: steel erection page identifies them as a Hixson TN steel erection contractor with this phone; fabrication, stairs and nationwide shipping pages active.",
+"new_lead": true
+},
+"436": {
+"i": 436,
+"status": "keep",
+"note": "Scott and Paul Martin, two-man shop with no subs. Estimates free within 20 miles of Northgate. No phone in the search index.",
+"evidence": "Own site: About page confirms Hixson base, trading since 2009, licensed in Red Bank and Hamilton County, A+ with the BBB; serves Chattanooga, Hixson, Red Bank, Soddy Daisy, Signal Mountain and Ooltewah.",
+"new_lead": true
+},
+"437": {
+"i": 437,
+"status": "keep",
+"note": "Bulk topsoil and mulch delivery - dump trucks running all day. Address from the Vibe dataset. No phone in the index.",
+"evidence": "Own site: About page states in business since 1976, veteran and woman owned, open six days a week with same or next-day local delivery; topsoil, mulch and compost pages active.",
+"new_lead": true
+},
+"438": {
+"i": 438,
+"status": "keep",
+"note": "Survey crews drive to sites daily. No phone published in the index.",
+"evidence": "Own site: Contact page lists 4728 Adams Road Suite 101, Chattanooga TN 37343 - a Hixson ZIP. Privately held land surveying company.",
+"new_lead": true
+},
+"439": {
+"i": 439,
+"status": "keep",
+"note": "Remodeling, not lawn care - the Vibe industry tag was wrong. Address from the Vibe dataset, unconfirmed.",
+"evidence": "Own site: sunroom page is Hixson-branded; siding, remodeling and contact pages cover Signal Mountain, Ridgeside and Fairmount.",
+"new_lead": true
+},
+"440": {
+"i": 440,
+"status": "keep",
+"note": "Address from the Vibe dataset. No phone or office address published on the site.",
+"evidence": "Own site: About page states in business since 1980 with master service agreements with the largest gas companies in the world; pipeline, construction and facility pages active.",
+"new_lead": true
+},
+"441": {
+"i": 441,
+"status": "keep",
+"note": "Ask for Jimmy Cross or Wayne Brown by name. No phone in the search index.",
+"evidence": "Own site: About page describes 9 acres on Middle Valley Road in Hixson with showroom, manufacturing and finishing facilities; owned by Jimmy Cross and Wayne Brown.",
+"new_lead": true
+},
+"442": {
+"i": 442,
+"status": "keep",
+"note": "Paving means dump trucks, rollers and crew trucks. Only a PO Box is published, no street address.",
+"evidence": "Own site: Contact page lists this phone, email, fax and mailing address; 25+ years paving in Chattanooga, licensed and insured general contractor; commercial and residential project galleries active.",
+"new_lead": true
+},
+"443": {
+"i": 443,
+"status": "keep",
+"note": "They run a hauling division and hold a TVA contract. Tank trucks and roll-offs.",
+"evidence": "Own site: Transportation page and company newsletters hosted on their domain list this address, office phone and fax; full-service environmental consulting, emergency response, industrial services and hazardous and non-hazardous hauling.",
+"new_lead": true
+},
+"444": {
+"i": 444,
+"status": "keep",
+"note": "Delivery vans to job sites. Publishes a real sales inbox.",
+"evidence": "Own site: Contact page lists this address, phone and sales email; multifamily, commercial and hospitality supplier with a live product catalogue.",
+"new_lead": true
+},
+"445": {
+"i": 445,
+"status": "keep",
+"note": "Veteran owned. Another one that is inside other people's fleets daily - referral angle. No phone in the search index.",
+"evidence": "Own site: home page offers 24/7 mobile semi truck and trailer repair with rapid roadside and fleet maintenance across GA, TN and FL, Chattanooga named; blog active into 2025.",
+"new_lead": true
+},
+"446": {
+"i": 446,
+"status": "keep",
+"note": "Asset-based carrier, so real tractors. No phone published in the index.",
+"evidence": "Own site: home, about and drivers pages identify it as a Chattanooga trucking company running its own drivers.",
+"new_lead": true
+},
+"447": {
+"i": 447,
+"status": "keep",
+"note": "No phone or address in the search index - contact page not surfacing.",
+"evidence": "Own site: home and portfolio pages describe 40+ years of design/build in Chattanooga across banks, credit unions, offices, apartments, churches, hotels and government.",
+"new_lead": true
+},
+"448": {
+"i": 448,
+"status": "keep",
+"note": "A union local, not a contractor - no vehicle fleet of its own, but the training centre does run vans. Address from the Vibe dataset.",
+"evidence": "Own site: MidSouth Carpenters Regional Council site covering Local 74.",
+"new_lead": true
+},
+"449": {
+"i": 449,
+"status": "keep",
+"note": "Non-profit land trust. Runs trucks for trail and land work but a small operation with a small budget.",
+"evidence": "Own site: 501(c)(3) conservancy based in Hixson.",
+"new_lead": true
+},
+"450": {
+"i": 450,
+"status": "keep",
+"note": "Full contact set including a named inbox - ask for Casey.",
+"evidence": "Own site: Contact page lists this street address, PO Box, phone, email and hours (Mon-Fri 8-5).",
+"new_lead": true
+},
+"451": {
+"i": 451,
+"status": "keep",
+"note": "Masonry crews haul block and scaffold. Site uses a contact form, no phone published.",
+"evidence": "Own site: Contact page lists this address and hours; 30+ years as a commercial and industrial masonry contractor working for general contractors.",
+"new_lead": true
+},
+"452": {
+"i": 452,
+"status": "keep",
+"note": "Paving fleet. No street address published.",
+"evidence": "Own site: concrete page identifies them as a Chattanooga TN 37421 pavement and concrete company with this phone.",
+"new_lead": true
+},
+"453": {
+"i": 453,
+"status": "keep",
+"note": "CAUTION - their website appears to have been compromised. Alongside the real pages the domain is serving injected spam URLs (gaming and payment-transfer junk). The contact details on the About page look genuine, but treat the site as untrustworthy and confirm by phone.",
+"evidence": "Own site: About page lists this address, phone and hours.",
+"new_lead": true
+},
+"454": {
+"i": 454,
+"status": "keep",
+"note": "Wholesale distribution means delivery trucks. Ask for Grady Distributing. No contact details published.",
+"evidence": "Own site: identifies ABC Hosiery & Apparel as a division of Grady Distributing Co. Inc., founded 1986, wholesale distributor of socks, tees, fleece and underwear.",
+"new_lead": true
+},
+"455": {
+"i": 455,
+"status": "keep",
+"note": "Developer rather than a trades contractor - little or no vehicle fleet. No contact published.",
+"evidence": "Own site: active project pages (The Layouts on Market, Sculpture Flats) for a Chattanooga development company.",
+"new_lead": true
+},
+"456": {
+"i": 456,
+"status": "keep",
+"note": "Install techs plus warehouse delivery - two sets of vehicles. Chattanooga owned and operated. Email on the site is obfuscated.",
+"evidence": "Own site: Contact page lists this address, two phone numbers (423-624-8900 and 888-499-4990) and hours; certified filtration techs installing commercial and industrial filters from a Chattanooga warehouse, plus paint booth services and wholesale.",
+"new_lead": true
+},
+"457": {
+"i": 457,
+"status": "keep",
+"note": "Ask for Joseph Pendergrass, the office manager - his email is the one published. Note it is a gmail address, which is what they print.",
+"evidence": "Own site: About and Contact pages list this phone, a fax (423-698-8126) and the office manager by name; independent electrical contractor licensed in Tennessee and Georgia.",
+"new_lead": true
+},
+"458": {
+"i": 458,
+"status": "keep",
+"note": "Note the email domain is atlasboltco.com while the website is atlasbolt.com - both are theirs. Counter and delivery trucks.",
+"evidence": "Own site: About page states 50+ years serving Chattanooga; contact details list this address, phone and sales email; fastener, tool, fall protection and fence accessory categories all live.",
+"new_lead": true
+},
+"459": {
+"i": 459,
+"status": "keep",
+"note": "Owner Tyler Menne, 20+ years, degree in agriculture and plant science. Mowing crews plus snow plows means trucks and trailers year-round. Only a PO Box is published.",
+"evidence": "Own site: Contact page lists this phone; full-service land management and landscape company covering agricultural, commercial and residential accounts, plus snow plowing, irrigation and green roofs.",
+"new_lead": true
+},
+"460": {
+"i": 460,
+"status": "keep",
+"note": "Has been acquired or rebranded to USS since the Vibe record was made. Foundation crews run heavy trucks. No phone published in the index.",
+"evidence": "Own site: now trades as United Structural Systems (USS Chattanooga) - the domain resolves to their foundation and structural repair pages, with a Chattanooga team and a Monteagle location page.",
+"new_lead": true
+},
+"461": {
+"i": 461,
+"status": "keep",
+"note": "Exterior crews run loaded trucks and trailers daily. No street address published.",
+"evidence": "Own site: location and about pages list the Chattanooga phone; locally owned general contractor doing roofing, siding, replacement windows, doors and decks, with a commercial roofing division.",
+"new_lead": true
+},
+"462": {
+"i": 462,
+"status": "keep",
+"note": "Slab delivery is heavy-truck work and stone chips windshields - good fit. Full contact set.",
+"evidence": "Own site: quartz product page carries this address, phone and office email; granite, quartzite and marble slab lines.",
+"new_lead": true
+},
+"463": {
+"i": 463,
+"status": "keep",
+"note": "Note the website is berryhutton.com but the email domain is berryconstruction.net - both theirs. Multi-state GC, so a real fleet.",
+"evidence": "Own site: Contact page lists this address, phone, fax and email; expertise pages for education, shopping centres, restaurants and modular prefabrication with projects across the southeast.",
+"new_lead": true
+},
+"464": {
+"i": 464,
+"status": "keep",
+"note": "No phone or address surfaced in the index - contact form only.",
+"evidence": "Own site: home, residential, commercial and work gallery pages describe a licensed Chattanooga general contractor.",
+"new_lead": true
+},
+"465": {
+"i": 465,
+"status": "keep",
+"note": "Slab distribution - heavy delivery trucks. Full contact set.",
+"evidence": "Own site: Contact page lists this address, phone, fax, email and hours; a MAG company serving multiple industries.",
+"new_lead": true
+},
+"466": {
+"i": 466,
+"status": "keep",
+"note": "A trade association, not a contractor - almost no fleet of its own. But their member directory is a list of every commercial contractor in East Tennessee, which is worth more to you than the association itself.",
+"evidence": "Own site: About and Staff pages list this address, phone and hours; member directory, licensing exam prep and advocacy pages active.",
+"new_lead": true
+},
+"467": {
+"i": 467,
+"status": "keep",
+"note": "Inc. 5000 growth means a fleet that is getting bigger. Crew trucks and trailers daily.",
+"evidence": "Own site: Contact page lists this address, phone and hours; design, installation, hardscaping, irrigation and drainage for residential and commercial, named an Inc. 5000 fastest-growing business.",
+"new_lead": true
+},
+"468": {
+"i": 468,
+"status": "keep",
+"note": "Land development means excavators, dump trucks and float trailers. Only a PO Box published.",
+"evidence": "Own site: Contact page lists this mailing address, phone, email and hours (Mon-Sat 9-8); full-service land development contractor for commercial, industrial and municipal work with land development, erosion control and sewer/septic divisions.",
+"new_lead": true
+},
+"469": {
+"i": 469,
+"status": "keep",
+"note": "Founded 1886 - the oldest business found in this whole exercise. Fence crews cover a 100-mile radius. No phone in the search index.",
+"evidence": "Own site: Contact and about pages state 138 years in Chattanooga fencing, founded 1886, family owned, servicing Chattanooga and 100 miles around; residential and commercial fence and designer gate pages active.",
+"new_lead": true
+},
+"470": {
+"i": 470,
+"status": "keep",
+"note": "Their site is half-rebuilt - the index still shows default WordPress pages ('Hello world!', 'Sample Page') alongside old .htm product pages. No contact details published.",
+"evidence": "Own site: home and products pages for Builders Hardware Company, Chattanooga.",
+"new_lead": true
+},
+"471": {
+"i": 471,
+"status": "keep",
+"note": "A union hall rather than a contractor, so little fleet of its own - but they dispatch to TVA plant work and the district office is also local.",
+"evidence": "Own site: International Brotherhood of Boilermakers local lodge page lists this address and phone; District Lodge 57 is separately at 206 Delmont Street, Chattanooga, (423) 756-6000.",
+"new_lead": true
+},
+"472": {
+"i": 472,
+"status": "keep",
+"note": "Correct name is Builders FirstSource. Big boom-truck delivery fleet running to job sites all day - one of the better prospects in this batch. National chain though, so the windshield decision may sit above the branch.",
+"evidence": "Own site: Builders FirstSource Chattanooga TN lumber yard location page lists this phone; delivery and pickup offered from this yard.",
+"new_lead": true
+},
+"473": {
+"i": 473,
+"status": "keep",
+"note": "Actually based in Cleveland TN (Bradley County), not Hamilton - the Vibe record placed them in Chattanooga. They do work here, but you would be driving to them.",
+"evidence": "Own site: Contact page lists the Cleveland TN address and states they serve Chattanooga and North Georgia.",
+"new_lead": true
+},
+"474": {
+"i": 474,
+"status": "keep",
+"note": "Old-style .htm site. No contact details in the search index.",
+"evidence": "Own site: home, about and remodeling pages for a Chattanooga construction company.",
+"new_lead": true
+},
+"475": {
+"i": 475,
+"status": "keep",
+"note": "The transportation arm is the interesting part - parking operators run shuttle vans. No contact published in the index.",
+"evidence": "Own site: about, team, facilities and contact pages; founded to serve Chattanooga with parking, transportation and facilities management.",
+"new_lead": true
+},
+"476": {
+"i": 476,
+"status": "keep",
+"note": "Note the email domain is curatechatt.com, not the website domain. Full contact set.",
+"evidence": "Own site: Contact page lists this address, phone and email; luxury custom home builder with active community and portfolio pages for North Shore and Franklin Preserve.",
+"new_lead": true
+},
+"477": {
+"i": 477,
+"status": "keep",
+"note": "An ambulance fleet is the whole business - every vehicle is a box on wheels with a big flat windshield, and they cannot have one off the road. One of the best prospects in the entire Vibe batch.",
+"evidence": "Own site: Contact page lists this address, phone, fax and email; inter-facility transport and hospice transport service pages active.",
+"new_lead": true
+},
+"478": {
+"i": 478,
+"status": "keep",
+"note": "Bus glass is the highest-ticket work you can quote. Note they also describe themselves as a bus broker, so ask how much of the fleet they actually own.",
+"evidence": "Own site: Contact page lists this address and phone; private charter, school, corporate and airport shuttle service pages active.",
+"new_lead": true
+},
+"479": {
+"i": 479,
+"status": "keep",
+"note": "Field erection crews travel with rigs and trailers. Long-established Chattanooga name. Only a PO Box is published.",
+"evidence": "Own site: Contact page lists this phone and mailing address; shop fabrication, field erection, custom fabrication and power division pages active.",
+"new_lead": true
+},
+"480": {
+"i": 480,
+"status": "keep",
+"note": "Note the email domain is turnkeymasonry.com - they trade under both names. Material delivery plus install crews.",
+"evidence": "Own site: Contact page lists this address, phone and email; 20+ years supplying and installing turnkey masonry for commercial construction.",
+"new_lead": true
+},
+"481": {
+"i": 481,
+"status": "keep",
+"note": "A service division means a van fleet on the road daily. No phone in the search index - contact form only.",
+"evidence": "Own site: Contact page lists this address; third-generation family business established 1991 doing sheet metal fabrication, process piping, HVAC service and design-build, with a dedicated service division.",
+"new_lead": true
+},
+"482": {
+"i": 482,
+"status": "keep",
+"note": "They advertise 24/7 mobile welding elsewhere, so there are service trucks. No contact details in the index.",
+"evidence": "Own site: industrial, custom, automotive and marine welding service pages plus a contact page, all Chattanooga-branded.",
+"new_lead": true
+},
+"483": {
+"i": 483,
+"status": "keep",
+"note": "Storm-damage roofers cover a lot of miles. Full contact set. Se habla espanol.",
+"evidence": "Own site: Contact page lists this address, phone, email and 24/7 hours; residential, retail and storm-damage roofing pages plus service pages for Collegedale, South Pittsburg and Athens.",
+"new_lead": true
+},
+"484": {
+"i": 484,
+"status": "keep",
+"note": "Inspectors drive to roofs across the region. Only the road name is published, no street number.",
+"evidence": "Own site: About and Get Quote pages list this address, phone, email and hours; roof asset management and moisture diagnostics for commercial, institutional and government property.",
+"new_lead": true
+},
+"485": {
+"i": 485,
+"status": "keep",
+"note": "Millwork delivery and install trucks. Full contact set.",
+"evidence": "Own site: Contact page lists this address, phone, email and hours; trades as Cabeen Architectural Millwork.",
+"new_lead": true
+},
+"486": {
+"i": 486,
+"status": "keep",
+"note": "A property development, not a trades business - little fleet of its own.",
+"evidence": "Own site: home and townhome pages list two numbers (423-667-5922 and 423-265-0088) for the riverfront development downtown.",
+"new_lead": true
+},
+"487": {
+"i": 487,
+"status": "keep",
+"note": "Second closet company in this batch after Creekside. No contact details in the index.",
+"evidence": "Own site: service-area pages for East Ridge, Cleveland, Ridgeside, Apison and Ooltewah plus Dalton and LaFayette GA.",
+"new_lead": true
+},
+"488": {
+"i": 488,
+"status": "keep",
+"note": "Dock crews haul materials and barges to lakefront sites - lots of gravel-road miles. Full contact set.",
+"evidence": "Own site: Contact page lists this address, phone and email; About page claims 250+ docks built and 400+ related projects; authorised Hewitt dealer with repair, maintenance and boat lift pages.",
+"new_lead": true
+},
+"489": {
+"i": 489,
+"status": "keep",
+"note": "Sample couriers collect from client sites, so there are vehicles - but it is a small lab.",
+"evidence": "Own site: Contact page lists this address and phone; USP797 pharmacy clean room compliance plus food and cosmetics pathogen screening.",
+"new_lead": true
+},
+"490": {
+"i": 490,
+"status": "keep",
+"note": "They run their own lumber delivery. Two trading names on one site.",
+"evidence": "Own site: Contact page lists this address and phone; also trades as Lumberjacks Hardwood Center, with lumber cutting, planing and delivery service pages.",
+"new_lead": true
+},
+"491": {
+"i": 491,
+"status": "keep",
+"note": "Grinders and buffers travel in box trucks between jobs. Full contact set. About page also mentions Soddy Daisy.",
+"evidence": "Own site: Contact page lists this address, phone and email; concrete polishing and grinding, sealing, epoxy, carpet cleaning and VCT stripping for residential, commercial and industrial clients.",
+"new_lead": true
+},
+"492": {
+"i": 492,
+"status": "keep",
+"note": "No street address published, only the phone.",
+"evidence": "Own site: Contact page lists this phone; Owens Corning preferred contractor doing roofing, decks and exteriors, with service pages for Ooltewah and Ringgold GA.",
+"new_lead": true
+},
+"493": {
+"i": 493,
+"status": "keep",
+"note": "The Vibe record has the name wrong: this is a trade body, not a contractor. Their member directory is the useful part - it lists every masonry contractor in the region.",
+"evidence": "Own site: this domain is the Chattanooga Masonry ASSOCIATION - contractors, suppliers and an apprenticeship programme - not a masonry company.",
+"new_lead": true
+},
+"494": {
+"i": 494,
+"status": "keep",
+"note": "The real trading name is FOSTER ELECTRIC - 'Chattanooga Electrician' is just the domain. Ask for Foster Electric when you call.",
+"evidence": "Own site: service and area pages list this phone; residential and commercial electrical, rewiring, panel upgrades and solar.",
+"new_lead": true
+},
+"495": {
+"i": 495,
+"status": "keep",
+"note": "Family run, two locations, so a real van fleet. Odd detail: a salon site is running on a subdomain of their domain, which suggests shared hosting - not a red flag for the business itself.",
+"evidence": "Own site: home and service-area pages list this phone plus two locations - 430 Chestnut St in Chattanooga and 5419 Woodbridge Dr, Ooltewah TN 37363 on (423) 910-9097.",
+"new_lead": true
+},
+"496": {
+"i": 496,
+"status": "keep",
+"note": "Multi-city janitorial means crews driving between accounts nightly. Ask for Guy Harris - his email is the one published.",
+"evidence": "Own site: Contact page lists this corporate address, phone, fax and a named email; 30+ years of commercial janitorial across Chattanooga, Knoxville, Nashville, Huntsville and Dalton.",
+"new_lead": true
+},
+"497": {
+"i": 497,
+"status": "keep",
+"note": "No company website - the Vibe record just pointed at dot.gov. Confirmed active through the federal carrier registry instead, which is a government source rather than a directory. A low USDOT number means a long-established carrier. You will need to find the phone another way.",
+"evidence": "FMCSA SAFER (safer.fmcsa.dot.gov), the federal motor carrier registry: BOBBY FRYAR TRUCKING CO INC, Chattanooga TN, USDOT 282659, snapshot current as of 09/03/2025.",
+"new_lead": true
+},
+"498": {
+"i": 498,
+"status": "keep",
+"note": "Two angles: their own rental fleet AND every fleet operator in the region comes through their shop. One of the best referral partners in the whole list - talk to them about a reciprocal arrangement.",
+"evidence": "Own site: Contact and Maps/Hours pages list this address, phone, toll-free (877-250-1508), fax and hours; 50+ years in trailer sales, rentals, truck equipment and repair across the tri-state region, with a staff page.",
+"new_lead": true
+},
+"499": {
+"i": 499,
+"status": "keep",
+"note": "They publish an equipment page - bucket trucks and chippers. Family owned 50 years.",
+"evidence": "Own site: Contact page lists this address and phone; family owned since 1975, with a dedicated equipment page plus removal, pruning, stump and storm damage services.",
+"new_lead": true
+},
+"500": {
+"i": 500,
+"status": "keep",
+"note": "They publish the whole leadership team by name - Ethan Collier is CEO, Ernie Freistat runs construction. Ernie is your man for fleet.",
+"evidence": "Own site: Contact page lists this address, phone, fax and two emails (info@ and connect@ on 423-719-4374); team pages name the CEO, VP of Construction, estimator and pre-construction manager.",
+"new_lead": true
+},
+"501": {
+"i": 501,
+"status": "keep",
+"note": "As a Landstar agent they broker to owner-operators rather than owning many trucks, so the fleet may be small. Worth one call to find out.",
+"evidence": "Own site: About page lists this phone; an independent Landstar agent offering truckload, supply chain logistics and warehouse services in Chattanooga.",
+"new_lead": true
+},
+"502": {
+"i": 502,
+"status": "keep",
+"note": "Trades as Chattanooga Contractors Group. A collective of contractors, so one call could reach several fleets. No address published.",
+"evidence": "Own site: home and service pages list this phone; a collaboration of family-owned licensed contractors covering roofing, siding and electrical across southeast Tennessee and north Georgia.",
+"new_lead": true
+},
+"503": {
+"i": 503,
+"status": "keep",
+"note": "Excavation and concrete means heavy trucks. SDVOSB status also opens government work. No street address published.",
+"evidence": "Own site: About page lists this phone and email; a Service-Disabled Veteran-Owned Small Business based in Chattanooga doing poured walls, retaining walls, basements, foundations, excavation and flatwork.",
+"new_lead": true
+},
+"504": {
+"i": 504,
+"status": "keep",
+"note": "Commercial maintenance crews run trucks and trailers every day, and three offices means a sizeable fleet. No street address published.",
+"evidence": "Own site: Contact page lists this phone, fax and email; 20+ years in the greater Chattanooga area with offices in Chattanooga, Atlanta and Nashville, doing commercial landscape maintenance and installation.",
+"new_lead": true
+},
+"505": {
+"i": 505,
+"status": "keep",
+"note": "Street sweepers are a pure fleet business and they work in construction zones - hard on glass. Now operating under Sweeping Corp. No address published.",
+"evidence": "Own site: home and news pages list this phone; residential, commercial and industrial sweeping plus road construction cleanup and milling sweeping across eastern Tennessee and north Georgia, for businesses and municipalities.",
+"new_lead": true
+},
+"506": {
+"i": 506,
+"status": "keep",
+"note": "A retail shop - maybe one delivery van. Full contact set though.",
+"evidence": "Own site: Contact and About pages list this address, phone, email and hours; Baby Lock, Brother, Janome, Pfaff and Singer dealer with classes.",
+"new_lead": true
+},
+"507": {
+"i": 507,
+"status": "keep",
+"note": "OUT OF AREA - Guntersville, ALABAMA, roughly two hours away, not Chattanooga as the Vibe record claimed. Real company, wrong geography for you.",
+"evidence": "Own site: Contact page lists this physical and mailing address, phone and a named email; commercial building construction.",
+"new_lead": true
+},
+"508": {
+"i": 508,
+"status": "keep",
+"note": "Dealership means loaner fleet, courtesy shuttles and a service department that turns down glass work it cannot do in-house. Call the SERVICE line, not sales - 423-704-9039.",
+"evidence": "Own site: Contact and Directions pages list this address with separate sales (423-704-9035), service (423-704-9039) and parts (423-704-9042) lines, plus hours and a staff page.",
+"new_lead": true
+},
+"509": {
+"i": 509,
+"status": "keep",
+"note": "Ask for David Gordon - his email is the one published. By appointment only, so ring first.",
+"evidence": "Own site: Contact page lists this address, phone, fax and a named email; locally owned since 2001 doing driveways, pool decks, docks, warehouse repairs and industrial coatings.",
+"new_lead": true
+},
+"510": {
+"i": 510,
+"status": "keep",
+"note": "This is Covenant Logistics Group - one of the largest truckload carriers in the country, and they are headquartered here. Thousands of tractors. Realistically they have a national glass contract, but the local terminal is worth a call. The 877 number is investor relations, not the right door.",
+"evidence": "Own site: newsroom, customer and driver-orientation pages confirm Covenant Logistics Group is headquartered in Chattanooga; investor releases carry a corporate line (877-271-1828).",
+"new_lead": true
+},
+"511": {
+"i": 511,
+"status": "keep",
+"note": "No contact details published in the index.",
+"evidence": "Own site: home page describes a family owned and operated company founded in 2000 providing logistics to manufacturers and retailers.",
+"new_lead": true
+},
+"512": {
+"i": 512,
+"status": "keep",
+"note": "Southeast-wide travel with material trailers. The 847 prefix is the Hixson exchange.",
+"evidence": "Own site: Contact page lists this address, phone and email; founded 2000, installing and resurfacing tennis courts, tracks, sport courts and indoor surfaces across the southeast.",
+"new_lead": true
+},
+"513": {
+"i": 513,
+"status": "keep",
+"note": "Coating rigs travel in box trucks. Three-state coverage.",
+"evidence": "Own site: Contact page lists this address and phone; polished and stained concrete, sealers, resurfacing, garage and industrial coatings across north Georgia, north Alabama and east Tennessee.",
+"new_lead": true
+},
+"514": {
+"i": 514,
+"status": "keep",
+"note": "Their people drive to job sites constantly. Only a toll-free number published - ask for the Chattanooga office.",
+"evidence": "Own site: Contact and Locations pages list this address, toll-free phone and email; leadership team page and project pages including safety staffing at Chickamauga Dam.",
+"new_lead": true
+},
+"515": {
+"i": 515,
+"status": "keep",
+"note": "Worth a call for a different reason: their entire client base is DOT-regulated trucking fleets. They know every carrier in the region.",
+"evidence": "Own site: DOT physical, drug testing, sleep apnea and hair testing pages list this phone; the domain now redirects to Workforce QA.",
+"new_lead": true
+},
+"516": {
+"i": 516,
+"status": "keep",
+"note": "Construction cleanup crews haul equipment. No phone in the index.",
+"evidence": "Own site: Contact page lists this address; construction cleanup, window washing, floor care and facility care across Tennessee and the southeast.",
+"new_lead": true
+},
+"517": {
+"i": 517,
+"status": "keep",
+"note": "Ask for Donnie Peppers by name. Only a PO Box published.",
+"evidence": "Own site: Hire Us and About pages list this PO Box, phone and a named email for Donnie Peppers; residential basement waterproofing, crawl space damp-proofing and foundation drainage.",
+"new_lead": true
+},
+"518": {
+"i": 518,
+"status": "keep",
+"note": "Multi-region GC, so superintendents drive a lot of miles. Their downloads folder is serving some spam pages, which suggests the site needs patching - not a reflection on the business.",
+"evidence": "Own site: Contact page lists this address, phone and fax; Tennessee-based GC doing commercial and retail construction across the southeast, midwest and mid-Atlantic, with team, projects and bid-opportunity pages.",
+"new_lead": true
+},
+"519": {
+"i": 519,
+"status": "keep",
+"note": "Named team members published. Full contact set.",
+"evidence": "Own site: Contact page lists this address, phone and email; team pages name Gary Crowe and Thomas Connolly; consulting, pre-construction and construction management.",
+"new_lead": true
+},
+"520": {
+"i": 520,
+"status": "keep",
+"note": "Ask for Eric - his is the published inbox. Full contact set.",
+"evidence": "Own site: Contact page lists this address, phone and a named email.",
+"new_lead": true
+},
+"521": {
+"i": 521,
+"status": "keep",
+"note": "Mowing crews plus a seasonal decorating arm means trucks and trailers year-round. No phone in the index.",
+"evidence": "Own site: home and services pages list this address; lawn and landscape plus seasonal Christmas decorating.",
+"new_lead": true
+},
+"522": {
+"i": 522,
+"status": "keep",
+"note": "Their projects are national - Princeton, San Diego, New York clubs - so crews and materials travel far. No contact details in the index.",
+"evidence": "Own site: accredited by the World Squash Federation, building and refinishing squash, tennis and pickleball courts, with project pages at Princeton, Harvard Club and US Squash Center.",
+"new_lead": true
+},
+"523": {
+"i": 523,
+"status": "keep",
+"note": "Trades as Chattanooga Neighborhood Enterprise. They own and maintain rental stock, so there are maintenance trucks - the rentals office is the one to call.",
+"evidence": "Own site: Contact page lists this main office address, phone, email and hours, plus a separate rentals office at 1728 Bailey Avenue on (423) 800-5474, rent@cneinc.org; four decades in Chattanooga housing.",
+"new_lead": true
+},
+"524": {
+"i": 524,
+"status": "keep",
+"note": "A publisher - little to no fleet.",
+"evidence": "Own site: Contact page lists CMC Publications at this address and phone.",
+"new_lead": true
+},
+"525": {
+"i": 525,
+"status": "keep",
+"note": "A professional chapter, not a business. The member directory is the useful part.",
+"evidence": "Own site: chapter home, board, committees and member directory pages; meets at the Construction Career Center, 2225 Roanoke Ave - the same building as AGC East Tennessee.",
+"new_lead": true
+},
+"526": {
+"i": 526,
+"status": "keep",
+"note": "Six locations of wreckers and rotators. Recovery trucks work in ditches and on shoulders - they break glass. One of the strongest prospects in the whole queue.",
+"evidence": "Own site: Contact pages list this address, phone, a toll-free line (800-407-2371) and an alternative (423-482-9217); heavy-duty towing and recovery with crane and winch equipment, 24/7, across six locations - Chattanooga, Cleveland, Jasper, Dalton, Ringgold and Trenton.",
+"new_lead": true
+},
+"527": {
+"i": 527,
+"status": "keep",
+"note": "Third gutter contractor found. Gutter rigs carry a brake press on the roof rack. Email on the site is obfuscated.",
+"evidence": "Own site: Contact page lists this address, phone and hours; 20+ years in seamless gutter installation and guards, serving 50+ miles around Chattanooga.",
+"new_lead": true
+},
+"528": {
+"i": 528,
+"status": "keep",
+"note": "Two offices means superintendents commuting between them. They build automotive dealerships, which is a useful adjacency for you.",
+"evidence": "Own site: Contact page lists this Chattanooga address and phone plus a second office in Dayton; 30+ years in commercial contracting, construction management, design-build and development, with office, school and automotive sector pages.",
+"new_lead": true
+},
+"529": {
+"i": 529,
+"status": "keep",
+"note": "In business since 1940 with their own delivery. Only the street name is published, no number or phone.",
+"evidence": "Own site: home and careers pages state the business began in 1940 and moved to Elmendorf St in 2006; Andersen, YKK AP and moulding product lines.",
+"new_lead": true
+},
+"530": {
+"i": 530,
+"status": "keep",
+"note": "Dayton Blvd puts them on the Red Bank / Hixson corridor, close to you. The 843 prefix is local. Full contact set.",
+"evidence": "Own site: Contact page lists this address, phone and email; About and gallery pages active.",
+"new_lead": true
+},
+"531": {
+"i": 531,
+"status": "keep",
+"note": "Small downtown office site. No email published.",
+"evidence": "Own site: Contact page lists this downtown address and phone.",
+"new_lead": true
+},
+"532": {
+"i": 532,
+"status": "keep",
+"note": "Falling Water is just north of Hixson, so they work your side of the river. No phone in the index.",
+"evidence": "Own site: Contact page lists this address; new construction, remodeling, commercial and full-service design, with a Meadows at Falling Water project page.",
+"new_lead": true
+},
+"533": {
+"i": 533,
+"status": "keep",
+"note": "An online product seller, not a service business - no fleet. No contact details in the index.",
+"evidence": "Own site: product, about and contact pages for home elevator door baffle space guards, sold direct to homeowners and contractors.",
+"new_lead": true
+},
+"534": {
+"i": 534,
+"status": "keep",
+"note": "Dedicated carriers own their tractors. Downtown address, real sales inbox. Only a toll-free number published.",
+"evidence": "Own site: Contact page lists this address, toll-free phone, sales email and hours; driver recruitment and technology pages active.",
+"new_lead": true
+},
+"535": {
+"i": 535,
+"status": "keep",
+"note": "100+ employees on commercial concrete means a serious fleet of trucks and pump rigs. Founded 1968. Frustratingly their site publishes no phone or address - form only.",
+"evidence": "Own site: About page states founded 1968, privately owned commercial concrete company in Chattanooga with 100+ staff serving east Tennessee and north Georgia; walls, foundations, sidewalks, paving and parking deck service pages.",
+"new_lead": true
+},
+"536": {
+"i": 536,
+"status": "keep",
+"note": "Franchise of The Flying Locksmiths. Locksmith vans are on the road all day. The site routes everything through a locations map - no direct Chattanooga number published.",
+"evidence": "Own site: locations directory confirms a Chattanooga franchise among 90+ locally owned US locations; commercial locksmith, access control and door security services.",
+"new_lead": true
+},
+"537": {
+"i": 537,
+"status": "keep",
+"note": "OUT OF AREA - Knoxville, not Chattanooga. Real company, wrong city for you.",
+"evidence": "Own site: home and About pages identify them as a Knoxville TN electrical contractor.",
+"new_lead": true
+},
+"538": {
+"i": 538,
+"status": "keep",
+"note": "Trades as FSA Lighting. This one is IN HIXSON - Kanasita Drive, same street as a couple of others in this batch. Outside sales reps drive to job sites and specifiers all week.",
+"evidence": "Own site: Our Team page lists the Chattanooga branch at this Hixson address with this phone, and names principals, outside sales and project management staff with departmental emails.",
+"new_lead": true
+},
+"539": {
+"i": 539,
+"status": "keep",
+"note": "In-house trades means a real service-van fleet, not subcontractors. Service area explicitly includes Hixson, Red Bank and Signal Mountain.",
+"evidence": "Own site: service-call and service pages list this address and phone; custom homes, additions, commercial construction, HVAC, electrical, plumbing and concrete, with in-house licensed electricians and plumbers.",
+"new_lead": true
+},
+"540": {
+"i": 540,
+"status": "keep",
+"note": "No street address published.",
+"evidence": "Own site: commercial roofing and Chattanooga roofer pages list this phone.",
+"new_lead": true
+},
+"541": {
+"i": 541,
+"status": "keep",
+"note": "A safety products distributor - delivery vehicles rather than a big fleet. Only a toll-free number is published.",
+"evidence": "Own site: Contact page lists this toll-free phone and sales email; catalogues for gloves, hand protection and protective clothing.",
+"new_lead": true
+},
+"542": {
+"i": 542,
+"status": "keep",
+"note": "Trades as H. and H. Brown, Inc. Full contact set.",
+"evidence": "Own site: Contact page lists this address, phone and email.",
+"new_lead": true
+},
+"543": {
+"i": 543,
+"status": "keep",
+"note": "They run their own transportation division on top of the warehouses, so there are yard trucks and drayage tractors here. Big operation. The site publishes no direct Chattanooga number.",
+"evidence": "Own site: locations page confirms a Chattanooga TN facility among 34 warehouses and 3.6m sq ft across TN, AL, AZ, CA, GA, LA, MS and IL; dedicated transportation, storage and distribution service pages.",
+"new_lead": true
+},
+"544": {
+"i": 544,
+"status": "keep",
+"note": "No contact details surfaced in the index.",
+"evidence": "Own site: home, about/contact and services pages active for a Chattanooga landscaping company.",
+"new_lead": true
+},
+"545": {
+"i": 545,
+"status": "keep",
+"note": "I nearly filtered this one out as a freight broker - wrong call. They own two asset-based carriers and 18 terminals, so there are real tractors here. Also note Max Trans Logistics appears separately in this dataset: same group.",
+"evidence": "Own site: Contact page lists this phone plus (423) 771-9599 and (423) 362-7210; leadership page names executives; brand pages for MaxTrans Logistics, Atomic Transport and F2F Transport, described as a full-service brokerage plus TWO ASSET COMPANIES with 18 terminals across 20 states.",
+"new_lead": true
+},
+"546": {
+"i": 546,
+"status": "keep",
+"note": "Small downtown office site.",
+"evidence": "Own site: Contact page lists this address and phone.",
+"new_lead": true
+},
+"547": {
+"i": 547,
+"status": "keep",
+"note": "Note the 706 area code - a north Georgia number on a Chattanooga business. They build the city's restaurants and breweries.",
+"evidence": "Own site: Contact page lists this address and phone; project pages for Chattanooga Whiskey, Main Street Meats, Flying Squirrel and Oddstory Brewing.",
+"new_lead": true
+},
+"548": {
+"i": 548,
+"status": "keep",
+"note": "Their own site says the work 'now lives with the neighbors', which reads like the organisation has wound down. Verify it still exists before spending time on it.",
+"evidence": "Own site: lists this address and email; a decade of neighbourhood work on Glass Street in East Chattanooga.",
+"new_lead": true
+},
+"549": {
+"i": 549,
+"status": "keep",
+"note": "A non-profit resource centre - minimal fleet.",
+"evidence": "Own site: sponsorship page lists this phone; a 501(c)(3) running education programmes, AmeriCorps and Civilian Climate Corps, with a staff and board page.",
+"new_lead": true
+},
+"550": {
+"i": 550,
+"status": "keep",
+"note": "Liquid waste means vacuum tankers running the length of east Tennessee. No street address published.",
+"evidence": "Own site: Contact page lists this phone and email with 8-5 daily hours and a 24-hour response guarantee; stormwater, oily wastewater and lift station services across east Tennessee from Knoxville to Chattanooga.",
+"new_lead": true
+},
+"551": {
+"i": 551,
+"status": "keep",
+"note": "Counter plus delivery. Second fastener supplier after Atlas Bolt. Full contact set.",
+"evidence": "Own site: Contact page lists this address, phone, fax and two emails; full online fastener catalogue with account log-in and quote request.",
+"new_lead": true
+},
+"552": {
+"i": 552,
+"status": "keep",
+"note": "Their own site announces WEST SHORE HOME has acquired them, so the fleet decision may now sit with a national parent.",
+"evidence": "Own site: Chattanooga page lists this address and phone; trading since 1977 across Chattanooga and Knoxville in roofing, siding, windows and baths.",
+"new_lead": true
+},
+"553": {
+"i": 553,
+"status": "keep",
+"note": "No street address published.",
+"evidence": "Own site: construction division contact page lists this phone; team and project pages including Burger King builds and Mini Storage Depot.",
+"new_lead": true
+},
+"554": {
+"i": 554,
+"status": "keep",
+"note": "Heavy civil work - excavators, dump trucks, dewatering rigs. Strong prospect but their site publishes no contact details at all.",
+"evidence": "Own site: service pages cover new construction and rehabilitation of dams, underground utilities, water systems, sanitary sewer pipelines and pump stations, plus retaining walls.",
+"new_lead": true
+},
+"555": {
+"i": 555,
+"status": "keep",
+"note": "Three arms - development, construction and procurement. Named contact published.",
+"evidence": "Own site: Contact page lists this address, phone and email plus a named contact, Soni Whalen on 423-682-1156, soni@grace-cc.com; leadership page and the Moxy Chattanooga project.",
+"new_lead": true
+},
+"556": {
+"i": 556,
+"status": "keep",
+"note": "They run a showroom as well as build. Full address and phone.",
+"evidence": "Own site: Contact page lists this address and phone; new construction, neighbourhoods, showroom and project pages.",
+"new_lead": true
+},
+"557": {
+"i": 557,
+"status": "keep",
+"note": "A product manufacturer selling online - little or no local fleet.",
+"evidence": "Own site: home and product pages list this phone; pads for HVAC units, generators and pool pumps sold direct and through wholesalers.",
+"new_lead": true
+},
+"558": {
+"i": 558,
+"status": "keep",
+"note": "No contact details in the index despite having a contact page.",
+"evidence": "Own site: Contact and services pages describe a Chattanooga showroom, 17 years specialising in curbless shower installation.",
+"new_lead": true
+},
+"559": {
+"i": 559,
+"status": "keep",
+"note": "Erection crews mean boom trucks and flatbeds. Worth knowing they are next door to H&H Brown at 1803 Polk Street - two calls, one stop.",
+"evidence": "Own site: Contact page lists this address, phone and a named email; carbon, aluminium and stainless fabrication and erection, with a projects page.",
+"new_lead": true
+},
+"560": {
+"i": 560,
+"status": "keep",
+"note": "Since 1932 - the second-oldest business found in this whole exercise after Brown Fence (1886). Commercial roofing fleet. No address published.",
+"evidence": "Own site: Contact and services pages list this phone and state they are Chattanooga's oldest commercial roofing contractor, in business since 1932; commercial project and service-area pages active.",
+"new_lead": true
+},
+"561": {
+"i": 561,
+"status": "keep",
+"note": "Wholesale supply to fence contractors - delivery trucks. Note they also list a Midwest office in Illinois.",
+"evidence": "Own site: home and about pages list this Chattanooga address and phone; product catalogues for fence, windscreen, razor ribbon and rail systems.",
+"new_lead": true
+},
+"562": {
+"i": 562,
+"status": "keep",
+"note": "Part of the Williams Family of Companies, so there may be sister businesses worth asking about. No phone in the index.",
+"evidence": "Own site: Contact page lists this street address plus PO Box 3648; Our Story and Williams Family of Companies pages active.",
+"new_lead": true
+},
+"563": {
+"i": 563,
+"status": "keep",
+"note": "Named contact published. PO Box only.",
+"evidence": "Own site: Contact page lists this PO Box, phone, fax and two emails (a named one plus estimating@); commercial construction and renovation with a live bidding portal.",
+"new_lead": true
+},
+"564": {
+"i": 564,
+"status": "keep",
+"note": "Full contact set. Their careers page advertises a small engines mechanic - they maintain their own equipment in-house.",
+"evidence": "Own site: Contact page lists this street address, PO Box 9144, office phone, toll-free (888-259-9153), fax and email.",
+"new_lead": true
+},
+"565": {
+"i": 565,
+"status": "keep",
+"note": "Millwork delivery trucks. Only the road is published.",
+"evidence": "Own site: Contact and About pages place the showroom off Bonny Oaks Drive in East Chattanooga, Mon-Fri 7:30-5:00; doors, trim, stair parts, nationwide shipping.",
+"new_lead": true
+},
+"566": {
+"i": 566,
+"status": "keep",
+"note": "60+ years, 24-hour emergency, sewer and water line work. That is a big service-van fleet plus excavation trucks.",
+"evidence": "Own site: Contact and History pages list this address, phone and hours with 24-hour emergency service; master plumbers serving Chattanooga and north Georgia for over 60 years from a 10,000 sq ft building.",
+"new_lead": true
+},
+"567": {
+"i": 567,
+"status": "keep",
+"note": "Ask for Joe McCroskey - he runs operations, so he owns the vehicles. They also advertise 'traveling construction tradesmen', which means high mileage.",
+"evidence": "Own site: Contact and Employees pages list this phone, PO Box and two named emails - Joe McCroskey (operations) and Tara McCroskey (administration); routine and emergency facilities maintenance, landscaping and asset protection.",
+"new_lead": true
+},
+"568": {
+"i": 568,
+"status": "keep",
+"note": "A 40-mile service radius on roofing and gutters means real windshield miles.",
+"evidence": "Own site: Contact page lists this address and phone; service-area pages covering 40 miles around Chattanooga including Collegedale, Spring City, Fort Oglethorpe and Trenton GA.",
+"new_lead": true
+},
+"569": {
+"i": 569,
+"status": "keep",
+"note": "Sizeable commercial masonry outfit - block and scaffold haulage. Third business found on East 23rd Street. No phone in the index.",
+"evidence": "Own site: Contact page lists this street address plus PO Box 3227 and weekday hours; sector pages for medical, commercial, educational, industrial and religious structures, with careers and safety pages.",
+"new_lead": true
+},
+"570": {
+"i": 570,
+"status": "keep",
+"note": "TDOT and airport work means highway-zone driving - hard on glass. Certified DBE. No contact details in the index.",
+"evidence": "Own site: services page describes new construction, additions, remodels and foundation repair, and states they are a Certified DBE with TDOT and airport construction experience.",
+"new_lead": true
+},
+"571": {
+"i": 571,
+"status": "keep",
+"note": "Three companies under one roof, so ask what else they own. Named contact published.",
+"evidence": "Own site: Contact page lists this address, phone, hours and two emails (a named one plus info@); portfolio includes Brainerd Baptist Church and School and Blue Ridge Pool & Splashpad; describes itself as three companies, one family.",
+"new_lead": true
+},
+"572": {
+"i": 572,
+"status": "keep",
+"note": "Their site still carries the web template's placeholder address - '123 Fake Street, Stone Ridge, NY'. The phone is real; the address is not. Small shop, probably one van.",
+"evidence": "Own site: Contact and Location pages list this phone; custom cabinets, shelving, built-ins and restoration in Chattanooga, with pricing and project pages.",
+"new_lead": true
+},
+"573": {
+"i": 573,
+"status": "keep",
+"note": "A trucking company based in HIXSON with four named contacts published. Note the email domain is libertyllc.org, not the website domain. This is one of the best finds in the whole queue for you - a carrier on your doorstep.",
+"evidence": "Own site: Contact and Staff pages list this phone, fax and PO Box in Hixson plus four named operations emails - mattjr@, mattsr@, tiffany@ and chandler@libertyllc.org; owner-operator, driver and tariff pages active.",
+"new_lead": true
+},
+"574": {
+"i": 574,
+"status": "keep",
+"note": "Worth noting: 4311 7th Avenue is the same address as CreteStar, also on this list. Either shared premises or related ownership - ask when you call, it could be two customers in one stop.",
+"evidence": "Own site: Contact page lists this address, phone and sales email; family owned with 55+ years experience in structural steel, handrails and stairs.",
+"new_lead": true
+},
+"575": {
+"i": 575,
+"status": "keep",
+"note": "Paving fleet - trucks, rollers, sealcoat rigs. Full contact set.",
+"evidence": "Own site: Contact page lists this address, phone, email and hours with 24/7 support; asphalt paving, repair, resurfacing and commercial paving for municipalities and commercial property.",
+"new_lead": true
+},
+"576": {
+"i": 576,
+"status": "keep",
+"note": "Call the SERVICE number, 423-855-5664. Mercedes glass is expensive and dealerships often sublet it. Loaner fleet too.",
+"evidence": "Own site: directions and store hours page lists this address with separate sales (423-598-3800) and service (423-855-5664) numbers; dealer group covering Chattanooga, Cleveland TN and Rome GA.",
+"new_lead": true
+},
+"577": {
+"i": 577,
+"status": "keep",
+"note": "Their site shows a New York City address, which is a leftover from the web template - ignore it. The phone and email are real. They serve Hixson.",
+"evidence": "Own site: Contact page lists this phone, customer service email and hours; lawn maintenance, landscaping and irrigation install and repair for homes and businesses.",
+"new_lead": true
+},
+"578": {
+"i": 578,
+"status": "keep",
+"note": "Industrial millwright work at power plants and auto plants - crews and equipment on the move. Full contact set.",
+"evidence": "Own site: Contact page lists this street address, PO Box 16608, phone and email; industry pages for power and automotive, plus installations and services.",
+"new_lead": true
+},
+"579": {
+"i": 579,
+"status": "keep",
+"note": "They build restaurants across several states, so superintendents cover serious mileage. They also do automotive construction, which is a useful adjacency. No address published.",
+"evidence": "Own site: Contact page lists this phone and email; portfolio includes Outback Steakhouse builds in Phenix City AL and Liberty Township OH.",
+"new_lead": true
+},
+"580": {
+"i": 580,
+"status": "keep",
+"note": "Their service-area pages reach well into Alabama and Georgia - high mileage. No street address published.",
+"evidence": "Own site: Contact page and dozens of service-area pages all carry this phone; family owned general contractor in Chattanooga since 1977, covering Signal Mountain, Mowbray Mountain, Decatur, Cleveland TN, Scottsboro AL and LaFayette GA.",
+"new_lead": true
+},
+"581": {
+"i": 581,
+"status": "keep",
+"note": "Three separate lines and 20+ years of accounts. Crews drive between buildings nightly.",
+"evidence": "Own site: Contact page lists this address and three numbers - main (423) 872-2345, general (423) 401-3000 and residential (423) 619-1973 - with hours; 20+ years of janitorial across commercial, medical, industrial and residential.",
+"new_lead": true
+},
+"582": {
+"i": 582,
+"status": "keep",
+"note": "Excavation means low-boy trailers and dump trucks on rough ground. No address published.",
+"evidence": "Own site: home page lists this phone; trenching in dirt and concrete plus driveway grading.",
+"new_lead": true
+},
+"583": {
+"i": 583,
+"status": "keep",
+"note": "Part of the GUIDEON GROUP, also on this list - the 423-362-7210 number appears on both sites. Mostly a broker using partner carriers, so their own truck count is likely small. Talk to GuideOn instead for the asset fleet.",
+"evidence": "Own site: Contact page lists this phone; carriers, shippers, team and industries pages describing a 3PL with 40,000 partner carriers.",
+"new_lead": true
+},
+"584": {
+"i": 584,
+"status": "keep",
+"note": "A cab company is a pure fleet business with cars working all day - exactly your customer. Frustratingly their site publishes no phone in the index, so this one needs a lookup or a drive-by. Worth the effort.",
+"evidence": "Own site: mercurycab.com is live as a Chattanooga taxi service.",
+"new_lead": true
+},
+"585": {
+"i": 585,
+"status": "keep",
+"note": "Service techs visit boiler and cooling-tower sites. Old-style site with no contact details in the index.",
+"evidence": "Own site: aquatreat.net is live for Aqua Treat, a water treatment company.",
+"new_lead": true
 }
 }
