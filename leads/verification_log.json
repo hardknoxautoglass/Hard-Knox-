@@ -2523,10 +2523,11 @@
 },
 "350": {
 "i": 350,
-"name": "Express Waste Solutions",
 "status": "keep",
-"evidence": "expresswastesolutions.com",
-"note": "NEW LEAD. OFFICIAL SITE: family-owned waste and recycling hauler, 30+ years, serving Hixson, Soddy-Daisy, East Brainerd and Catoosa County GA, with a published service and recycling schedule. Their site invites calls but publishes no number or address - ask via the site form."
+"name": "Express Waste Solutions LLC",
+"note": "Gap-filled 2026-09-04. Family owned, 30+ years, collecting in Hixson, Soddy Daisy, East Brainerd and Catoosa County GA - residential routes mean trucks out every working day. The site is a Bootstrap template and thin, but it is theirs and it is current.",
+"evidence": "Official site expresswastesolutions.com is live with a schedule page, a PayPal payment page and downloadable Hixson/Soddy-Daisy/Falling Water recycling calendars. Google listings give 1725 Varner Rd, Hixson TN and this number.",
+"gapfill": "2026-09-04"
 },
 "351": {
 "i": 351,
@@ -2596,9 +2597,10 @@
 "359": {
 "i": 359,
 "status": "keep",
-"note": "NEW LEAD. Business-run page: address, phone and email confirmed. Specialises in Sprinter vans and Mercedes vehicles - commercial van stock means recurring glass work on inventory.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"name": "Chattanooga Automotive LLC",
+"note": "Gap-filled 2026-09-04 under the relaxed rule: no website, but findable on Google with a consistent number, so kept. Ask for Christian Hoeppner.",
+"evidence": "Google listings agree on 2209 Hamill Rd STE C, Hixson TN 37343 and this number, naming Christian Hoeppner as owner. No official website.",
+"gapfill": "2026-09-04"
 },
 "360": {
 "i": 360,
@@ -2710,9 +2712,10 @@
 "374": {
 "i": 374,
 "status": "keep",
-"note": "NEW LEAD. Business-run page: address and phone confirmed. Family owned 30+ years across Tennessee and North Georgia, and trucking is in the company name - a dump and haul fleet.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"name": "Shelton Construction and Trucking Inc.",
+"note": "Gap-filled 2026-09-04. Caution on the website: shelton-const.com is named in listings but nothing on that domain is indexed, so it could not be confirmed directly - treat it as unverified until someone loads it. The phone and address are consistent across sources. Heavy hauling since 1960 makes this a strong fleet.",
+"evidence": "Google listings give 7611 Hixson Pike, Hixson TN 37343, this number and a shelton-const.com domain; grading, excavation, trucking, heavy hauling and landscape supplies, established 1960.",
+"gapfill": "2026-09-04"
 },
 "375": {
 "i": 375,
@@ -2961,9 +2964,10 @@
 "405": {
 "i": 405,
 "status": "keep",
-"note": "New lead. Daily-delivery fleet. Their site routes everything through a sales contact form - no direct phone or email published, so walk in or use the form.",
-"evidence": "Own site: home page identifies the company as a broadline foodservice distributor in Chattanooga at this address, operating 100,000+ sq ft across two locations with daily deliveries.",
-"new_lead": true
+"name": "Atlantic Distributors Inc.",
+"note": "Gap-filled 2026-09-04. Broadline foodservice distribution means refrigerated delivery trucks on daily routes - a good fleet. Note their own site says Lost Mound Drive; older listings still show 4300 Amnicola Hwy, so they appear to have moved.",
+"evidence": "Official site aditn.com is live for Atlantic Distributors Inc., a broadline foodservice distributor, and gives 51 Lost Mound Drive, Suite 125, Chattanooga TN 37406. Google listings give this phone and fax 423-624-9879.",
+"gapfill": "2026-09-04"
 },
 "406": {
 "i": 406,
@@ -3136,9 +3140,10 @@
 "430": {
 "i": 430,
 "status": "keep",
-"note": "New lead from the Vibe export. Roll-off trucks. Operations look centred on Jasper TN with a Hixson mailing address - no phone published anywhere on the site, only a quote form.",
-"evidence": "Own site: Chattanooga contact page lists the Hixson PO Box; roll-off, commercial junk removal, construction waste and property cleanout pages active; 20+ years serving Greater Chattanooga, north Georgia and Marion County.",
-"new_lead": true
+"name": "K & K Waste Disposal",
+"note": "PHONE CORRECTED 2026-09-04. Directory listings offer (423) 877-4002, which their own site does not give; the site publishes (423) 225-1621 and (423) 241-6290. Roll-off and junk removal trucks working Hamilton, Marion and north Georgia. Their site is oriented to Marion County/Jasper as well, so they cover a wide area.",
+"evidence": "Official site kkwaste.com gives 5408 Dayton Blvd, Chattanooga TN 37415 with this number and a second line on (423) 241-6290, Mon-Fri 8-4; commercial junk, construction waste, roofing debris and scrap metal removal pages all live.",
+"gapfill": "2026-09-04"
 },
 "431": {
 "i": 431,
@@ -3185,9 +3190,10 @@
 "437": {
 "i": 437,
 "status": "keep",
-"note": "Bulk topsoil and mulch delivery - dump trucks running all day. Address from the Vibe dataset. No phone in the index.",
-"evidence": "Own site: About page states in business since 1976, veteran and woman owned, open six days a week with same or next-day local delivery; topsoil, mulch and compost pages active.",
-"new_lead": true
+"name": "MIDDLE VALLEY LAWN AND GARDEN, L.L.C.",
+"note": "Gap-filled 2026-09-04. Bulk mulch and topsoil with their own local delivery - dump trucks on gravel yards and driveways daily.",
+"evidence": "Official site middlevalleylawn.com is live with topsoil, hardwood, dyed and cedar mulch, mushroom compost and reviews pages; trading since 1976, veteran and woman-owned, six days a week with same or next-day local delivery. Google listings give 6809 Middle Valley Rd, Hixson TN 37343 and this number.",
+"gapfill": "2026-09-04"
 },
 "438": {
 "i": 438,
