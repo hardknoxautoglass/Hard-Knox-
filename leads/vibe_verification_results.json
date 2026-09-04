@@ -3658,5 +3658,72 @@
 "name": "Strickland Lawn",
 "status": "nocontact",
 "note": "stricklandlandscape.com serves only a 'Loading...' placeholder on two attempts - no readable content, no contact details. Site may be broken or mid-rebuild."
+},
+"Superior Fence & Rail of Chattanooga": {
+"name": "Superior Fence & Rail of Chattanooga",
+"status": "confirmed",
+"industry": "Fence & Rail Installation",
+"priority": "A",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37406",
+"phone": "(423) 443-4833",
+"email": "Not publicly available",
+"website": "superiorfenceandrail.com/chattanooga",
+"evidence": "Own site: the Chattanooga franchise pages publish this number throughout, with about, contact and service pages covering Chattanooga, Cleveland and Ringgold GA.",
+"note": "Fence crews haul posts, panels and augers on trailers across three towns - steady windscreen exposure. The Chattanooga pages publish no street address or email, so the record's 900 Creekside Road is left off; ask when you call."
+},
+"SupplyHog.com": {
+"name": "SupplyHog.com",
+"status": "nocontact",
+"industry": "Building Materials Ecommerce Platform",
+"note": "supplyhog.com is live but has changed shape: it now sells ecommerce software to hardware and building supply businesses rather than shipping materials itself - their about page traces the pivot from the 2010 Nopone reverse-auction site through DreamIt and 500Startups. Two searches surface no phone, email or address, only a lead form. Low fleet value now in any case: a software company, not a yard."
+},
+"SWOPE EQUIPMENT & SUPPLY COMPANY, INC.": {
+"name": "SWOPE EQUIPMENT & SUPPLY COMPANY, INC.",
+"status": "confirmed",
+"industry": "Equipment Rental & Construction Supply",
+"priority": "A",
+"address": "3000 Alton Park Boulevard",
+"city": "Chattanooga",
+"zip": "37410",
+"phone": "(423) 266-5681",
+"email": "rentit@swopeequipment.com",
+"website": "swopeequipment.com",
+"evidence": "Own site: contact and about pages give 3000 Alton Park Blvd, Chattanooga TN 37410, this phone, a second line on (423) 756-2457, this email and 8-5 weekday hours. Rental equipment, attachments, steel tubing and hydraulic hose pages all live.",
+"note": "Rental yards deliver and collect machines all day on lowboys and flatbeds, and they see every contractor in town - a good customer and a good referral source. One caution: spam article pages have been injected under swopeequipment.com/jsnly8tg/, so their site is at least partly compromised even though the real pages and details are intact and match the record."
+},
+"T Gene Edwards, Inc.": {
+"name": "T Gene Edwards, Inc.",
+"status": "confirmed",
+"industry": "Commercial General Contractor",
+"priority": "B",
+"address": "1309 Appling Street",
+"city": "Chattanooga",
+"zip": "37406",
+"phone": "(423) 629-5828",
+"email": "Not publicly available",
+"website": "tgeneedwards.com",
+"evidence": "Own site: gives 1309 Appling St, Chattanooga TN 37406 and this phone; portfolio includes the Songbirds Museum in Chattanooga.",
+"note": "Commercial and manufacturing construction, but only 1-10 staff, so most trades are subcontracted and the owned fleet is small - held at B. Their own site confirms the record's Appling Street address. No email published."
+},
+"T.S. Raulston": {
+"name": "T.S. Raulston",
+"status": "nocontact",
+"note": "tsraulston.com resolves but almost nothing is indexed - two domain-restricted searches return only the homepage and no phone, email or address. Worth a retry or a call: a mechanical contractor incorporated in 1947 and still trading from South Holtzclaw Avenue would run a real service fleet."
+},
+"T.U. Parks Construction Company": {
+"name": "T.U. Parks Construction Company",
+"status": "confirmed",
+"industry": "Commercial General Contractor",
+"priority": "A",
+"address": "1207 East 23rd Street",
+"city": "Chattanooga",
+"zip": "37408",
+"phone": "(423) 648-3800",
+"email": "Not publicly available",
+"website": "tuparks.com",
+"evidence": "Own site: gives 1207 E 23rd Street, Chattanooga TN 37408, this phone and fax (423) 756-2626; portfolio, news and people pages are live, with Robert Parks and Larry Parks each having a page.",
+"note": "Long-established commercial GC - superintendent trucks on job sites across the south. Their own site puts them on East 23rd Street; the record's 711 East Main Street is stale, and the 301 East Main address on their site belongs to a project, not the office. No email published; ask for Robert or Larry Parks."
 }
 }

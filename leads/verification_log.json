@@ -4679,5 +4679,33 @@
 "note": "Held at B: a toll-free line suggests a real supply operation with delivery trucks, but their own site prints no address, and the Shadow Point Circle address on the record reads residential, so it is unclear whether there is a yard behind this. Ask when you call.",
 "evidence": "Own site: publishes this local number and toll-free (800) 735-3513 for vinyl siding supply and re-siding work in Chattanooga.",
 "new_lead": true
+},
+"653": {
+"i": 653,
+"status": "keep",
+"note": "Fence crews haul posts, panels and augers on trailers across three towns - steady windscreen exposure. The Chattanooga pages publish no street address or email, so the record's 900 Creekside Road is left off; ask when you call.",
+"evidence": "Own site: the Chattanooga franchise pages publish this number throughout, with about, contact and service pages covering Chattanooga, Cleveland and Ringgold GA.",
+"new_lead": true
+},
+"654": {
+"i": 654,
+"status": "keep",
+"note": "Rental yards deliver and collect machines all day on lowboys and flatbeds, and they see every contractor in town - a good customer and a good referral source. One caution: spam article pages have been injected under swopeequipment.com/jsnly8tg/, so their site is at least partly compromised even though the real pages and details are intact and match the record.",
+"evidence": "Own site: contact and about pages give 3000 Alton Park Blvd, Chattanooga TN 37410, this phone, a second line on (423) 756-2457, this email and 8-5 weekday hours. Rental equipment, attachments, steel tubing and hydraulic hose pages all live.",
+"new_lead": true
+},
+"655": {
+"i": 655,
+"status": "keep",
+"note": "Commercial and manufacturing construction, but only 1-10 staff, so most trades are subcontracted and the owned fleet is small - held at B. Their own site confirms the record's Appling Street address. No email published.",
+"evidence": "Own site: gives 1309 Appling St, Chattanooga TN 37406 and this phone; portfolio includes the Songbirds Museum in Chattanooga.",
+"new_lead": true
+},
+"656": {
+"i": 656,
+"status": "keep",
+"note": "Long-established commercial GC - superintendent trucks on job sites across the south. Their own site puts them on East 23rd Street; the record's 711 East Main Street is stale, and the 301 East Main address on their site belongs to a project, not the office. No email published; ask for Robert or Larry Parks.",
+"evidence": "Own site: gives 1207 E 23rd Street, Chattanooga TN 37408, this phone and fax (423) 756-2626; portfolio, news and people pages are live, with Robert Parks and Larry Parks each having a page.",
+"new_lead": true
 }
 }
