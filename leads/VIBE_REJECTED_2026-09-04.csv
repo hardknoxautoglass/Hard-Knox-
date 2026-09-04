@@ -1,67 +1,71 @@
 Business Name,Outcome,Why
 2 J Construction Services,BAD RECORD - wrong company or gone,2jconstruction.com serves a cPanel default page - the site is not configured. Business likely gone.
 Aa Roofing,BAD RECORD - wrong company or gone,aa-roofing.com is a parked HugeDomains 'for sale' page. The business is gone.
+"Ables Painting, LLC",NO CONTACT PUBLISHED - own site gives nothing,ablespainting.com returns nothing on a domain-restricted search - not indexed.
 Abrasive Blasting & Coating,BAD RECORD - wrong company or gone,"abcsurfaces.com is ABC Modern Flooring of Fort Myers, FLORIDA. Wrong company entirely."
 ACCENT MASONRY & CONSTRUCTION LLC,BAD RECORD - wrong company or gone,"The domain in the dataset, billboardlocal.com, is a parked for-sale page serving unrelated directory spam. Not this company's site."
 Ace Lock and Key Service,BAD RECORD - wrong company or gone,"acelockandkey.com is a locksmith in Lincoln Square, CHICAGO. Wrong company."
 All About Metal,BAD RECORD - wrong company or gone,"allaboutmetal.com is All About Metal Inc. of SANTA BARBARA, CALIFORNIA (805 area code). Wrong company."
+Anchor Tours,NO CONTACT PUBLISHED - own site gives nothing,anchortours.com returns nothing on a domain-restricted search - not indexed.
+ARC Remodeling,NO CONTACT PUBLISHED - own site gives nothing,accessremodeling.com returns nothing on a domain-restricted search - not indexed.
+Architectural Exchange,NO CONTACT PUBLISHED - own site gives nothing,architecturalexchangestore.com returns nothing on a domain-restricted search - not indexed.
+Arke Technology,NO CONTACT PUBLISHED - own site gives nothing,arketechnology.com returns nothing on a domain-restricted search - not indexed.
 Bessette Painting,BAD RECORD - wrong company or gone,"bessetteart.com belongs to Jeanne Bessette, a fine artist selling paintings and commissions. Not a painting contractor - the Vibe record confused an artist with a trade business."
 Best Way Lawn Care,BAD RECORD - wrong company or gone,"bestwaylawncare.com is Bestway Lawn Care of the TAMPA BAY area, FLORIDA (727 area code, serving Clearwater, Largo, Seminole). Wrong company."
+Bill Owens Heat & Air Inc,MERGED into an existing row,"Already on the list as 'Bill Owens Heating & Air Inc' - this is the same company, so use it to enrich that row rather than adding a duplicate. Two named cell numbers is a better way in than the main line."
+Bill Owens Heating & Air Cond,DUPLICATE - already on the list,Third spelling of the same Hixson company. The Vibe export carries it twice on one domain.
+BITA Standards Council (BITA),BAD RECORD - wrong company or gone,gbbc.io is the Global Blockchain Business Council. Their own site shows BITA merged into GBBC as a blockchain standards initiative - a trade association with no Chattanooga office and no vehicles. The 405 Cherry Street address in the Vibe record is not on their site. Not a fleet lead.
+Bowman Alcolume Co,NO CONTACT PUBLISHED - own site gives nothing,bowmanalcolume.com returns nothing on a domain-restricted search - not indexed.
 Builders Hardware Co,BAD RECORD - wrong company or gone,"buildershardwaremi.com is Builders Hardware of Marshall, MICHIGAN (147 W Michigan Ave, 269 area code). The 'mi' in the domain is the state. Wrong company - not to be confused with Builders Hardware Company of Chattanooga, which is a separate real row."
+Building Leaders of Chattanooga (BLOC),DUPLICATE - already on the list,"Shares agcetn.org with AGC East Tennessee - BLOC is a programme run by AGC, not a separate business. Already covered by the AGC row."
 CHATTANOOGA CONTRACTOR LLC,BAD RECORD - wrong company or gone,"rsucontractors.com is RSU Contractors of BRENTWOOD/MURFREESBORO, a Nashville-area remodeler (615 area code) serving Williamson, Davidson and Rutherford counties. Nothing to do with Chattanooga despite the record's name."
+Chattanooga Garage Makeovers,NO CONTACT PUBLISHED - own site gives nothing,chattanoogagaragemakeovers.com returns nothing on two domain-restricted searches - site is not indexed.
+"CHATTANOOGA LAND COMPANY, LLC",NO CONTACT PUBLISHED - own site gives nothing,"The domain on the record is visitchattanooga.com, the city tourism board, not the company. They appear only as a directory listing there."
+Chattanooga Painting and Lawncare,NO CONTACT PUBLISHED - own site gives nothing,"chattanoogapaintingcompany.com returns nothing on two domain-restricted searches - site is not indexed, likely parked or gone."
+Chattanooga Septic Tanks,NO CONTACT PUBLISHED - own site gives nothing,chattanoogaseptictanks.com returns nothing on two domain-restricted searches - site is not indexed.
 Chattanooga Stone Center,BAD RECORD - wrong company or gone,chattanoogastonecenter.com is a parked 'domain for sale' page. Business gone.
+Chattanooga Window Tinting,NO CONTACT PUBLISHED - own site gives nothing,chattanoogawindowtinting.com returns nothing on a domain-restricted search - not indexed. Worth chasing separately though: a tint shop is a natural referral partner for auto glass.
 Concrete Connections,BAD RECORD - wrong company or gone,"concreteconnections.net is a concrete company in EAU CLAIRE, WISCONSIN, serving there since 1996. Wrong company."
+Concrete Surfaces Unlimited,NO CONTACT PUBLISHED - own site gives nothing,concretesurfaces.net returns nothing on a domain-restricted search - not indexed.
+CROXALL CONSTRUCTION COMPANY LLC,NO CONTACT PUBLISHED - own site gives nothing,croxall.construction only surfaces its terms-of-service and privacy pages in the index - no contact details available.
 Dacus Moving and Restoration,BAD RECORD - wrong company or gone,"The domain on the record is just webs.com - the generic Webs site-builder host, not a company site. Unusable record."
+Division One Services,NO CONTACT PUBLISHED - own site gives nothing,d-1services.com returns nothing on a domain-restricted search - not indexed.
 Dm Tours,BAD RECORD - wrong company or gone,"dmtours.net is DM Tours & Safaris of DIANI BEACH, KENYA - safari tours in Kenyan national parks. Nothing to do with Chattanooga."
+"DOCU-MED, LLC",NO CONTACT PUBLISHED - own site gives nothing,documedllc.com returns nothing on a domain-restricted search - not indexed.
+Double Ace Lawn Maintenance,NO CONTACT PUBLISHED - own site gives nothing,doubleacelawn.com returns nothing on a domain-restricted search - not indexed.
+East Ridge Electric,NO CONTACT PUBLISHED - own site gives nothing,"eastridgeelectric.com serves an 'Attack Detected' security block instead of the site, so nothing can be read from it. Not to be confused with East Ridge Auto Electric, which is already on your list."
 Ebus Inc,BAD RECORD - wrong company or gone,"The domain is fcebus.wixsite.com - Ebus, an electric bus manufacturer in CALIFORNIA. Not a Chattanooga business."
+Electrician Chattanooga,NO CONTACT PUBLISHED - own site gives nothing,chattanoogaelectricians.com returns nothing on a domain-restricted search - not indexed.
+EVS Inc. (Engineered Verdant Solutions),NO CONTACT PUBLISHED - own site gives nothing,evsenvironmental.com returns nothing on a domain-restricted search - not indexed.
+Faulkner Tree Services,NO CONTACT PUBLISHED - own site gives nothing,faulknertreeservice.com returns nothing on a domain-restricted search - not indexed.
+"Global Environmental, LLC",NO CONTACT PUBLISHED - own site gives nothing,globalenvt.com returns nothing on a domain-restricted search - not indexed.
+Go Get It Transportation,NO CONTACT PUBLISHED - own site gives nothing,gogetittransportation.com returns nothing on a domain-restricted search - not indexed.
+"Greene Skirts, LLC",NO CONTACT PUBLISHED - own site gives nothing,"greeneskirts.com returns nothing on a domain-restricted search - not indexed. The name suggests trailer side-skirts, which would make it fleet-adjacent, but nothing is verifiable."
 Gsi Travel,BAD RECORD - wrong company or gone,The domain is gsitravel.com.my - a MALAYSIAN travel agency. The .com.my TLD is conclusive. Not a Hamilton County business.
+Hardcore Construction of Tennessee,NO CONTACT PUBLISHED - own site gives nothing,hardcoreconstructionco.com returns nothing on a domain-restricted search - not indexed.
+Havron Contracting Corp,NO CONTACT PUBLISHED - own site gives nothing,"demosalvage.com has a contact page but surfaces no phone, address or email. Demolition and salvage would mean a heavy fleet, so worth chasing another way."
+Henley Brothers Construction,NO CONTACT PUBLISHED - own site gives nothing,henleybrothers.com serves an error page - the site is broken or gone.
 Home And Lawn Care Service,BAD RECORD - wrong company or gone,"The domain in the dataset, eastsidesalonandspa.com, is a hair salon in Abbotsford WISCONSIN. Wrong business entirely - the Vibe record attached an unrelated domain."
 Honeybee Toys,BAD RECORD - wrong company or gone,The domain is honeybeetoys.com.au - an AUSTRALIAN toy retailer. The .com.au TLD is conclusive. Not a Hamilton County business.
 Horizon Stone LLC,BAD RECORD - wrong company or gone,"horizon-stone.net now resolves to a web design company placeholder (In The Light Studios, LLC). The stone business is gone from that domain."
+Idealease of Chattanooga,NO CONTACT PUBLISHED - own site gives nothing,"lescoinc.com returns nothing on two domain-restricted searches. Worth chasing separately: Idealease is commercial truck LEASING, so the fleet is large and constantly cycling."
+Impact Ceiling Solutions - A Division of Impact Facility Solutions,NO CONTACT PUBLISHED - own site gives nothing,"impactceilingsolutions.com returns nothing on two domain-restricted searches. Note the parent, Impact Facility Solutions, is already on your verified list."
 Industrial Rigging Llc,BAD RECORD - wrong company or gone,"affordablerigging.com is Affordable Rigging, Transportation and Consulting of WHITMORE LAKE, MICHIGAN (10760 Plaza Drive, 734 area code). Wrong company."
+International Equipment Company,DUPLICATE - already on the list,"iecfst.com is the same International Equipment Company already on your list via iecfp.com - same address (915 Pineville Road) and phone (423-267-6611). Two domains, one company."
 Ivy Construction,BAD RECORD - wrong company or gone,ivy-construction.com is a Lake Livingston TEXAS boathouse and bulkhead builder. Nothing to do with Hixson. Bad record in the Vibe dataset.
 Jls Electric Co,BAD RECORD - wrong company or gone,"jlselectricco.com is JLS Electric Company of BANDERA / LAKEHILLS, TEXAS (830 area code). Wrong company."
 Keon Transport LLC,BAD RECORD - wrong company or gone,"keontransport.com is KEON Transport Services of HARRISBURG, PENNSYLVANIA (100 Colonial Rd, 717 area code), running community transport in Central PA. Wrong company."
+Kitchens Of Chattanooga,NO CONTACT PUBLISHED - own site gives nothing,"kitchensofchattanooga.com is live with design, remodeling and testimonial pages, but publishes no phone or address in the index."
 Kleen Team,BAD RECORD - wrong company or gone,The domain is bronte-ltd.co.uk - a UNITED KINGDOM company. The .co.uk TLD is conclusive.
+Larossa | House Flip Expert,NO CONTACT PUBLISHED - own site gives nothing,"larossaconstruction.com is live and real - a Chattanooga general contractor and cash home buyer serving Hixson, Red Bank, Ooltewah and East Brainerd - but two domain-restricted searches surface no phone, email or office address. They route everything through an application form."
+Living Stone Construction LLC,NO CONTACT PUBLISHED - own site gives nothing,livingstoneconstructionllc.com surfaces only a Livingstone Homes page - no contact details in the index.
+Local Roofer LLC,NO CONTACT PUBLISHED - own site gives nothing,thelocalroofr.com reads more like a roofing lead-generation directory than a contractor with its own crews - no company address or phone published. Treat with caution even if you reach someone.
+Lync America,NO CONTACT PUBLISHED - own site gives nothing,"lyncamerica.com returns nothing on two domain-restricted searches - the site is not indexed, likely parked or gone. Worth a second look if it resurfaces: a freight company at 2517 8th Avenue would be a strong fleet lead."
 Map Engineers,BAD RECORD - wrong company or gone,The domain is mapengineers.co.uk - a UNITED KINGDOM company. The .co.uk TLD is conclusive.
+"MAYFIELD BROTHERS PEST CONTROL, INC.",NO CONTACT PUBLISHED - own site gives nothing,"mayfieldbrotherspestcontrol.com returns nothing on a domain-restricted search - not indexed. Pest control is a van fleet, so worth chasing another way."
+Mayse Construction,NO CONTACT PUBLISHED - own site gives nothing,maysecc.com returns nothing on two domain-restricted searches - not indexed.
 Metal Source Inc,BAD RECORD - wrong company or gone,"metalsourcellc.com lists locations only in Indiana - Wabash, Bedford, Mitchell, Decatur and Peru. No Chattanooga-area presence."
+"Quality Mechanical Group, LLC",NO CONTACT PUBLISHED - own site gives nothing,qualitymechgroupllc.com returns nothing on two domain-restricted searches - not indexed.
 River City Fire Protection,BAD RECORD - wrong company or gone,rivercityfireprotection.com now redirects to Allstar Fire Protection / Pye-Barker in NASHVILLE. The Hixson company behind this record is gone or absorbed.
 Stanley Construction Company,BAD RECORD - wrong company or gone,"stanley-hsv.com is Stanley Construction of HUNTSVILLE, ALABAMA - hsv is the Huntsville airport code. Not a Hamilton County business."
-Bill Owens Heating & Air Cond,Duplicate of a row already on the list,Third spelling of the same Hixson company. The Vibe export carries it twice on one domain.
-Building Leaders of Chattanooga (BLOC),Duplicate of a row already on the list,"Shares agcetn.org with AGC East Tennessee - BLOC is a programme run by AGC, not a separate business. Already covered by the AGC row."
-International Equipment Company,Duplicate of a row already on the list,"iecfst.com is the same International Equipment Company already on your list via iecfp.com - same address (915 Pineville Road) and phone (423-267-6611). Two domains, one company."
-"Ables Painting, LLC","Real or unknown - site not indexed, nothing verifiable",ablespainting.com returns nothing on a domain-restricted search - not indexed.
-Anchor Tours,"Real or unknown - site not indexed, nothing verifiable",anchortours.com returns nothing on a domain-restricted search - not indexed.
-ARC Remodeling,"Real or unknown - site not indexed, nothing verifiable",accessremodeling.com returns nothing on a domain-restricted search - not indexed.
-Architectural Exchange,"Real or unknown - site not indexed, nothing verifiable",architecturalexchangestore.com returns nothing on a domain-restricted search - not indexed.
-Arke Technology,"Real or unknown - site not indexed, nothing verifiable",arketechnology.com returns nothing on a domain-restricted search - not indexed.
-Bowman Alcolume Co,"Real or unknown - site not indexed, nothing verifiable",bowmanalcolume.com returns nothing on a domain-restricted search - not indexed.
-Chattanooga Garage Makeovers,"Real or unknown - site not indexed, nothing verifiable",chattanoogagaragemakeovers.com returns nothing on two domain-restricted searches - site is not indexed.
-"CHATTANOOGA LAND COMPANY, LLC","Real or unknown - site not indexed, nothing verifiable","The domain on the record is visitchattanooga.com, the city tourism board, not the company. They appear only as a directory listing there."
-Chattanooga Painting and Lawncare,"Real or unknown - site not indexed, nothing verifiable","chattanoogapaintingcompany.com returns nothing on two domain-restricted searches - site is not indexed, likely parked or gone."
-Chattanooga Septic Tanks,"Real or unknown - site not indexed, nothing verifiable",chattanoogaseptictanks.com returns nothing on two domain-restricted searches - site is not indexed.
-Chattanooga Window Tinting,"Real or unknown - site not indexed, nothing verifiable",chattanoogawindowtinting.com returns nothing on a domain-restricted search - not indexed. Worth chasing separately though: a tint shop is a natural referral partner for auto glass.
-Concrete Surfaces Unlimited,"Real or unknown - site not indexed, nothing verifiable",concretesurfaces.net returns nothing on a domain-restricted search - not indexed.
-CROXALL CONSTRUCTION COMPANY LLC,"Real or unknown - site not indexed, nothing verifiable",croxall.construction only surfaces its terms-of-service and privacy pages in the index - no contact details available.
-Division One Services,"Real or unknown - site not indexed, nothing verifiable",d-1services.com returns nothing on a domain-restricted search - not indexed.
-"DOCU-MED, LLC","Real or unknown - site not indexed, nothing verifiable",documedllc.com returns nothing on a domain-restricted search - not indexed.
-Double Ace Lawn Maintenance,"Real or unknown - site not indexed, nothing verifiable",doubleacelawn.com returns nothing on a domain-restricted search - not indexed.
-East Ridge Electric,"Real or unknown - site not indexed, nothing verifiable","eastridgeelectric.com serves an 'Attack Detected' security block instead of the site, so nothing can be read from it. Not to be confused with East Ridge Auto Electric, which is already on your list."
-Electrician Chattanooga,"Real or unknown - site not indexed, nothing verifiable",chattanoogaelectricians.com returns nothing on a domain-restricted search - not indexed.
-EVS Inc. (Engineered Verdant Solutions),"Real or unknown - site not indexed, nothing verifiable",evsenvironmental.com returns nothing on a domain-restricted search - not indexed.
-Faulkner Tree Services,"Real or unknown - site not indexed, nothing verifiable",faulknertreeservice.com returns nothing on a domain-restricted search - not indexed.
-"Global Environmental, LLC","Real or unknown - site not indexed, nothing verifiable",globalenvt.com returns nothing on a domain-restricted search - not indexed.
-Go Get It Transportation,"Real or unknown - site not indexed, nothing verifiable",gogetittransportation.com returns nothing on a domain-restricted search - not indexed.
-"Greene Skirts, LLC","Real or unknown - site not indexed, nothing verifiable","greeneskirts.com returns nothing on a domain-restricted search - not indexed. The name suggests trailer side-skirts, which would make it fleet-adjacent, but nothing is verifiable."
-Hardcore Construction of Tennessee,"Real or unknown - site not indexed, nothing verifiable",hardcoreconstructionco.com returns nothing on a domain-restricted search - not indexed.
-Havron Contracting Corp,"Real or unknown - site not indexed, nothing verifiable","demosalvage.com has a contact page but surfaces no phone, address or email. Demolition and salvage would mean a heavy fleet, so worth chasing another way."
-Henley Brothers Construction,"Real or unknown - site not indexed, nothing verifiable",henleybrothers.com serves an error page - the site is broken or gone.
-Idealease of Chattanooga,"Real or unknown - site not indexed, nothing verifiable","lescoinc.com returns nothing on two domain-restricted searches. Worth chasing separately: Idealease is commercial truck LEASING, so the fleet is large and constantly cycling."
-Impact Ceiling Solutions - A Division of Impact Facility Solutions,"Real or unknown - site not indexed, nothing verifiable","impactceilingsolutions.com returns nothing on two domain-restricted searches. Note the parent, Impact Facility Solutions, is already on your verified list."
-Kitchens Of Chattanooga,"Real or unknown - site not indexed, nothing verifiable","kitchensofchattanooga.com is live with design, remodeling and testimonial pages, but publishes no phone or address in the index."
-Living Stone Construction LLC,"Real or unknown - site not indexed, nothing verifiable",livingstoneconstructionllc.com surfaces only a Livingstone Homes page - no contact details in the index.
-Local Roofer LLC,"Real or unknown - site not indexed, nothing verifiable",thelocalroofr.com reads more like a roofing lead-generation directory than a contractor with its own crews - no company address or phone published. Treat with caution even if you reach someone.
-"MAYFIELD BROTHERS PEST CONTROL, INC.","Real or unknown - site not indexed, nothing verifiable","mayfieldbrotherspestcontrol.com returns nothing on a domain-restricted search - not indexed. Pest control is a van fleet, so worth chasing another way."
-Mayse Construction,"Real or unknown - site not indexed, nothing verifiable",maysecc.com returns nothing on two domain-restricted searches - not indexed.
-"Quality Mechanical Group, LLC","Real or unknown - site not indexed, nothing verifiable",qualitymechgroupllc.com returns nothing on two domain-restricted searches - not indexed.
-Wagner Truck & Trailer Rentals Inc,"Real or unknown - site not indexed, nothing verifiable","The domain in the dataset, allaboutstorage.com, returns nothing on a domain-restricted search. The Vibe description also called this a real estate company, so the record looks unreliable."
+Wagner Truck & Trailer Rentals Inc,NO CONTACT PUBLISHED - own site gives nothing,"The domain in the dataset, allaboutstorage.com, returns nothing on a domain-restricted search. The Vibe description also called this a real estate company, so the record looks unreliable."

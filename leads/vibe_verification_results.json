@@ -2484,5 +2484,62 @@
 "name": "MAYFIELD BROTHERS PEST CONTROL, INC.",
 "status": "nocontact",
 "note": "mayfieldbrotherspestcontrol.com returns nothing on a domain-restricted search - not indexed. Pest control is a van fleet, so worth chasing another way."
+},
+"BITA Standards Council (BITA)": {
+"name": "BITA Standards Council (BITA)",
+"status": "dead",
+"note": "gbbc.io is the Global Blockchain Business Council. Their own site shows BITA merged into GBBC as a blockchain standards initiative - a trade association with no Chattanooga office and no vehicles. The 405 Cherry Street address in the Vibe record is not on their site. Not a fleet lead."
+},
+"ELDER'S ACE HARDWARE OF SOUTH KNOXVILLE, LLC": {
+"name": "ELDER'S ACE HARDWARE OF SOUTH KNOXVILLE, LLC",
+"status": "confirmed",
+"industry": "Hardware Store / Building Materials",
+"priority": "B",
+"address": "4921 Highway 58",
+"city": "Chattanooga",
+"zip": "37416",
+"phone": "(423) 899-6306",
+"email": "Not publicly available",
+"website": "eldershardware.com",
+"evidence": "Own site: the Locations page carries a Highway 58 store page giving 4921 Hwy 58, Chattanooga TN 37416 and this phone. Customer portal and online store are both live.",
+"note": "Legal name says South Knoxville but the store this record points at is the Highway 58 one in Chattanooga, confirmed on their own locations page. Multi-store chain running delivery trucks. No email published - orders go through the customer portal."
+},
+"Giorgio Mens Warehouse LLC": {
+"name": "Giorgio Mens Warehouse LLC",
+"status": "confirmed",
+"industry": "Menswear Retail",
+"priority": "C",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37402",
+"phone": "(423) 756-5080",
+"email": "info@giorgiomwh.com",
+"website": "giorgiomenswarehouse.com",
+"evidence": "Own site: Contact page publishes this phone and email; storefront and shop pages are live and describe a Chattanooga menswear store.",
+"note": "The Vibe record files this as Construction - it is a menswear and formalwear shop. Small retailer, so a light fleet lead at best. Their own site does not display the street address, so the dataset's 704 Market Street is left off rather than copied in unverified."
+},
+"Larossa | House Flip Expert": {
+"name": "Larossa | House Flip Expert",
+"status": "nocontact",
+"note": "larossaconstruction.com is live and real - a Chattanooga general contractor and cash home buyer serving Hixson, Red Bank, Ooltewah and East Brainerd - but two domain-restricted searches surface no phone, email or office address. They route everything through an application form."
+},
+"LegallyHighest\u00ae THC Seltzer": {
+"name": "LegallyHighest\u00ae THC Seltzer",
+"status": "confirmed",
+"industry": "Beverage Manufacturing & Distribution",
+"priority": "B",
+"address": "2310 Vance Avenue Suite 102",
+"city": "Chattanooga",
+"zip": "37404",
+"phone": "Not publicly available",
+"email": "Not publicly available",
+"website": "legallyhighest.com",
+"evidence": "Own site: gives 2310 Vance Ave Ste 102, Chattanooga TN 37404 as their licensed manufacturing facility; store locator, distribution and buy-now pages all live.",
+"note": "Beverage maker with its own distribution, so delivery and sales vehicles. Publishes no phone; the email addresses on their contact and distribute-with-us pages are obfuscated against scraping, so they need to be read off the site by hand or reached through the wholesale form."
+},
+"Lync America": {
+"name": "Lync America",
+"status": "nocontact",
+"note": "lyncamerica.com returns nothing on two domain-restricted searches - the site is not indexed, likely parked or gone. Worth a second look if it resurfaces: a freight company at 2517 8th Avenue would be a strong fleet lead."
 }
 }

@@ -4210,5 +4210,26 @@
 "note": "Service techs visit boiler and cooling-tower sites. Old-style site with no contact details in the index.",
 "evidence": "Own site: aquatreat.net is live for Aqua Treat, a water treatment company.",
 "new_lead": true
+},
+"586": {
+"i": 586,
+"status": "keep",
+"note": "Legal name says South Knoxville but the store this record points at is the Highway 58 one in Chattanooga, confirmed on their own locations page. Multi-store chain running delivery trucks. No email published - orders go through the customer portal.",
+"evidence": "Own site: the Locations page carries a Highway 58 store page giving 4921 Hwy 58, Chattanooga TN 37416 and this phone. Customer portal and online store are both live.",
+"new_lead": true
+},
+"587": {
+"i": 587,
+"status": "keep",
+"note": "The Vibe record files this as Construction - it is a menswear and formalwear shop. Small retailer, so a light fleet lead at best. Their own site does not display the street address, so the dataset's 704 Market Street is left off rather than copied in unverified.",
+"evidence": "Own site: Contact page publishes this phone and email; storefront and shop pages are live and describe a Chattanooga menswear store.",
+"new_lead": true
+},
+"588": {
+"i": 588,
+"status": "keep",
+"note": "Beverage maker with its own distribution, so delivery and sales vehicles. Publishes no phone; the email addresses on their contact and distribute-with-us pages are obfuscated against scraping, so they need to be read off the site by hand or reached through the wholesale form.",
+"evidence": "Own site: gives 2310 Vance Ave Ste 102, Chattanooga TN 37404 as their licensed manufacturing facility; store locator, distribution and buy-now pages all live.",
+"new_lead": true
 }
 }
