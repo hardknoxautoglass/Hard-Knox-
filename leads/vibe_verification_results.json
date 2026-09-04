@@ -4313,5 +4313,67 @@
 "name": "Cross Cabinets",
 "status": "nocontact",
 "note": "crosscabinets.com is live with kitchens, bathrooms, built-ins, portfolio and testimonial pages, owned by Nancy Stewart, and their contact page gives directions to the Wall Street showroom - turn left on Ducktown Road where it dead ends - but will not yield a phone or email across two searches. Ask for Nancy Stewart if someone reaches them another way."
+},
+"Everest Plumbing": {
+"name": "Everest Plumbing",
+"status": "dead",
+"note": "Wrong country. everestplumbing.ca is Everest Drain & Plumbing of 31 Commercial Road, TORONTO, Ontario, with branch numbers for Milton, Guelph, Scarborough, Brampton, Mississauga and Pickering. The .ca should have been the clue. Nothing supports a plumber at 2328 Holly Hill Road, Soddy Daisy."
+},
+"George Wright Construction": {
+"name": "George Wright Construction",
+"status": "confirmed",
+"industry": "Custom Homes & Commercial Construction",
+"priority": "B",
+"address": "222 Sequoyah Road Suite F",
+"city": "Soddy-Daisy",
+"zip": "37379",
+"phone": "(423) 332-9044",
+"email": "info@georgewrightconstruction.com",
+"website": "georgewrightconstruction.com",
+"evidence": "Own site: gives 222 Sequoyah Rd F, Soddy-Daisy TN 37379, this phone and this email; about, services, commercial buildings, exterior and recent-work pages all live, covering custom homes, remodels and commercial projects across Chattanooga.",
+"note": "Small builder at 1-10 staff, so a couple of crew trucks - held at B. Full contact set including a monitored email, which is unusual this far down the queue. Their own site puts them on Sequoyah Road, not the 136 Bean Street on the record."
+},
+"Hines Designs Landscaping": {
+"name": "Hines Designs Landscaping",
+"status": "confirmed",
+"industry": "Landscaping, Hardscaping & Land Clearing",
+"priority": "B",
+"address": "Not publicly available",
+"city": "Soddy-Daisy",
+"zip": "37379",
+"phone": "(423) 314-2982",
+"email": "Not publicly available",
+"website": "hineslandscapes.com",
+"evidence": "Own site: Contact page publishes this phone for Soddy-Daisy 37379; lawn care, landscape maintenance, hardscaping, land clearing, FAQ and testimonial pages all live, and the about page mentions an office downtown.",
+"note": "Land clearing is the interesting part - that means skid steers and dump trailers rather than just mowers, so more fleet than a lawn service. Their own site does not print a street address, so the record's 146 Pottery Lane is left off. No email published."
+},
+"Hughes Carpentry": {
+"name": "Hughes Carpentry",
+"status": "nocontact",
+"note": "hughescarpentry.com returns nothing on two domain-restricted searches - not indexed. At 11-50 staff the record implies a real crew, so worth chasing at 286 Montlake Road another way."
+},
+"Koala Insulation of Chattanooga": {
+"name": "Koala Insulation of Chattanooga",
+"status": "confirmed",
+"industry": "Insulation Contractor",
+"priority": "B",
+"address": "Not publicly available",
+"city": "Soddy Daisy",
+"zip": "37379",
+"phone": "(423) 225-7308",
+"email": "Not publicly available",
+"website": "koalainsulation.com/chattanooga",
+"evidence": "Own site: the Chattanooga franchise pages publish this phone and list a service area of Chattanooga, Hixson, Ooltewah, Apison, Cleveland, Harrison, McDonald, Soddy Daisy, Signal Mountain, Lookout Mountain, Whitwell and Whiteside; residential, commercial, blown-in attic and insulation removal pages all live.",
+"note": "Insulation crews run box trucks with blowing rigs across a service area stretching from Whitwell to Cleveland - long daily mileage for a small franchise. The Chattanooga pages publish no street address, so the record's Gulf View Drive is left off. No email; they use a form."
+},
+"Sequoyah Nuclear Plant": {
+"name": "Sequoyah Nuclear Plant",
+"status": "dead",
+"note": "Not a company in the sense this list needs. The domain on the record is tva.gov - the Tennessee Valley Authority's federal site, not a business page for the plant, and TVA is a federal corporation headquartered in Knoxville. Sequoyah is a generating station on Sequoyah Access Road with a security perimeter and a federal vehicle fleet procured through TVA contracts, not something a local glass shop sells to over the counter. Nothing self-published at the plant level exists to verify."
+},
+"US Rope Access Llc dba Top Glass": {
+"name": "US Rope Access Llc dba Top Glass",
+"status": "nocontact",
+"note": "usropeaccess.com resolves but serves nothing readable - two domain-restricted searches return only the bare domain and what looks like a registrar holding page. Worth a retry if it comes back, and worth reading carefully when it does: a rope access company trading as Top Glass is working high-rise glazing, so it is a trade neighbour rather than a customer, and at 8418 Gulf View Drive Suite B it sits next door to Koala Insulation."
 }
 }

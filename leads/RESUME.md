@@ -6,40 +6,70 @@
 
 Paste this as the first message. It is deliberately short — everything else is on disk.
 
-> Read `leads/RESUME.md`, then keep verifying the Vibe queue from
-> `leads/VIBE_REMAINING_TO_VERIFY.csv`. Same method and same sourcing rules as before.
-> Record each batch with `leads/tools/rec.py` and commit after every batch.
+> Read `leads/RESUME.md`, then pick up the work it lists under "Remaining work".
+> Same method and same sourcing rules as before. Record each batch with
+> `leads/tools/rec.py` and commit after every batch.
+
+The Vibe queue itself is finished, so there is no queue file to work from any more.
+If a new queue arrives, drop it in as `vibe_queue.json` and the same four scripts run it.
 
 Do not paste the spreadsheet, the CSVs, or the old conversation into a new session.
 The state is in the files; re-reading them costs a fraction of re-reading a transcript.
 
-## Status: PAUSED mid-verification of the Vibe queue — 220 of 414 done
+## Status: the Vibe queue is FINISHED — all 414 decided
 
-- `leads/vibe_queue.json` — all 414 queued companies (the working copy of the queue).
-- `leads/vibe_verification_results.json` — the 220 decisions made so far, keyed by business name.
-- `leads/VIBE_REMAINING_TO_VERIFY.csv` — the 194 still to check.
-- `leads/VIBE_REJECTED_2026-09-04.csv` — the 66 thrown out, with the reason for each.
-- `leads/tools/` — the scripts. `rec.py` records a verification batch, `addleads.py` appends
-  confirmed leads to the workbook, `apply.py` edits existing rows in place.
+- `leads/vibe_queue.json` — all 414 queued companies.
+- `leads/vibe_verification_results.json` — every decision, keyed by business name.
+- `leads/VIBE_REMAINING_TO_VERIFY.csv` — now empty apart from its header.
+- `leads/VIBE_REJECTED_2026-09-04.csv` — the 159 not added, with the reason for each.
+- `leads/tools/` — the scripts. `rec.py` records a batch, `tolead.py` turns a recorded batch
+  into workbook rows, `addleads.py` appends them, `refresh.py` regenerates the two derived
+  CSVs from the results file, `apply.py` edits existing rows in place.
+
+Outcome across the 414: **255 confirmed and added**, 52 dead records, 101 with no contact
+published, 5 duplicates, 1 merged into an existing row.
+
+The batch loop, for whenever the next queue arrives:
+
+    python3 leads/tools/rec.py < batch.json
+    python3 leads/tools/tolead.py < batch.json | python3 leads/tools/addleads.py
+    python3 leads/tools/refresh.py
+    git commit
 
 Method that works: one WebSearch per company, `allowed_domains` set to that company's own
 domain, query "contact phone address email <trade> <city>". About 6 per turn. If the first
 returns nothing, one retry with different wording, then mark `nocontact` and move on.
 
-Roughly 1 in 5 Vibe records is junk — wrong state, parked domain, or an unrelated business
-attached to the name. Always confirm the city before trusting a row.
+What the tail of the export taught, beyond the 1-in-5 junk rate already known:
+
+- **Check the domain before anything else.** Whole records collapse on it. gmail.com,
+  yelp.com, fedex.com, webs.com and webstarts.com all appeared as a company's "website".
+  Others carried a real site belonging to a different company — Wilson Waste Management on
+  Velez Trucking's domain, U.S. Logistics Group on BWY Transport's, Mission Stone Tile on a
+  hair salon's.
+- **Check the state.** Several records are out-of-area firms with a Chattanooga address
+  bolted on: Olympus Cleaning is in St Albans, England; Everest Plumbing in Toronto;
+  Pro-Seal Paving in Waukesha, Wisconsin; Perfection Floors in Grandview, Missouri;
+  Roof Curb Systems in Trenton, Georgia; SELCAT in Newnan, Georgia.
+- **Watch for hijacked sites.** Patriot Concrete's homepage now serves an Indonesian
+  gambling page over its old service pages, and spam articles have been injected under
+  Swope Equipment's domain. Details read off a compromised site were not recorded as
+  verified.
+- **The search tool will sometimes assert a phone number with no link behind it.** Twice it
+  offered contact details that no page on the company's own domain supported. Those were
+  not recorded. If there is no link, there is no source.
 
 ### Workbook as it stands
 
 | | |
 |---|---|
-| Rows | 586 |
-| Priority A / B / C | 251 / 243 / 92 |
+| Rows | 689 |
+| Priority A / B / C | 302 / 288 / 99 |
 | Hixson-city rows | 107 |
-| With a phone | 522 |
-| With an email | 182 |
-| With a website | 520 |
-| With a street address | 495 |
+| With a phone | 612 |
+| With an email | 223 |
+| With a website | 623 |
+| With a street address | 568 |
 | Columns | 14 |
 
 Every row was confirmed against the business's own website or a page the business itself
@@ -109,20 +139,35 @@ Commit after every batch.
 
 ## Remaining work
 
-Nothing outstanding on the original brief. Natural next steps if the work continues:
+The Vibe queue is done. Natural next steps if the work continues:
 
-- Finish the queue: 194 Vibe rows still unverified. That is the main outstanding job.
-- Fill the blanks. 64 rows have no phone and 404 have no email, because those
-  businesses publish neither on their own site or page. The worst phone gaps were
-  searched twice already. What is left needs a call, not another search.
-- Chase by other means: Mercury Cab Co. (taxi fleet, no phone published), Idealease of
-  Chattanooga (truck leasing), Havron Contracting, Fulmer Concrete (100+ staff),
-  Hutton Construction (heavy civil).
-- Emails are the thinnest column and the one the user most wants filled. The
-  pattern that works is a domain-restricted search of the company's own site for
-  "contact us email address"; hit rate is roughly one in three on local
-  independents and near zero on national chains and dealerships, which publish
-  forms instead.
+- **Fill the blanks.** 77 rows have no phone and 466 have no email, because those
+  businesses publish neither on their own site or page. The worst gaps were searched
+  twice already. What is left needs a call, not another search.
+- **Chase the ones worth the trouble.** These came out of the queue as real, substantial
+  fleet operators whose sites publish no reachable contact — the best of the 101
+  no-contacts, and better prospects than most of what did get added:
+  - Spirit Express (petroleum tankers, six metros — added at A with no contact on purpose)
+  - Smith Logistics (ocean and air freight, customs brokerage, interstate trucking)
+  - Norris and Son (refractory contractor, 51-200 staff)
+  - Volunteer NDT (scaffold rental, industrial sites)
+  - RiverCity Sign & Crane (bucket trucks and a boom)
+  - Streamline Xpress (courier vans, East Ridge Avenue)
+  - Tennessee Valley Forest Products (log and chip trucks)
+  - Southeast Conservation Corps (crew trucks and vans)
+  - Terra Firma (soil reclamation; shares 2611 Riverside Drive with Phaltless, already on
+    the list, which may be a way in)
+  - Tri-State Drilling published its address but no phone — 19+ rigs, worth the call
+- **Talk to the trade neighbours, not just the customers.** Several rows are on the list
+  because of who they know rather than what they drive, and the notes say so: Overlooked
+  Materials and Scenic City Recycling both recycle glass; Oasis Glass Tinting and Osteen
+  Construction (Southern Window Films) work in film; Truck N Trailer USA fits accessories
+  for truck owners; Swope Equipment's rental yard sees every contractor in town; Transcomp
+  does DOT compliance for local fleets; Vanguard places dozens of janitorial franchisees.
+- **Emails are still the thinnest column.** The pattern that works is a domain-restricted
+  search of the company's own site for "contact us email address"; hit rate is roughly one
+  in three on local independents and near zero on national chains and franchises, which
+  publish forms instead.
 - Expand another town on the same method if wanted — Ooltewah and Soddy-Daisy are
   the next largest clusters.
 
