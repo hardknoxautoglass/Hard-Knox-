@@ -63,13 +63,13 @@ What the tail of the export taught, beyond the 1-in-5 junk rate already known:
 
 | | |
 |---|---|
-| Rows | 686 |
-| Priority A / B / C | 302 / 288 / 96 |
+| Rows | 685 |
+| Priority A / B / C | 301 / 288 / 96 |
 | Hixson-city rows | 107 |
-| With a phone | 611 |
-| With an email | 222 |
-| With a website | 620 |
-| With a street address | 566 |
+| With a phone | 677 |
+| With an email | 238 |
+| With a website | 646 |
+| With a street address | 603 |
 
 Every row is based in Hamilton County; the ZIP audit that proves it is in the sourcing
 rules below.
@@ -284,3 +284,48 @@ A useful check fell out of applying this: for Denton's Wrecker, Ray's Towing, Re
 Electric, Broome's Wrecker and Harvey's Plumbing, the numbers Google returned were
 identical to the ones already in the workbook. The existing phone data is holding up.
 
+
+## Gap-fill sweep — completed 2026-09-04
+
+The user found a missing website (S&S Auto Repair) and suspected wrong numbers, which
+exposed a flaw in the first pass: it only ever searched `allowed_domains` set to a domain
+it already knew, so any row with a blank website was never actually searched for.
+
+Every one of the 129 rows missing a website or phone was re-done by open Google search
+first, then confirmed on whatever official site that turned up. `leads/tools/enrich.py`
+applies the results, refusing a batch if any business name does not match the row it
+targets.
+
+**Result:** phones went from 611 to 677, websites 620 to 646, emails 222 to 238,
+addresses 566 to 603. Rows that had been entirely empty - Berean Academy, Stanford
+Plumbing, River City Excavating, Bobby Fryar Trucking - are now complete.
+
+**Five wrong numbers corrected**, each against the company's own site:
+
+| Business | Was | Now |
+|---|---|---|
+| Southern Auto Care | (423) 719-4014 | (423) 236-2863 |
+| K & K Waste Disposal | (423) 877-4002 | (423) 225-1621 |
+| Walden Plumbing | (423) 886-5631 | (423) 402-6245 |
+| Home Pros Painting | (423) 320-6303 | (423) 551-9074 |
+| Middle Valley Tire | (423) 842-3522 | (423) 551-9154 |
+
+S&S Auto Repair's number was not wrong but was the appointment line; the shop's direct
+line is now recorded. Sunrise EZ Dumpster holds a **(310) Los Angeles area code** and no
+trace of the business exists - flagged in the row, not corrected, because there is no
+right answer to put there.
+
+**Reassuring finding:** for every business with no website - Denton's Wrecker, Ray's
+Towing, Red Bank Electric, Broome's Wrecker, Reliable Towing and a dozen more - the
+number Google returned was identical to the one already in the workbook. The first pass's
+phone data was sound; its gaps were the problem.
+
+**Still empty after two passes,** and unlikely to yield to more searching: Woodruff Lawn
+Care, Jacklyn Emerson Five Star Cleaning, Chattanooga Masonry, Ooltewah Animal Clinic,
+Catering Company, AJR Construction and Extreme Excavating. In most cases the trading name
+itself is in doubt - several return only unrelated firms of similar name. Confirm what
+these businesses are actually called before spending more time on them.
+
+**Closure warnings noted in the rows:** Signal Mountain Cleaners and Dempsey and Sons
+Well Drilling both carry a listing marking them closed. Harvey's Plumbing's domain shows
+signs of lapsing.
