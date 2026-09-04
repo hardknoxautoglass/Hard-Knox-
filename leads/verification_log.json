@@ -98,8 +98,10 @@
 "12": {
 "i": 12,
 "status": "keep",
-"address": "2263 Encompass Dr",
-"note": "verified cityautochattanooga.com live"
+"name": "City Auto Chattanooga",
+"note": "Phone re-checked 2026-09-04 against their own site - unchanged and correct. Their City Auto Commercial arm sells fleet vehicles, which is the side worth talking to.",
+"evidence": "Own site: contact page gives 2263 Encompass Dr, Chattanooga TN 37421 and 423.551.3600, with a service centre and a commercial vehicle arm.",
+"gapfill": "2026-09-04"
 },
 "13": {
 "i": 13,
@@ -126,35 +128,43 @@
 },
 "17": {
 "i": 17,
-"name": "Thompson Truck Group",
 "status": "keep",
-"phone": "(423) 622-4161",
-"evidence": "Chattanooga location page on thompsontruckgroup.com",
-"note": "OFFICIAL SITE: Chattanooga parts and service line 423-622-4161 confirmed. Commercial truck sales, service, parts and Idealease leasing across east TN and VA. No email published."
+"name": "Thompson Truck Group",
+"note": "Phone re-checked 2026-09-04 against their own site - unchanged and correct. Two things worth knowing: they run a full paint and collision repair facility of their own, and they acquired Lee-Smith Inc, so their footprint here is bigger than it looks. 24/7 mobile service means their own trucks are out at all hours.",
+"evidence": "Own site: the Chattanooga location page gives 2600 8th Avenue, Chattanooga TN 37407 and 423-622-4161, open Mon-Sat with 24/7 mobile service. Authorised Ford and Isuzu commercial truck dealer.",
+"gapfill": "2026-09-04"
 },
 "18": {
 "i": 18,
 "status": "keep",
-"address": "6009 International Dr",
-"note": "verified classiccollision.com location page live"
+"name": "Classic Collision (International Dr)",
+"note": "Phone re-checked 2026-09-04 - unchanged and correct. IMPORTANT: their own location pages list GLASS REPLACEMENT among the services they provide, so this chain is a competitor for that work, not a customer. Classic Collision now runs at least eight shops in the metro - International Dr, Gunbarrel, Chapman, Chapman North, Chattanooga East, Red Bank, Jersey Pike and Hixson.",
+"evidence": "Own site: the Classic Collision Chattanooga location page gives 6009 International Drive, Chattanooga TN 37421 and (423) 510-0600, 8:00-5:30 weekdays.",
+"gapfill": "2026-09-04"
 },
 "19": {
 "i": 19,
 "status": "keep",
-"address": "1410 Gunbarrel Rd",
-"note": "verified classiccollision.com location live"
+"name": "Classic Collision (Gunbarrel Rd)",
+"note": "Phone re-checked 2026-09-04 - unchanged and correct. NOTE THE OVERLAP: this address and number are identical to the Advanced Collision Gunbarrel site listed separately on this workbook, which means Classic Collision has taken over Advanced Collision's shops. Treat the two brands as one group and do not call both. As above, they do their own glass replacement.",
+"evidence": "Own site: the Classic Collision Gunbarrel Road page gives 1410 Gunbarrel Road, Chattanooga TN 37421 and (423) 899-0320.",
+"gapfill": "2026-09-04"
 },
 "20": {
 "i": 20,
 "status": "keep",
-"note": "NOTE: Advanced Collision now operates under Classic Collision at same address/phone (4134 Jersey Pike, 423-485-3588) after acquisition"
+"name": "Advanced Collision Inc.",
+"note": "Phone re-checked 2026-09-04 - unchanged and correct for the Jersey Pike shop. But see the Classic Collision rows: Advanced's Gunbarrel address and number are now also Classic Collision's, and Classic lists Jersey Pike too, so the two brands have merged or Advanced's shops have been acquired. Both do their own glass. Establish which brand actually runs each shop before spending time on either.",
+"evidence": "Own site: advancedcollision.org gives Jersey Pike at 4134 Jersey Pike, Chattanooga TN 37421 on 423-485-3588, plus Gunbarrel on 423-899-0320, Test Drive on 423-499-1997, Red Bank on 423-875-5482 and Fort Oglethorpe GA on 706-866-2882.",
+"gapfill": "2026-09-04"
 },
 "21": {
 "i": 21,
 "status": "keep",
-"email": "Ken@northshoreautocollision.com",
-"address": "4719 Dayton Blvd",
-"note": "verified site live; email from contact page"
+"name": "North Shore Auto Collision",
+"note": "Phone re-checked 2026-09-04: their own site publishes no number, so the (423) 521-3368 in this row could not be confirmed or refuted - use it but expect to verify. Three named emails now available: Ken, Kim and Bodine. An independent body shop is a better prospect than the Classic Collision chain, which does its own glass.",
+"evidence": "Own site: northshoreautocollision.com is live for Kenneth Woodard's body shop in Chattanooga and publishes named emails - Ken@, Kim@ and Bodine@northshoreautocollision.com.",
+"gapfill": "2026-09-04"
 },
 "22": {
 "i": 22,
