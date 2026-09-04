@@ -265,3 +265,22 @@ Why the first pass missed sites like ssautorepair.net: it only ever searched
 `allowed_domains` set to a domain it already knew, so a blank website column meant the
 business was never actually searched for. Step 1 above is what fixes that.
 
+
+### Relaxation — 2026-09-04, later the same day
+
+The user relaxed the rule above after seeing how many small operators publish no website
+at all: **if a business is findable on Google and a phone number comes up, keep it and
+record the number**, official website or not.
+
+So the order of preference is now:
+
+1. Official website — always preferred, and contact details are taken from it when it exists.
+2. No official website but the business and a phone number are findable on Google — record
+   them, and say in column K that the source was a search listing rather than an official
+   site, so the row stays auditable.
+3. Facebook and Yelp remain excluded as sources either way.
+
+A useful check fell out of applying this: for Denton's Wrecker, Ray's Towing, Red Bank
+Electric, Broome's Wrecker and Harvey's Plumbing, the numbers Google returned were
+identical to the ones already in the workbook. The existing phone data is holding up.
+
