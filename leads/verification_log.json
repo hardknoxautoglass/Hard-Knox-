@@ -50,39 +50,50 @@
 "6": {
 "i": 6,
 "status": "keep",
-"address": "2136 Chapman Rd",
-"note": "verified kiaofchattanooga.com live"
+"name": "Kia of Chattanooga",
+"note": "Phone re-checked 2026-09-04 against their own site - unchanged and correct. Same number reaches service and parts.",
+"evidence": "Own site: service and parts pages give (423) 855-1022 for Kia of Chattanooga, serving southeast Tennessee and north Georgia.",
+"gapfill": "2026-09-04"
 },
 "7": {
 "i": 7,
 "status": "keep",
-"address": "6025 International Dr",
-"note": "verified integrityofchattanooga.com live"
+"name": "Integrity Buick GMC Cadillac",
+"note": "Phone kept but FLAGGED 2026-09-04. The row holds (423) 855-0550, a local number their own site no longer publishes - it now lists only toll-free lines. The local number is more useful so it stays; if it fails, service is 877-885-9706.",
+"evidence": "Own site: contact and hours pages give 6025 International Dr, Chattanooga TN 37421 with sales 877-631-1811 and service 877-885-9706.",
+"gapfill": "2026-09-04"
 },
 "8": {
 "i": 8,
 "status": "keep",
-"address": "6035 International Dr",
-"note": "verified long-hyundai.com live"
+"name": "Long Hyundai",
+"note": "PHONE CORRECTED 2026-09-04, and the error is worth knowing about. The row held (423) 855-3726 - which is actually the MERCEDES-BENZ AT LONG general line, sitting in the next row down. The two Long dealerships had the same number copied across. Long Hyundai's own site gives sales 423-228-7346 and service 423-855-5664; the service line is recorded here because that is the glass buyer.",
+"evidence": "Own site: contact and directions pages give 6035 International Dr, Chattanooga TN 37421 with sales 423-228-7346 and service 423-855-5664.",
+"gapfill": "2026-09-04"
 },
 "9": {
 "i": 9,
 "status": "keep",
-"address": "6039 International Dr",
-"note": "verified mercedesbenzatlong.com live"
+"name": "Mercedes-Benz at Long of Chattanooga",
+"note": "Phone re-checked 2026-09-04 against their own site - unchanged and correct; (423) 855-3726 is their general line. Note the neighbouring Long Hyundai row had this same number by mistake and has been corrected. Service is 423-855-5664, shared with Long Hyundai.",
+"evidence": "Own site: contact and hours pages give 6039 International Dr, Chattanooga TN 37421 with general 423-855-3726, sales 423-680-6782 and service 423-855-5664.",
+"gapfill": "2026-09-04"
 },
 "10": {
 "i": 10,
 "status": "keep",
-"address": "2131 Chapman Rd",
-"note": "verified acuraofchattanooga.com live"
+"name": "Acura of Chattanooga",
+"note": "Phone re-checked 2026-09-04 against their own site - unchanged and correct, and it is already the service line rather than sales, which is the right door. Family owned.",
+"evidence": "Own site: contact and service pages give 2131 Chapman Rd, Chattanooga TN 37421 with service (423) 855-5454 and parts (423) 537-4209.",
+"gapfill": "2026-09-04"
 },
 "11": {
 "i": 11,
 "status": "keep",
-"phone": "(423) 414-3523",
-"address": "2211 Overnite Dr",
-"note": "verified carmax.com/stores/7186 live; phone corrected"
+"name": "CarMax Chattanooga",
+"note": "Phone kept but FLAGGED 2026-09-04. CarMax's own store page publishes no direct number - only a national text-support line on (833) 417-2815. The (423) 414-3523 in this row could not be confirmed or refuted. Their service and repair department runs 7:30-6 weekdays and is the department to reach.",
+"evidence": "Own site: the store page for CarMax Chattanooga gives 2211 Overnite Dr, Chattanooga TN 37421, store hours Mon-Fri 10-9, and service and repair hours Mon-Fri 7:30-6.",
+"gapfill": "2026-09-04"
 },
 "12": {
 "i": 12,
