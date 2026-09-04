@@ -3496,5 +3496,62 @@
 "name": "Southeast Conservation Corps",
 "status": "nocontact",
 "note": "The domain on the record, linktr.ee, is a link aggregator rather than their own site. SECC is a programme of Conservation Legacy, whose site confirms it is based in Chattanooga and runs adult, youth and fire crews across the southeast, but publishes no phone, email or street address for the Chattanooga office. Worth chasing: conservation crews run vans and crew trucks to trailheads and burn sites, which is heavy windscreen wear."
+},
+"Southeast Painters, Inc.": {
+"name": "Southeast Painters, Inc.",
+"status": "confirmed",
+"industry": "Commercial & Industrial Painting",
+"priority": "A",
+"address": "3535 St Elmo Avenue",
+"city": "Chattanooga",
+"zip": "37409",
+"phone": "(423) 558-3842",
+"email": "info@southeastpainters.com",
+"website": "southeastpainters.com",
+"evidence": "Own site: Contact page gives 3535 St. Elmo Avenue, Chattanooga TN 37409, this phone and this email. Commercial and industrial painting, traffic coating, ecoblasting and resinous flooring pages are live, with a Buc-ee's case study and a named leadership team.",
+"note": "Thirty years of commercial and industrial work means crew trucks, spray rigs and lift trailers moving between sites - solid A lead with a full contact set. Their own site confirms the record's St Elmo Avenue address."
+},
+"Southern Air Freight Inc": {
+"name": "Southern Air Freight Inc",
+"status": "dead",
+"note": "The domain on the record is fedex.com. That is FedEx's own site, not this company's - the Vibe export attached a national carrier's domain to a 1-10 staff local name, so there is nothing self-published to verify a business at 5904 Pinehurst Avenue against."
+},
+"Southern Energy Water & Air, LLC": {
+"name": "Southern Energy Water & Air, LLC",
+"status": "confirmed",
+"industry": "Plumbing, HVAC & Water Treatment",
+"priority": "A",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37408",
+"phone": "(423) 800-5902",
+"email": "Not publicly available",
+"website": "southernewa.com",
+"evidence": "Own site: publishes this phone across its plumbing, heating and air, water purification, ozone injection and bathroom remodel pages, and runs a separate Knoxville page.",
+"note": "Plumbing and HVAC service vans running calls in two markets - reliable windscreen business. Their own site publishes no street address or email, so the record's 949 Taft Avenue is left off; note that is the same building MEG Controls uses, so it may be a shared address rather than their yard."
+},
+"Southern Guardian, LLC": {
+"name": "Southern Guardian, LLC",
+"status": "nocontact",
+"note": "southernguardianllc.com returns nothing usable on two domain-restricted searches. Roofing contractors are good fleet leads, so worth a retry if the site gets indexed."
+},
+"Southern Spear Ironworks LLC": {
+"name": "Southern Spear Ironworks LLC",
+"status": "confirmed",
+"industry": "Steel Fabrication & Erection",
+"priority": "A",
+"address": "55 Workman Road",
+"city": "Chattanooga",
+"zip": "37410",
+"phone": "(423) 498-2862",
+"email": "bids@thesouthernspear.com",
+"website": "thesouthernspear.com",
+"evidence": "Own site: Contact page gives 55 Workman Road, Chattanooga TN 37410, this phone and departmental emails - bids@ and jobs@ - plus named staff. Project pages cover Dalton State College, the Red Wolves stadium, Hanger Cleveland and McMurdo in Alaska.",
+"note": "One of the strongest leads left in the queue: 51-200 staff, steel fabrication plus erection crews and 3D laser scanning, with projects as far out as Alaska. That means flatbeds, boom trucks and crew pickups. Ask for Nick Crumley, who publishes a direct address; bids@ reaches the estimating desk. Their own site confirms the record's Workman Road address."
+},
+"Southern Valley Landscaping": {
+"name": "Southern Valley Landscaping",
+"status": "nocontact",
+"note": "southernvalleylandscaping.com returns nothing on two domain-restricted searches - not indexed. A landscaping firm at 1101 West 40th Street would run trucks and trailers, so worth chasing another way."
 }
 }
