@@ -243,3 +243,25 @@ of objects keyed by the exact column headers.
   not govern it; if searches start failing with a reset time, wait it out.
 - `pip install openpyxl` if it is missing.
 - Run git from the repo root — the shell's working directory resets between calls.
+
+## Sourcing rule update — 2026-09-04 (supersedes the Facebook allowance above)
+
+The user tightened this after finding gaps and bad numbers in the first pass:
+
+**No Facebook. No Yelp. No directories of any kind.**
+
+The method is now two steps, in this order:
+
+1. **Open Google search** for the business — directories and social blocked — purely to
+   discover its **official website**.
+2. **Domain-restricted search on that official website** to read the contact details off it.
+
+Contact details come from the official website and nowhere else. If a business has no
+official website, its website and phone stay "Not publicly available" and the note says a
+call is needed. The earlier allowance for a business's own Facebook page is withdrawn, and
+the four rows that had been given Facebook URLs were reverted.
+
+Why the first pass missed sites like ssautorepair.net: it only ever searched
+`allowed_domains` set to a domain it already knew, so a blank website column meant the
+business was never actually searched for. Step 1 above is what fixes that.
+
