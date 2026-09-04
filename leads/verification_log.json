@@ -630,52 +630,50 @@
 "87": {
 "i": 87,
 "status": "keep",
-"address": "9460 Factory St",
-"note": "verified chattanooga.rytechinc.com live"
+"name": "Rytech Restoration of Greater Chattanooga",
+"note": "OFFICIAL SITE: phone (423) 896-2808 RE-CONFIRMED 2026-09-04 - it is published in their own page titles. Their site does not publish the Factory St address, so that line is unconfirmed. 24/7 water, fire and mould restoration covering Chattanooga and NW Georgia, Birchwood and Apison - a van fleet running emergency calls at all hours.",
+"evidence": "chattanooga.rytechinc.com",
+"gapfill": "2026-09-04"
 },
 "88": {
 "i": 88,
 "status": "keep",
-"address": "900 E 11th St",
-"zip": "37403",
-"note": "verified; Fleet Div named a Top 100 Best Fleet"
+"name": "City of Chattanooga - Public Works Dept. (Fleet Management Division)",
+"note": "OFFICIAL SITE 2026-09-04: NAMED CONTACT FOUND - Kenneth Howell, Director of Fleet Management. The city site publishes no direct Fleet Division number (it routes everything through 311), so the (423) 643-6311 on file is UNCONFIRMED; the Mayor's Office switchboard at 101 E 11th St is (423) 643-7800 if you need a live transfer. IMPORTANT: the Fleet Division has been named one of North America's 100 Best Fleets more than once - a large, professionally run operation that buys on spec and keeps vendor records. Ask for Kenneth Howell's office by name rather than calling 311.",
+"evidence": "chattanooga.gov/stay-informed/latest-news/public-works-fleet-division-again-named-one-north-americas-100-best",
+"gapfill": "2026-09-04"
 },
 "89": {
 "i": 89,
 "status": "keep",
-"address": "455 N Highland Park Ave (McDaniel Bldg)",
-"zip": "37404",
-"note": "verified hamiltontn.gov procurement page live"
+"name": "Hamilton County Government - Procurement and Fleet Management Dept.",
+"note": "OFFICIAL SITE: phone (423) 209-6350 and 455 N Highland Park Ave (McDaniel Bldg) RE-CONFIRMED EXACTLY 2026-09-04. Fax 423-209-6351. Open 8:00-16:00. The county publishes its Procurement Rules (2023 edition) as a PDF on the same site - read it before approaching, as county glass work goes through a formal quote or bid process and getting on the vendor list is the first step, not the sale.",
+"evidence": "hamiltontn.gov/Department_Procurement.aspx",
+"gapfill": "2026-09-04"
 },
 "90": {
 "i": 90,
-"name": "Hamilton County Highway",
 "status": "keep",
-"phone": "(423) 209-5050",
-"evidence": "Highway Department page on hamiltontn.gov",
-"note": "OFFICIAL SITE: phone confirmed (fax 423-209-5051), open Mon-Thu 7:00-17:00. The page states the department maintains the County's government vehicles and runs the Traffic Shop and Stockroom - so this is the in-house fleet garage. Procurement and Fleet Management is a separate line, 423-209-6350."
+"name": "Hamilton County Highway Department",
+"note": "OFFICIAL SITE: phone (423) 209-5050 and 4005 Cromwell Rd RE-CONFIRMED EXACTLY 2026-09-04. Fax 423-209-5051. Open Mon-Thu 7:00-17:00 (four-day week - do not call Friday). Dump trucks, graders and pickups; purchasing still routes through county Procurement (row above).",
+"evidence": "hamiltontn.gov/Department_Highway.aspx",
+"gapfill": "2026-09-04"
 },
 "91": {
 "i": 91,
-"name": "Hamilton County Schools",
 "status": "keep",
-"address": "3074 Claude Ramsey Pkwy",
-"city": "Chattanooga",
-"zip": "37421",
-"phone": "(423) 498-7020",
-"email": "hcscommunications@hcde.org",
-"evidence": "Bus transportation page on hcde.org",
-"note": "OFFICIAL SITE: address, phone and email confirmed. This is the transportation department and bus garage. Day-to-day operation is contracted to First Student (423-498-5555), which is a separate row on this list - approach both."
+"name": "Hamilton County Schools - Transportation Department",
+"note": "PHONE CORRECTED 2026-09-04: sheet held the district switchboard (423) 498-7020; their own Bus Information page publishes a dedicated Transportation Hotline, 423-498-5555, which reaches the department that actually runs the buses. District address 3074 Claude Ramsey Pkwy confirmed; switchboard (423) 498-7020 still valid as a fallback. Note First Student (row 63) is contracted for part of this fleet, so ask who owns the buses before quoting.",
+"evidence": "hcde.org/district/department_directory/bus_transportation",
+"gapfill": "2026-09-04"
 },
 "92": {
 "i": 92,
-"name": "CARTA (Chattanooga Area Regional",
 "status": "keep",
-"address": "1617 Wilcox Blvd",
-"zip": "37406",
-"phone": "(423) 629-1411",
-"evidence": "Contact and leadership pages on gocarta.org",
-"note": "OFFICIAL SITE: address and administrative phone confirmed (info line 423-629-1473, fax 423-698-2749). Their published Director of Maintenance is Billy Summerrow - ask for him rather than the switchboard, he owns the bus fleet. No email published."
+"name": "CARTA (Chattanooga Area Regional Transportation Authority)",
+"note": "OFFICIAL SITE: phone (423) 629-1411 and 1617 Wilcox Blvd RE-CONFIRMED EXACTLY 2026-09-04. Admin offices Mon-Fri 8:00-17:00, fax 423-698-2749. They publish RFPs on their own site and run a Business Center page for vendors - transit-authority glass work is procured formally, so watch that page. Fleet includes buses, the Care-a-Van paratransit vans and the incline.",
+"evidence": "gocarta.org/contact/",
+"gapfill": "2026-09-04"
 },
 "93": {
 "i": 93,
