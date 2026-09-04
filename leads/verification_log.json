@@ -4392,5 +4392,26 @@
 "note": "Restoration outfits run trucks and vans on emergency calls at all hours, so windshield damage is routine. Their own site confirms the record's Circle Drive address and publishes a direct email, which is unusual for a franchise.",
 "evidence": "Own site: the Greater Chattanooga franchise site gives 1916 Circle Dr, Chattanooga TN 37421, this phone and this email, with emergency response, residential, contents and insurance-agent pages all live.",
 "new_lead": true
+},
+"612": {
+"i": 612,
+"status": "keep",
+"note": "Small builder, so a couple of trucks - but a named person answers that email, which counts for more than headcount. Their own site says 818 East Main Street; the record's 2106 Fort Street is stale.",
+"evidence": "Own site: Contact page gives 818 E Main Street, Chattanooga TN 37408, this phone and this email; who-we-are, how-we-work and project pages are live.",
+"new_lead": true
+},
+"613": {
+"i": 613,
+"status": "keep",
+"note": "Full-service GC running crews on commercial and office projects. Their own site puts them on Pointe Centre Drive, not the 1300 Premier Drive Suite 150 on the record. No email published - the vendor/bid page is the way in for a supplier.",
+"evidence": "Own site: Pointe General Contractors publishes 1209 Pointe Centre Drive Suite 105, Chattanooga TN 37421, phone (423) 755-0845 and fax (423) 267-6693, with a live vendor and bid-opportunities page.",
+"new_lead": true
+},
+"614": {
+"i": 614,
+"status": "keep",
+"note": "Paving contractors are among the best fleet leads on this list - dump trucks, rollers, tack trucks and crew pickups working gravel lots all day. Rusty is the named contact and answers a real address, not a form.",
+"evidence": "Own site: Contact page gives 2611 Riverside Drive, Chattanooga TN 37406, this phone and this email.",
+"new_lead": true
 }
 }
