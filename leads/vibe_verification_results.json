@@ -4125,5 +4125,53 @@
 "status": "nocontact",
 "industry": "Window Manufacturing",
 "note": "windowschattanooga.com is live - window replacement, insulated glass and storm window pages, owned by brothers Rick and Jeff Adkins, 20+ years serving Chattanooga and northwest Georgia - but two domain-restricted searches will not surface the phone, email or the East Ridge address. Worth a retry: a window manufacturer with delivery trucks is both a customer and a glass-trade neighbour, and the Adkins brothers are a named way in."
+},
+"American Wholesale Supply": {
+"name": "American Wholesale Supply",
+"status": "nocontact",
+"note": "americanwholesale.com is live with contact, about, members, distributor-headquarters and branch-locations pages, but repeated domain-restricted searches recover no phone, email or branch address - the branch locations page will not yield its contents. Worth a retry: a wholesale supplier with branches runs delivery trucks."
+},
+"Scenic City Services": {
+"name": "Scenic City Services",
+"status": "nocontact",
+"note": "sceniccityservices.com is live and specific - industrial degreasing, production-floor scrubbing, safety marking, HEPA dust control, owner-operator Brandon Dodd with 12+ years in heavy industry, serving Chattanooga, Dalton, Cleveland and Dayton - but two domain-restricted searches surface no phone, email or address. Everything routes through a quote form. Brandon Dodd is the name to ask for if someone reaches them another way."
+},
+"TENNESSEE VALLEY FOREST PRODUCTS LLC": {
+"name": "TENNESSEE VALLEY FOREST PRODUCTS LLC",
+"status": "nocontact",
+"note": "tnvfp.com resolves but only the bare homepage is indexed and two searches recover no content at all - no phone, email or address. A forest products yard on Jordan Run Road would run log and chip trucks, so worth chasing another way."
+},
+"Chattanooga Land Design": {
+"name": "Chattanooga Land Design",
+"status": "confirmed",
+"industry": "Landscape Design/Build & Pool Construction",
+"priority": "B",
+"address": "Not publicly available",
+"city": "Ooltewah",
+"zip": "37363",
+"phone": "(423) 280-9573",
+"email": "Not publicly available",
+"website": "chattanoogalanddesign.com",
+"evidence": "Own site: publishes this phone across its landscaping, hardscaping, screened porch and gunite pool and spa pages, covering Ooltewah, Signal Mountain, Dalton GA and into north Alabama.",
+"note": "Design/build landscaping plus gunite pool construction means excavators, dump trailers and crew trucks on residential sites - more fleet than the 1-10 headcount suggests, though still a small operation. Their own site publishes no street address, so the record's 5419 Woodbridge Drive is left off. Service area reaches well beyond Hamilton County, which means highway miles."
+},
+"Dos Santos Enterprise": {
+"name": "Dos Santos Enterprise",
+"status": "nocontact",
+"note": "dossantosenterprise.com returns nothing on two domain-restricted searches - not indexed. Filed as truck transportation at 11-50 staff in Ooltewah, which would be worth having, so retry if the site reappears."
+},
+"GrimeBusters Power Washing": {
+"name": "GrimeBusters Power Washing",
+"status": "confirmed",
+"industry": "Pressure Washing & Exterior Cleaning",
+"priority": "B",
+"address": "Not publicly available",
+"city": "Ooltewah",
+"zip": "37363",
+"phone": "(423) 615-9567",
+"email": "Not publicly available",
+"website": "grimebusterstn.com",
+"evidence": "Own site: Contact page publishes this phone; house washing, roof cleaning, gutter cleaning, window cleaning, deck and fence restoration, residential and commercial pages all live.",
+"note": "Power washing rigs are trucks with tanks and reels, out on residential and commercial jobs daily - a small fleet but a real one. The record carried no street address and their own site does not print one, so the row stays address-free. Worth noting they also clean windows, so they are a mild trade neighbour."
 }
 }
