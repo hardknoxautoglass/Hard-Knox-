@@ -249,8 +249,10 @@
 "33": {
 "i": 33,
 "status": "keep",
-"address": "2120 Stein Dr",
-"note": "verified dealersauto.com/chattanooga live; alt site chattaa.com"
+"name": "Dealers Auto Auction Chattanooga",
+"note": "OFFICIAL SITE: phone (423) 499-0015 and 2120 Stein Dr RE-CONFIRMED 2026-09-04. Part of the Dealers Auto Auction Group (Chattanooga, Mobile and other markets). Auction lanes mean a steady stream of trade-ins with damaged glass that must be made saleable - strong recon prospect.",
+"evidence": "dealersauto.com/chattanooga/",
+"gapfill": "2026-09-04"
 },
 "34": {
 "i": 34,
@@ -262,38 +264,43 @@
 },
 "35": {
 "i": 35,
-"name": "Nichols Fleet Equipment",
 "status": "keep",
-"address": "2805 Riverport Rd",
-"zip": "37406",
-"phone": "(423) 622-7528",
-"email": "info@nicholsfleet.com",
-"evidence": "Contact and service pages on nicholsfleet.com",
-"note": "OFFICIAL SITE: address, phone and email confirmed; rentals@nicholsfleet.com is a second address. In business since 1991 building mechanics and service trucks and aerial platforms, plus a rental fleet - a top-tier prospect."
+"name": "Nichols Fleet Equipment Inc.",
+"note": "OFFICIAL SITE: phone (423) 622-7528 and 2805 Riverport Rd RE-CONFIRMED 2026-09-04, and EMAIL FOUND (info@nicholsfleet.com). They run their own Service + Parts department - that department, not sales, is the one that buys glass.",
+"evidence": "nicholsfleet.com/contact-us/",
+"gapfill": "2026-09-04"
 },
 "36": {
 "i": 36,
 "status": "keep",
-"note": "verified sniderfleet.com live; national fleet tire chain w/ Chattanooga location"
+"name": "Snider Fleet Solutions",
+"note": "OFFICIAL SITE 2026-09-04: 6114 Bonny Oaks Dr and hours Mon-Fri 7:30-17:00 confirmed, but their location page publishes NO direct local number - only corporate 800-528-2840 and 24/7 roadside 1-877-8SNIDER. The (423) 352-9150 on file is therefore UNCONFIRMED; verify by phone before relying on it. Commercial tire and mechanical service branch - a fleet-service peer worth a reciprocal-referral conversation.",
+"evidence": "sniderfleet.com/location/chattanooga-commercial-tires-mechanical-services/",
+"gapfill": "2026-09-04"
 },
 "37": {
 "i": 37,
 "status": "keep",
-"address": "4080 Jenkins Rd",
-"note": "verified usxpress.com live"
+"name": "U.S. Xpress Enterprises",
+"note": "PHONE CHANGED 2026-09-04: sheet held (423) 510-3000; their own contact page now publishes only 866-646-5886. 4080 Jenkins Rd HQ confirmed. The old local switchboard may still work but is no longer published, so it is unverified. Major truckload carrier - approach the maintenance shop at Jenkins Rd rather than the corporate line.",
+"evidence": "usxpress.com/contact-us/",
+"gapfill": "2026-09-04"
 },
 "38": {
 "i": 38,
 "status": "keep",
-"email": "communications@covenanttransport.com",
-"address": "400 Birmingham Hwy",
-"note": "verified covenantlogistics.com live"
+"name": "Covenant Logistics Group",
+"note": "OFFICIAL SITE 2026-09-04: 400 Birmingham Hwy HQ confirmed (plus Hogan Hall driver training centre at 500 Birmingham Hwy). Their contact page publishes only a web form and an investor-relations line (423-463-3339) - no general number - so the (423) 821-1212 on file is UNCONFIRMED. Publicly traded carrier; the fleet-maintenance shop is the buyer, not corporate.",
+"evidence": "covenantlogistics.com/contact-us",
+"gapfill": "2026-09-04"
 },
 "39": {
 "i": 39,
 "status": "keep",
-"address": "2140 Chapman Rd",
-"note": "verified averitt.com Chattanooga terminal page live"
+"name": "Averitt Express (Chattanooga Terminal)",
+"note": "PHONE CORRECTED 2026-09-04: sheet held the generic (800) 283-7488; their own Chattanooga location page publishes 1-877-339-3530 for 2140 Chapman Rd. Site is both a freight service centre and a warehouse/distribution facility, so tractors, trailers and yard equipment all sit here.",
+"evidence": "averitt.com/locations/tennessee/chattanooga",
+"gapfill": "2026-09-04"
 },
 "40": {
 "i": 40,
