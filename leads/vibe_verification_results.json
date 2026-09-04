@@ -3118,5 +3118,62 @@
 "name": "Revolution Wood Floors",
 "status": "nocontact",
 "note": "revolutionwoodfloorsinfo.com returns nothing on two domain-restricted searches. Note the Gunbarrel Road address on this record is the same 2288 Gunbarrel Road used by two other rows in this queue - it is a multi-tenant mailbox address, not a yard, so there may be little here even if the site returns."
+},
+"Rise Plumbing, Inc.": {
+"name": "Rise Plumbing, Inc.",
+"status": "nocontact",
+"note": "riseplumbinginc.net is live but only the homepage and a dashboard page are indexed, and neither search surfaces a phone, email or address. The record describes them as the plumbing partner for residential builders and developers, which would put crews on new-build sites daily - worth chasing another way."
+},
+"River Stone Construction LLC": {
+"name": "River Stone Construction LLC",
+"status": "confirmed",
+"industry": "Home Builder",
+"priority": "A",
+"address": "6005 Century Oaks Drive Suite 500",
+"city": "Chattanooga",
+"zip": "37416",
+"phone": "(423) 954-7550",
+"email": "Not publicly available",
+"website": "riverstone-homes.com",
+"evidence": "Own site: Contact page gives 6005 Century Oaks Dr Suite 500, Chattanooga TN 37416 and this phone; meet-the-team, single-family, build-on-your-lot and community pages are all live, covering Chattanooga and Cleveland TN.",
+"note": "Production home builder working both the Chattanooga and Cleveland markets - superintendent trucks running between subdivisions. Their own site confirms the record's Century Oaks address. No email published."
+},
+"RiverCity Sign & Crane Services Inc": {
+"name": "RiverCity Sign & Crane Services Inc",
+"status": "nocontact",
+"note": "rivercityneon.com returns nothing on two domain-restricted searches - not indexed. A shame: sign work with crane services means bucket trucks and a boom crane, which is a good fleet profile. Worth chasing at the Dayton Boulevard address by phone."
+},
+"Riverside Plumbing": {
+"name": "Riverside Plumbing",
+"status": "confirmed",
+"industry": "Plumbing Contractor",
+"priority": "A",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37405",
+"phone": "(423) 598-3362",
+"email": "Not publicly available",
+"website": "riversideplumbingtn.com",
+"evidence": "Own site: publishes this phone and describes itself as downtown Chattanooga based; services, products, about and reviews pages are all live, with Erik McNair posting as an author.",
+"note": "Plumbing service vans running calls across the city - reliable windshield business. Erik McNair is a name to ask for. Their own site says downtown rather than the record's 3873 Hixson Pike, so the street address is left off until someone confirms which yard they work out of."
+},
+"Riverview Floor Design": {
+"name": "Riverview Floor Design",
+"status": "confirmed",
+"industry": "Flooring Retailer & Installer",
+"priority": "B",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37405",
+"phone": "(423) 451-9955",
+"email": "Not publicly available",
+"website": "riverviewfloordesign.com",
+"evidence": "Own site: front page publishes this phone and describes the store as the hometown flooring shop in Soddy Daisy, with a separate Chattanooga location page.",
+"note": "Flooring stores run install crews and delivery trucks. Their own site is centred on Soddy Daisy with a Chattanooga location page, so the record's 417 Frazier Avenue may be the second store rather than the base - confirm which one you are calling. No email published."
+},
+"Robert Roberts LLC": {
+"name": "Robert Roberts LLC",
+"status": "nocontact",
+"note": "robertrobertsllc.com is live and clearly a working commercial GC - project pages for Flywheel, Results Physiotherapy and a Cleveland Utilities renovation, plus a subcontractor sign-up page and a company brochure PDF - but two domain-restricted searches will not surface a phone, email or street address. The brochure on their own site is the place to look if it can be opened directly."
 }
 }
