@@ -3488,9 +3488,10 @@
 "473": {
 "i": 473,
 "status": "keep",
-"note": "The transportation arm is the interesting part - parking operators run shuttle vans. No contact published in the index.",
-"evidence": "Own site: about, team, facilities and contact pages; founded to serve Chattanooga with parking, transportation and facilities management.",
-"new_lead": true
+"name": "BrightBase",
+"note": "Gap-filled 2026-09-04: phone, address and website added. Parking enforcement means patrol vehicles circulating downtown lots all day.",
+"evidence": "Official site brightbasemanagement.com has an about/contact page; listings confirm 605 Chestnut Ste 300, Chattanooga TN 37450 and this number. Parking management and facilities maintenance - enforcement, traffic flow, cleaning programmes.",
+"gapfill": "2026-09-04"
 },
 "474": {
 "i": 474,
@@ -3538,9 +3539,10 @@
 "480": {
 "i": 480,
 "status": "keep",
-"note": "They advertise 24/7 mobile welding elsewhere, so there are service trucks. No contact details in the index.",
-"evidence": "Own site: industrial, custom, automotive and marine welding service pages plus a contact page, all Chattanooga-branded.",
-"new_lead": true
+"name": "Chambers Welding Fabrication Corp.",
+"note": "Gap-filled 2026-09-04: phone, email, address and website all added. Mobile welding and metal repair means a service truck on site work. Note 1009 Taft Avenue is the same address as Metal Makers Classes, already on the list - shared building.",
+"evidence": "Official site chambersweldingfabrication.com contact page gives 1009 Taft Ave, Chattanooga TN 37408, this number, this email and Mon-Fri 8-5. 25+ years; commercial and residential railings, industrial and marine work. Certified EDWOSB, WOSB, MBE and DBE.",
+"gapfill": "2026-09-04"
 },
 "481": {
 "i": 481,
@@ -3736,9 +3738,10 @@
 "508": {
 "i": 508,
 "status": "keep",
-"note": "No contact details published in the index.",
-"evidence": "Own site: home page describes a family owned and operated company founded in 2000 providing logistics to manufacturers and retailers.",
-"new_lead": true
+"name": "CORNERSTONE FREIGHT, L.L.C.",
+"note": "Gap-filled 2026-09-04: phone and address added. Some listings show 103 Jordan Dr Ste 10 instead; the FMCSA-registered address is Lee Parkway, so that is recorded. Registered as a freight broker as well as a carrier, so confirm whether they run their own tractors.",
+"evidence": "Listings and federal carrier registration USDOT 2226130 / MC 379217 give 118 Lee Parkway, Chattanooga TN 37421, this number and a second line on (423) 553-1107, with P.O. Box 8175 for mail.",
+"gapfill": "2026-09-04"
 },
 "509": {
 "i": 509,
@@ -3807,16 +3810,18 @@
 "518": {
 "i": 518,
 "status": "keep",
-"note": "Mowing crews plus a seasonal decorating arm means trucks and trailers year-round. No phone in the index.",
-"evidence": "Own site: home and services pages list this address; lawn and landscape plus seasonal Christmas decorating.",
-"new_lead": true
+"name": "Dawson Lawn Service",
+"note": "Gap-filled 2026-09-04: phone, address and website added. Lawn and landscape crews towing mower trailers, plus seasonal Christmas decorating work that puts them on ladders and roofs in winter.",
+"evidence": "Official site dawsonlawnservice.net is live; listings confirm 6003 Pinehurst Ave, Chattanooga TN 37421, this number and fax (423) 892-6630. Family owned, established by Walter Dawson in 1980.",
+"gapfill": "2026-09-04"
 },
 "519": {
 "i": 519,
 "status": "keep",
-"note": "Their projects are national - Princeton, San Diego, New York clubs - so crews and materials travel far. No contact details in the index.",
-"evidence": "Own site: accredited by the World Squash Federation, building and refinishing squash, tennis and pickleball courts, with project pages at Princeton, Harvard Club and US Squash Center.",
-"new_lead": true
+"name": "CourtTech USA",
+"note": "Gap-filled 2026-09-04: phone, email, address and website all added. Court construction means surfacing rigs and material trucks travelling to clubs and schools, often out of state.",
+"evidence": "Official site courttechusa.com gives 3861 Hixson Pike, Chattanooga TN 37415, this number and this email; squash and pickleball court construction and tennis court refinishing, with offices in Buffalo NY and Chattanooga.",
+"gapfill": "2026-09-04"
 },
 "520": {
 "i": 520,
@@ -3885,9 +3890,10 @@
 "529": {
 "i": 529,
 "status": "keep",
-"note": "Falling Water is just north of Hixson, so they work your side of the river. No phone in the index.",
-"evidence": "Own site: Contact page lists this address; new construction, remodeling, commercial and full-service design, with a Meadows at Falling Water project page.",
-"new_lead": true
+"name": "DWELL DESIGNED CONSTRUCTION, LLC",
+"note": "Gap-filled 2026-09-04: phone, address and website added. Their site publishes an email but it is obfuscated against scraping, so it needs reading off the page by hand.",
+"evidence": "Official site dwelldesignedconstruction.com has a contact page; listings confirm 1900 East Main Street, Chattanooga TN 37404, this number and Mon-Fri 8:30-4:30. New construction, remodelling, light commercial and property development.",
+"gapfill": "2026-09-04"
 },
 "530": {
 "i": 530,
