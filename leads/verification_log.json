@@ -169,35 +169,34 @@
 "22": {
 "i": 22,
 "status": "keep",
-"email": "rivermontbodyshop@yahoo.com",
-"address": "3405 Hixson Pike",
-"note": "verified site live"
+"name": "Rivermont Paint & Body",
+"note": "PHONE CORRECTED 2026-09-04: sheet held (423) 875-4112; their own site and contact page both publish 423-702-6722. Address 3405 Hixson Pike confirmed. Email rivermontbodyshop@yahoo.com retained. Independent body shop, no glass service of its own - good prospect.",
+"evidence": "rivermontpaintandbody.com/contact-us",
+"gapfill": "2026-09-04"
 },
 "23": {
 "i": 23,
-"name": "Hoven Collision Repair",
 "status": "keep",
-"phone": "(423) 238-6334",
-"evidence": "hovencollision.com location and services pages",
-"note": "OFFICIAL SITE: phone confirmed. Body shop in Ooltewah off Exit 11 on Old Lee Hwy. No email published - they use a form."
+"name": "Hoven Collision Repair",
+"note": "OFFICIAL SITE: phone (423) 238-6334 RE-CONFIRMED 2026-09-04. Body shop at 10344 Lee Hwy, Ooltewah. Named staff on site: Dan Steenhoven, Daaron Hartman, Jeff O'Ffill. No glass service listed - customer, not competitor. No email published, they use a form.",
+"evidence": "hovencollision.com/location",
+"gapfill": "2026-09-04"
 },
 "24": {
 "i": 24,
-"name": "Quality Tire Pros",
 "status": "keep",
-"address": "322 Cherokee Blvd",
-"zip": "37405",
-"phone": "(423) 267-9715",
-"evidence": "Contact and fleet-services pages on qualitytirepros.com",
-"note": "OFFICIAL SITE: address and phone confirmed. They run a dedicated fleet-services division covering Chattanooga, Fort Oglethorpe and Cleveland - so they already serve fleet operators and are worth a referral conversation. No email published."
+"name": "Quality Tire Pros",
+"note": "OFFICIAL SITE: phone (423) 267-9715 RE-CONFIRMED 2026-09-04 and EMAIL FOUND (qualitytirepros@gmail.com). 322 Cherokee Blvd confirmed. Open Mon-Fri 7:30-17:30, Sat 7:30-14:00. Fleet-services division covering Chattanooga, Fort Oglethorpe and Cleveland - the Cherokee Blvd shop is the Hamilton County one.",
+"evidence": "qualitytirepros.com/About",
+"gapfill": "2026-09-04"
 },
 "25": {
 "i": 25,
-"name": "Tire World & Auto Service",
 "status": "keep",
-"phone": "(423) 266-5237",
-"evidence": "Contact page on tireworldchattanooga.com",
-"note": "OFFICIAL SITE: phone confirmed, open Mon-Fri 7:30-17:00. No email published."
+"name": "Tire World & Auto Service",
+"note": "OFFICIAL SITE: phone (423) 266-5237 RE-CONFIRMED 2026-09-04. Open Mon-Fri 7:30-17:00. Site says they serve Chattanooga and Red Bank. No email published.",
+"evidence": "tireworldchattanooga.com/About-Us/Contact-",
+"gapfill": "2026-09-04"
 },
 "26": {
 "i": 26,
@@ -228,8 +227,10 @@
 "30": {
 "i": 30,
 "status": "keep",
-"address": "5912 Lee Hwy",
-"note": "verified enterprise.com branch 5630 live"
+"name": "Enterprise Rent-A-Car (Lee Hwy)",
+"note": "OFFICIAL SITE: phone (423) 899-2633 and 5912 Lee Hwy RE-CONFIRMED 2026-09-04 (branch 5630). NOTE: Enterprise runs at least five separate branches in Hamilton County - Lee Hwy, Downtown, Chapman Rd, Hixson and the Airport - each with its own number. Only this one is in the workbook; the other four are unworked prospects with their own damaged-fleet volume.",
+"evidence": "enterprise.com/en/car-rental-locations/us/tn/chattanooga-lee-hwy-5630.html",
+"gapfill": "2026-09-04"
 },
 "31": {
 "i": 31,
@@ -240,8 +241,10 @@
 "32": {
 "i": 32,
 "status": "keep",
-"address": "4139 S Creek Rd",
-"note": "verified pensketruckrental.com location 007410 live"
+"name": "Penske Truck Rental",
+"note": "OFFICIAL SITE: phone (423) 622-2871 and 4139 S Creek Rd RE-CONFIRMED 2026-09-04 (location 007410). Open Mon-Fri 7:00-17:00, Sat 8:00-12:00. Penske also has two more Chattanooga points - 37421 Hickory Valley Rd (007470) and the Home Depot #742 dealer point (007487) - but those route to national numbers 1-844-906-3404 (commercial) / 1-844-824-6609 (one-way). S Creek Rd is the real local yard and the one to call.",
+"evidence": "pensketruckrental.com/locations/us/tennessee/chattanooga/007410/",
+"gapfill": "2026-09-04"
 },
 "33": {
 "i": 33,
