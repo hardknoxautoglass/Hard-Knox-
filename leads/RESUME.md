@@ -63,19 +63,42 @@ What the tail of the export taught, beyond the 1-in-5 junk rate already known:
 
 | | |
 |---|---|
-| Rows | 689 |
-| Priority A / B / C | 302 / 288 / 99 |
+| Rows | 686 |
+| Priority A / B / C | 302 / 288 / 96 |
 | Hixson-city rows | 107 |
-| With a phone | 612 |
-| With an email | 223 |
-| With a website | 623 |
-| With a street address | 568 |
+| With a phone | 611 |
+| With an email | 222 |
+| With a website | 620 |
+| With a street address | 566 |
+
+Every row is based in Hamilton County; the ZIP audit that proves it is in the sourcing
+rules below.
 | Columns | 14 |
 
 Every row was confirmed against the business's own website or a page the business itself
 maintains. Column K names the source; column N records what was found or corrected.
 
 ## Sourcing rules — these are binding
+
+**Hamilton County, Tennessee only.** The user asked for this explicitly on 2026-09-04.
+A business qualifies on where it is *based*, not where it says it serves — plenty of
+Hamilton County firms advertise work in Georgia or Cleveland, and that is fine; what is
+not fine is a firm based elsewhere that lists Chattanooga as a service area.
+
+In the county: Chattanooga, Hixson, Soddy-Daisy, Ooltewah, Collegedale, Signal Mountain,
+East Ridge, Red Bank, Harrison, Lookout Mountain TN (37350), Walden, Apison, Lakesite,
+Sale Creek, Birchwood, Ridgeside.
+
+Not in the county, and each one has already appeared in this data wearing a Chattanooga
+label: Cleveland (Bradley), Dayton (Rhea), Jasper, Kimball, Whitwell, Guild and Whiteside
+(Marion), Dunlap (Sequatchie), Athens and Etowah (McMinn), and everything over the state
+line — Ringgold, Fort Oglethorpe, Rossville, Chickamauga, LaFayette, Trenton, Dalton.
+Lookout Mountain straddles the line: 37350 is Hamilton County, 30750 is Walker County GA.
+
+The check that catches these is the ZIP. Hamilton County ZIPs are 373xx in the ranges
+37302, 37308, 37315, 37341, 37343, 37350, 37351, 37363, 37373, 37377, 37379, 37384,
+37401-37424 and 37450. Note 37311 and 37312 are Cleveland, not Chattanooga.
+
 
 **Do not use Yelp.** The user found it serving false information. Same caution for
 other third-party-edited aggregators: YellowPages, Manta, Buzzfile, ZoomInfo,
@@ -114,6 +137,9 @@ reason for each, so nothing is lost if one turns out to be real.
 - `VIBE_PROSPECTING_LEADS_2026-09-03.csv` — 421 Hamilton County companies from the paid Vibe Prospecting
   export. Deliberately NOT merged into the workbook: see the section below.
 - `DELETED_UNCONFIRMED_2026-09-03.csv` — the 40 businesses removed in the final pass, with the reason for each.
+- `REMOVED_OUT_OF_COUNTY_2026-09-04.csv` — the 3 removed for being outside Hamilton County
+  (Big Buck Construction in Cleveland, Chorba Contracting in Guntersville AL, East Tennessee
+  Electric in Knoxville), with full details kept in case the search ever widens.
 - `NEW_LEADS_2026-09-03.csv` — the 44 leads added this pass.
 - `verification_log.json` — machine-readable record keyed by 0-based data index (index i = sheet row i+2).
 - `VERIFICATION_NOTES.md` — method, deletions, and the notable corrections.
@@ -141,7 +167,7 @@ Commit after every batch.
 
 The Vibe queue is done. Natural next steps if the work continues:
 
-- **Fill the blanks.** 77 rows have no phone and 466 have no email, because those
+- **Fill the blanks.** 75 rows have no phone and 464 have no email, because those
   businesses publish neither on their own site or page. The worst gaps were searched
   twice already. What is left needs a call, not another search.
 - **Chase the ones worth the trouble.** These came out of the queue as real, substantial
