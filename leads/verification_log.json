@@ -310,7 +310,7 @@
 "i": 47,
 "status": "keep",
 "name": "Denton's Wrecker Service",
-"note": "Gap-filled 2026-09-04: searched openly, no website and no page the business maintains could be found. A community history post puts them at 7740 Lee Hwy as far back as 1956, and directories give (423) 892-9222, but nothing self-published confirms it. This one needs a phone call to verify, not another search.",
+"note": "Gap-filled 2026-09-04: open Google search found NO official website - only directories, which are not an accepted source. Directories give 7740 Lee Hwy, (423) 892-9222 and an owner named David Denton; a community history post puts the business at that address as far back as 1956. None of it is recorded because none of it is self-published. Needs a call.",
 "evidence": "",
 "gapfill": "2026-09-04"
 },
@@ -920,8 +920,8 @@
 "i": 139,
 "status": "keep",
 "name": "Ray's Towing Service",
-"note": "Gap-filled 2026-09-04: open search found no official website. A Facebook page exists but Facebook is not an accepted source, and directory listings are not either, so nothing is recorded. Needs a phone call to establish contact details.",
-"evidence": "No official website found on an open search.",
+"note": "Gap-filled 2026-09-04: open Google search found NO official website. The one site that looked promising, raystowing615.wixsite.com, belongs to a different Ray's Towing in Nashville on a 615 number. Directories give 3003 Dayton Blvd and (423) 875-6694 - unconfirmed, not recorded. Federal carrier registration USDOT 1023098 does confirm a Ray's Towing Service operating from Red Bank, so the business is real.",
+"evidence": "",
 "gapfill": "2026-09-04"
 },
 "140": {
@@ -2157,10 +2157,11 @@
 },
 "280": {
 "i": 280,
-"name": "Motivated Movers",
 "status": "keep",
-"evidence": "Motivated Movers Chattanooga's own Facebook page",
-"note": "RESOLVED: there is a Motivated Movers Chattanooga page and its phone is 423-994-0529, matching the sheet exactly. The earlier flag came from motivatedmovers.com, which is a separate Atlanta company on the same name. Moving trucks, so a real fleet."
+"name": "Motivated Movers",
+"note": "Gap-filled 2026-09-04 by open search. Trading since 2008 across AL, GA, TN and FL; the Chattanooga branch covers Hixson, Red Bank, East Ridge, Soddy-Daisy, Signal Mountain and St Elmo. Box trucks out daily - a good fleet. No street address published on their own site.",
+"evidence": "Official site: the Chattanooga location page on getmotivatedmovers.com publishes this number; commercial, long-distance, local and quote pages are all live for Chattanooga.",
+"gapfill": "2026-09-04"
 },
 "277": {
 "i": 277,
@@ -2257,8 +2258,8 @@
 "i": 245,
 "status": "keep",
 "name": "Tennessee Valley Excavation",
-"note": "Gap-filled 2026-09-04: open search found no official website. Facebook and directories only, neither of which is an accepted source here. Needs a call.",
-"evidence": "No official website found on an open search.",
+"note": "Gap-filled 2026-09-04: open Google search found NO official website, and no directory even agrees on the name - it appears as both Excavation and Excavating. Directories put it at 8935 Grey Mountain Drive doing septic work. Nothing self-published; needs a call. Note there are several similarly named excavators in the area, including one in Seymour TN, so confirm which one you have.",
+"evidence": "",
 "gapfill": "2026-09-04"
 },
 "242": {
@@ -2270,10 +2271,11 @@
 },
 "271": {
 "i": 271,
-"name": "Harvey's Plumbing",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms Harvey's Plumbing is active in Hixson. No phone or address published there, so the sheet details are unconfirmed."
+"name": "Harvey's Plumbing",
+"note": "Gap-filled 2026-09-04 by open search - the site the first pass missed. One caution: the domain also serves an unrelated PDF and a 'Resources and Information' page, which is the signature of a parked or partly lapsed domain, so confirm they are trading when you call. Their own pages did not surface a phone; a directory offers 423-842-0998 and 8003 Hixson Pike, unconfirmed and therefore not recorded.",
+"evidence": "Official site: harveysplumbingco.com/services describes full-service plumbing for homes and businesses, serving Hixson and surrounding areas for 25+ years.",
+"gapfill": "2026-09-04"
 },
 "300": {
 "i": 300,
@@ -2475,8 +2477,8 @@
 "i": 252,
 "status": "keep",
 "name": "Red Bank Electric",
-"note": "Gap-filled 2026-09-04: open search found no official website. Facebook and directories only. Directories name an owner, Ronnie Lamb - worth asking for him if someone calls, but the number itself is unconfirmed.",
-"evidence": "No official website found on an open search.",
+"note": "Gap-filled 2026-09-04: open Google search found NO official website. Directories say trading since 1980, owner Ronnie Lamb, 101 Freudenburg Lane, (423) 870-2625, covering most of the county - but none of that is self-published, so none of it is recorded. Ask for Ronnie Lamb if someone calls.",
+"evidence": "",
 "gapfill": "2026-09-04"
 },
 "295": {
