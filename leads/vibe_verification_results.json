@@ -4058,5 +4058,72 @@
 "website": "wolftever.net",
 "evidence": "Own site: Contact page gives 800 Broad Street Ste 200, Chattanooga TN 37402 and this phone, listing 115 Cedar Lane as a second location. Project pages cover Bass Pro Shops, Jordan Crossing, Mackey Branch Crossing, Porter Paints and the Elkins Building.",
 "note": "A developer rather than a builder, so the vehicles are staff cars visiting sites - held at B. Their second address, 115 Cedar Lane, is MPL Construction's office, already on the list, which suggests the two work together closely; that is a useful thing to know when calling either."
+},
+"Wysong Tree Service Chattanooga": {
+"name": "Wysong Tree Service Chattanooga",
+"status": "dead",
+"note": "The domain belongs to someone else. treeservicechattanoogatn.com serves All Season Tree Service LLC of Chattanooga 37406, on (423) 219-3836, and its root is still an A2 Hosting default page. Nothing self-published supports a Wysong Tree Service at 1302 Springview Drive. Note All Season Tree Service as a separate possibility if a tree crew is wanted - though what is indexed there is thin."
+},
+"YERBEY CONCRETE CONSTRUCTION, INC.": {
+"name": "YERBEY CONCRETE CONSTRUCTION, INC.",
+"status": "confirmed",
+"industry": "Commercial Concrete Construction",
+"priority": "A",
+"address": "1901 Polk Street",
+"city": "Chattanooga",
+"zip": "37408",
+"phone": "(423) 756-8881",
+"email": "Not publicly available",
+"website": "yerbey.com",
+"evidence": "Own site: Contact page gives 1901 Polk St, Chattanooga TN 37408, this phone and 8-5 weekday hours; staff pages name Seth Williams and Tyler Settles, and the portfolio includes the Chattanooga Riverwalk. Building Chattanooga since 1950.",
+"note": "Seventy-five years of commercial concrete - pour crews, mixers and finishing trucks on site daily. Their own site puts them on Polk Street, not the 1928 Central Avenue on the record. No email published, but two named staff have pages, so ask for Seth Williams or Tyler Settles."
+},
+"YOUNG ELECTRIC COMPANY": {
+"name": "YOUNG ELECTRIC COMPANY",
+"status": "confirmed",
+"industry": "Electrical Contractor",
+"priority": "B",
+"address": "3907 Dodds Avenue",
+"city": "Chattanooga",
+"zip": "37407",
+"phone": "(423) 867-9324",
+"email": "Not publicly available",
+"website": "youngelectric.net",
+"evidence": "Own site: Contact page gives 3907 Dodds Avenue, Chattanooga TN 37407 and this phone; services, leadership, energy management, communications, solar and employment pages are all live.",
+"note": "Electricians run service vans, and this one also does energy management, communications cabling and solar, so techs are out constantly - but only 1-10 staff, so held at B. Their own site confirms the record's Dodds Avenue address. No email published."
+},
+"Zenbuild.com": {
+"name": "Zenbuild.com",
+"status": "confirmed",
+"industry": "Thin Brick & Stone Ecommerce",
+"priority": "C",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37404",
+"phone": "(423) 664-8424",
+"email": "customerservice@zenbuild.com",
+"website": "zenbuild.com",
+"evidence": "Own site: publishes this phone and this email with about, FAQ, pro pricing, shipping and wholesale-login pages, selling thin brick and stone veneer with free nationwide shipping.",
+"note": "Kept at C: they ship on common carriers rather than their own trucks, so the fleet behind the South Holtzclaw address is probably a van at most. Good contact details though - a real phone and a monitored email, which is more than most of this queue offers."
+},
+"Milco National Constructors": {
+"name": "Milco National Constructors",
+"status": "confirmed",
+"industry": "Industrial Tank & Vessel Construction",
+"priority": "A",
+"address": "9384 Jac Cate Road",
+"city": "Collegedale",
+"zip": "37363",
+"phone": "(803) 291-8805",
+"email": "Not publicly available",
+"website": "milconational.com",
+"evidence": "Own site: Contact page gives 9384 Jac Cate Rd, Collegedale TN 37363 and this phone; project pages cover a TVA tank project, PSE&G air-cooled condensers and renewables work, and the site names DBM Global as the parent.",
+"note": "Field-erected tanks and stack erection since 1978 at 51-200 staff - welding rigs, crew trucks and equipment moving to power plants and refineries, often out of state. A strong A lead, and Collegedale keeps it in Hamilton County. Note the published number is an 803 South Carolina area code, so it may route through a sister office; ask for the Collegedale yard."
+},
+"AAA Window Mfg": {
+"name": "AAA Window Mfg",
+"status": "nocontact",
+"industry": "Window Manufacturing",
+"note": "windowschattanooga.com is live - window replacement, insulated glass and storm window pages, owned by brothers Rick and Jeff Adkins, 20+ years serving Chattanooga and northwest Georgia - but two domain-restricted searches will not surface the phone, email or the East Ridge address. Worth a retry: a window manufacturer with delivery trucks is both a customer and a glass-trade neighbour, and the Adkins brothers are a named way in."
 }
 }
