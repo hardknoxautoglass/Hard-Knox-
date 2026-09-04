@@ -398,8 +398,10 @@
 "60": {
 "i": 60,
 "status": "keep",
-"address": "1636 Fernwood Cir",
-"note": "verified active 38 yrs; no real website (directory listing only)"
+"name": "GLS Courier Service",
+"note": "Gap-filled 2026-09-04: no official website - the 'site' listings show is a localsearch directory page, not one. Phone and address already in the row confirmed unchanged. Do not confuse with GLS-US, the national parcel carrier, which is a different company entirely.",
+"evidence": "Listings confirm (423) 667-7970 at 1636 Fernwood Cir, Chattanooga TN 37421, in business 38 years.",
+"gapfill": "2026-09-04"
 },
 "61": {
 "i": 61,
@@ -1040,8 +1042,10 @@
 "157": {
 "i": 157,
 "status": "keep",
-"address": "1002 Hixson Pike",
-"note": "verified active via Yelp/YP; no website"
+"name": "Catering Company",
+"note": "Gap-filled 2026-09-04: no website could be tied to this business. The name is too generic - a search returns a dozen unrelated Chattanooga caterers and none of them is a 'Catering Company' at 1002 Hixson Pike. Phone and address in the row are unchanged; whoever calls should confirm the trading name.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "158": {
 "i": 158,
@@ -4528,9 +4532,10 @@
 "618": {
 "i": 618,
 "status": "keep",
-"note": "Roofing crews haul materials on flatbeds and pickups, which is normally good windshield business, but two searches would not surface a phone or email - everything routes through a free-inspection form. Held at B until someone can reach a person.",
-"evidence": "Own site: privacy and terms pages give 608 S Holtzclaw Ave, Chattanooga TN 37404; metal roofing, shingle and services pages are live and name Chattanooga, Tyner and Ridgeside as the service area.",
-"new_lead": true
+"name": "Restore Roofing",
+"note": "Gap-filled 2026-09-04: phone added - the first pass found the address and website but no number, because everything on their own site routes through a free-inspection form. Roofing crews hauling materials daily.",
+"evidence": "Listings agree on (423) 602-7663 for Restore Roofing LLC at 608 S Holtzclaw Ave, Chattanooga TN 37404, the address already in this row and confirmed on restoreroofing.biz.",
+"gapfill": "2026-09-04"
 },
 "619": {
 "i": 619,
@@ -4655,9 +4660,10 @@
 "636": {
 "i": 636,
 "status": "keep",
-"note": "They run their own pickup and delivery for mower repairs, so there are trucks and trailers on the road - and they sell to every lawn crew in the county, which makes them a useful person to know as well as a customer. Their own site confirms the record's Volunteer Drive address but publishes no phone or email across two searches.",
-"evidence": "Own site: gives 3925 Volunteer Drive, Chattanooga TN 37416 and describes an in-house service shop carrying SCAG, Cub Cadet, Echo, Shindaiwa and Billy Goat, with pickup and delivery for shop work.",
-"new_lead": true
+"name": "SEQUOYAH LAWN EQUIPMENT COMPANY, LLC",
+"note": "Gap-filled 2026-09-04: phone added; the address on the row was already confirmed from their own site. They run their own pickup and delivery for mower repairs, and they sell to every lawn crew in the county - useful to know as well as to sell to.",
+"evidence": "Scag, Echo and Cub Cadet all list Sequoyah Lawn Equipment as an authorised dealer at 3925 Volunteer Drive, Chattanooga TN 37416 with this number - manufacturer dealer directories rather than general listings.",
+"gapfill": "2026-09-04"
 },
 "637": {
 "i": 637,
@@ -4683,9 +4689,10 @@
 "640": {
 "i": 640,
 "status": "keep",
-"note": "Single-day installs of finished kitchen islands mean a truck and a crane or trailer on residential driveways - a real if small fleet. The record carried no street address; this comes from their own site. Market Street Suite 600 reads like an office rather than the factory, so ask where the shop is. No phone published.",
-"evidence": "Own site: policy pages give 1100 Market Street Suite 600, Chattanooga TN 37402 and this email; the store front says they build in their own factory and install in a single day across Chattanooga and North Georgia.",
-"new_lead": true
+"name": "SimplyOutdoorKitchens.com",
+"note": "Gap-filled 2026-09-04: phone added - the row previously had only an email. Two numbers circulate; try (423) 874-6883 first, then (423) 218-9370. Single-day installs of finished kitchen islands mean a truck and trailer on residential driveways.",
+"evidence": "Listings give this number for Simply Outdoor Kitchens Chattanooga at 1100 Market St Suite 600, the address already in this row, with (423) 218-9370 as a second line.",
+"gapfill": "2026-09-04"
 },
 "641": {
 "i": 641,
@@ -4789,9 +4796,10 @@
 "655": {
 "i": 655,
 "status": "keep",
-"note": "Small builder at 1-10 staff, so a couple of trucks - decks and fences mean hauling lumber on trailers. Email is the only route published; no phone or street address on their own site, so the record's 1612 East 14th Street is left off.",
-"evidence": "Own site: publishes this email; custom homes, ADU, additions, decks, fences and testimonials pages are all live for residential work in Chattanooga.",
-"new_lead": true
+"name": "The Chattanooga Building Co",
+"note": "Gap-filled 2026-09-04: phone and address added - the row previously had only the website and email. Note the address differs from the 1612 East 14th Street on the original Vibe record, which was never confirmed; Ringgold Road is what current listings give.",
+"evidence": "Listings give (423) 529-0916 and 3712 Ringgold RD #215, Chattanooga TN 37412 for The Chattanooga Building Co, whose site chattbuild.com publishes contact@chattbuild.com.",
+"gapfill": "2026-09-04"
 },
 "656": {
 "i": 656,
