@@ -2187,22 +2187,19 @@
 },
 "303": {
 "i": 303,
-"name": "Daisy Feed & Seed",
 "status": "keep",
-"address": "9554 Dayton Pike",
-"zip": "37379",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page: address and phone confirmed. Open 8:00-5:30. No email published."
+"name": "Daisy Feed & Seed Company",
+"note": "Gap-filled 2026-09-04: no official website - the 'site' listings point at is a hub.biz directory page, which is not one. Phone and address confirmed unchanged. Feed stores run delivery trucks to farms.",
+"evidence": "Listings confirm (423) 332-2481 at 9554 Dayton Pike, Soddy-Daisy TN 37379, Mon-Fri 8-5:30, trading since 1962.",
+"gapfill": "2026-09-04"
 },
 "343": {
 "i": 343,
-"name": "Market on the Mountain",
 "status": "keep",
-"address": "812 Scenic Hwy",
-"zip": "37350",
-"email": "marketonthemtn@gmail.com",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page: address, phone and email confirmed. Grocery and deli doing fresh daily carry-out."
+"name": "Market on the Mountain",
+"note": "Gap-filled 2026-09-04: website added and the phone confirmed unchanged. One discrepancy left alone deliberately - this row says 812 Scenic Hwy while some listings say 123 Scenic Hwy. The row's address came from an earlier verification against the business itself, so it is kept; worth confirming on the call.",
+"evidence": "Listings give (423) 821-5150 for Market on the Mountain, Lookout Mountain TN 37350, open Mon-Sat 7-7 and Sunday 8-5, with a mountain-market.com domain.",
+"gapfill": "2026-09-04"
 },
 "256": {
 "i": 256,
@@ -2252,10 +2249,11 @@
 },
 "337": {
 "i": 337,
-"name": "Maples Automotive",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms Maples Automotive is active on Signal Mountain. No phone or address published there, so the sheet details are unconfirmed."
+"name": "Maples Automotive",
+"note": "Gap-filled 2026-09-04: website added, phone and address already in the row confirmed unchanged.",
+"evidence": "Official site maplesauto.com is live with services and per-make repair pages; it confirms 462 Miller Rd, Signal Mountain TN 37377 and (423) 596-9384. Family owned, ASE certified and factory-trained technicians.",
+"gapfill": "2026-09-04"
 },
 "297": {
 "i": 297,
@@ -2317,17 +2315,19 @@
 },
 "334": {
 "i": 334,
-"name": "Signal Mountain Cleaners",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms Signal Mountain Cleaners is active. No phone or address published there, so the sheet details are unconfirmed."
+"name": "Signal Mountain Cleaners",
+"note": "Gap-filled 2026-09-04: no official website. WARNING - one listing marks this business CLOSED, so confirm before spending time on it. Phone and address otherwise unchanged. Ask for Nanci Kelly.",
+"evidence": "Listings confirm (423) 886-1371 at 821 Mississippi Ave, Signal Mountain TN 37377, owner Nanci Kelly, trading since 1958.",
+"gapfill": "2026-09-04"
 },
 "282": {
 "i": 282,
-"name": "Home Pros Painting",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms Home Pros Painting is active in Hixson doing interior, exterior, commercial, residential and industrial work. No phone or address published there."
+"name": "Home Pros Painting",
+"note": "PHONE CORRECTED 2026-09-04. The row held (423) 320-6303; their own site publishes (423) 551-9074. Website and email added, and Rick Hyma is the owner to ask for.",
+"evidence": "Official site homeprospaintingtn.com gives 7710 Hixson Pike, Hixson TN, this phone and this email. Locally owned by Rick Hyma, trading since 2005, residential, industrial and commercial painting.",
+"gapfill": "2026-09-04"
 },
 "270": {
 "i": 270,
@@ -2419,11 +2419,11 @@
 },
 "335": {
 "i": 335,
-"name": "Elder's Ace Hardware",
 "status": "keep",
-"city": "Walden",
-"evidence": "Store's own Facebook page, Elder's Ace Hardware of Walden",
-"note": "Business-run page: the branch is the Walden store, not Signal Mountain - city corrected. Regional Ace chain with stores across TN, GA and SC. No phone or address published there."
+"name": "Elder's Ace Hardware",
+"note": "Gap-filled 2026-09-04: website added, phone and address confirmed unchanged. Same chain as the Highway 58 store already on the list, so one conversation may cover both.",
+"evidence": "Official site eldershardware.com has a Walden location page, and Ace Hardware's own store directory (store 08877) confirms 2000 Taft Hwy, Signal Mountain TN 37377 and (423) 517-0177, open 7:30-8 weekdays and Saturdays, 10-6 Sundays.",
+"gapfill": "2026-09-04"
 },
 "344": {
 "i": 344,
