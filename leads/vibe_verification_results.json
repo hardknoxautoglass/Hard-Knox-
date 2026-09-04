@@ -3896,5 +3896,62 @@
 "name": "TriState Enterprises",
 "status": "nocontact",
 "note": "tristate-enterprises.com returns nothing on two domain-restricted searches - not indexed. A commercial plumbing contractor on East Main Street would run service vans, so worth chasing another way. Not to be confused with Tri-State Drilling, a separate company on this same list."
+},
+"Truck N Trailer USA Inc": {
+"name": "Truck N Trailer USA Inc",
+"status": "confirmed",
+"industry": "Trailer Repair & Truck Accessories",
+"priority": "B",
+"address": "4591 North Access Road",
+"city": "Chattanooga",
+"zip": "37415",
+"phone": "(423) 876-1990",
+"email": "sales@4tntusa.com",
+"website": "4tntusa.com",
+"evidence": "Own site: Contact page gives 4591 N Access Rd, Chattanooga TN 37415, this phone, this email and 8-5 weekday hours, with named staff on extensions - Matt 403, Russell 303, Chris 302 - across trailer repair, trailers, hitches and truck accessory pages.",
+"note": "Worth more as a trade contact than as a customer. They fit accessories and repair trailers for exactly the truck owners you want, so the referral runs both ways: they see damaged glass, you see people needing hitches and tops. Their own site confirms the record's North Access Road address and gives named people to ask for."
+},
+"True-Line Coring & Cutting": {
+"name": "True-Line Coring & Cutting",
+"status": "nocontact",
+"note": "theccg.us returns nothing on two domain-restricted searches - not indexed. Concrete sawing and core drilling crews haul saws and slurry rigs to sites daily, so worth chasing by phone at the South Highland Parks Avenue address."
+},
+"Turn2Us Handyman Services, LLC": {
+"name": "Turn2Us Handyman Services, LLC",
+"status": "nocontact",
+"note": "turn2ushandyman.com is live and clearly a working business - interior, exterior, kitchen, bath and deck service pages, an Angie's List Super Service Award page and Hixson customer testimonials - but two domain-restricted searches surface no phone, email or address. Everything goes through a form."
+},
+"Two Men and a Truck Chattanooga": {
+"name": "Two Men and a Truck Chattanooga",
+"status": "confirmed",
+"industry": "Moving & Freight",
+"priority": "A",
+"address": "4230 Benton Drive",
+"city": "Chattanooga",
+"zip": "37406",
+"phone": "(423) 893-3450",
+"email": "Not publicly available",
+"website": "twomenandatruck.com/movers/tn/chattanooga",
+"evidence": "Own site: the Chattanooga franchise pages on twomenandatruck.com give 4230 Benton Dr, Chattanooga TN 37406 and this phone, with local reviews and a Chattanooga jobs board live.",
+"note": "A moving company is a straightforward A: a yard full of box trucks doing local and long-distance runs every day. Two corrections to the record - the domain on it, rogexperts.com, is not theirs, and the address is Benton Drive, not the 5959 Shallowford Road mailbox. No email published; franchise sites use a quote form."
+},
+"U.S. Logistics Group, LLC": {
+"name": "U.S. Logistics Group, LLC",
+"status": "dead",
+"note": "The record does not hold together. The domain on it, bwytransportinc.com, belongs to BWY Transport Inc - a different name at a different address (5600 Brainerd Rd Ste B-28, 37411, not 100 Cherokee Boulevard Suite 216, which is a mailbox address also used by another rejected record). Nothing self-published confirms a U.S. Logistics Group at that suite. BWY Transport itself checks out as a real Chattanooga truckload carrier and has been added to the workbook on its own account."
+},
+"Unity Of Chattanooga": {
+"name": "Unity Of Chattanooga",
+"status": "confirmed",
+"industry": "Church & Spiritual Centre",
+"priority": "C",
+"address": "105 McBrien Road",
+"city": "Chattanooga",
+"zip": "37411",
+"phone": "(423) 755-7990",
+"email": "contact@unityofchattanooga.org",
+"website": "unityofchattanooga.org",
+"evidence": "Own site: Contact page gives 105 McBrien Rd, Chattanooga 37411, mailing address PO Box 4949, this phone and this email; calendar, events, counselling and mission pages all live.",
+"note": "Kept at C and the record corrected twice over: this is a church, not a trucking company as the Vibe industry field claims, and their own site puts them on McBrien Road, not the 400 East Main Street on the record. Congregation vans at most, so low fleet value - included only because the contact details are solid and churches do run vehicles."
 }
 }
