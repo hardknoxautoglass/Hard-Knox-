@@ -309,8 +309,10 @@
 "47": {
 "i": 47,
 "status": "keep",
-"address": "7740 Lee Hwy",
-"note": "verified active; no website exists - phone+address confirmed via BBB/Yelp"
+"name": "Denton's Wrecker Service",
+"note": "Gap-filled 2026-09-04: searched openly, no website and no page the business maintains could be found. A community history post puts them at 7740 Lee Hwy as far back as 1956, and directories give (423) 892-9222, but nothing self-published confirms it. This one needs a phone call to verify, not another search.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "48": {
 "i": 48,
@@ -917,8 +919,10 @@
 "139": {
 "i": 139,
 "status": "keep",
-"address": "3003 Dayton Blvd",
-"note": "verified active 30+ yrs, USDOT 1023098; no website"
+"name": "Ray's Towing Service",
+"note": "Gap-filled 2026-09-04. No conventional website - their own Facebook page is the business's own page and is what to use. Directories give (423) 875-6694 and 3003 Dayton Blvd, but no source the business itself maintains confirms either, so neither is recorded. In business 30+ years by their own account.",
+"evidence": "Own Facebook page (facebook.com/raystowing) is live for Ray's Towing Service, Red Bank/Chattanooga. Federal FMCSA carrier registration USDOT 1023098 lists them at Red Bank, TN.",
+"gapfill": "2026-09-04"
 },
 "140": {
 "i": 140,
@@ -2094,13 +2098,11 @@
 },
 "258": {
 "i": 258,
-"name": "McKee Foods Transportation",
 "status": "keep",
-"address": "10260 McKee Rd",
-"zip": "37315",
-"email": "careers@mckee.com",
-"evidence": "Contact and locations pages on mckeefoods.com",
-"note": "OFFICIAL SITE: address confirmed; McKee Foods Transportation LLC has run its own trucking fleet since 1995 and maintains it in-house. Corporate line 800-251-6346, mailing PO Box 750. Largest fleet prospect on the list."
+"name": "McKee Foods Transportation LLC",
+"note": "Gap-filled 2026-09-04: the subsidiary has no site of its own. Parent mckeefoods.com confirms the Collegedale headquarters but publishes only consumer-services contacts (PO Box 750, 800-251-6346), not the transportation arm's line. Federal FMCSA registration USDOT 1025678 shows the scale and is why this stays an A: 352 power units, 649 CDL drivers, 247 truck tractors, 285 semi-trailers, at 10260 McKee Road. Go through McKee Foods corporate and ask for transportation.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "284": {
 "i": 284,
@@ -2147,10 +2149,11 @@
 },
 "254": {
 "i": 254,
-"name": "Broome's Wrecker Service",
 "status": "keep",
-"evidence": "Business-maintained Facebook page, East Ridge TN",
-"note": "Business-run Facebook page confirms Broome's Wrecker Service is active in East Ridge. No phone or address published there, so the sheet phone is unconfirmed."
+"name": "Broome's Wrecker Service",
+"note": "Gap-filled 2026-09-04. No conventional website; the Facebook page is the business's own page. Directories give (423) 629-0253 and 4003 Ringgold Rd, unconfirmed by any source the business maintains. Worth knowing: East Ridge towing practices were the subject of a TBI investigation reported by local news, so check who you are dealing with before extending terms.",
+"evidence": "Own Facebook page for Broome's Wrecker Service, East Ridge TN, is live.",
+"gapfill": "2026-09-04"
 },
 "280": {
 "i": 280,
@@ -2219,10 +2222,11 @@
 },
 "278": {
 "i": 278,
-"name": "S&S Auto Repair",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms S & S Auto Repair is active in the Hixson/Chattanooga area, but publishes no phone or address, so the sheet details are unconfirmed."
+"name": "S&S Auto Repair",
+"note": "Gap-filled 2026-09-04 by open search: the site was missed on the first pass because that pass could only search domains it already knew. Two working numbers - (423) 855-3436 reaches the Hixson shop directly, (423) 206-2702 is the appointment line that was previously in this row. Second location on Enterprise Park Drive; trading since 2001.",
+"evidence": "Own site: ssautorepair.net's Hixson location page gives 4606 Hixson Pike, Hixson TN 37343 and this direct number for the shop.",
+"gapfill": "2026-09-04"
 },
 "318": {
 "i": 318,
@@ -2251,10 +2255,11 @@
 },
 "245": {
 "i": 245,
-"name": "Tennessee Valley Excavation",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page confirms the firm is active in Ooltewah - note it trades as Tennessee Valley Excavating, not Excavation. Utility installation, footers, driveways, grading. No phone or address published there."
+"name": "Tennessee Valley Excavation",
+"note": "Gap-filled 2026-09-04. No conventional website; their own Facebook page is the business's page. Directories give 8935 Grey Mountain Drive and describe septic system work, but nothing the business maintains confirms a phone, so none is recorded. Note the page spells it Excavating, the record says Excavation.",
+"evidence": "Own Facebook page (facebook.com/tnvalleyexcavation) is live for Tennessee Valley Excavating, Ooltewah TN.",
+"gapfill": "2026-09-04"
 },
 "242": {
 "i": 242,
@@ -2468,10 +2473,11 @@
 },
 "252": {
 "i": 252,
-"name": "Red Bank Electric",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "A business page exists under this name in Red Bank, but no phone or address is published there, so the sheet details are unconfirmed."
+"name": "Red Bank Electric",
+"note": "Gap-filled 2026-09-04. No conventional website. Directories give (423) 870-2625, 101 Freudenburg Ln and an owner named Ronnie Lamb, but nothing self-published confirms them, so they are not recorded - worth asking for Ronnie Lamb if someone calls.",
+"evidence": "Own Facebook page for Red Bank Electric is live.",
+"gapfill": "2026-09-04"
 },
 "295": {
 "i": 295,
