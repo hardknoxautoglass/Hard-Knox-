@@ -2734,10 +2734,11 @@
 },
 "373": {
 "i": 373,
-"name": "Highland Tire",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "NEW LEAD. Business-run page confirms a locally owned tire and auto shop with Hixson and Fort Oglethorpe locations. A second search found no official site - highlandtire.com is an unrelated Pennsylvania chain. Phone must come from a call."
+"name": "Highland Tire and Auto Service",
+"note": "Gap-filled 2026-09-04: the row had neither website nor phone and now has both plus the address. A tyre and auto shop is a trade neighbour - they see cracked windscreens on the lift every day and have no glass service of their own.",
+"evidence": "Official site highlandtire.net has contact and Chattanooga location pages giving 3886 Hixson Pike, Chattanooga TN 37415, this number and Mon-Fri 7-6, Sat 7:30-5. Goodyear and Michelin dealer with a second shop in Fort Oglethorpe GA.",
+"gapfill": "2026-09-04"
 },
 "374": {
 "i": 374,
@@ -2803,10 +2804,11 @@
 },
 "382": {
 "i": 382,
-"name": "Shelton Landscape Supply",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "NEW LEAD. Business-run page confirms a landscape supply yard in Hixson - delivery trucks. Two searches found no official site publishing a number."
+"name": "Shelton Landscape Supply",
+"note": "Gap-filled 2026-09-04: the row was empty of both website and phone; both address and number now in. No official website. Landscape supply means delivery trucks, and the U-Haul franchise puts rental trucks on the lot too. Note Shelton Construction and Trucking is separately on this list at 7611 Hixson Pike - likely related, worth asking.",
+"evidence": "Listings agree on 7703 Hixson Pike, Hixson TN 37343 and this number, open 7:30-5 weekdays and Saturday mornings. Also a U-Haul dealer.",
+"gapfill": "2026-09-04"
 },
 "383": {
 "i": 383,
@@ -2849,10 +2851,11 @@
 },
 "388": {
 "i": 388,
-"name": "Garage Door Doctor",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "NEW LEAD. Business-run page confirms residential and commercial garage door sales, service and installs serving Hixson. Two searches found no official site publishing a number."
+"name": "Garage Door Doctor",
+"note": "Gap-filled 2026-09-04: the row was empty; a phone is now in. No official website - they trade on word of mouth. Ask for Bill; the second number (423) 290-2174 appears to be his mobile. Garage door fitters run a service van with a ladder rack.",
+"evidence": "Listings give this number and a second on (423) 290-2174 for Garage Door Doctor of Hixson TN, owner named as Bill.",
+"gapfill": "2026-09-04"
 },
 "389": {
 "i": 389,
@@ -3579,9 +3582,10 @@
 "485": {
 "i": 485,
 "status": "keep",
-"note": "Second closet company in this batch after Creekside. No contact details in the index.",
-"evidence": "Own site: service-area pages for East Ridge, Cleveland, Ridgeside, Apison and Ooltewah plus Dalton and LaFayette GA.",
-"new_lead": true
+"name": "Chattanooga Closet Company, an Artisan Family Brand",
+"note": "Gap-filled 2026-09-04: phone, address and website added. Closet installers run box trucks to homes and new builds daily. Their builders page is worth a look - they work with custom home builders, several of whom are on this list.",
+"evidence": "Official site chattanoogacloset.com has about, builders and contact pages; listings give 1901 Broad Street, Chattanooga TN 37408 and this number. Acquired by Artisan Custom Closets in 2024.",
+"gapfill": "2026-09-04"
 },
 "486": {
 "i": 486,
@@ -3621,9 +3625,10 @@
 "491": {
 "i": 491,
 "status": "keep",
-"note": "The Vibe record has the name wrong: this is a trade body, not a contractor. Their member directory is the useful part - it lists every masonry contractor in the region.",
-"evidence": "Own site: this domain is the Chattanooga Masonry ASSOCIATION - contractors, suppliers and an apprenticeship programme - not a masonry company.",
-"new_lead": true
+"name": "Chattanooga Masonry, Inc",
+"note": "Gap-filled 2026-09-04: no phone or website could be tied to a business of this exact name. Searches return the Chattanooga Masonry Association - a trade body, not this company - plus Jenkins, Adams, G&P, Accent and Titan, all separate firms and several already on this list. Nothing recorded rather than risk attaching another company's number. Worth confirming the trading name before chasing.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "492": {
 "i": 492,
@@ -4589,9 +4594,10 @@
 "626": {
 "i": 626,
 "status": "keep",
-"note": "Read this one as a trade neighbour, not a customer - they are in glass, but architectural and commercial glazing rather than vehicles, so there is no overlap to compete on and possible referral work in both directions. Priced at C for that reason. Their own site puts them at 2420 Broad Street, not the 428 McCallie Avenue on the record, and publishes no phone or email across two searches.",
-"evidence": "Own site: gives 2420 Broad Street, Chattanooga TN 37408 and a project gallery covering VW of Chattanooga, the Volunteer Building, Blood Assurance, A.G. Edwards and the Holmberg Bridge - storefronts, curtainwall, entrances and slope glazing.",
-"new_lead": true
+"name": "ROSS GLASS AND ALUMINUM, LLC",
+"note": "Gap-filled 2026-09-04: phone added - the first pass confirmed the address off their own site but could find no number. Still a trade neighbour rather than a competitor: architectural glazing, not vehicles, so referrals could run both ways.",
+"evidence": "Official site rossglass.com has a contact page; listings confirm 2420 Broad Street, Chattanooga TN 37408, this number and Mon-Fri 7-4 hours. Full-service commercial glass and glazing - windows and entrances for new build and renovation across the southeast.",
+"gapfill": "2026-09-04"
 },
 "627": {
 "i": 627,
