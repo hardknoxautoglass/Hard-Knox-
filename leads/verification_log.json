@@ -324,14 +324,18 @@
 "49": {
 "i": 49,
 "status": "keep",
-"address": "1738 Dayton Blvd",
-"note": "verified active; no website - phone+address confirmed"
+"name": "Economy Towing Service",
+"note": "Gap-filled 2026-09-04: open Google search found no official website and no listing for this business at all - the results return other Chattanooga towing companies instead. Worth checking whether they are still trading.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "50": {
 "i": 50,
 "status": "keep",
-"address": "2700 Bliss Ave",
-"note": "verified active via BBB (owner John Burns); no website"
+"name": "Reliable Towing",
+"note": "Gap-filled 2026-09-04: open Google search found no official website. The number Google returns, (423) 622-0063, matches what is already in this row, which is a good sign the existing data is right.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "51": {
 "i": 51,
@@ -735,8 +739,10 @@
 "112": {
 "i": 112,
 "status": "keep",
-"address": "537 Market St Ste 100",
-"note": "verified active 95 yrs, BBB A+; no website"
+"name": "Wholesale Beverages",
+"note": "Gap-filled 2026-09-04: no official website found, but findable with a consistent number and address, so kept under the relaxed rule. Beverage distribution means delivery trucks on daily routes.",
+"evidence": "Google listings give 537 Market St STE 100, Chattanooga TN 37402 and this number, with an A+ BBB rating.",
+"gapfill": "2026-09-04"
 },
 "113": {
 "i": 113,
@@ -4748,9 +4754,10 @@
 "657": {
 "i": 657,
 "status": "keep",
-"note": "Held at A on fleet profile: biomass boiler construction and field repair at 51-200 staff means service trucks and crews travelling to mills and plants across the southeast. Two searches would not yield a phone or email off their contact page, so this needs a call to the Riverside Drive address. Note they trade as Steam & Control Systems as well as McBurney.",
-"evidence": "Own site: gives 2805 Riverside Drive, Chattanooga TN 37406 for Steam & Control Systems Inc., which acquired McBurney in 2017. Engineering, construction, repairs and maintenance, control systems, fuel handling and spare parts pages are all live; the company dates itself to 1911.",
-"new_lead": true
+"name": "The McBurney Corporation",
+"note": "Gap-filled 2026-09-04 - the row had the address but no phone. Call scsenergy.com's Chattanooga line; mcburney.com still runs as the brand site but the working contact is Steam & Control Systems. Boiler construction and field repair crews travelling to mills and plants.",
+"evidence": "Steam & Control Systems, the company that acquired McBurney and is the only authorised provider of McBurney parts and service, publishes 2805 Riverside Drive, Chattanooga TN 37406 and this number on scsenergy.com.",
+"gapfill": "2026-09-04"
 },
 "658": {
 "i": 658,
@@ -4776,9 +4783,10 @@
 "661": {
 "i": 661,
 "status": "keep",
-"note": "One of the better fleet leads left: 19+ drill rigs plus the support trucks and water trucks that travel with them, working geotechnical, environmental and mineral exploration sites across the southeast. Rough ground, long hauls, plenty of stone chips. Two searches would not yield the phone off their contact page, so call at the Bonny Oaks address or use the form.",
-"evidence": "Own site: Contact page gives 6228 Bonny Oaks Drive, Chattanooga TN 37416. History page traces the firm from Tri-State Testing and Drilling in 1985 to the 2007 spin-off; equipment pages state more than 19 drill units with trained crews and bases in Chattanooga, Nashville, Knoxville and the Huntsville/Decatur area.",
-"new_lead": true
+"name": "Tri-State Drilling, LLC",
+"note": "Gap-filled 2026-09-04 - the row had the address but no phone or email, and both are now in. 19+ drill rigs with support trucks across Chattanooga, Nashville, Knoxville and Huntsville/Decatur. scheduling@ is the direct route to whoever books the rigs.",
+"evidence": "Official site tsdrilling.com contact page gives 6228 Bonny Oaks Drive, Chattanooga TN 37416, this number, a second line on (423) 510-0237 and this scheduling email.",
+"gapfill": "2026-09-04"
 },
 "662": {
 "i": 662,
@@ -4804,9 +4812,10 @@
 "665": {
 "i": 665,
 "status": "keep",
-"note": "Found while checking the Vibe record for 'U.S. Logistics Group, LLC', which carried this domain but a different name and address; that record was rejected and this company added on its own account. A truckload carrier is a strong fleet lead - tractors running expedited freight. Their own site publishes no phone or email, so call at the Brainerd Road suite or use the agency-opportunities page.",
-"evidence": "Own site: bwytransportinc.com gives 5600 Brainerd Rd Ste B-28, Chattanooga TN 37411 and describes a Chattanooga-based truckload carrier handling expedited and general freight; about, services, contact and agency-opportunity pages are all live.",
-"new_lead": true
+"name": "BWY Transport Inc",
+"note": "Gap-filled 2026-09-04. This is the carrier rescued from the bad 'U.S. Logistics Group' record, and it now has a number. Truckload carrier doing expedited and general freight - real tractors.",
+"evidence": "Official site bwytransportinc.com has a contact page; Google listings give 5600 Brainerd Rd Suite B28, Chattanooga TN 37411 and this number, with (423) 682-8993 as a second line.",
+"gapfill": "2026-09-04"
 },
 "666": {
 "i": 666,
