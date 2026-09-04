@@ -4252,5 +4252,33 @@
 "note": "Field inspectors for public housing authorities, so a large pool of staff cars covering properties across several states - good windshield volume. Street address is the delivery address from their own contact page, not the 928 McCallie Avenue on the Vibe record. No email published; they use a web form.",
 "evidence": "Own site: Contact Us page gives this phone, fax (423) 265-6222, P.O. Box 6038 Chattanooga TN 37401 for mail and 6650 E Brainerd Rd for deliveries. HQS, NSPIRE and compliance service pages all live.",
 "new_lead": true
+},
+"592": {
+"i": 592,
+"status": "keep",
+"note": "Building automation system provider - controls techs drive to commercial sites, so a small van fleet. Full contact set published, which is unusual for this queue.",
+"evidence": "Own site: megcontrols.com publishes 949 Taft Avenue, Chattanooga TN 37408 with this phone and email on the front page.",
+"new_lead": true
+},
+"593": {
+"i": 593,
+"status": "keep",
+"note": "A teaching shop and makerspace rather than a trade contractor, so little or no fleet - kept at C. Their own site says 1007 Taft Ave; the Vibe record's 1009 is off by a door.",
+"evidence": "Own site: Contact page gives 1007 Taft Ave, Chattanooga TN 37408 and this phone. Class, project and private-party booking pages all live.",
+"new_lead": true
+},
+"594": {
+"i": 594,
+"status": "keep",
+"note": "Equipment dealer running delivery trucks and field service trucks - good fleet lead despite the 1-10 headcount on the record. Their own contact page did not surface the street address in search, so the dataset's 1609 Church Road is left out rather than copied in unverified; the phone reaches them.",
+"evidence": "Own site: JCB dealer for the Tennessee Valley since 1993, with live sales, parts, service and rental inventory pages and this phone published.",
+"new_lead": true
+},
+"595": {
+"i": 595,
+"status": "keep",
+"note": "Refinishing crews travel to homes and commercial jobs in vans. Ask for Gabriel Gilliam, the commercial project manager, on (423) 226-3378 - that is the number their own commercial page gives. The site says East 30th Street in 37407, correcting the record's East 30th Avenue and 37402.",
+"evidence": "Own site: the Chattanooga location pages give 2600 East 30th Street, Chattanooga TN 37407, this local number and a showroom open by appointment 8-5 weekdays.",
+"new_lead": true
 }
 }

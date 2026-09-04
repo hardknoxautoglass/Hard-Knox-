@@ -2598,5 +2598,72 @@
 "website": "mccright.com",
 "evidence": "Own site: Contact Us page gives this phone, fax (423) 265-6222, P.O. Box 6038 Chattanooga TN 37401 for mail and 6650 E Brainerd Rd for deliveries. HQS, NSPIRE and compliance service pages all live.",
 "note": "Field inspectors for public housing authorities, so a large pool of staff cars covering properties across several states - good windshield volume. Street address is the delivery address from their own contact page, not the 928 McCallie Avenue on the Vibe record. No email published; they use a web form."
+},
+"MEG Controls": {
+"name": "MEG Controls",
+"status": "confirmed",
+"industry": "Building Automation & Controls",
+"priority": "B",
+"address": "949 Taft Avenue",
+"city": "Chattanooga",
+"zip": "37408",
+"phone": "(423) 624-0202",
+"email": "info@megcontrols.com",
+"website": "megcontrols.com",
+"evidence": "Own site: megcontrols.com publishes 949 Taft Avenue, Chattanooga TN 37408 with this phone and email on the front page.",
+"note": "Building automation system provider - controls techs drive to commercial sites, so a small van fleet. Full contact set published, which is unusual for this queue."
+},
+"Metal Makers Classes": {
+"name": "Metal Makers Classes",
+"status": "confirmed",
+"industry": "Welding School & Makerspace",
+"priority": "C",
+"address": "1007 Taft Avenue",
+"city": "Chattanooga",
+"zip": "37408",
+"phone": "(423) 463-0509",
+"email": "Not publicly available",
+"website": "metalmakersclasses.com",
+"evidence": "Own site: Contact page gives 1007 Taft Ave, Chattanooga TN 37408 and this phone. Class, project and private-party booking pages all live.",
+"note": "A teaching shop and makerspace rather than a trade contractor, so little or no fleet - kept at C. Their own site says 1007 Taft Ave; the Vibe record's 1009 is off by a door."
+},
+"MID-SOUTH EQUIPMENT": {
+"name": "MID-SOUTH EQUIPMENT",
+"status": "confirmed",
+"industry": "Construction Equipment Sales, Service & Rental",
+"priority": "A",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 460-7011",
+"email": "Not publicly available",
+"website": "midsouthequipment.com",
+"evidence": "Own site: JCB dealer for the Tennessee Valley since 1993, with live sales, parts, service and rental inventory pages and this phone published.",
+"note": "Equipment dealer running delivery trucks and field service trucks - good fleet lead despite the 1-10 headcount on the record. Their own contact page did not surface the street address in search, so the dataset's 1609 Church Road is left out rather than copied in unverified; the phone reaches them."
+},
+"Midtown Lawn Care LLC": {
+"name": "Midtown Lawn Care LLC",
+"status": "nocontact",
+"industry": "Landscaping Services",
+"note": "midtownlawns.com is live and clearly a working Chattanooga lawn and landscape company - residential, commercial, careers and Red Bank service-area pages all indexed - but two domain-restricted searches will not surface the phone or email off the contact page. Worth a retry later: a lawn crew runs trucks and trailers."
+},
+"Mint Condition Chattanooga": {
+"name": "Mint Condition Chattanooga",
+"status": "nocontact",
+"note": "mintconditionclean.com returns nothing on two domain-restricted searches. Mint Condition is a franchised commercial cleaning brand and the Chattanooga franchise has no indexed page of its own, so there is nothing self-published to confirm the Shallowford Road suite against."
+},
+"Miracle Method Surface Refinishing of Chattanooga": {
+"name": "Miracle Method Surface Refinishing of Chattanooga",
+"status": "confirmed",
+"industry": "Surface Refinishing",
+"priority": "B",
+"address": "2600 East 30th Street",
+"city": "Chattanooga",
+"zip": "37407",
+"phone": "(423) 464-4220",
+"email": "Not publicly available",
+"website": "miraclemethod.com/chattanooga",
+"evidence": "Own site: the Chattanooga location pages give 2600 East 30th Street, Chattanooga TN 37407, this local number and a showroom open by appointment 8-5 weekdays.",
+"note": "Refinishing crews travel to homes and commercial jobs in vans. Ask for Gabriel Gilliam, the commercial project manager, on (423) 226-3378 - that is the number their own commercial page gives. The site says East 30th Street in 37407, correcting the record's East 30th Avenue and 37402."
 }
 }
