@@ -2804,9 +2804,10 @@
 "381": {
 "i": 381,
 "status": "keep",
-"note": "NEW LEAD. Business-run page: phone confirmed. Does residential and commercial property work. No address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"name": "Woodruff Lawn Care",
+"note": "Gap-filled 2026-09-04: no website and nothing solid found. Searches return only established Hixson lawn firms and one passing review mention of a Dylan Woodruff trading as DylanDale Lawn Care, which may or may not be this row. Nothing recorded. Confirm the trading name before chasing.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "382": {
 "i": 382,
@@ -2876,10 +2877,11 @@
 },
 "390": {
 "i": 390,
-"name": "Canyon Creek Christian Academy",
 "status": "keep",
-"evidence": "School's own Facebook page",
-"note": "NEW LEAD. School page confirms a Christian hybrid tutorial in Hixson; a second search found no official site publishing a number. Small, so likely a van rather than a fleet."
+"name": "Canyon Creek Christian Academy",
+"note": "Gap-filled 2026-09-04: website and email added; no phone is published anywhere. Because it is a hybrid homeschool meeting in borrowed church buildings, there is unlikely to be a bus fleet - kept at C.",
+"evidence": "Official site canyoncreekchristian.com has contact, about and admissions pages and publishes this email. A hybrid homeschool academy for pre-K to ninth grade, meeting at Cross of Christ Lutheran and Stuart Heights Baptist churches on Hixson Pike.",
+"gapfill": "2026-09-04"
 },
 "187": {
 "i": 187,
@@ -3230,9 +3232,10 @@
 "436": {
 "i": 436,
 "status": "keep",
-"note": "Scott and Paul Martin, two-man shop with no subs. Estimates free within 20 miles of Northgate. No phone in the search index.",
-"evidence": "Own site: About page confirms Hixson base, trading since 2009, licensed in Red Bank and Hamilton County, A+ with the BBB; serves Chattanooga, Hixson, Red Bank, Soddy Daisy, Signal Mountain and Ooltewah.",
-"new_lead": true
+"name": "Martin Brothers Painting",
+"note": "Gap-filled 2026-09-04: phone, address and website added. A cell number is published too - (423) 314-1448 - which is usually the faster route to a two-man painting crew.",
+"evidence": "Official site martinbrotherspainting.com has contact, about and services pages; listings give 513 Marlow Dr, Hixson TN 37343 and this number with a cell on (423) 314-1448. Trading since 2009.",
+"gapfill": "2026-09-04"
 },
 "437": {
 "i": 437,
@@ -3320,9 +3323,10 @@
 "448": {
 "i": 448,
 "status": "keep",
-"note": "Non-profit land trust. Runs trucks for trail and land work but a small operation with a small budget.",
-"evidence": "Own site: 501(c)(3) conservancy based in Hixson.",
-"new_lead": true
+"name": "North Chickamauga Creek Conservancy",
+"note": "Gap-filled 2026-09-04: phone, mailing address and website added. A land conservancy runs trucks and trail equipment onto rough ground, though as a small nonprofit the fleet is modest - kept at C.",
+"evidence": "Official site northchick.org has a contact page; listings give P.O. Box 358, Hixson TN 37343 and this number.",
+"gapfill": "2026-09-04"
 },
 "449": {
 "i": 449,
@@ -4015,9 +4019,10 @@
 "544": {
 "i": 544,
 "status": "keep",
-"note": "Their own site says the work 'now lives with the neighbors', which reads like the organisation has wound down. Verify it still exists before spending time on it.",
-"evidence": "Own site: lists this address and email; a decade of neighbourhood work on Glass Street in East Chattanooga.",
-"new_lead": true
+"name": "GLASS HOUSE COLLECTIVE",
+"note": "Gap-filled 2026-09-04: phone, address, email and website all added. Despite the name this is a neighbourhood revitalisation nonprofit on Glass Street, not a glass business - no competitive overlap and no real fleet, so it stays at C.",
+"evidence": "Official site glasshousecollective.org is live; listings give 2523 Glass Street, Chattanooga TN 37406, PO Box 5566, this number and this email.",
+"gapfill": "2026-09-04"
 },
 "545": {
 "i": 545,
@@ -4086,9 +4091,10 @@
 "554": {
 "i": 554,
 "status": "keep",
-"note": "No contact details in the index despite having a contact page.",
-"evidence": "Own site: Contact and services pages describe a Chattanooga showroom, 17 years specialising in curbless shower installation.",
-"new_lead": true
+"name": "Havenly Showers",
+"note": "Gap-filled 2026-09-04: phone, address, email and website all added. Shower and bath installers run fitting vans to homes.",
+"evidence": "Official site havenlyshowers.com has contact and services pages; listings give 121 Honest St, Chattanooga TN 37421, this number, this email and Mon-Fri 8-4.",
+"gapfill": "2026-09-04"
 },
 "555": {
 "i": 555,
