@@ -329,3 +329,81 @@ these businesses are actually called before spending more time on them.
 **Closure warnings noted in the rows:** Signal Mountain Cleaners and Dempsey and Sons
 Well Drilling both carry a listing marking them closed. Harvey's Plumbing's domain shows
 signs of lapsing.
+
+---
+
+## HANDOFF — 2026-09-04 (phone re-check paused mid-sweep)
+
+### Where the work stands
+
+The workbook `leads/Hamilton_County_Auto_Glass_Leads_verified.xlsx` is **complete and usable right now** — 685 rows, all Hamilton County TN, all verified against official sources. The Vibe queue is finished and the gap-fill sweep (rows with no website) is finished. What is *partly* done is the **phone re-check**, the second thing the user asked for on 2026-09-04.
+
+### The phone re-check: what it is and how far it got
+
+Purpose: the user found wrong phone numbers in the sheet, so every row with a phone gets its number re-read off the company's own website.
+
+**Done: 57 rows (10 batches). Remaining: 499 rows — 204 A, 226 B, 69 C.**
+
+Error rate so far is roughly **one row in three needing a correction or a flag** — far worse than the 4% seen in the gap-fill sweep. This sweep is worth finishing.
+
+Corrections made so far:
+- Capital Toyota — number wrong; collision centre 423-490-0216 is the real glass buyer
+- Crown CDJR — local number replaced by toll-free on their site
+- Long Hyundai — **was carrying the Mercedes-Benz dealership's number from the row below it**
+- Rivermont Paint & Body — wrong number, site says 423-702-6722
+- U.S. Xpress — site now publishes only 866-646-5886
+- Averitt Express — generic 800 number replaced with the Chattanooga terminal's 877-339-3530
+- Hamilton County Schools — switchboard replaced with the Transportation Hotline 423-498-5555
+- **United Rentals — address AND phone were both wrong** (6114 Airways Blvd is a *Jackson TN* branch). Now 3611 Amnicola Hwy, 423-353-9270
+- Mosteller's Wrecker — website nationaltow.net was not theirs; removed
+- Chattanooga Coca-Cola — chattanoogacocacola.com is dead; the live page is cocacolaunited.com/locations/chattanooga/
+
+Flagged UNCONFIRMED (site publishes no number — call before relying on them): Integrity Buick GMC, CarMax, North Shore Auto Collision, Snider Fleet Solutions, Covenant Logistics, Pointe General Contractors, First Student, City of Chattanooga Fleet.
+
+### Two findings the user should act on
+
+1. **Classic Collision does its own glass replacement** — competitor, not customer. They run 8+ metro shops, and their Gunbarrel address and phone are **identical to Advanced Collision's**, so those brands have merged. Rows 20, 21 and 22 all chase one group. North Shore Auto Collision (row 23) is the better independent body-shop prospect — no glass service of its own.
+2. **Named decision-makers found:** Kenneth Howell, Director of Fleet Management, City of Chattanooga (a "100 Best Fleets in North America" operation); Thomas Cummings, GM, Tennessee Crown Distributing.
+
+### Unworked prospects discovered along the way (not yet in the sheet)
+
+- Enterprise Rent-A-Car: four more Hamilton County branches (Downtown, Chapman Rd, Hixson, Airport) — only Lee Hwy is in the book
+- United Rentals: second branch, 4001 Industry Dr, 423-624-4000; plus Flooring & Facility Solutions at 423-376-1893
+- Penske: two more Chattanooga points (Hickory Valley Rd, Home Depot #742)
+
+### To resume the phone re-check
+
+Regenerate the worklist (skips rows already swept, sorts A-priority first):
+
+```python
+import json, openpyxl
+wb=openpyxl.load_workbook('leads/Hamilton_County_Auto_Glass_Leads_verified.xlsx'); ws=wb['Leads']
+log=json.load(open('leads/verification_log.json'))
+swept={int(float(k))+2 for k,v in log.items() if isinstance(v,dict) and v.get('gapfill')}
+hdr=[c.value for c in ws[1]]; ci={h:i+1 for i,h in enumerate(hdr)}
+out=[]
+for r in range(2, ws.max_row+1):
+    n=ws.cell(r,ci['Business Name']).value
+    if not n or r in swept: continue
+    p=ws.cell(r,ci['Phone']).value
+    if not p or 'not publicly' in str(p).lower(): continue
+    pri=(ws.cell(r,ci['Lead Priority']).value or 'C').strip()[0].upper()
+    out.append((pri,r,n,ws.cell(r,ci['Website']).value))
+out.sort(key=lambda x:(x[0],x[1]))
+```
+
+**Next six rows:** row 118 ABC Supply Co. | row 119 Ferguson Waterworks | row 122 Chattanooga Housing Authority | row 125 Lumberjacks Tree Service | row 128 Landscape Workshop - Chattanooga Branch | row 129 Arrow Exterminators - Chattanooga Service Center
+
+**Method per row** — one `WebSearch` with `allowed_domains` set to that company's own website; compare the published number to the sheet. If the domain returns nothing, do one open `WebSearch` with directories and social blocked to find the real site. Then record with:
+
+```bash
+python3 leads/tools/enrich.py < batch.json   # entries need "row" and "name"; omitted fields are left untouched
+```
+
+Commit and push after every batch to `claude/vibe-queue-verification-1p9xkh`.
+
+**Where a dealership or contractor splits sales from service, put the service / parts / collision line in the note** — that department buys the glass, not the sales floor.
+
+### Still on offer, never accepted
+
+The A/B/C priority grades drift between sessions: 37% A among the original 433 rows versus 49-59% A among the Vibe additions, the same trades sitting in two different tiers, and inconsistent industry strings. A re-grade of all 685 rows against a written rubric was offered and the user has not answered either way.

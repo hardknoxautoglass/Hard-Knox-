@@ -802,9 +802,10 @@
 "111": {
 "i": 111,
 "status": "keep",
-"website": "chattanoogacocacola.com",
-"address": "2111 W Shepherd Rd",
-"note": "found website; Coca-Cola UNITED bottler"
+"name": "Chattanooga Coca-Cola Bottling Company",
+"note": "WEBSITE CORRECTED 2026-09-04: chattanoogacocacola.com has nothing indexed; the operating company is Coca-Cola Bottling Company UNITED and their live Chattanooga location page is cocacolaunited.com/locations/chattanooga/. Phone (423) 624-4681 and 2111 W Shepherd Rd both confirmed against that page. 296,000 sq ft plant opened 2016 serving Chattanooga, Scottsboro AL and Dalton GA - a large delivery-truck fleet running three markets out of this building.",
+"evidence": "cocacolaunited.com/locations/chattanooga/",
+"gapfill": "2026-09-04"
 },
 "112": {
 "i": 112,
@@ -817,16 +818,18 @@
 "113": {
 "i": 113,
 "status": "keep",
-"email": "TCummings@tennesseecrown.com",
-"address": "3875 N Hawthorne St",
-"note": "verified tennesseecrown.com live; GM Thomas Cummings"
+"name": "Tennessee Crown Distributing Co.",
+"note": "OFFICIAL SITE: phone (423) 629-7121 and 3875 N Hawthorne St RE-CONFIRMED 2026-09-04. Toll-free 800-982-0817, mailing PO Box 5068. NAMED CONTACT: Thomas Cummings, General Manager. Beer, wine and spirits distributor - a full route fleet of delivery trucks.",
+"evidence": "tennesseecrown.com/locations/",
+"gapfill": "2026-09-04"
 },
 "114": {
 "i": 114,
 "status": "keep",
-"email": "TBcustomerservice@tristarbev.com",
-"address": "200 Shearer St",
-"note": "verified handfamilycompanies.com live"
+"name": "TriStar Beverage of Chattanooga (Hand Family Companies)",
+"note": "OFFICIAL SITE: phone (423) 332-5500 and 200 Shearer St, Soddy-Daisy 37379 RE-CONFIRMED EXACTLY 2026-09-04, and EMAIL FOUND (TBcustomerservice@tristarbev.com). Part of Hand Family Companies, a multi-state beer and beverage distributor - the Chattanooga branch runs its own route trucks.",
+"evidence": "handfamilycompanies.com/contact-chattanooga",
+"gapfill": "2026-09-04"
 },
 "115": {
 "i": 115,
