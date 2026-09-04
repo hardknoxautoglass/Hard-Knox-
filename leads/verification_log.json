@@ -3920,9 +3920,10 @@
 "533": {
 "i": 533,
 "status": "keep",
-"note": "Franchise of The Flying Locksmiths. Locksmith vans are on the road all day. The site routes everything through a locations map - no direct Chattanooga number published.",
-"evidence": "Own site: locations directory confirms a Chattanooga franchise among 90+ locally owned US locations; commercial locksmith, access control and door security services.",
-"new_lead": true
+"name": "FlyLock Security Solutions-Chattanooga",
+"note": "Gap-filled 2026-09-04: phone, email, address and website added. They trade as The Flying Locksmiths too. Mobile locksmith vans running service calls all day, and they cover into Dalton GA.",
+"evidence": "Official site flylock.com's Chattanooga location page confirms the branch; listings give 2212 Encompass Dr STE 166, Chattanooga TN 37421, this number and this email. Commercial locksmithing, access control, safes and automatic doors across greater Chattanooga and northwest Georgia.",
+"gapfill": "2026-09-04"
 },
 "534": {
 "i": 534,
@@ -3970,9 +3971,10 @@
 "540": {
 "i": 540,
 "status": "keep",
-"note": "No contact details surfaced in the index.",
-"evidence": "Own site: home, about/contact and services pages active for a Chattanooga landscaping company.",
-"new_lead": true
+"name": "Groundscape Concepts, LLC",
+"note": "Gap-filled 2026-09-04: phone, address and website added. Bulk mulch and erosion control matting means dump trucks and flatbeds delivering to construction sites.",
+"evidence": "Official site groundscapeconcepts.com is live with an about/contact page; listings confirm 1332 Stuart St, Chattanooga TN 37406 and this number. Erosion control supplies and mulches.",
+"gapfill": "2026-09-04"
 },
 "541": {
 "i": 541,
@@ -4263,9 +4265,10 @@
 "581": {
 "i": 581,
 "status": "keep",
-"note": "Service techs visit boiler and cooling-tower sites. Old-style site with no contact details in the index.",
-"evidence": "Own site: aquatreat.net is live for Aqua Treat, a water treatment company.",
-"new_lead": true
+"name": "MEI/AQUA TREAT, INC.",
+"note": "Gap-filled 2026-09-04: phone and address added - this row previously had only a website. A second address and number circulate, 617 Hudson Rd on (423) 265-0132, so try the other if this one fails. Worth noting 115 Parmenas Lane is also Marion Environmental's address, a row still unreachable from the Vibe queue - so one visit might reach both.",
+"evidence": "Listings give 115 Parmenas Ln, Chattanooga TN 37405 with this number and fax 423-892-5122 for MEI/Aqua Treat, Inc., established 1997; aquatreat.net is the company site.",
+"gapfill": "2026-09-04"
 },
 "582": {
 "i": 582,
@@ -4284,9 +4287,10 @@
 "584": {
 "i": 584,
 "status": "keep",
-"note": "Beverage maker with its own distribution, so delivery and sales vehicles. Publishes no phone; the email addresses on their contact and distribute-with-us pages are obfuscated against scraping, so they need to be read off the site by hand or reached through the wholesale form.",
-"evidence": "Own site: gives 2310 Vance Ave Ste 102, Chattanooga TN 37404 as their licensed manufacturing facility; store locator, distribution and buy-now pages all live.",
-"new_lead": true
+"name": "LegallyHighest\u00ae THC Seltzer",
+"note": "Gap-filled 2026-09-04: still no phone. Their own site publishes none and no listing carries one either; the email addresses on their contact and distribution pages are obfuscated against scraping. The wholesale form on legallyhighest.com remains the only route in.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "585": {
 "i": 585,
@@ -4417,9 +4421,10 @@
 "603": {
 "i": 603,
 "status": "keep",
-"note": "The most useful name in this batch even though the fleet is small. They are the Chattanooga area's glass recycler - a natural home for scrap windshield glass and a partner worth talking to rather than just a customer. No phone published; their own privacy page puts them in 37405, not the 37404 on the record, and no street address is given. Email is on the founder's hillcity.ventures domain, which is what their own site publishes.",
-"evidence": "Own site: founder-message and contact pages name Morgan Holl as founder and publish this email; about, commercial, pilot and collection-event pages are all live and describe a facility near downtown Chattanooga.",
-"new_lead": true
+"name": "Overlooked Materials",
+"note": "Gap-filled 2026-09-04: phone and street address added - the row previously had only an email and no street. This is the glass recycler, so still the partner conversation as much as a sales call: they are a natural home for scrap windscreen glass, and now there is a number to ring.",
+"evidence": "Official site overlookedmaterials.com confirms the operation; listings and local press give 951 S Watkins St, Chattanooga TN 37404 and this number. Curbside glass and styrofoam collection for homes and businesses in Chattanooga, Red Bank and Lookout Mountain.",
+"gapfill": "2026-09-04"
 },
 "604": {
 "i": 604,
@@ -4494,9 +4499,10 @@
 "614": {
 "i": 614,
 "status": "keep",
-"note": "Fabrication studio building furniture, stair systems, signage and retail displays, which means box trucks running installs - including out of state. Their own site confirms the Dodds Avenue address but publishes neither phone nor email across two searches, so this one needs a visit or a form.",
-"evidence": "Own site: Contact page gives 2801 Dodds Avenue, Chattanooga TN 37407. Project pages for Songbirds Guitar Museum, Covenant College, Market South and work with Branch Technology at the Field Museum in Chicago are all live.",
-"new_lead": true
+"name": "Range Projects",
+"note": "Gap-filled 2026-09-04: phone added - the row had the address but no way to call. Box trucks running installs, including out of state.",
+"evidence": "Official site range-projects.com has a contact page confirming 2801 Dodds Avenue, Chattanooga TN 37407; listings give this number. Custom cabinetry and millwork, steel doors and windows, stair systems, signage and furniture.",
+"gapfill": "2026-09-04"
 },
 "615": {
 "i": 615,
