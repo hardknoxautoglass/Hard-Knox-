@@ -999,9 +999,10 @@
 "137": {
 "i": 137,
 "status": "keep",
-"email": "amoffett@pmichattanooga.com",
-"address": "6720 Heritage Business Ct Ste 601",
-"note": "verified site live; named contact email better than generic"
+"name": "PMI Chattanooga",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 708-6407 RE-CONFIRMED on their own contact page, address 6720 Heritage Business Court Ste 601 37421 confirmed. Their site publishes only the generic info@pmichattanooga.com; the amoffett@ address on file is a named contact and is the better first approach, with info@ as fallback. Manages commercial and multifamily as well as single-family, so the maintenance side runs vehicles.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "138": {
 "i": 138,
@@ -1026,18 +1027,19 @@
 },
 "142": {
 "i": 142,
-"name": "R & D Wrecker",
 "status": "keep",
-"phone": "(423) 877-8698",
-"evidence": "Contact page on rdwrecker.com",
-"note": "OFFICIAL SITE: phone 423-877-8698 confirmed. 30+ years, and they run commercial towing contracts for dealerships, so a sizeable wrecker fleet. No email published."
+"name": "R & D Wrecker Service",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 877-8698 RE-CONFIRMED on rdwrecker.com. 30+ years, accident towing and nationwide car transport, and they run a dedicated commercial-towing-for-dealerships page - that dealership contract work is the tell for a sizeable wrecker fleet. Still no email published.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "143": {
 "i": 143,
 "status": "keep",
-"phone": "(423) 875-5482",
-"address": "4854 Dayton Blvd",
-"note": "CORRECTED: the Hixson-area Classic Collision is at 4854 Dayton Blvd, 423-875-5482. Sheet phone 423-843-9950 not verifiable"
+"name": "Classic Collision (Hixson Pike)",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 875-5482 RE-CONFIRMED, but the row's geography was wrong. classiccollision.com calls the 4854 Dayton Blvd shop 'Classic Collision Red Bank' and gives the city as Chattanooga 37415, not Hixson 37343 - corrected. The row name '(Hixson Pike)' is misleading and should be renamed Red Bank: Classic Collision has separate Hixson and Northgate shops that genuinely are in 37343. COMPETITOR CAUTION STANDS - Classic Collision does its own glass replacement, and their site now lists nine metro shops (Red Bank, Chattanooga, Chattanooga East, Hixson, Northgate, Chapman, Chapman North, Gunbarrel Rd, Jersey Pike). Hours Mon-Fri 8:00-17:30, Sat by appointment.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "144": {
 "i": 144,
@@ -1093,20 +1095,18 @@
 "153": {
 "i": 153,
 "status": "keep",
-"address": "2288 Gunbarrel Rd Ste 154 PMB 228",
-"note": "verified popalock.com Chattanooga franchise live"
+"name": "Pop-A-Lock (Chattanooga franchise)",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 238-6736 RE-CONFIRMED on popalock.com's own Chattanooga franchise pages. They run a dedicated automotive/vehicle service line covering the whole county and into North Georgia - Apison, Collegedale, Ooltewah, Harrison, Soddy Daisy, Signal Mountain, Red Bank, East Ridge, Ringgold, Rossville, Fort Oglethorpe. A mobile-van fleet doing roadside work, so windshields take a beating.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "154": {
 "i": 154,
-"name": "A-1 Security Locksmith",
 "status": "keep",
-"address": "3523 Hixson Pike",
-"city": "Chattanooga",
-"zip": "37415",
-"phone": "(423) 870-9790",
-"email": "info@cprestoration.net",
-"evidence": "Contact page on a1securitylocksmithtn.com",
-"note": "OFFICIAL SITE: address and phone confirmed, open 8-8 seven days, and they do auto lock work plus a 24/7 mobile van. CAUTION - the email they publish is info@cprestoration.net, a different company's domain, so it may be a shared template or a common owner. Verify it on the call before using it."
+"name": "A-1 Security Locksmith",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 870-9790 RE-CONFIRMED - it runs in their own contact-page title. Address 3523 Hixson Pike 37415 confirmed; 42+ years in business, same-day and 24/7 mobile service, with a standalone auto-lock services page. CAUTION STANDS: the email they publish is info@cprestoration.net, a different company's domain - verify it on the call before using it.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "155": {
 "i": 155,
@@ -1198,8 +1198,10 @@
 "168": {
 "i": 168,
 "status": "keep",
-"address": "2000 Washington St",
-"note": "verified cmcrecycling.com/locations/chattanooga live"
+"name": "CMC Recycling (Commercial Metals Co.)",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 267-2181 RE-CONFIRMED on cmcrecycling.com's own Chattanooga page, address 2000 Washington St 37408 confirmed, hours Mon-Fri 8:00-15:30, sited off I-24. Scrap yard taking both commercial and walk-in loads - roll-off trucks and yard equipment, and the debris environment is hard on glass.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "169": {
 "i": 169,
