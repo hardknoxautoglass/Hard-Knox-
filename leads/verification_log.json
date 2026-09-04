@@ -3321,9 +3321,10 @@
 "450": {
 "i": 450,
 "status": "keep",
-"note": "Masonry crews haul block and scaffold. Site uses a contact form, no phone published.",
-"evidence": "Own site: Contact page lists this address and hours; 30+ years as a commercial and industrial masonry contractor working for general contractors.",
-"new_lead": true
+"name": "Adams Masonry, Inc.",
+"note": "Gap-filled 2026-09-04: phone, address and a working estimating email all added. Masonry crews haul block, brick and mixers to sites daily.",
+"evidence": "Official site adamsmasonry.build has a contact page; listings confirm 2827 Calhoun Ave, Chattanooga TN 37407, this number, M-F 8-4:30 and this estimating email.",
+"gapfill": "2026-09-04"
 },
 "451": {
 "i": 451,
@@ -3342,9 +3343,10 @@
 "453": {
 "i": 453,
 "status": "keep",
-"note": "Wholesale distribution means delivery trucks. Ask for Grady Distributing. No contact details published.",
-"evidence": "Own site: identifies ABC Hosiery & Apparel as a division of Grady Distributing Co. Inc., founded 1986, wholesale distributor of socks, tees, fleece and underwear.",
-"new_lead": true
+"name": "Abc Hosiery",
+"note": "Gap-filled 2026-09-04: phone and address added. Note 1609 Elmendorf Street is the third business on this list at that address, alongside East Chattanooga Lumber and Goggin Warehousing - it looks to be a shared industrial site, so one visit could cover several calls.",
+"evidence": "Official site abchosiery.com is live for ABC Hosiery & Apparel; listings confirm 1609 Elmendorf St, Chattanooga TN 37406 and this number.",
+"gapfill": "2026-09-04"
 },
 "454": {
 "i": 454,
@@ -3384,9 +3386,10 @@
 "459": {
 "i": 459,
 "status": "keep",
-"note": "Has been acquired or rebranded to USS since the Vibe record was made. Foundation crews run heavy trucks. No phone published in the index.",
-"evidence": "Own site: now trades as United Structural Systems (USS Chattanooga) - the domain resolves to their foundation and structural repair pages, with a Chattanooga team and a Monteagle location page.",
-"new_lead": true
+"name": "Basement and Crawlspace Solutions",
+"note": "Gap-filled 2026-09-04: phone, address and website all added. Foundation and waterproofing crews run box trucks and equipment trailers onto residential lots six days a week.",
+"evidence": "Official site basementandcrawlspacesolutions.com is live; listings confirm 2108 S Watkins St, Chattanooga TN 37404, this number and Mon-Sat 8-5 hours.",
+"gapfill": "2026-09-04"
 },
 "460": {
 "i": 460,
@@ -3412,9 +3415,10 @@
 "463": {
 "i": 463,
 "status": "keep",
-"note": "No phone or address surfaced in the index - contact form only.",
-"evidence": "Own site: home, residential, commercial and work gallery pages describe a licensed Chattanooga general contractor.",
-"new_lead": true
+"name": "Ambrosetti Construction",
+"note": "Gap-filled 2026-09-04: phone and address added.",
+"evidence": "Official site ambrosetticonstruction.com is live; listings confirm 5571 Dayton Blvd, Chattanooga TN 37415 and this number. Licensed general contractor doing commercial and residential work since 2007.",
+"gapfill": "2026-09-04"
 },
 "464": {
 "i": 464,
@@ -3447,16 +3451,18 @@
 "468": {
 "i": 468,
 "status": "keep",
-"note": "Founded 1886 - the oldest business found in this whole exercise. Fence crews cover a 100-mile radius. No phone in the search index.",
-"evidence": "Own site: Contact and about pages state 138 years in Chattanooga fencing, founded 1886, family owned, servicing Chattanooga and 100 miles around; residential and commercial fence and designer gate pages active.",
-"new_lead": true
+"name": "Brown Fence Company Inc.",
+"note": "Gap-filled 2026-09-04: phone, address and website added. The oldest fence company in Chattanooga at 138 years - commercial and residential installs, gate fabrication and security gates, so flatbeds and crew trucks. Ask for Myra Brown.",
+"evidence": "Official site brownfenceco.com has a contact page and dates the firm to 1886; listings confirm 4150 S Creek Rd, Chattanooga TN 37406, this number, a second line on (423) 595-5658 and fax (423) 698-2479. Owner Myra Brown.",
+"gapfill": "2026-09-04"
 },
 "469": {
 "i": 469,
 "status": "keep",
-"note": "Their site is half-rebuilt - the index still shows default WordPress pages ('Hello world!', 'Sample Page') alongside old .htm product pages. No contact details published.",
-"evidence": "Own site: home and products pages for Builders Hardware Company, Chattanooga.",
-"new_lead": true
+"name": "Builders Hardware Company of Chattanooga",
+"note": "Gap-filled 2026-09-04: phone, address and website added. This is the real Chattanooga firm - not to be confused with Builders Hardware of Marshall, MICHIGAN, which was rejected from the Vibe queue earlier for exactly that mix-up. Supply trucks delivering doors and frames to job sites.",
+"evidence": "Listings agree on 2904 Dodds Ave, Chattanooga TN 37407, this number, a toll-free line on (877) 291-7575 and a buildershardware-chat.com site. Founded 1961; doors, frames, hardware and specialty supply across Tennessee.",
+"gapfill": "2026-09-04"
 },
 "470": {
 "i": 470,
