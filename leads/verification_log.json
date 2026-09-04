@@ -699,8 +699,10 @@
 "96": {
 "i": 96,
 "status": "keep",
-"address": "975 E 3rd St",
-"note": "verified erlanger.org live"
+"name": "Erlanger Health System",
+"note": "OFFICIAL SITE: phone (423) 778-7000 and 975 E 3rd St RE-CONFIRMED EXACTLY 2026-09-04. This is Erlanger Baroness Hospital, the system HQ where the leadership and administrative offices sit. Fleet is shuttles, patient-transport vans and security vehicles across several campuses; ask for facilities or transportation services, not the main desk.",
+"evidence": "erlanger.org/locations/erlanger-hospitals/erlanger-baroness-hospital",
+"gapfill": "2026-09-04"
 },
 "97": {
 "i": 97,
@@ -717,9 +719,10 @@
 "99": {
 "i": 99,
 "status": "keep",
-"phone": "(423) 648-1372",
-"address": "10 W ML King Blvd",
-"note": "verified epb.com live; local line better than 800 number; Hixson branch 2124 Northpoint Blvd"
+"name": "EPB (Electric Power Board of Chattanooga)",
+"note": "OFFICIAL SITE: phone (423) 648-1372 RE-CONFIRMED 2026-09-04 - it is their published general number, which they advertise as (423) 648-1EPB (1EPB spells 1372). Business fibre support is 423-648-1500. Downtown corporate office 10 W ML King Blvd confirmed. EPB runs a large utility fleet including bucket trucks - line trucks take rock damage constantly - and buys through formal procurement.",
+"evidence": "epb.com/support/",
+"gapfill": "2026-09-04"
 },
 "100": {
 "i": 100,
@@ -749,21 +752,26 @@
 "104": {
 "i": 104,
 "status": "keep",
-"address": "4075 S Access Rd",
-"note": "verified branch #260; phone+address confirmed"
+"name": "Sunbelt Rentals",
+"note": "OFFICIAL SITE: phone (423) 893-0521 and 4075 S Access Rd RE-CONFIRMED EXACTLY 2026-09-04 (branch 260). Open Mon-Fri 7:00-17:00, closed weekends. Rents aerial platforms, forklifts, earth-moving and more, so their own delivery trucks and yard equipment plus the rental fleet all carry glass.",
+"evidence": "sunbeltrentals.com/location/tn/chattanooga/equipment-tool-rentals/260/",
+"gapfill": "2026-09-04"
 },
 "105": {
 "i": 105,
 "status": "keep",
-"address": "1913 E 24th St Pl",
-"note": "verified hercrentals.com Chattanooga branch"
+"name": "Herc Rentals",
+"note": "OFFICIAL SITE: phone (423) 624-6955 and 1913 E 24th St Pl RE-CONFIRMED EXACTLY 2026-09-04. A Herc ProSolutions operation runs from the same address (833-917-0356). Equipment rental fleet plus delivery trucks.",
+"evidence": "hercrentals.com/locations/tennessee/chattanooga/chattanooga.html",
+"gapfill": "2026-09-04"
 },
 "106": {
 "i": 106,
 "status": "keep",
-"phone": "(423) 899-2911",
-"address": "6114 Airways Blvd",
-"note": "verified unitedrentals.com; corrected to Airways Blvd branch phone"
+"name": "United Rentals",
+"note": "ADDRESS AND PHONE BOTH CORRECTED 2026-09-04. The 6114 Airways Blvd address and (423) 899-2911 previously on file were WRONG - United Rentals has no Airways Blvd branch in Chattanooga (that address belongs to a branch in Jackson TN). Their own site lists two Chattanooga branches: 3611 Amnicola Hwy 37406, 423-353-9270 (branch L69, now recorded here) and 4001 Industry Dr 37416, 423-624-4000 (branch C70) - the second is a separate unworked prospect. A third United Rentals unit, Flooring & Facility Solutions, shares the Amnicola yard on 423-376-1893.",
+"evidence": "unitedrentals.com/locations/tn/chattanooga/equipment-tool-rentals/l69",
+"gapfill": "2026-09-04"
 },
 "107": {
 "i": 107,
@@ -786,9 +794,10 @@
 "110": {
 "i": 110,
 "status": "keep",
-"email": "wedeliver@thsfs.com",
-"address": "801 E 12th St",
-"note": "verified thsfs.com live; 50+ yrs"
+"name": "THS Foodservice Inc.",
+"note": "OFFICIAL SITE: phone (423) 267-3821 and 801 E 12th St RE-CONFIRMED EXACTLY 2026-09-04, and EMAIL FOUND (wedeliver@thsfs.com). Fax 423-756-7710. Restaurant supply and food distribution - a delivery-truck fleet on daily routes.",
+"evidence": "thsfs.com",
+"gapfill": "2026-09-04"
 },
 "111": {
 "i": 111,
