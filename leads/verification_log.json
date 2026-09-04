@@ -4336,5 +4336,26 @@
 "note": "Design-build remodeler running crew trucks to job sites. The 51-200 headcount on the record looks inflated for a remodeler with one office. Two searches would not surface a street address or email, so the record's 3711 Provence Street is left off.",
 "evidence": "Own site: Contact page publishes this phone and invites calls or texts; kitchen, bath, basement, exterior and deck remodeling pages all live.",
 "new_lead": true
+},
+"604": {
+"i": 604,
+"status": "keep",
+"note": "Not a fleet lead - it is a tint shop, so treat it as a referral partner. They tint, you do glass, and the two jobs land on the same vehicles; worth a call on that basis alone. One caution: the root domain now shows an Epik 'for sale' page while the inner pages still serve, so confirm they are trading before counting on them.",
+"evidence": "Own site: the window-tinting page at oasisglasstinting.com gives 2114 Chapman Road, Chattanooga TN 37421, this phone and this email.",
+"new_lead": true
+},
+"605": {
+"i": 605,
+"status": "keep",
+"note": "Franchise cleaning crews driving between commercial accounts across east Hamilton County and into Bradley County. The location page publishes no street address, so the record's 6130 Preservation Drive Suite B is left off. No email - franchise sites use a quote form.",
+"evidence": "Own site: the Chattanooga-Lake Hills location page gives this phone and 9-5 weekday office hours, covering Harrison, McDonald and Old Fort.",
+"new_lead": true
+},
+"606": {
+"i": 606,
+"status": "keep",
+"note": "Small historic-renovation and custom-build firm with crew trucks. Worth noting they also run Southern Window Films as a 3M certified window film dealer and installer - so they are in the film trade themselves, which makes them a referral contact as much as a customer.",
+"evidence": "Own site: every page carries the phone in its title, and the site gives 4637 Guild Trail, Chattanooga TN 37409. Design, build, sustain, FAQ and testimonials pages all live.",
+"new_lead": true
 }
 }

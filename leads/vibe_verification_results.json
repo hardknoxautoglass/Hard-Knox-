@@ -2797,5 +2797,62 @@
 "name": "Nooga Turf",
 "status": "nocontact",
 "note": "noogaturf.com resolves but serves NexGen Lawns' Chattanooga artificial-turf page - Nooga Turf is a dealer front for that national network, whose site also runs Nashville, Knoxville and Ohio pages. Neither noogaturf.com nor nexgenlawns.com surfaces a Chattanooga phone, address or email across two searches."
+},
+"Norris and Son, Inc.": {
+"name": "Norris and Son, Inc.",
+"status": "nocontact",
+"note": "norrisrefractory.com returns nothing on two domain-restricted searches - the site is not indexed. Shame, because the record describes a 51-200 staff refractory contractor at 4015 Calhoun Avenue serving industrial clients nationwide, which would be a strong fleet lead. Worth chasing by phone."
+},
+"NOW Freight": {
+"name": "NOW Freight",
+"status": "dead",
+"note": "nowfreight.us no longer runs as a site: the contact page serves only a 'Loading...' placeholder and search also returns a ww25.nowfreight.us URL with a tracking subid, which is the signature of a parked or redirected domain. Two searches surface no phone, address or named staff. A freight brokerage would have been a good lead, so re-check if the site comes back."
+},
+"Oasis Glass Tinting": {
+"name": "Oasis Glass Tinting",
+"status": "confirmed",
+"industry": "Window Tinting & Glass Film",
+"priority": "B",
+"address": "2114 Chapman Road",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 892-7604",
+"email": "oasisglasstint@aol.com",
+"website": "oasisglasstinting.com",
+"evidence": "Own site: the window-tinting page at oasisglasstinting.com gives 2114 Chapman Road, Chattanooga TN 37421, this phone and this email.",
+"note": "Not a fleet lead - it is a tint shop, so treat it as a referral partner. They tint, you do glass, and the two jobs land on the same vehicles; worth a call on that basis alone. One caution: the root domain now shows an Epik 'for sale' page while the inner pages still serve, so confirm they are trading before counting on them."
+},
+"Office Pride Commercial Cleaning of Chattanooga": {
+"name": "Office Pride Commercial Cleaning of Chattanooga",
+"status": "confirmed",
+"industry": "Commercial Cleaning & Janitorial",
+"priority": "B",
+"address": "Not publicly available",
+"city": "Chattanooga",
+"zip": "37416",
+"phone": "(423) 531-8311",
+"email": "Not publicly available",
+"website": "officepride.com/chattanooga-lake-hills",
+"evidence": "Own site: the Chattanooga-Lake Hills location page gives this phone and 9-5 weekday office hours, covering Harrison, McDonald and Old Fort.",
+"note": "Franchise cleaning crews driving between commercial accounts across east Hamilton County and into Bradley County. The location page publishes no street address, so the record's 6130 Preservation Drive Suite B is left off. No email - franchise sites use a quote form."
+},
+"Olympus Cleaning": {
+"name": "Olympus Cleaning",
+"status": "dead",
+"note": "olympuscleaning.com is Olympus Cleaning Services of ST ALBANS, ENGLAND - pure-water window cleaning in Harpenden and London Colney, with a UK mobile number. Nothing to do with Chattanooga. The Vibe record attached a British company's domain to a Shallowford Road address."
+},
+"Osteen Construction, LLC": {
+"name": "Osteen Construction, LLC",
+"status": "confirmed",
+"industry": "Renovation & Custom Home Builder",
+"priority": "B",
+"address": "4637 Guild Trail",
+"city": "Chattanooga",
+"zip": "37409",
+"phone": "(423) 509-3026",
+"email": "Not publicly available",
+"website": "osteenconstruction.com",
+"evidence": "Own site: every page carries the phone in its title, and the site gives 4637 Guild Trail, Chattanooga TN 37409. Design, build, sustain, FAQ and testimonials pages all live.",
+"note": "Small historic-renovation and custom-build firm with crew trucks. Worth noting they also run Southern Window Films as a 3M certified window film dealer and installer - so they are in the film trade themselves, which makes them a referral contact as much as a customer."
 }
 }
