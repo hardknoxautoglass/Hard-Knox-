@@ -3728,9 +3728,10 @@
 "513": {
 "i": 513,
 "status": "keep",
-"note": "Construction cleanup crews haul equipment. No phone in the index.",
-"evidence": "Own site: Contact page lists this address; construction cleanup, window washing, floor care and facility care across Tennessee and the southeast.",
-"new_lead": true
+"name": "Clean Right Solutions, LLC",
+"note": "Gap-filled 2026-09-04. Commercial cleaning crews driving between accounts. Note listings also show 6170 Shallowford Rd #101 as a second address, so confirm which is the office when you call.",
+"evidence": "Official site cleanrightsolutions.com is live with a commercial cleaning contact page; Google listings give 1140 Latta St Suite 4, Chattanooga TN 37406 and this number.",
+"gapfill": "2026-09-04"
 },
 "514": {
 "i": 514,
@@ -3819,9 +3820,10 @@
 "526": {
 "i": 526,
 "status": "keep",
-"note": "In business since 1940 with their own delivery. Only the street name is published, no number or phone.",
-"evidence": "Own site: home and careers pages state the business began in 1940 and moved to Elmendorf St in 2006; Andersen, YKK AP and moulding product lines.",
-"new_lead": true
+"name": "East Chattanooga Lumber & Supply Co.",
+"note": "Gap-filled 2026-09-04 - phone and a real sales email recovered. Family owned since 1940 on a 10-acre site with showroom, door shops, millwork warehouse and lumber yard. Delivery trucks running building materials to job sites daily.",
+"evidence": "Official site eastchattanoogalumber.com is live; listings and the company's own blog give 1609 Elmendorf St, Chattanooga TN 37406, this number, fax 423-648-2359 and this email, Mon-Fri 7:30-5.",
+"gapfill": "2026-09-04"
 },
 "527": {
 "i": 527,
@@ -3861,9 +3863,10 @@
 "532": {
 "i": 532,
 "status": "keep",
-"note": "100+ employees on commercial concrete means a serious fleet of trucks and pump rigs. Founded 1968. Frustratingly their site publishes no phone or address - form only.",
-"evidence": "Own site: About page states founded 1968, privately owned commercial concrete company in Chattanooga with 100+ staff serving east Tennessee and north Georgia; walls, foundations, sidewalks, paving and parking deck service pages.",
-"new_lead": true
+"name": "Fulmer Concrete Construction",
+"note": "Gap-filled 2026-09-04 - this was on the chase-by-other-means list in RESUME.md and is now closed. Founded 1968, 100+ staff, one of the largest commercial concrete outfits in east Tennessee and north Georgia: foundations, slabs, paving and parking decks, so mixers and crew trucks on rough ground constantly.",
+"evidence": "Official site fulmerconcrete.com gives 4845 Geminus Drive, Chattanooga TN 37416 and this number, with contact, about and services pages live.",
+"gapfill": "2026-09-04"
 },
 "533": {
 "i": 533,
@@ -3910,9 +3913,10 @@
 "539": {
 "i": 539,
 "status": "keep",
-"note": "They run their own transportation division on top of the warehouses, so there are yard trucks and drayage tractors here. Big operation. The site publishes no direct Chattanooga number.",
-"evidence": "Own site: locations page confirms a Chattanooga TN facility among 34 warehouses and 3.6m sq ft across TN, AL, AZ, CA, GA, LA, MS and IL; dedicated transportation, storage and distribution service pages.",
-"new_lead": true
+"name": "Goggin Warehousing",
+"note": "Gap-filled 2026-09-04. A 3PL with its own transportation arm - trucks plus yard equipment. One caution: listings put them at 1609 Elmendorf Street, the same address as East Chattanooga Lumber, so one of the two listings may be wrong; confirm the Chattanooga site when you call. Their own locations page is the place to get the local contact.",
+"evidence": "Official site gogginwarehousing.com confirms a Chattanooga location among 34 warehouses across eight states, corporate office at 111 Eaton Dr, Shelbyville TN. Google listings give 1609 Elmendorf Street, Chattanooga TN 37406 and this number.",
+"gapfill": "2026-09-04"
 },
 "540": {
 "i": 540,
@@ -3987,9 +3991,10 @@
 "550": {
 "i": 550,
 "status": "keep",
-"note": "Heavy civil work - excavators, dump trucks, dewatering rigs. Strong prospect but their site publishes no contact details at all.",
-"evidence": "Own site: service pages cover new construction and rehabilitation of dams, underground utilities, water systems, sanitary sewer pipelines and pump stations, plus retaining walls.",
-"new_lead": true
+"name": "HUTTON CONSTRUCTION, INC.",
+"note": "Gap-filled 2026-09-04 - also on the chase-by-other-means list and now closed. The number recorded is Karen Hutton's direct line, the only one the site publishes; info@hutton.build is the general route. They are a commercial developer and builder - single-tenant retail, shopping centres, multi-family and self-storage - so superintendent trucks travel to sites well beyond the county.",
+"evidence": "Official site hutton.build gives 736 Cherry Street, Chattanooga, info@hutton.build, and a direct line and email for CEO Karen Hutton - khutton@hutton.build, 423.402.1993.",
+"gapfill": "2026-09-04"
 },
 "551": {
 "i": 551,
@@ -4043,9 +4048,10 @@
 "558": {
 "i": 558,
 "status": "keep",
-"note": "Part of the Williams Family of Companies, so there may be sister businesses worth asking about. No phone in the index.",
-"evidence": "Own site: Contact page lists this street address plus PO Box 3648; Our Story and Williams Family of Companies pages active.",
-"new_lead": true
+"name": "Industrial Fabricators, Inc.",
+"note": "Gap-filled 2026-09-04: their own contact page publishes only a PO Box and no phone, and no number appears anywhere else either. Handrails, stairs, ladders, platforms and light structural steel - delivery and erection vehicles. Needs a call to a number found another way.",
+"evidence": "Official site ifichattanooga.com is live with contact and careers pages, giving P.O. Box 3648, Chattanooga TN 37404. AISC member and certified fabricator, also AWS and Canadian Welding Bureau certified, opened 1993.",
+"gapfill": "2026-09-04"
 },
 "559": {
 "i": 559,
