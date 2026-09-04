@@ -4173,5 +4173,53 @@
 "website": "grimebusterstn.com",
 "evidence": "Own site: Contact page publishes this phone; house washing, roof cleaning, gutter cleaning, window cleaning, deck and fence restoration, residential and commercial pages all live.",
 "note": "Power washing rigs are trucks with tanks and reels, out on residential and commercial jobs daily - a small fleet but a real one. The record carried no street address and their own site does not print one, so the row stays address-free. Worth noting they also clean windows, so they are a mild trade neighbour."
+},
+"Magic Pipe LLC": {
+"name": "Magic Pipe LLC",
+"status": "nocontact",
+"note": "magicpipellc.com returns nothing on a domain-restricted search - not indexed. The record carries no street address either, so there is nothing to work with."
+},
+"Moore\u2019s Roofing Repair": {
+"name": "Moore\u2019s Roofing Repair",
+"status": "nocontact",
+"note": "mooresroofingrepair.com resolves and describes roofing repair in the Chattanooga area, but only the homepage is indexed and two searches recover no phone, email or address."
+},
+"Pro-Seal & Paving": {
+"name": "Pro-Seal & Paving",
+"status": "dead",
+"note": "Wrong state. pro-sealasphalt.net is Pro-Seal Asphalt Paving & Maintenance Co. of 1915B MacArthur Road, WAUKESHA, WISCONSIN, on 262-373-1801 - they even list snow removal for Milwaukee. Nothing supports a business at 7909 Old Lee Highway in Ooltewah. The record's own description already gave the game away by placing the company in Hallstead, Pennsylvania."
+},
+"SERVPRO of Chattanooga": {
+"name": "SERVPRO of Chattanooga",
+"status": "confirmed",
+"industry": "Fire, Water & Mould Restoration",
+"priority": "A",
+"address": "Not publicly available",
+"city": "Ooltewah",
+"zip": "37363",
+"phone": "(423) 326-1406",
+"email": "Not publicly available",
+"website": "servprochattanooga.com",
+"evidence": "Own site: publishes this phone across emergency restoration, mould remediation, storm and flooding, biohazard, commercial and contents pages, serving Ooltewah and the Chattanooga metro.",
+"note": "Restoration crews run vans and box trucks to emergencies around the clock - high mileage and high urgency, which is the profile that pays for mobile glass service. Their own site does not print the street address, so the record's 9028 Jetrail Drive is left off. See also the Team Cuthbertson record, which is the same operation."
+},
+"SERVPRO Team Cuthbertson": {
+"name": "SERVPRO Team Cuthbertson",
+"status": "dup",
+"note": "Same operation as SERVPRO of Chattanooga, already verified and added: identical 9028 Jetrail Drive address, and servpro.com's own pages route Team Cuthbertson enquiries to the SERVPRO of Chattanooga location. Worth knowing the scale behind it though - Team Cuthbertson has run franchises since 2008 and now operates 16 locations across Tennessee and Florida, so the Chattanooga call may open more than one door."
+},
+"TALCO INDUSTRIAL CHEMICALS, INC.": {
+"name": "TALCO INDUSTRIAL CHEMICALS, INC.",
+"status": "confirmed",
+"industry": "Industrial & Janitorial Chemicals",
+"priority": "B",
+"address": "P.O. Box 631",
+"city": "Ooltewah",
+"zip": "37363",
+"phone": "(423) 396-4366",
+"email": "tal.abernathy@gmail.com",
+"website": "talcoindustrialchemicals.com",
+"evidence": "Own site: gives P.O. Box 631, Ooltewah TN 37363, office (423) 396-4366, toll-free 1-800-648-5549, fax (423) 396-4380 and this email; product pages cover water treatment, floor care, lawn and automotive specialty chemicals.",
+"note": "Chemical distributors deliver drums and totes on their own trucks, so a modest fleet. Two things to note: their own site gives only a PO Box, not the 5906 Main Street on the record, and they carry an automotive specialty line - so they sell to shops like yours and may be worth a supplier conversation as well as a sales call. Tal Abernathy is the named contact."
 }
 }
