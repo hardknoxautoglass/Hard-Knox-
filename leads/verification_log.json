@@ -2557,24 +2557,27 @@
 },
 "352": {
 "i": 352,
-"name": "Stanford Plumbing",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "NEW LEAD. Business-run page confirms a full-service plumbing and heating company in Hixson serving Chattanooga since 1979. A second search found no official site publishing a number, so the phone must come from a call."
+"name": "Stanford Plumbing & Heating Co.",
+"note": "Gap-filled 2026-09-04: the row was completely empty - no phone, no address, no website - and now has both. No official website exists. Ask for Charles or Bradley Stanford. Note a separate Stanford Brothers Plumbing also trades in Hixson, so confirm which one you have.",
+"evidence": "Google listings agree on 5519 Hixson Pike, Hixson TN 37343 and this number for Stanford Plumbing & Heating Contractors; owners named as Charles and Bradley Stanford. A BBB record gives 1648 Lisa Lynn Dr as a second address.",
+"gapfill": "2026-09-04"
 },
 "353": {
 "i": 353,
 "status": "keep",
-"note": "NEW LEAD. Business-run page: Hixson address confirmed at 6252 Dayton Blvd. Phone 423-842-8081 came from the same listing but was not restated on the page - worth confirming on the call.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"name": "Bill Owens Heating & Air Inc",
+"note": "Gap-filled 2026-09-04: website added, phone and address confirmed unchanged. Their own staff page gives two direct sales lines worth having - Brian Owens on (423) 509-0792 and Tim White on (423) 777-8178. Service vans on the road daily.",
+"evidence": "Official site billowenshvac.com confirms 6252 Dayton Blvd, Hixson TN 37343 and (423) 842-8081, with contact, staff and services pages live. Family owned since 1979, Trane Prime Dealer.",
+"gapfill": "2026-09-04"
 },
 "354": {
 "i": 354,
 "status": "keep",
-"note": "NEW LEAD. Business-run page: address and phone confirmed. Locally owned with three locations; sign installation means bucket and service trucks.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"name": "Instant Sign Service",
+"note": "Gap-filled 2026-09-04: no official website - the 'site' listings show is a hub.biz directory page. Phone and address confirmed unchanged. Sign fitters run bucket trucks and install vans; note the second Lee Highway shop, which may be a separate lead.",
+"evidence": "Google listings confirm (423) 876-9400 at 5503 Highway 153, Hixson TN 37343, with fax (423) 894-5724; a second location at 6902 Lee Hwy, Chattanooga on (423) 894-0419.",
+"gapfill": "2026-09-04"
 },
 "355": {
 "i": 355,
@@ -2596,10 +2599,11 @@
 },
 "357": {
 "i": 357,
-"name": "Shine the Light Electric",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "NEW LEAD. Business-run page: Hixson address confirmed at 5228 Hixson Pike Suite B. Two searches found no official site publishing a number."
+"name": "Shine the Light Electric Company",
+"note": "Gap-filled 2026-09-04: the row had no phone and the suite was wrong - listings say Suite G, the row said Suite B. Both corrected. No official website; they trade through Instagram as @stlelectric. Ask for Mike Johnson.",
+"evidence": "Google listings agree on 5228 Hixson Pike Ste G, Hixson TN 37343 and this number; owner Mike Johnson, Tennessee licence 59918 valid to 30/06/2027, Mon-Fri 8-5.",
+"gapfill": "2026-09-04"
 },
 "358": {
 "i": 358,
@@ -2635,9 +2639,10 @@
 "361": {
 "i": 361,
 "status": "keep",
-"note": "NEW LEAD. Business-run page: locally owned, rents dump trailers for debris removal across Chattanooga. The published number is a 310 area code, unusual for Tennessee - worth confirming on the call. No address published.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"name": "Sunrise EZ Dumpster Rentals",
+"note": "WRONG NUMBER FLAGGED 2026-09-04, not corrected because no right answer could be found. The row holds (310) 430-0076 - a 310 area code, which is LOS ANGELES, not Chattanooga. An open search finds no trace of a Sunrise EZ Dumpster in Hixson at all; the results return only other dumpster firms. Treat this row as unreliable: either the business is gone or the record was bad from the start. Do not dial the 310 number expecting a local skip company.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "362": {
 "i": 362,
@@ -2682,9 +2687,10 @@
 "367": {
 "i": 367,
 "status": "keep",
-"note": "NEW LEAD. Business-run page: address and phone confirmed. Independent shop, so a likelier referral partner than the chains.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"name": "Middle Valley Tire and Alignment Inc",
+"note": "PHONE CHANGED 2026-09-04. The row held (423) 842-3522; the number published alongside their current website is (423) 551-9154, so that is now recorded. The old number may still ring - if 551-9154 fails, try 842-3522. Website added.",
+"evidence": "Official site tiredealerschattanooga.com is live with contact and about pages for Middle Valley Tire And Alignment at 7726 Middle Valley Rd, Hixson TN 37343, founded 1964, Michelin dealer. Listings and the site give (423) 551-9154.",
+"gapfill": "2026-09-04"
 },
 "368": {
 "i": 368,
