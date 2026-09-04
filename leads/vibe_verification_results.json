@@ -4001,5 +4001,62 @@
 "name": "Walden Ridge",
 "status": "nocontact",
 "note": "waldenridgeco.com returns nothing on two domain-restricted searches. The 1100 Market Street address on the record is the same office suite address used by SimplyOutdoorKitchens, so it is likely shared office space rather than premises with a yard."
+},
+"Walden Windows, LLC": {
+"name": "Walden Windows, LLC",
+"status": "nocontact",
+"note": "waldenwindows.com resolves but only the bare homepage is indexed and repeated attempts return no readable content - no phone, email or address."
+},
+"Walker County Commissioners": {
+"name": "Walker County Commissioners",
+"status": "dead",
+"note": "Wrong county and wrong state. walkerga.us is the official site of Walker County, GEORGIA, and puts the commissioner's office at 201 S Duke Street, LaFayette GA on (706) 638-1437. Nothing on their own site supports an office at 4119 Cromwell Road in Chattanooga. Keep in mind if the search ever widens south of the line - a county government runs a large public fleet, road department included - but it is not a Hamilton County lead."
+},
+"Wilson Waste Management": {
+"name": "Wilson Waste Management",
+"status": "dead",
+"note": "The record does not hold together: the domain on it, veleztrucking.com, belongs to Velez Trucking Service, a different company entirely, and nothing self-published supports a Wilson Waste Management at 3333 Saint Elmo Avenue. Velez Trucking's own site has a contact page but two searches recovered no phone, email or address from it, so it cannot be added on its own account either - worth a retry later if a delivery fleet is wanted."
+},
+"Window Works & Exteriors of Chattanooga Window Works of Chattanooga": {
+"name": "Window Works & Exteriors of Chattanooga Window Works of Chattanooga",
+"status": "confirmed",
+"industry": "Replacement Windows, Doors & Siding",
+"priority": "B",
+"address": "9002 East Brainerd Road",
+"city": "Chattanooga",
+"zip": "37421",
+"phone": "(423) 296-6793",
+"email": "office@windowworksofchattanooga.com",
+"website": "windowworksofchattanooga.com",
+"evidence": "Own site: Contact page gives 9002 East Brainerd Road, Chattanooga TN 37421, this phone and this email; windows, doors, siding, Alside, Okna and Energy Star pages all live.",
+"note": "Another glass-trade neighbour rather than a competitor - they do residential replacement windows, not vehicles. Install crews run box trucks with glass racks, so they are a customer too, and the people who know what a broken pane costs. Their own site confirms the record's East Brainerd address and publishes a real office email."
+},
+"Window World Of Chattanooga": {
+"name": "Window World Of Chattanooga",
+"status": "confirmed",
+"industry": "Replacement Windows, Doors & Siding",
+"priority": "B",
+"address": "3769 Powers Court",
+"city": "Chattanooga",
+"zip": "37416",
+"phone": "(423) 296-0866",
+"email": "Not publicly available",
+"website": "windowworldchattanooga.com",
+"evidence": "Own site: Contact page gives 3769 Powers Court, Chattanooga TN 37416 with this phone and a second line on 423-296-0837; windows, doors, siding, roofing, sunrooms, service-area and testimonial pages all live.",
+"note": "Same picture as Window Works - residential glass, install trucks with racks, and a trade neighbour worth knowing. Their own site says 3769 Powers Court; the record's 3740 Powers Court 300 is wrong. No email published, only a form."
+},
+"WOLFTEVER DEVELOPMENT, LLC": {
+"name": "WOLFTEVER DEVELOPMENT, LLC",
+"status": "confirmed",
+"industry": "Commercial Real Estate Development",
+"priority": "B",
+"address": "800 Broad Street Suite 200",
+"city": "Chattanooga",
+"zip": "37402",
+"phone": "(423) 266-5588",
+"email": "Not publicly available",
+"website": "wolftever.net",
+"evidence": "Own site: Contact page gives 800 Broad Street Ste 200, Chattanooga TN 37402 and this phone, listing 115 Cedar Lane as a second location. Project pages cover Bass Pro Shops, Jordan Crossing, Mackey Branch Crossing, Porter Paints and the Elkins Building.",
+"note": "A developer rather than a builder, so the vehicles are staff cars visiting sites - held at B. Their second address, 115 Cedar Lane, is MPL Construction's office, already on the list, which suggests the two work together closely; that is a useful thing to know when calling either."
 }
 }
