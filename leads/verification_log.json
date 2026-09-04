@@ -841,14 +841,18 @@
 "116": {
 "i": 116,
 "status": "keep",
-"address": "2225 Polymer Dr",
-"note": "verified abcsupply.com location page live"
+"name": "ABC Supply Co.",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. abcsupply.com carries the branch (2225 Polymer Dr, Chattanooga TN 37421-2210, their branch #043) but the branch page would not load from this session, and no search of their own domain surfaced a local number - only corporate 800-226-1280. The (423) 553-1082 on file is therefore UNSOURCED; verify by phone before relying on it. NAMED CONTACT: Brandon Davis, branch manager, Chattanooga TN - from ABC Supply's own Q1 2023 manager-promotion release. Roofing/siding/window distributor: a branch delivery fleet of boom trucks and flatbeds, and their contractor customers are a second channel.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "117": {
 "i": 117,
 "status": "keep",
-"address": "4121 S Creek Rd",
-"note": "verified ferguson.com Chattanooga branch live"
+"name": "Ferguson Waterworks",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 629-1755 RE-CONFIRMED on ferguson.com's own branch page for 4121 S Creek Rd. Note the site lists that counter as Ferguson Plumbing Supply; the same S Creek Rd campus also runs HVAC and Industrial branches on a separate line, (423) 493-3190. ZIP on their page is 37406-1022. Wholesale distributor running a local delivery fleet.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "118": {
 "i": 118,
@@ -866,8 +870,10 @@
 "120": {
 "i": 120,
 "status": "keep",
-"address": "801 N Holtzclaw Ave",
-"note": "verified chahousing.org live"
+"name": "Chattanooga Housing Authority",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 752-4893 RE-CONFIRMED on chahousing.org, with 801 N Holtzclaw Ave and Mon-Fri 8:30-17:00. Departmental lines if the main number stalls: Housing Choice Voucher/Section 8 customer service (423) 752-4866, legal counsel (423) 752-4820. Public agency running its own maintenance-vehicle fleet across managed properties; buys on quote, so ask for procurement.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "121": {
 "i": 121,
@@ -886,9 +892,10 @@
 "123": {
 "i": 123,
 "status": "keep",
-"email": "info@lumberjackstn.com",
-"address": "4165 Bonny Oaks Dr",
-"note": "verified lumberjackstn.com live; since 2012"
+"name": "Lumberjacks Tree Service",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 760-8733 RE-CONFIRMED - they publish it as 423-760-TREE. Address 4165 Bonny Oaks Dr confirmed as the tree-service yard, but their site gives the ZIP as 37406, not the 37421 on file - corrected. SECOND LOCATION: Lumberjacks Hardwood Center, 4123 Cromwell Rd, (423) 624-0000, shop@lumberjackstn.com - a separate retail yard under the same owner, so two fleets not one. Tree crews run bucket trucks and chip trucks, the windshield-cracking end of the trade.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "124": {
 "i": 124,
@@ -909,15 +916,18 @@
 "126": {
 "i": 126,
 "status": "keep",
-"email": "info@landscapeworkshop.com",
-"address": "3903 Volunteer Dr",
-"note": "verified landscapeworkshop.com Chattanooga branch page live"
+"name": "Landscape Workshop - Chattanooga Branch",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. landscapeworkshop.com carries the Chattanooga branch at 3903 Volunteer Dr Ste B 37416, but it publishes no branch-level phone anywhere searchable on their own domain - only the Birmingham AL head office, (205) 547-3945, at 550 Montgomery Hwy Ste 200. The (423) 899-1212 on file is UNSOURCED; verify by phone. Route through the head office if the local line is dead. This branch is the former Images Landscape Service, acquired by Landscape Workshop in 2021 - a commercial crew fleet of trucks and trailers.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "127": {
 "i": 127,
 "status": "keep",
-"address": "3501 Amnicola Hwy",
-"note": "verified arrowexterminators.com Chattanooga service center live"
+"name": "Arrow Exterminators - Chattanooga Service Center",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 629-7378 RE-CONFIRMED on arrowexterminators.com's own Chattanooga service-center page, address 3501 Amnicola Hwy 37406 confirmed. They run a separate commercial division page for the same service center - that is the side with the larger route-truck fleet.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "128": {
 "i": 128,
