@@ -4126,9 +4126,10 @@
 "538": {
 "i": 538,
 "status": "keep",
-"note": "Trades as H. and H. Brown, Inc. Full contact set.",
-"evidence": "Own site: Contact page lists this address, phone and email.",
-"new_lead": true
+"name": "H&H BROWN, INC",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 267-9655, address 1803 Polk Street 37408 and info@handhbrown.com ALL RE-CONFIRMED on their own contact page. Trading name confirmed as H. and H. Brown, Inc. Family owned, 35+ years across the tri-state area doing construction management, specialty contracting and subcontracting on commercial and industrial work.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "539": {
 "i": 539,
@@ -4149,9 +4150,10 @@
 "541": {
 "i": 541,
 "status": "keep",
-"note": "I nearly filtered this one out as a freight broker - wrong call. They own two asset-based carriers and 18 terminals, so there are real tractors here. Also note Max Trans Logistics appears separately in this dataset: same group.",
-"evidence": "Own site: Contact page lists this phone plus (423) 771-9599 and (423) 362-7210; leadership page names executives; brand pages for MaxTrans Logistics, Atomic Transport and F2F Transport, described as a full-service brokerage plus TWO ASSET COMPANIES with 18 terminals across 20 states.",
-"new_lead": true
+"name": "GuideOn Group",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 355-5212 RE-CONFIRMED on guideongroup.com. THE GROUP STRUCTURE IS CONFIRMED ON THEIR OWN SITE: MaxTrans Logistics is their brokerage division and GuideOn Capital Solutions their factoring arm - so row 581, Max Trans Logistics, is the SAME GROUP as this row and one conversation covers both. The earlier call not to filter this out as a broker still looks right, but note their own site foregrounds brokerage and factoring, so press on how many tractors they actually own. NAMED LEADERSHIP, each with their own page: Joe Etheredge, Mike McCallie, Becky Creswell CPA. No street address published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "542": {
 "i": 542,
@@ -4185,30 +4187,34 @@
 "546": {
 "i": 546,
 "status": "keep",
-"note": "Liquid waste means vacuum tankers running the length of east Tennessee. No street address published.",
-"evidence": "Own site: Contact page lists this phone and email with 8-5 daily hours and a 24-hour response guarantee; stormwater, oily wastewater and lift station services across east Tennessee from Knoxville to Chattanooga.",
-"new_lead": true
+"name": "Highway Environmental Response Solutions, LLC",
+"note": "CORRECTED 2026-09-04 - THE ROW HAD THE KNOXVILLE NUMBER. highwayenv.com publishes (423) 629-2714 with 3900 N. Hawthorne St, Chattanooga 37406 for the CHATTANOOGA operation, and lists the (423) 301-5449 that was on file as their KNOXVILLE line. Phone, address and ZIP all corrected; keep 301-5449 for the Knoxville yard. Their published call window is narrow - 09:00-12:00 daily, with a 24-hour callback promise - so ring in the morning. Non-hazardous liquid waste across east Tennessee: grease traps, wastewater, municipal sludge, leachate management and lift-station maintenance. Vacuum tankers running the length of the state. support@highwayenv.com holds.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "547": {
 "i": 547,
 "status": "keep",
-"note": "Counter plus delivery. Second fastener supplier after Atlas Bolt. Full contact set.",
-"evidence": "Own site: Contact page lists this address, phone, fax and two emails; full online fastener catalogue with account log-in and quote request.",
-"new_lead": true
+"name": "Hayward Bolt and Specialty",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 622-2193 and address 2805 S. Orchard Knob Ave 37407 RE-CONFIRMED on their own contact page; fax 423-622-2175. sales@boltandspecialty.com holds. Counter trade plus delivery - the second fastener supplier on this list after Atlas Bolt at row 459, and the two are worth quoting the same way.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "548": {
 "i": 548,
 "status": "keep",
-"note": "Their own site announces WEST SHORE HOME has acquired them, so the fleet decision may now sit with a national parent.",
-"evidence": "Own site: Chattanooga page lists this address and phone; trading since 1977 across Chattanooga and Knoxville in roofing, siding, windows and baths.",
-"new_lead": true
+"name": "Hullco",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 210-4440 and address 7110 E Brainerd Rd 37421 RE-CONFIRMED. THE ACQUISITION IS NOW COMPLETE, NOT JUST ANNOUNCED: hullcoexteriors.com resolves to WEST SHORE HOME branding throughout - baths, windows, entry doors and flooring - with the Hullco name surviving only on a few legacy pages. So the fleet decision very likely sits with the national parent now; ask who approves vehicle spend before investing time. They still cover Chattanooga and Knoxville. No email published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "549": {
 "i": 549,
 "status": "keep",
-"note": "No street address published.",
-"evidence": "Own site: construction division contact page lists this phone; team and project pages including Burger King builds and Mini Storage Depot.",
-"new_lead": true
+"name": "Hudson Construction Company",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 624-2631 RE-CONFIRMED on hudsoncc.com. Bigger than the row implied: 65+ years and OFFICES IN FOUR STATES. Note they run a separate PAVING division alongside construction, each with its own team page - paving means dump trucks and rollers on top of superintendent trucks, so ask for both. Still no street address published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "550": {
 "i": 550,
