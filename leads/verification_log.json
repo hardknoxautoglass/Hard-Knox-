@@ -3271,16 +3271,18 @@
 "428": {
 "i": 428,
 "status": "keep",
-"note": "New lead from the Vibe export. Note the Vibe dataset had them on Kanasita Drive in Hixson - their own site says 1400 Market Street, so I used the site. Motorcoach windshields are big money.",
-"evidence": "Own site: Contact page lists this address and phone plus a toll-free line (800-499-9877); educational tours, retail tours, scout and church group pages active.",
-"new_lead": true
+"name": "All Aboard USA, Inc.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 499-9977 and 1400 Market Street 37403 RE-CONFIRMED on their own contact page - so the 09-03 decision to take the site's address over the Vibe dataset's Kanasita Drive holds. Toll-free 800-499-9877. ODDITY WORTH A LOOK: allaboardchatt.com's home page now renders as a New Zealand seniors-tour page while the interior /pages/ URLs are still the Chattanooga motorcoach company - the domain may be part-repurposed or sold, so confirm they still run coaches locally before quoting. Motorcoach windshields are big money if they do.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "429": {
 "i": 429,
 "status": "keep",
-"note": "New lead from the Vibe export, confirmed on their own site. Address is from the Vibe dataset - confirm on the call. Roofing crews run loaded trucks.",
-"evidence": "Own site: Contact page lists this phone; dedicated Commercial Roofing Hixson page plus industrial and residential project galleries; family owned and operated.",
-"new_lead": true
+"name": "Tennessee Roofing & Construction, Inc. (TRC)",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 842-8826 RE-CONFIRMED on tnroofingconstruction.com. Family owned, commercial roofing and general contracting across Tennessee, north Georgia and northern Alabama, with a dedicated Hixson commercial page and coverage out to Cleveland, Dayton, Dunlap, Knoxville, Kimball and South Pittsburg - long hauls between job sites. CAUTION STANDS: the 8427 Hixson Pike address is from the Vibe dataset, not their site; confirm on the call.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "430": {
 "i": 430,
@@ -3322,9 +3324,10 @@
 "435": {
 "i": 435,
 "status": "keep",
-"note": "Steel erection means boom trucks and flatbeds. No street address published.",
-"evidence": "Own site: steel erection page identifies them as a Hixson TN steel erection contractor with this phone; fabrication, stairs and nationwide shipping pages active.",
-"new_lead": true
+"name": "Red Iron Steel",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 413-1480 RE-CONFIRMED on redironsteel.net. Steel erection, custom fabrication and stair fabrication, plus a NATIONWIDE STEEL SHIPPING line - that last one means over-the-road hauling, not just local boom trucks and flatbeds. Free estimates. Still no street address published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "436": {
 "i": 436,
@@ -3369,16 +3372,18 @@
 "441": {
 "i": 441,
 "status": "keep",
-"note": "Paving means dump trucks, rollers and crew trucks. Only a PO Box is published, no street address.",
-"evidence": "Own site: Contact page lists this phone, email, fax and mailing address; 25+ years paving in Chattanooga, licensed and insured general contractor; commercial and residential project galleries active.",
-"new_lead": true
+"name": "Weeks Paving Inc",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 821-2669 RE-CONFIRMED on weekspaving.com, and PO Box 2166, Chattanooga 37409 confirmed as the only address they publish - there is still no street address, so the yard location is unknown. New asphalt construction, overlays and pavement repair with a commercial project gallery. Dump trucks, rollers and crew trucks.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "442": {
 "i": 442,
 "status": "keep",
-"note": "They run a hauling division and hold a TVA contract. Tank trucks and roll-offs.",
-"evidence": "Own site: Transportation page and company newsletters hosted on their domain list this address, office phone and fax; full-service environmental consulting, emergency response, industrial services and hazardous and non-hazardous hauling.",
-"new_lead": true
+"name": "Marion Environmental, Inc.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 499-4919 and address 115 Parmenas Lane 37405 RE-CONFIRMED; fax 423-892-5122. Their own newsletters confirm the TVA contract and a Nashville expansion. Full-service environmental consulting, EMERGENCY RESPONSE, industrial services and hazardous and non-hazardous HAULING - emergency response means trucks rolling at any hour. Note row 583, MEI/AQUA TREAT, shares this address; the two are related, so one conversation may cover both.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "443": {
 "i": 443,
@@ -3445,9 +3450,10 @@
 "451": {
 "i": 451,
 "status": "keep",
-"note": "Paving fleet. No street address published.",
-"evidence": "Own site: concrete page identifies them as a Chattanooga TN 37421 pavement and concrete company with this phone.",
-"new_lead": true
+"name": "ADI Pavement, LLC",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. turnitblack.com is live - a concrete page describing roller-compacted concrete, stamped concrete and storm-water detention, and 30+ years self-performing technical work - but no phone number surfaces on their own domain and no street address either. The (423) 490-9981 on file is UNSOURCED. Paving and concrete fleet; the business is real, the number needs confirming.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "452": {
 "i": 452,
