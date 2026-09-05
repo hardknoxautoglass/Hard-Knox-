@@ -290,9 +290,9 @@
 "i": 38,
 "status": "keep",
 "name": "Covenant Logistics Group",
-"note": "OFFICIAL SITE 2026-09-04: 400 Birmingham Hwy HQ confirmed (plus Hogan Hall driver training centre at 500 Birmingham Hwy). Their contact page publishes only a web form and an investor-relations line (423-463-3339) - no general number - so the (423) 821-1212 on file is UNCONFIRMED. Publicly traded carrier; the fleet-maintenance shop is the buyer, not corporate.",
-"evidence": "covenantlogistics.com/contact-us",
-"gapfill": "2026-09-04"
+"note": "OFFICIAL SITE 2026-09-04: 400 Birmingham Hwy HQ confirmed (plus Hogan Hall driver training centre at 500 Birmingham Hwy). Their contact page publishes only a web form and an investor-relations line (423-463-3339) - no general number - so the (423) 821-1212 on file is UNCONFIRMED. Publicly traded carrier. DUPLICATE FOUND 2026-09-05: row 509, 'Covenant Trucking Inc', carries the SAME address, the SAME (423) 821-1212 and the SAME covenantlogistics.com - Covenant Trucking is the old trading name of this group. The two rows should be merged; do not work them as separate prospects.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "39": {
 "i": 39,
@@ -610,9 +610,9 @@
 "i": 84,
 "status": "keep",
 "name": "Paul Davis Restoration of Greater Chattanooga",
-"note": "OFFICIAL SITE: phone (423) 899-2406 and 1916 Circle Dr RE-CONFIRMED 2026-09-04, and EMAIL FOUND (pdrchat@gmail.com). 24/7 emergency restoration, so the van fleet runs at all hours. They also publish an insurance-agent page - they work claims daily and know the same adjusters you would bill.",
-"evidence": "greater-chattanooga.pauldavis.com",
-"gapfill": "2026-09-04"
+"note": "DUPLICATE FOUND 2026-09-05: row 609, 'Paul Davis Restoration of Chattanooga', is THIS SAME BUSINESS - identical in every field: (423) 899-2406, 1916 Circle Dr 37421, pdrchat@gmail.com and greater-chattanooga.pauldavis.com. The two rows should be merged; call once. VERIFIED 2026-09-04 against their own franchise site: phone and address confirmed, 24/7 emergency response with a THIRTY-MINUTE response window across residential, commercial and industrial flood, fire and contents restoration. A 30-minute promise means vehicles moving fast at all hours, which is when glass gets broken.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "85": {
 "i": 85,
@@ -1065,8 +1065,10 @@
 "147": {
 "i": 147,
 "status": "keep",
-"address": "7414 Old Lee Hwy",
-"note": "verified dignitymemorial.com Valley View Chapel page live"
+"name": "Chattanooga Funeral Home, Crematory & Florist - Valley View Chapel",
+"note": "SHARED NUMBER 2026-09-05: rows 149, 150 and 151 are three DIFFERENT chapels of one operation - Valley View (7414 Old Lee Hwy), North (5401 Hwy 153, Hixson) and East (404 S Moore Rd, East Ridge) - all reached on the same central line, (423) 698-2541, all on dignitymemorial.com. Genuinely three locations, not duplicate rows, but ONE phone call covers all three: ask for whoever runs the vehicle fleet group-wide. Funeral homes run hearses, limousines and lead cars - low mileage but high-value glass, and appearance matters to them more than to most fleets.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "148": {
 "i": 148,
@@ -3889,9 +3891,9 @@
 "i": 507,
 "status": "keep",
 "name": "Covenant Trucking Inc",
-"note": "Gap-filled 2026-09-04. Local Chattanooga number now recorded in place of nothing - (423) 821-1212 is the switchboard at the Birmingham Highway headquarters and a better door than the 800 numbers. Covenant Logistics Group is one of the largest truckload carriers in the country and is headquartered here; assume a national glass contract exists, but the local terminal and maintenance shop are still worth a call.",
-"evidence": "Official site covenantlogistics.com gives 400 Birmingham Hwy, Chattanooga TN 37419 as headquarters, with 423-821-1212 for media, 888-259-6206 for general and recruitment and 888-763-5352 for sales.",
-"gapfill": "2026-09-04"
+"note": "DUPLICATE 2026-09-05: this is the same company as row 40, 'Covenant Logistics Group' - same 400 Birmingham Highway, same (423) 821-1212, same covenantlogistics.com. Covenant Trucking is the group's older trading name. Merge into row 40 and do not call twice. The phone carries row 40's flag too: their own contact page publishes only a web form and an investor-relations line (423-463-3339), so 821-1212 is UNCONFIRMED.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "508": {
 "i": 508,
@@ -4471,9 +4473,10 @@
 "582": {
 "i": 582,
 "status": "keep",
-"note": "Legal name says South Knoxville but the store this record points at is the Highway 58 one in Chattanooga, confirmed on their own locations page. Multi-store chain running delivery trucks. No email published - orders go through the customer portal.",
-"evidence": "Own site: the Locations page carries a Highway 58 store page giving 4921 Hwy 58, Chattanooga TN 37416 and this phone. Customer portal and online store are both live.",
-"new_lead": true
+"name": "ELDER'S ACE HARDWARE OF SOUTH KNOXVILLE, LLC",
+"note": "NAME WARNING 2026-09-05: the legal entity is registered as 'of South Knoxville', but the address on this row - 4921 Highway 58, Chattanooga 37416 - is in HAMILTON COUNTY, so the row is in scope despite the name. Do not remove it as out-of-county on the strength of the LLC name alone; the Knoxville reference is the registered entity, not the store. Related to row 337, Elder's Ace Hardware at 2000 Taft Hwy, Walden - same chain, same eldershardware.com, different stores, so these are two genuine locations rather than a duplicate. Hardware chains run their own delivery trucks.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "583": {
 "i": 583,
@@ -4658,7 +4661,7 @@
 "i": 607,
 "status": "keep",
 "name": "Paul Davis Restoration of Chattanooga",
-"note": "OFFICIAL SITE 2026-09-04: phone (423) 899-2406 and address 1916 Circle Dr 37421 RE-CONFIRMED on their own franchise site. THE FLEET CASE IS ON THEIR OWN PAGES: 24/7 emergency response with a THIRTY-MINUTE response window, across residential, commercial and industrial flood, fire and contents restoration - a 30-minute promise means vehicles moving fast at all hours, which is exactly when glass gets broken. pdrchat@gmail.com holds, and a direct email is unusual for a franchise.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 899-2406 and address 1916 Circle Dr 37421 RE-CONFIRMED on their own franchise site. 24/7 emergency response with a THIRTY-MINUTE response window, across residential, commercial and industrial flood, fire and contents restoration - vehicles moving fast at all hours, which is exactly when glass gets broken. pdrchat@gmail.com holds; a direct email is unusual for a franchise. DUPLICATE: row 86, 'Paul Davis Restoration of Greater Chattanooga', is this same business - identical phone, address, email and website. Merge the two rows and call once.",
 "evidence": "",
 "gapfill": "2026-09-05"
 },
