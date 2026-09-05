@@ -4432,16 +4432,18 @@
 "577": {
 "i": 577,
 "status": "keep",
-"note": "Three separate lines and 20+ years of accounts. Crews drive between buildings nightly.",
-"evidence": "Own site: Contact page lists this address and three numbers - main (423) 872-2345, general (423) 401-3000 and residential (423) 619-1973 - with hours; 20+ years of janitorial across commercial, medical, industrial and residential.",
-"new_lead": true
+"name": "MCS Facility Services",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 872-2345 RE-CONFIRMED as the MAIN OFFICE line, address 1100 Market Street Suite 600, 37402 confirmed. Worth reading carefully - a first search of their site returned 423-619-1973 instead, which would have been a wrong overwrite: a second search shows that is their RESIDENTIAL move-in/move-out line. The three lines from the earlier note are now itemised: main office 423-872-2345, quotes 423-401-3000, residential 423-619-1973. Office Mon-Fri 8:00-18:00, Sat 8:00-17:00, with 24/7 support. 20+ years across commercial, medical and industrial buildings plus construction cleaning and pressure washing - crews driving between buildings nightly.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "578": {
 "i": 578,
 "status": "keep",
-"note": "Excavation means low-boy trailers and dump trucks on rough ground. No address published.",
-"evidence": "Own site: home page lists this phone; trenching in dirt and concrete plus driveway grading.",
-"new_lead": true
+"name": "MCKINNLEY EXCAVATING LLC",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 314-5041 RE-CONFIRMED on digchattanooga.com. Digging and trenching in dirt or concrete, driveway grading and dirt hauling, with GPS on their excavators and dozers for exact cuts - a small outfit that has invested in its machines, which usually means it looks after its trucks too. Low-boy trailers and dump trucks on rough ground. No street address published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "579": {
 "i": 579,
@@ -4491,9 +4493,10 @@
 "585": {
 "i": 585,
 "status": "keep",
-"note": "Earth-supported concrete for commercial GCs across the Southeast - crew trucks and mixers on the road daily, so a strong fleet lead. Their own site gives 1500 E 42nd Street; the Vibe record's 1302 East 36th Street is stale, and the site wins.",
-"evidence": "Own site: contact and site-visit pages give 1500 E 42nd Street, Chattanooga TN 37407, this phone, this email and Mon-Fri 8:30-5:00 hours. Commercial, residential and team pages all live.",
-"new_lead": true
+"name": "Maven Group LLC",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 541-1270, address 1500 E. 42nd Street 37407 and estimating@hcmaven.com ALL RE-CONFIRMED - so the 09-03 call to take the site's address over the Vibe record's 1302 East 36th Street holds. Hours Mon-Fri 8:30-17:00. Commercial concrete and civil construction for market-leading GCs across the southern US, plus a residential arm - crew trucks and mixers on the road daily. Their site has a Members and a Meet The Team page for a named contact.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "586": {
 "i": 586,
@@ -4505,9 +4508,10 @@
 "587": {
 "i": 587,
 "status": "keep",
-"note": "Field inspectors for public housing authorities, so a large pool of staff cars covering properties across several states - good windshield volume. Street address is the delivery address from their own contact page, not the 928 McCallie Avenue on the Vibe record. No email published; they use a web form.",
-"evidence": "Own site: Contact Us page gives this phone, fax (423) 265-6222, P.O. Box 6038 Chattanooga TN 37401 for mail and 6650 E Brainerd Rd for deliveries. HQS, NSPIRE and compliance service pages all live.",
-"new_lead": true
+"name": "McCright & Associates, LLC",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 267-1300 RE-CONFIRMED, and 6650 E Brainerd Rd confirmed again as the DELIVERY address specifically - their mailing address is PO Box 6038, Chattanooga 37401, and fax is (423) 265-6222. The 09-03 decision to use this over the Vibe record's 928 McCallie Avenue holds. HQS and NSPIRE housing inspections for Housing Choice Voucher programmes - field inspectors driving between properties across several states in staff cars, which is steady windshield volume. No email; web form only.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "588": {
 "i": 588,
@@ -4526,9 +4530,10 @@
 "590": {
 "i": 590,
 "status": "keep",
-"note": "Equipment dealer running delivery trucks and field service trucks - good fleet lead despite the 1-10 headcount on the record. Their own contact page did not surface the street address in search, so the dataset's 1609 Church Road is left out rather than copied in unverified; the phone reaches them.",
-"evidence": "Own site: JCB dealer for the Tennessee Valley since 1993, with live sales, parts, service and rental inventory pages and this phone published.",
-"new_lead": true
+"name": "MID-SOUTH EQUIPMENT",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 460-7011 RE-CONFIRMED, and the ADDRESS IS NOW SOURCED - midsouthequipment.com publishes 1609 Church Rd, Chattanooga 37421, which the 09-03 pass deliberately left out as unverified. Added on their own authority. Serving the Tennessee Valley since 1993: construction equipment sales, service, rentals and parts, with JCB among the lines they carry. Delivery trucks and field service trucks, whatever the headcount on the record says. No email published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "591": {
 "i": 591,
@@ -4547,9 +4552,10 @@
 "593": {
 "i": 593,
 "status": "keep",
-"note": "Forty-year commercial GC working TN, KY, VA, the Carolinas, the Gulf states and Florida - superintendent trucks travelling constantly. Ask for Wes Bonds, named on their about pages. No email published; bids go through the bid-information page.",
-"evidence": "Own site: Contact page gives 690 Manufacturers Rd Suite 100, Chattanooga TN 37405, phone 423.266.6218 and fax 423.756.4581. Market pages cover retail, warehousing, healthcare, hospitality and education across ten states.",
-"new_lead": true
+"name": "MORGAN CONSTRUCTION COMPANY",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. morganconstruction.com re-confirms the address, 690 Manufacturers Rd Suite 100, 37405, but publishes no phone number a search of their domain will surface, so the (423) 266-6218 on file is UNSOURCED. Their markets pages are broad - education and municipal, healthcare and senior living, hospitality and multifamily, office adaptive reuse, retail and grocery - which is consistent with the 40-year multi-state GC in the earlier note and means superintendent trucks travelling constantly. Bids go through their Bid Information page; no email published. The Wes Bonds steer did not resurface this time, so treat that name as unconfirmed too.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "594": {
 "i": 594,
