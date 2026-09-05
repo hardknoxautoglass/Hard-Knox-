@@ -1346,17 +1346,19 @@
 },
 "195": {
 "i": 195,
-"name": "Express Courier International",
 "status": "keep",
-"evidence": "expresscourier.net",
-"note": "OFFICIAL SITE: confirmed as a same-day courier and logistics operator across ten states including Tennessee, running owner-operator drivers. No Chattanooga terminal phone, address or email published on the site."
+"name": "Express Courier International, Inc.",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED, and the address is doubtful too. expresscourier.net publishes no Chattanooga terminal phone, address or email - only hr@expresscourier.net and general service pages - so the (423) 510-0271 on file is UNSOURCED. ADDRESS CONFLICT: this row's 2131 Polymer Dr is the same address Cintas publishes for its own Chattanooga branch (row 206, Suite 2131-A), and Cintas is the one whose site actually carries it. Treat 2131 Polymer Dr on this row as unverified. Same-day courier across ten states running owner-operator drivers - the drivers own the vans, which changes who buys the glass.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "198": {
 "i": 198,
 "status": "keep",
-"email": "hello@wilderanimalcare.com",
-"address": "903 Ladder Trail",
-"note": "verified wilderanimalcare.com live; runs Scout mobile clinic"
+"name": "Wilder Animal Care (Mobile Vet House Calls)",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. Two searches of wilderanimalcare.com return no phone number on any page - contact, appointment, location or house-calls - they book through a form. The (423) 886-1747 on file is UNSOURCED; hello@wilderanimalcare.com is the sourced way in. Their Scout mobile clinic is confirmed, serving greater Chattanooga from the Signal Mountain base - one purpose-built vehicle, and a windshield on it is not optional.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "197": {
 "i": 197,
@@ -1380,16 +1382,18 @@
 "203": {
 "i": 203,
 "status": "keep",
-"address": "412 E 10th St Ste 108",
-"zip": "37403",
-"evidence": "Canteen official Chattanooga branch page",
-"note": "OFFICIAL SITE canteen.com: address+phone confirmed; operated by franchise partner Five Star Breaktime Solutions"
+"name": "Five Star Breaktime Solutions (Canteen)",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 643-2600 RE-CONFIRMED on canteen.com's own Chattanooga page, address 412 E 10th St Ste 108 37403 confirmed. Franchise partner Five Star Breaktime Solutions carries the same branch on its own site. Vending, micro-market, coffee, water, pantry and corporate dining - a daily route-truck fleet restocking machines all over the county. UNWORKED PROSPECT: canteen.com lists a separate Ringgold/Chattanooga operation not in the sheet.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "204": {
 "i": 204,
 "status": "keep",
-"evidence": "Cintas official Chattanooga uniform services page",
-"note": "OFFICIAL SITE cintas.com: phone confirmed. No street address published for this branch; facility-services line is 423-401-8800"
+"name": "Cintas Uniform Services",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 822-5255 RE-CONFIRMED as the UNIFORM SERVICES line - a first search conflated it with the facility-services line, a second on their own contact pages separated them. Two divisions at one branch: uniform services (423) 822-5255 and facility services (423) 401-8800; the number on file is the right one to lead with. ADDRESS NOW SOURCED: cintas.com publishes 2131 Polymer Dr Suite 2131-A, 37421, which the earlier pass could not find - added. Hours Mon-Fri 8:00-17:00 ET. Both divisions run daily route trucks.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "205": {
 "i": 205,
@@ -2999,13 +3003,11 @@
 },
 "206": {
 "i": 206,
-"name": "Blood Assurance",
 "status": "keep",
-"address": "705 E 4th St",
-"zip": "37403",
-"phone": "(423) 752-5940",
-"evidence": "Downtown Chattanooga donor centre page on bloodassurance.org",
-"note": "OFFICIAL SITE: address and phone confirmed (general line 1-800-962-0628). They run mobile donor coaches to blood drives, which is the fleet worth talking about. No email published; contact form only."
+"name": "Blood Assurance",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 752-5940 RE-CONFIRMED as the donor-centre line on bloodassurance.org's own downtown Chattanooga page, address 705 E 4th St 37403-1916 confirmed - between 3rd and 4th across from UTC McKenzie Arena. Hours Mon-Fri 8:00-18:00, Sat 9:00-13:00; general line 1-800-962-0628. The mobile donor coaches running to blood drives are the fleet worth talking about. No email published, form only.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "391": {
 "i": 391,
@@ -5135,5 +5137,13 @@
 "note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. Three searches of parmanenergy.com surface no Chattanooga branch at all - no 1110 Stuart St page and no 423 number - only the Nashville HQ at 7101 Cockrill Bend Blvd on (800) 727-7920. The (423) 629-3888 on file is UNSOURCED; call the 800 line and ask for the Chattanooga terminal before relying on it. Their contact page also renders under the title 'All Seasons P.H.E., Inc.', so the site is carrying another entity's page - treat anything read off it with care. Bulk fuel and lubricant distributor: if the terminal is real it runs tankers and lube trucks.",
 "evidence": "",
 "gapfill": "2026-09-04"
+},
+"192": {
+"i": 192,
+"status": "keep",
+"name": "Loomis Armored US, LLC",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. loomis.us runs its locations page as a map search that publishes no branch numbers, and two searches of their domain surface only the national Customer Contact Center, 877-877-0560 (6:30-23:30 CT daily). The (423) 622-6043 on file is UNSOURCED; call the 877 line and ask for the Chattanooga branch. Nearly 200 US operating locations. Armored trucks - heavy, hard-used, ballistic glazing on the trucks themselves, so the prize here is their soft-skin support vehicles rather than the armoured fleet.",
+"evidence": "",
+"gapfill": "2026-09-05"
 }
 }
