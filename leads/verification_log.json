@@ -3537,9 +3537,10 @@
 "462": {
 "i": 462,
 "status": "keep",
-"note": "Note the website is berryhutton.com but the email domain is berryconstruction.net - both theirs. Multi-state GC, so a real fleet.",
-"evidence": "Own site: Contact page lists this address, phone, fax and email; expertise pages for education, shopping centres, restaurants and modular prefabrication with projects across the southeast.",
-"new_lead": true
+"name": "Berry Construction",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 267-2234, address 2525 Broad Street 37408 and info@berryconstruction.net ALL RE-CONFIRMED on berryhutton.com's own contact page; fax 423-267-3046. Trading name on the site is Berry Construction Company, Inc. Their project portfolio runs across Georgia and Louisiana as well as Tennessee, and they offer modular prefabrication - a genuinely multi-state GC, so superintendent trucks covering long distances. The website/email domain split (berryhutton.com vs berryconstruction.net) is real; both are theirs.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "463": {
 "i": 463,
@@ -3552,9 +3553,10 @@
 "464": {
 "i": 464,
 "status": "keep",
-"note": "Slab distribution - heavy delivery trucks. Full contact set.",
-"evidence": "Own site: Contact page lists this address, phone, fax, email and hours; a MAG company serving multiple industries.",
-"new_lead": true
+"name": "Architectural Surfaces, LLC",
+"note": "ADDRESS CORRECTED 2026-09-04: phone (423) 899-6233 RE-CONFIRMED on architecturalsurfaces.com's own contact page, but that page gives the address as 4500 AMNICOLA HIGHWAY, 37406 - not the 405 E Main St 37408 on file. Corrected. Now trading as Architectural Surfaces: A MAG Company, so part of a larger group. Stone and tile slab distribution - heavy delivery trucks, and stone chips windshields.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "465": {
 "i": 465,
@@ -3566,16 +3568,18 @@
 "466": {
 "i": 466,
 "status": "keep",
-"note": "Inc. 5000 growth means a fleet that is getting bigger. Crew trucks and trailers daily.",
-"evidence": "Own site: Contact page lists this address, phone and hours; design, installation, hardscaping, irrigation and drainage for residential and commercial, named an Inc. 5000 fastest-growing business.",
-"new_lead": true
+"name": "Big Sky Landscapes",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 488-8905 and address 1406 E 51st St 37404 RE-CONFIRMED on their own contact page. Landscaping, hardscaping, irrigation and drainage, with separate commercial and residential arms (residential runs on its own subdomain) - so two crews' worth of trucks and trailers. Inc. 5000 growth means the fleet is still getting bigger. Their site has a Meet the Team page worth mining for a named contact; no email published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "467": {
 "i": 467,
 "status": "keep",
-"note": "Land development means excavators, dump trucks and float trailers. Only a PO Box published.",
-"evidence": "Own site: Contact page lists this mailing address, phone, email and hours (Mon-Sat 9-8); full-service land development contractor for commercial, industrial and municipal work with land development, erosion control and sewer/septic divisions.",
-"new_lead": true
+"name": "Brogdon Construction",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. brogdonconstruction.com is live and detailed - land development, erosion control, grading, drainage, foundations, demolition, utility and sewer and septic installation, 15+ years, commercial industrial and municipal - and confirms the PO Box 15145, Chattanooga 37415 on file as the only address they publish. But no phone surfaces on their own domain; they push a request-a-quote form. The (423) 710-6645 is UNSOURCED. Excavators, dump trucks and float trailers; the business is solid, the number needs a check.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "468": {
 "i": 468,
@@ -3603,9 +3607,10 @@
 "471": {
 "i": 471,
 "status": "keep",
-"note": "Correct name is Builders FirstSource. Big boom-truck delivery fleet running to job sites all day - one of the better prospects in this batch. National chain though, so the windshield decision may sit above the branch.",
-"evidence": "Own site: Builders FirstSource Chattanooga TN lumber yard location page lists this phone; delivery and pickup offered from this yard.",
-"new_lead": true
+"name": "Building First Source",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 892-2444 RE-CONFIRMED on bldr.com's own Chattanooga lumber-yard page (branch code CHATTNYD). NAME STILL WRONG ON THE ROW: they trade as Builders FirstSource, not Building First Source - worth fixing. The yard runs lumber and building materials, doors and millwork, windows, a design centre and showroom, customer pickup and INSTALLATION services, serving Graysville, Collegedale, Apison, Lupton City and Ooltewah - boom trucks out to job sites all day. Their site publishes no street address for the yard. National chain, so the windshield decision may sit above the branch manager; ask who signs.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "472": {
 "i": 472,
@@ -3633,9 +3638,10 @@
 "475": {
 "i": 475,
 "status": "keep",
-"note": "An ambulance fleet is the whole business - every vehicle is a box on wheels with a big flat windshield, and they cannot have one off the road. One of the best prospects in the entire Vibe batch.",
-"evidence": "Own site: Contact page lists this address, phone, fax and email; inter-facility transport and hospice transport service pages active.",
-"new_lead": true
+"name": "CARE MED AMBULANCE LLC",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 498-3900, address 2511 Riverside Drive 37406 and info@caremedambulance.net ALL RE-CONFIRMED on their own contact page; fax 423-498-3901. Their about page was throwing a 'Website Temporary Unavailable' error at the time of checking - the contact page is fine, but do not be surprised by a half-broken site. Non-emergency medical transport: dialysis, chemo, inter-facility and wound-care runs, which means scheduled trips every weekday rather than sporadic call-outs. Every vehicle is a big flat windshield they cannot afford to have off the road - still one of the best prospects in the Vibe batch.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "476": {
 "i": 476,
