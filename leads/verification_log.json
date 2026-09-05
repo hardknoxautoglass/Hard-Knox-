@@ -3195,30 +3195,34 @@
 "418": {
 "i": 418,
 "status": "keep",
-"note": "New lead. Vacuum pump trucks. Sits right on Hixson Pike - easy to reach from your side of town.",
-"evidence": "Own site: Contact page lists this address, phone and email, open 24/7; septic pumping, installation, field-line repair and grease-trap pages all active.",
-"new_lead": true
+"name": "Chattanooga Septic Systems",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 774-8541, address 9533 Hixson Pike, Soddy-Daisy 37379 and chattanoogaseptic423@gmail.com ALL RE-CONFIRMED on their own contact page. OPEN 24/7 - a septic emergency operation means vacuum trucks out at night on bad roads. They run grease-trap pumping as well as septic, plus tank installs and field-line repair, and have a dedicated Soddy-Daisy page. Right on Hixson Pike, easy to reach from your side of town.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "419": {
 "i": 419,
 "status": "keep",
-"note": "New lead. Pump-truck fleet. Note the email is on flushfellas.com, not greasefellas.com - almost certainly the same owner running two brands, but confirm when you call.",
-"evidence": "Own site: Contact page lists this phone and email, open 24 hours; service pages for Hixson, Soddy-Daisy, Chattanooga and Cleveland, covering restaurants, grocery stores, churches and carwashes.",
-"new_lead": true
+"name": "Grease Fellas",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. greasefellas.com is live with a full service, city and industry page set (restaurants, grocery stores, churches) and offers 24/7 emergency service, but no phone number surfaces on any page of their own domain - they push a free-quote form. The (423) 508-4043 on file is UNSOURCED. CAUTION STANDS on the email: matt@flushfellas.com is a different domain from greasefellas.com, and their site also carries a septic-services page, so the two brands do look like one owner - confirm on the call. Pump trucks.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "420": {
 "i": 420,
 "status": "keep",
-"note": "New lead. Marked patrol vehicles running all night. Dispatch 423-888-5222 if the office does not pick up.",
-"evidence": "Own site: Contact page lists this address, an office line, a dispatch line (423-888-5222) and email; state-licensed and insured, led by former law enforcement.",
-"new_lead": true
+"name": "Tennessee Valley Protective Services (TVPS)",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. tvps.biz publishes no phone on any page a search of their domain reaches - on-site services, patrol, training and employment pages all route to a contact form - so neither the (423) 401-0438 on file nor the 423-888-5222 dispatch line from the earlier note has an official source. Try both, dispatch first. The company checks out: state-licensed and insured, Chattanooga-based, run by former law enforcement and security management with 25+ years combined. Marked patrol vehicles running all night is exactly the wear pattern worth quoting.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "421": {
 "i": 421,
 "status": "keep",
-"note": "New lead. Two angles here - their own service trucks, and they are working on other people's fleets every day, so a referral arrangement is worth raising.",
-"evidence": "Own site: home page lists this address and phone; services big rigs, buses and RVs with mechanics on call 24 hours.",
-"new_lead": true
+"name": "Chattanooga Mobile Truck Repair",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 454-3889 and address 411 W 28th St 37408 RE-CONFIRMED - they run both in their own site title. Their own words on what they work on: semi trucks, box trucks, dump trucks, concrete mixers, buses and RVs, for fleet accounts and owner-operators. TWO ANGLES STAND, and the second is the better one - they are inside other people's fleets every day, so a referral arrangement is worth raising alongside their own service trucks.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "422": {
 "i": 422,
@@ -3251,16 +3255,18 @@
 "426": {
 "i": 426,
 "status": "keep",
-"note": "New lead, surfaced by the Vibe Prospecting export and then confirmed on their own site. Street address is from the Vibe dataset, not the website - worth confirming on the call. Main line 865-250-1618.",
-"evidence": "Own site: dedicated Hixson pages (location, crane rigging, mobile taxi crane, HVAC crane work, our team) list the Hixson number; two locations, Hixson and Mascot TN, 24/7/365.",
-"new_lead": true
+"name": "B & B Crane and Rigging",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 842-4424 RE-CONFIRMED on bbcrane.com's own Hixson page, with the 865-250-1618 main line confirmed as the OTHER branch's - they run two yards, Hixson TN and Mascot TN, covering Chattanooga and Knoxville, so use the 423 for this row. 24/7/365 with same-day quotes. Crane rental, Versa-Lift rental, indoor lifting, mobile taxi crane work and HVAC and electrical-transformer sets. CAUTION STANDS: the 1103 Thrasher Pike address came from the Vibe dataset, not their site, so confirm it on the call. Their site has an Our Team page worth mining for a named contact.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "427": {
 "i": 427,
 "status": "keep",
-"note": "New lead, surfaced by the Vibe Prospecting export and confirmed on their own site. Right on Hixson Pike. Waste hauling means trucks.",
-"evidence": "Own site: Contact page and a certification PDF hosted on their domain both carry this phone; ISO-14001 and ISO-50001 service pages plus a client list are active.",
-"new_lead": true
+"name": "Advanced Waste Management Systems, Inc. (AWM)",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 843-2206 RE-CONFIRMED - it appears on their contact page and in their own published PDF letterhead - and address 6430 Hixson Pike 37343 confirmed. Not a domestic hauler: they run ISO-14001 and ISO-50001 environmental and energy-management programmes and greenhouse-gas services for industrial clients, so the fleet serves manufacturing accounts. Right on Hixson Pike. No email published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "428": {
 "i": 428,
