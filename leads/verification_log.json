@@ -3872,16 +3872,18 @@
 "505": {
 "i": 505,
 "status": "keep",
-"note": "Dealership means loaner fleet, courtesy shuttles and a service department that turns down glass work it cannot do in-house. Call the SERVICE line, not sales - 423-704-9039.",
-"evidence": "Own site: Contact and Directions pages list this address with separate sales (423-704-9035), service (423-704-9039) and parts (423-704-9042) lines, plus hours and a staff page.",
-"new_lead": true
+"name": "Crown Subaru",
+"note": "CORRECTED 2026-09-04 TO THE SERVICE LINE. crownsubarutn.com publishes service (423) 704-9039 and parts (423) 704-9042 for 7700 Lee Highway 37421; the (423) 704-9035 that was on file appears nowhere on their site. Service is the department that buys glass, so it is now the number on the row - parts as backup. Both departments Mon-Fri 7:30-17:30, Sat 8:00-16:00. Dealership means a loaner fleet and courtesy shuttles as well as a service drive that turns down glass work it cannot do in-house. Their Meet Our Staff page is public if you want a name first.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "506": {
 "i": 506,
 "status": "keep",
-"note": "Ask for David Gordon - his email is the one published. By appointment only, so ring first.",
-"evidence": "Own site: Contact page lists this address, phone, fax and a named email; locally owned since 2001 doing driveways, pool decks, docks, warehouse repairs and industrial coatings.",
-"new_lead": true
+"name": "Concrete Repair Specialist LLC",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 593-7413, address 2201 East Main Street 37404 and DavidGordon@ConcreteRepairSpecialist.com ALL RE-CONFIRMED. Locally owned, serving greater Chattanooga since 2001; polished, stamped and decorative concrete, coatings and stains as well as repair. BY APPOINTMENT ONLY still holds - ring before turning up, and ask for David Gordon.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "507": {
 "i": 507,
@@ -3902,16 +3904,18 @@
 "509": {
 "i": 509,
 "status": "keep",
-"note": "Southeast-wide travel with material trailers. The 847 prefix is the Hixson exchange.",
-"evidence": "Own site: Contact page lists this address, phone and email; founded 2000, installing and resurfacing tennis courts, tracks, sport courts and indoor surfaces across the southeast.",
-"new_lead": true
+"name": "Competition Athletic Surfaces",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. competitionathleticsurfaces.com is live and substantial but publishes no phone or street address a search of their domain will surface, so the (423) 847-8330 on file is UNSOURCED - though the 847 prefix being the Hixson exchange is at least consistent with a local number. THE BUSINESS IS SERIOUS: their own news pages cite three SEC schools, US Open tennis surfacing, the Chattanooga Lookouts warning track and the Manker Patten indoor courts. Tennis, pickleball, futsal, running tracks and synthetic turf across the southeast - southeast-wide travel with material trailers, so worth chasing the number down.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "510": {
 "i": 510,
 "status": "keep",
-"note": "Coating rigs travel in box trucks. Three-state coverage.",
-"evidence": "Own site: Contact page lists this address and phone; polished and stained concrete, sealers, resurfacing, garage and industrial coatings across north Georgia, north Alabama and east Tennessee.",
-"new_lead": true
+"name": "CRETESTAR",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 710-9200 and address 4311 7th Avenue 37407 RE-CONFIRMED on cretestar.us. Three-state coverage confirmed on their own contact page - north Georgia, north Alabama and east Tennessee. Epoxy and urethane coatings, trowel-down aggregate, densifiers, ESD coatings, polished and stained concrete, resurfacing and surface prep, industrial through residential. Coating rigs and surface-prep equipment travelling in box trucks. Note row 572, Lane Steel Fabricators, shares this 7th Avenue address.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "511": {
 "i": 511,
@@ -3945,9 +3949,10 @@
 "515": {
 "i": 515,
 "status": "keep",
-"note": "Multi-region GC, so superintendents drive a lot of miles. Their downloads folder is serving some spam pages, which suggests the site needs patching - not a reflection on the business.",
-"evidence": "Own site: Contact page lists this address, phone and fax; Tennessee-based GC doing commercial and retail construction across the southeast, midwest and mid-Atlantic, with team, projects and bid-opportunity pages.",
-"new_lead": true
+"name": "DBS Corporation - General Contractor",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 752-1302 and address 25 West 20th Street 37408 RE-CONFIRMED on dbscorporation.com. Their own description confirms the reach: commercial and retail construction across the SOUTHEAST, MIDWEST AND MID-ATLANTIC - superintendents driving serious miles. They publish a Team page and a Bid Opportunities page, both useful. CAUTION STANDS: their downloads folder is still serving spam pages, so the site needs patching; that is a hygiene problem, not a reflection on the business.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "516": {
 "i": 516,
@@ -4004,9 +4009,10 @@
 "523": {
 "i": 523,
 "status": "keep",
-"note": "Six locations of wreckers and rotators. Recovery trucks work in ditches and on shoulders - they break glass. One of the strongest prospects in the whole queue.",
-"evidence": "Own site: Contact pages list this address, phone, a toll-free line (800-407-2371) and an alternative (423-482-9217); heavy-duty towing and recovery with crane and winch equipment, 24/7, across six locations - Chattanooga, Cleveland, Jasper, Dalton, Ringgold and Trenton.",
-"new_lead": true
+"name": "Doug Yates Towing & Recovery, LLC",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 629-6621 RE-CONFIRMED, but the ADDRESS IS CORRECTED - their own contact page gives 2306 East 23rd St 37407, not the 2220 on file. THE FLEET NUMBER IS PUBLISHED AND IT IS BIG: over 50 TRUCKS, on their own site, founded 1946 and trading 75+ years as heavy-duty towing and recovery specialists, 24/7, across six locations. They even run an Our Fleet page. Recovery work happens in ditches and on shoulders, which breaks glass. This is the strongest single prospect confirmed in this sweep - call it first.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "524": {
 "i": 524,
