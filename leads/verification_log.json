@@ -3082,16 +3082,18 @@
 "403": {
 "i": 403,
 "status": "keep",
-"note": "New lead. Inspection and service techs cover the whole Tennessee Valley - high-mileage van fleet. No email published; contact form only.",
-"evidence": "Own site: Contact page lists this address, phone and hours with 24/7 emergency service; sprinkler, extinguisher, fire pump and hydrant service pages active across the Tennessee Valley.",
-"new_lead": true
+"name": "International Equipment Company (IEC Fire Protection)",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 267-6611 RE-CONFIRMED on iecfp.com. Protecting Tennessee Valley businesses since 1977 across fire sprinklers, alarms, pumps, extinguishers, hydrant inspections, industrial life safety and commercial security. Their site does not publish the 915 Pineville Road address, so that line stays unverified. INSPECTIONS ARE THE FLEET: hydrant, extinguisher and pump testing put techs on the road across the whole valley all year, not just on call-outs. No email; form only.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "404": {
 "i": 404,
 "status": "keep",
-"note": "New lead. Delivery box trucks running a 75-mile radius six days a week - high windshield exposure. No email published.",
-"evidence": "Own site: Contact page lists this address and phone; Coverage Area page states delivery within a 75-mile radius of Chattanooga; Our Staff and Cash & Carry pages active.",
-"new_lead": true
+"name": "Chattanooga Restaurant Supply, Inc.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 266-8181 RE-CONFIRMED on their own contact page, address 822 East 11th Street 37403 confirmed. Their coverage-area page confirms local delivery on a 75-MILE RADIUS across southeast Tennessee - box trucks running long days, which is exactly the windshield exposure worth quoting. They also run a cash-and-carry store on site. Their site has an Our Staff page worth mining for a named contact; no email published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "405": {
 "i": 405,
@@ -3104,9 +3106,10 @@
 "406": {
 "i": 406,
 "status": "keep",
-"note": "New lead. Cranes, rigging trucks and heavy-haul tractors, HQ'd here. Email goes to a named person, not a general box - better odds of a reply.",
-"evidence": "Own site: Chattanooga locations page lists this address, phone and email; Chattanooga is the headquarters, with branches in Mobile AL and Pensacola FL.",
-"new_lead": true
+"name": "Tomahawk Crane & Rigging",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 602-5438 RE-CONFIRMED, address 55 Workman Rd 37410 confirmed. MULTI-STATE, AND CHATTANOOGA LOOKS LIKE THE HQ: their own locations pages cover Mobile AL and Pensacola FL as branches, with this the home yard - so the fleet conversation here may cover more than one state. Cranes, rigging trucks and heavy-haul tractors. Nick@tcrcranes.com goes to a named person rather than a general box, so better odds of a reply.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "407": {
 "i": 407,
@@ -3118,9 +3121,10 @@
 "408": {
 "i": 408,
 "status": "keep",
-"note": "New lead. Downtown Chattanooga. Two named inboxes published - dewayne@ and linda@jameswilsonco.net. Cranes 6 to 90 ton plus haul tractors. No street address on the site.",
-"evidence": "Own site: Contact page lists this phone and two named email addresses with 24-hour emergency service; Services page covers plant relocation, industrial rigging and heavy hauling; 60+ years renting cranes.",
-"new_lead": true
+"name": "James Wilson Company",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 265-2646 RE-CONFIRMED on jameswilsonco.net's own contact page, along with both named inboxes, dewayne@ and linda@jameswilsonco.net. Open SEVEN DAYS, 7:00-17:00, with 24-hour emergency service - a fleet that runs weekends. 60+ years renting and leasing cranes, plus plant relocation, industrial rigging, heavy hauling and demolition rigging. Still no street address published, so that line stays blank.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "409": {
 "i": 409,
@@ -3160,9 +3164,10 @@
 "414": {
 "i": 414,
 "status": "keep",
-"note": "New lead. Restaurant service techs are on the road all day between accounts. No email or street address published.",
-"evidence": "Own site: home page lists this phone; active service blog through 2026 on commercial HVAC, walk-in coolers and ice machines across the Chattanooga area.",
-"new_lead": true
+"name": "Repair Pros Services, Inc.",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. repairprosservices.com is live and clearly active - a running blog through 2026 on walk-in coolers, ice machines and commercial HVAC - but publishes no phone number a search of their domain will surface, and no street address. The (423) 290-4946 on file is UNSOURCED. The business itself is not in doubt: full-service restaurant equipment, commercial refrigeration and HVAC across Chattanooga, with techs driving between accounts all day.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "415": {
 "i": 415,
@@ -3182,9 +3187,10 @@
 "417": {
 "i": 417,
 "status": "keep",
-"note": "New lead. Service trucks cover Chattanooga, Cleveland TN and into north Georgia. Use the commercial line 423-624-6563 for the fleet conversation. No email or address published.",
-"evidence": "Own site: home and service pages list this phone plus a commercial line (423-624-6563), Mon-Fri 7:00-4:30 with 24/7 emergency service; in business since 1963, now a division of Guardian Access Solution.",
-"new_lead": true
+"name": "JM Specialties, Inc.",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. jmspecialtiesinc.com publishes no phone on any page a search of their domain reaches - they route through a request-service form - so neither the (423) 219-5317 on file nor the 423-624-6563 commercial line from the earlier note has an official source. Try both. OWNERSHIP FOUND: their about page says JM Specialties is now a DIVISION OF GUARDIAN ACCESS SOLUTIONS, which may be the better route in. In the trade since 1963: commercial and residential overhead doors, high-speed doors, loading dock equipment, security gates and grilles, with 24/7 emergency service across Chattanooga and Cleveland TN.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "418": {
 "i": 418,
