@@ -3746,16 +3746,18 @@
 "489": {
 "i": 489,
 "status": "keep",
-"note": "Grinders and buffers travel in box trucks between jobs. Full contact set. About page also mentions Soddy Daisy.",
-"evidence": "Own site: Contact page lists this address, phone and email; concrete polishing and grinding, sealing, epoxy, carpet cleaning and VCT stripping for residential, commercial and industrial clients.",
-"new_lead": true
+"name": "Chattanooga Floor Care",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 708-2517, address 2513 E 19th St 37404 and info@chattfcs.com ALL RE-CONFIRMED on their own contact page. Concrete polishing, grinding, sealing and epoxy plus carpet cleaning and VCT stripping and waxing, residential through industrial - grinders and buffers travelling in box trucks between jobs. The Soddy Daisy mention on their about page holds. Their site has an Our Team page for a named contact.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "490": {
 "i": 490,
 "status": "keep",
-"note": "No street address published, only the phone.",
-"evidence": "Own site: Contact page lists this phone; Owens Corning preferred contractor doing roofing, decks and exteriors, with service pages for Ooltewah and Ringgold GA.",
-"new_lead": true
+"name": "Chattanooga Exteriors",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 805-3800 RE-CONFIRMED on chattanoogaexteriors.com. Still no street address published. NAMED CONTACTS FOUND - their site gives staff their own pages: ANDREW CARVER, WAREHOUSE MANAGER, is the one to ask for on a vehicle conversation, with Clay Patton, Controller, if it has to go through finance. Owens Corning preferred contractor doing roofing, siding, decks, windows and doors, with a Signal Mountain service page and a showroom.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "491": {
 "i": 491,
@@ -3768,23 +3770,26 @@
 "492": {
 "i": 492,
 "status": "keep",
-"note": "The real trading name is FOSTER ELECTRIC - 'Chattanooga Electrician' is just the domain. Ask for Foster Electric when you call.",
-"evidence": "Own site: service and area pages list this phone; residential and commercial electrical, rewiring, panel upgrades and solar.",
-"new_lead": true
+"name": "Chattanooga Electrician",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 892-6759 RE-CONFIRMED, and the trading name is confirmed as FOSTER ELECTRIC throughout their own site - 'Chattanooga Electrician' really is just the domain, so ask for Foster Electric. Full-service residential and commercial electrical contractor with neighbourhood-level areas-served pages across the city. No street address published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "493": {
 "i": 493,
 "status": "keep",
-"note": "Family run, two locations, so a real van fleet. Odd detail: a salon site is running on a subdomain of their domain, which suggests shared hosting - not a red flag for the business itself.",
-"evidence": "Own site: home and service-area pages list this phone plus two locations - 430 Chestnut St in Chattanooga and 5419 Woodbridge Dr, Ooltewah TN 37363 on (423) 910-9097.",
-"new_lead": true
+"name": "Chattanooga Heating & Air",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 702-6399 RE-CONFIRMED - they run it in their own site title - and 430 Chestnut St confirmed. SECOND LOCATION with its own number: Ooltewah, 5419 Woodbridge Dr 37363, (423) 910-9097, plus a McBrien Rd page. Family run across two sites means a real van fleet and two service managers to try. Their site does not publish the ZIP for the Chestnut St office, so that stays blank rather than guessed. The salon on a subdomain is shared hosting, not a problem with the business.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "494": {
 "i": 494,
 "status": "keep",
-"note": "Multi-city janitorial means crews driving between accounts nightly. Ask for Guy Harris - his email is the one published.",
-"evidence": "Own site: Contact page lists this corporate address, phone, fax and a named email; 30+ years of commercial janitorial across Chattanooga, Knoxville, Nashville, Huntsville and Dalton.",
-"new_lead": true
+"name": "Certified Maintenance Service, Inc.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 622-8192 and address 1504 Merrill Street / PO Box 9190, 37412 RE-CONFIRMED; fax (423) 622-9378. BIGGER THAN THE ROW SUGGESTS: their own site lists offices in Chattanooga, Knoxville, Nashville, Huntsville AL and Dalton GA, so nightly crews driving between accounts across five metros. Ask for Guy Harris, guyharris@cms-clean.com - the named address they publish.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "495": {
 "i": 495,
@@ -3797,9 +3802,10 @@
 "496": {
 "i": 496,
 "status": "keep",
-"note": "Two angles: their own rental fleet AND every fleet operator in the region comes through their shop. One of the best referral partners in the whole list - talk to them about a reciprocal arrangement.",
-"evidence": "Own site: Contact and Maps/Hours pages list this address, phone, toll-free (877-250-1508), fax and hours; 50+ years in trailer sales, rentals, truck equipment and repair across the tri-state region, with a staff page.",
-"new_lead": true
+"name": "Chattanooga Trailer & Rental, Inc.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 899-1744 and address 7445 Lee Highway 37421 RE-CONFIRMED; toll-free (877) 250-1508, fax (423) 899-9512, hours Mon-Fri 8:00-17:00, Sat 9:00-13:00. They also run a North Chesterfield VA location, so this is a two-state dealer. Trailer sales, service, rental and leasing - flatbeds, storage trailers, containers and cartage vans. BOTH ANGLES STAND, and the referral one is the stronger: every fleet operator in the region comes through their shop. Worth a reciprocal arrangement conversation, not just a quote.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "497": {
 "i": 497,
