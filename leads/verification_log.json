@@ -1278,10 +1278,10 @@
 "181": {
 "i": 181,
 "status": "keep",
-"phone": "(800) 678-1576",
-"address": "4191 S Creek Rd",
-"evidence": "Locations page on stockdsupply.com",
-"note": "OFFICIAL SITE: CORRECTED phone - site says 800-678-1576, sheet had 800-698-1576. HQ since 1979 (formerly Bolts & Nuts Corp)"
+"name": "Stock'd Supply (BlackHawk Industrial)",
+"note": "OFFICIAL SITE 2026-09-04: phone (800) 678-1576 RE-CONFIRMED on stockdsupply.com's own locations page for 4191 S Creek Rd 37406 - the 09-03 correction holds. MRO distributor here since 1979 (formerly Bolts & Nuts Corp), now part of BlackHawk Industrial; they run their own delivery vans. Only a toll-free number is published, so ask for the Chattanooga branch when you call.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "180": {
 "i": 180,
@@ -1301,14 +1301,18 @@
 "185": {
 "i": 185,
 "status": "keep",
-"address": "6728 Ringgold Rd",
-"note": "verified rv.campingworld.com Chattanooga dealer page live"
+"name": "Camping World Chattanooga",
+"note": "OFFICIAL SITE 2026-09-04: phone (877) 295-2202 RE-CONFIRMED on rv.campingworld.com's own Chattanooga dealer pages, address 6728 Ringgold Rd 37412-4230 confirmed. Only the toll-free is published. SERVICE IS THE WAY IN - this dealer runs separate RV service and repair, RV parts and installation, RV collision repair and mobile-service operations, all with their own pages; ask for service or collision, never the sales floor. The mobile-service unit is a van fleet in its own right.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "188": {
 "i": 188,
 "status": "keep",
-"address": "4280 Bonny Oaks Dr",
-"note": "verified skiersmarine.com Chattanooga location live"
+"name": "Skier's Marine \u2013 Chattanooga",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 680-7301 RE-CONFIRMED on skiersmarine.com's own Chattanooga location page, address 4280 Bonny Oaks Dr 37406 confirmed. Hours Tue-Fri 8:30-17:30, Sat 8:30-16:00. MasterCraft, Moomba and Premier Pontoons dealer with an on-site service operation - tow vehicles and trailers.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "189": {
 "i": 189,
@@ -1800,10 +1804,10 @@
 "184": {
 "i": 184,
 "status": "keep",
-"website": "chattanoogacampersales.com",
-"email": "chattanoogacampers@gmail.com",
-"address": "5911 Ringgold Rd",
-"note": "found website+email"
+"name": "Chattanooga Camper Sales",
+"note": "CORRECTED 2026-09-04: the row carried (423) 681-9095. Two separate searches of chattanoogacampersales.com return (423) 427-6640 for 5911 Ringgold Rd 37412, and neither surfaces the old number - corrected. Independent RV dealer; their service bay is the glass buyer, not the lot.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "302": {
 "i": 302,
@@ -2979,20 +2983,19 @@
 },
 "187": {
 "i": 187,
-"name": "Erwin Marine Sales",
 "status": "keep",
-"evidence": "Contact and Chattanooga location pages on erwinmarinesales.com",
-"note": "OFFICIAL SITE: two Chattanooga sites confirmed - sales at 201 Riverfront Pkwy 37402 and the service yard at 3001 Kings Point Rd 37416, which is the address on this row. Boat sales, service, rentals and marinas across TN and AL. No phone or email published; they use a form."
+"name": "Erwin Marine Sales",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. Three searches of erwinmarinesales.com - contact page, service page and both marina pages - surface no phone number at all; they route everything through a form. The (423) 622-1978 on file is UNSOURCED; verify before relying on it. Their site does confirm two Chattanooga sites: Chickamauga Marina (the 3001 Kings Point Rd service yard on this row) and Erwin Marine Riverfront downtown, part of five marinas across TN and AL. Boat haulers and yard trucks, plus the service department itself.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "191": {
 "i": 191,
-"name": "Crockett Powersports",
 "status": "keep",
-"address": "4113 S Access Rd",
-"zip": "37406",
-"phone": "(423) 760-3670",
-"evidence": "crockettpowersports.com",
-"note": "OFFICIAL SITE: address and phone confirmed. Indian Motorcycle and CFMOTO dealer. Closed Sun-Mon. No email published."
+"name": "Crockett Powersports",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 760-3670 RE-CONFIRMED - it runs in the title of every page on their site. Address 4113 S Access Rd 37406 confirmed, hours Tue-Fri 9:00-18:00, Sat 9:00-17:00, closed Sun-Mon. Their line covers Indian, KTM, Yamaha, CFMOTO, Harley-Davidson, Slingshot and Motus, and they have their own service department - the Slingshot side means actual windshields, not just fairings.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "206": {
 "i": 206,
