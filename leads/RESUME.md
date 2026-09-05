@@ -332,19 +332,21 @@ signs of lapsing.
 
 ---
 
-## HANDOFF — 2026-09-05 (phone re-check, batches 11-24 done)
+## HANDOFF — 2026-09-05 (phone re-check: A tier finished)
 
-Supersedes the 2026-09-04 handoff below, which is kept for the corrections
-it lists. Method, worklist query and recording command are unchanged.
+Supersedes the 2026-09-04 handoff below, which is kept for the corrections it
+lists. Method, worklist query and recording command are unchanged.
 
 ### Where the sweep stands
 
-**Done: 141 rows. Remaining: 415 — 120 A, 226 B, 69 C.** The A tier is now
-past its worst: 204 A rows remained on 09-04, 120 remain now.
+**Done: 206 rows. Remaining: 293 — 0 A, 224 B, 69 C.**
 
-**Next six rows:** row 430 All Aboard USA | row 431 Tennessee Roofing &
-Construction (TRC) | row 437 Red Iron Steel | row 443 Weeks Paving |
-row 444 Marion Environmental | row 453 ADI Pavement
+**The entire A tier is swept.** All 204 A-priority rows outstanding on 09-04
+have been checked against the companies' own sites. What is left is B and C
+work, so the highest-value corrections are already banked.
+
+**Next six rows:** row 15 423 Auto | row 16 Wholesale Auto Brokers, then
+continue B-priority in row order.
 
 ### One environment limit worth knowing
 
@@ -352,102 +354,137 @@ WebFetch is blocked by this session's network policy for essentially every
 outside domain — `curl` gets a 403 from the egress proxy. **WebSearch is the
 only channel that reads a company's own site.** It works well, but when a
 site's number is not in the search index there is no second way to reach it,
-which is why some rows below are flagged UNCONFIRMED rather than resolved.
+which is why some rows are flagged UNCONFIRMED rather than resolved.
 
-### What batches 11-24 turned up
+### The method lesson that cost the most
 
-Roughly **one row in three** still needs a correction or a flag, matching the
-rate on 09-04. Corrections made:
+**One search of a multi-line business is not enough.** Three rows nearly took
+a wrong overwrite from a single search that grabbed a secondary number:
+
+- **Atlas Bolt** — one search returned 423-497-0463, a second returned the
+  423-265-2341 on file. Kept the file number, noted the other.
+- **MCS Facility Services** — one search returned their *residential*
+  move-in/out line; the main office is the 423-872-2345 on file.
+- **JBH Steel / H&H Brown** — 1801 and 1803 Polk Street, numbers one digit
+  apart (267-9665 and 267-9655). Easy to misdial either way; both rows now
+  carry the warning.
+
+When a search returns a number that disagrees with the sheet, **search again
+before overwriting.**
+
+### Corrections made (phone unless stated)
 
 - **Impact Facility Solutions — the 09-03 "correction" was wrong and is reverted.**
-  It had been changed to 423-415-1045 off a chamber listing; two searches of
-  their own site return **423-645-0830**, the number that was replaced.
-  *Any row corrected from a directory rather than the company site deserves
-  the same re-check.*
-- **ECS Southeast** carried **(615) 885-4983 — a Nashville number.** Their
-  Chattanooga page says **423-874-9020**.
-- **Chattanooga Camper Sales** — 423-681-9095 replaced by **423-427-6640**.
-- **Material Handling Inc** — 423-698-0264 appears nowhere on their site;
-  their branch page publishes **833-277-9797**.
-- **Walden Security** — site publishes both numbers; the local **423-702-8200**
-  is now primary, the 800 line the fallback.
-- **Mountain City Service** — Website field was a **Facebook page**; their real
-  site is **mountaincityservice.com**.
-- **Classic Collision (row 145)** — filed as Hixson; their site calls it
-  **Classic Collision Red Bank, Chattanooga 37415**. Needs renaming too, as
-  they have separate Hixson and Northgate shops in 37343.
-- ZIP fixes off the companies' own pages: Lumberjacks 37406, Cook's Pest 37416.
-- **Cintas** — their site does publish the address the earlier pass missed:
-  2131 Polymer Dr Ste 2131-A.
-- **911 Junk Out** — address found: 9163 Integra Preserve Ct **Apt 228,
-  Ooltewah** 37363. An apartment, so home-based, and the row's Hixson city
-  line was wrong.
-- Emails found where rows had none: **Action Air** Service@CallActionAir.com,
-  **Thomas Brothers** info@tbccinc.net.
+  Changed to 423-415-1045 off a *chamber listing*; their own site says
+  **423-645-0830**. *Any row corrected from a directory rather than the
+  company site deserves the same re-check.*
+- **ECS Southeast** carried a **Nashville 615 number**; their Chattanooga page
+  says **423-874-9020**.
+- **Highway Environmental** carried its **Knoxville** number; Chattanooga is
+  **423-629-2714** at 3900 N Hawthorne St.
+- **Crown Subaru** → service line **423-704-9039** (the number on file appears
+  nowhere on their site).
+- **Two Men and a Truck** → **423-201-4154**.
+- **Chattanooga Camper Sales** → **423-427-6640**.
+- **Material Handling Inc** → **833-277-9797**.
+- **Walden Security** → local **423-702-8200** made primary over the 800 line.
+- **Mountain City Service** — Website was a **Facebook page**; real site is
+  **mountaincityservice.com**.
+- Addresses: **Architectural Surfaces** → 4500 Amnicola Hwy; **Doug Yates** →
+  2306 E 23rd St; **Classic Collision row 145** → Chattanooga 37415 (it is the
+  *Red Bank* shop, and still needs renaming); **911 Junk Out** → an Ooltewah
+  apartment, so home-based.
+- Filled in where blank: street addresses for **J.D. Helton**, **Chattanooga
+  Boiler & Tank**, **Armor Xteriors**, **Mid-South Equipment**; ZIPs for
+  **Lumberjacks**, **Cook's Pest**, **Keefe Plumbing**; emails for **Action
+  Air**, **Thomas Brothers**, **Chattanooga Hardwood Center**.
 
-### Two data-quality problems that outlive this sweep
+### Duplicate rows found — merge before calling
 
-1. **Manzano Masonry (row 301) is not a Hamilton County business.** Their own
-   site puts Manzano Masonry Group LLC in **Dayton, Rhea County**, and lists
-   Soddy-Daisy only as a service area. Flagged for out-of-county review.
-2. **Addresses that no source supports.** Row 197 (Express Courier) claims
-   2131 Polymer Dr, which is Cintas's own published address. Crider
-   Landscaping's only published address is a **PO box in Hixson**, not the
-   Soddy-Daisy street address on file. Gudel's own site puts them on **Hixson
-   Pike**, not Middle Valley Rd. L H Lewis's details came off a social page,
-   not a website.
+A scan of all 685 rows for repeated phones, emails and domains found:
 
-I ran a scan for duplicated and near-consecutive addresses across all 685
-rows. Most near-consecutive pairs are genuine commercial corridors — several
-were confirmed real during this sweep — so there is **no systemic fabrication
-pattern**, just the individual rows named above.
+1. **Rows 86 and 609 — Paul Davis Restoration.** Identical in every field.
+2. **Rows 67 and 611 — Pointe General Contractors / PGC LLC.** Same number,
+   two domains, PGC being their initials.
+3. **Rows 40 and 509 — Covenant Logistics / Covenant Trucking.** Same address
+   and number; Covenant Trucking is the older trading name.
+4. Rows 149/150/151 (funeral chapels) and 444/583 (Marion Environmental /
+   MEI-Aqua Treat) share numbers but are **genuinely separate sites** — one
+   call covers each group.
 
-### Newly flagged UNCONFIRMED in batches 11-24
+Two rows the scan flagged are **not** problems: row 584 is registered as
+"Elder's Ace Hardware of South Knoxville, LLC" but its address is in Hamilton
+County, and row 320's southern.edu website is right because it genuinely is
+the university's campus auto shop.
 
-ABC Supply, Landscape Workshop, Parman Energy, Erwin Marine, Loomis Armored,
-Express Courier, Wilder Animal Care, Conley Towing, Gudel's Garage, HEP Is On
-The Way, All Around Heating, L H Lewis Tree Service, Manzano Masonry, Wright
-Construction, Repair Pros Services, JM Specialties, Grease Fellas, TVPS.
+### Still-open data problems
 
-Two of these are worth a note: **Parman Energy's** site shows no Chattanooga
-branch at all and its contact page renders under another company's name
-(All Seasons P.H.E., Inc.). **Conley Towing** has no reachable website, and
-FMCSA SAFER — a federal record, not a directory — lists USDOT 2877384 as
-Conley Wrecker / Tennessee Wrecker / Spicer Towing under one registrant,
-James Ratledge, contradicting the "David Ratledge" in the 09-04 note.
+- **Manzano Masonry (row 301) is not a Hamilton County business** by its own
+  account — Dayton, Rhea County, with Soddy-Daisy only a service area.
+- **Addresses no source supports:** row 197 (Express Courier) claims Cintas's
+  own published address; **Crider Landscaping** publishes only a Hixson PO box;
+  **Gudel's** own site puts them on Hixson Pike, not Middle Valley Rd; **L H
+  Lewis**'s details came off a social page.
+- **Builders FirstSource (row 473)** is still filed as "Building First Source".
 
-### Department contacts found (the service desk, not the sales floor)
+I also scanned for near-consecutive street numbers; most such pairs are genuine
+commercial corridors, so there is **no systemic fabrication pattern**.
+
+### Department contacts — the service desk, not the sales floor
 
 - **Marshal Mize Ford** — collision **423-870-9573**, service 423-875-2058,
-  parts 423-870-4053. The 423-875-2023 on file is the sales floor.
+  parts 423-870-4053. The number on file is the sales floor.
+- **Long of Chattanooga Mercedes** — they run **their own body shop**; ask for
+  it first, then service on 423-855-5664.
 - **Camping World** — separate service, parts, collision and mobile-service
   operations behind one toll-free.
-- **Southern Adventist University** — Plant Services **423-236-2291** alongside
+- **S&H Trucking** — operations direct on 423-648-5355 ext 104 / 423-648-7198,
+  and they employ **their own mechanics**.
+- **NABCO Electric** — 24-hour line 423-622-8463, plus a Cleveland TN branch.
+- **Southern Adventist University** — Plant Services 423-236-2291 alongside
   Transportation's 423-236-2716.
-- **Cintas** — uniform services 423-822-5255 (on file) vs facility services
-  423-401-8800.
-- **Ferguson** — HVAC and Industrial at the same S Creek Rd campus on
-  423-493-3190.
-- **Overhead Door** — their 24-hour line, 865-573-1950, is a *Knoxville*
-  number.
-- **JM Specialties** is now a division of **Guardian Access Solutions**.
+- **Cintas** — uniform services (on file) vs facility services 423-401-8800.
+- **Overhead Door**'s 24-hour line is a *Knoxville* number.
+- **JM Specialties** is now a division of **Guardian Access Solutions**;
+  **Hullco** is now **West Shore Home**; **Milco National** is part of **DBM
+  Global** — in each case vehicle spend may sit with the parent.
 
-### More unworked prospects found along the way
+### Fleets the companies size themselves
 
-- **Holston Gases**: a second Chattanooga point (Arc 1) and an Ooltewah branch
-- **Canteen**: a separate Ringgold/Chattanooga operation
-- **Lumberjacks**: the Hardwood Center, 4123 Cromwell Rd, 423-624-0000
-- **Erwin Marine**: Riverfront marina downtown, in addition to Kings Point Rd
-- **Tomahawk Crane** appears to be an HQ, with Mobile AL and Pensacola FL branches
+- **Doug Yates Towing — over 50 trucks**, six locations, trading since 1946.
+  The strongest single prospect confirmed in this sweep.
+- **Chattanooga Tree Service** publishes its equipment list: three cranes, a
+  75-ft roadside bucket truck, two 90-ft tracked lifts.
+- **Reliable Heating & Air** — "largest residential HVAC service team in the
+  Chattanooga area", fully-stocked vans.
+- **Care Med Ambulance** and **Paul Davis** (30-minute response) — vehicles
+  that cannot be off the road.
 
-### Referral angle worth a call in its own right
+### Referral partners, not just customers
 
-**Pro Auto and Fleet Detailing (row 400)** sells *headlight repair* alongside
-fleet washing — they already do glass-adjacent work inside the fleets on this
-list. **Chattanooga Mobile Truck Repair (row 423)** is in other people's
-fleets daily. Both are better as referral partners than as customers.
+**Pro Auto and Fleet Detailing (row 400)** sells *headlight repair* into the
+fleets on this list. **Chattanooga Trailer & Rental (row 498)** and
+**Chattanooga Mobile Truck Repair (row 423)** have every regional fleet through
+their shops. **Swope Equipment (row 652)** sees every contractor in town.
+**Scenic City Recycling (row 634)** is a glass recycler — a disposal
+conversation as well as a sales one.
 
----
+### Unworked prospects found along the way
+
+Holston Gases (a second Chattanooga point and an Ooltewah branch); Canteen
+(Ringgold/Chattanooga); Lumberjacks Hardwood Center; Erwin Marine Riverfront;
+Enterprise (Downtown and Airport branches); Tomahawk Crane (Mobile AL and
+Pensacola FL, so Chattanooga is the HQ).
+
+### Rows to treat with care
+
+**Parman Energy** — site shows no Chattanooga branch and its contact page
+renders under another company's name. **Conley Towing** — no reachable website;
+FMCSA SAFER (a federal record) ties Conley Wrecker / Tennessee Wrecker / Spicer
+Towing to one registrant, James Ratledge, contradicting the "David Ratledge" in
+the 09-04 note. **All Aboard USA** — home page now serves a New Zealand tour
+site. **Swope Equipment** — injected spam pages still served under /jsnly8tg/.
+**S&H Trucking** — an Account Suspended page sits on their domain.
 
 ## HANDOFF — 2026-09-04 (phone re-check paused mid-sweep)
 
