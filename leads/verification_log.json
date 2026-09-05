@@ -1829,12 +1829,11 @@
 },
 "317": {
 "i": 317,
-"name": "Collegedale Exxon",
 "status": "keep",
-"address": "9416 Apison Pike",
-"zip": "37315",
-"evidence": "Contact page on collegedaleexxon.com",
-"note": "OFFICIAL SITE: address and phone confirmed. Fuel, towing and ASE-certified repair since 1974; email only via site form."
+"name": "Collegedale Exxon",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 396-3863 RE-CONFIRMED, address 9416 Apison Pike 37315 confirmed. Fuel pumps 24/7 but the GARAGE is Mon-Thu 7:00-18:00, Fri 7:00-17:30, closed weekends - call weekday mornings. ASE-certified repair since 1974 plus their own towing service, so a wrecker as well as a shop full of other people's vehicles. Email only via site form.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "324": {
 "i": 324,
@@ -1867,23 +1866,19 @@
 },
 "319": {
 "i": 319,
-"name": "Life Care Center of Collegedale",
 "status": "keep",
-"address": "9210 Apison Pike",
-"zip": "37315",
-"evidence": "Contact page on lifecarecenterofcollegedale.com",
-"note": "OFFICIAL SITE: address and phone confirmed. No email published; fax 423-396-3420."
+"name": "Life Care Center of Collegedale",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 396-2182 RE-CONFIRMED on their own contact page, address 9210 Apison Pike 37315 confirmed. Still no email published; fax 423-396-3420. Skilled nursing and rehab - the fleet here is resident-transport vans, run by the facilities or transport coordinator rather than the front desk.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "320": {
 "i": 320,
-"name": "Southern Adventist University",
 "status": "keep",
-"address": "10035 Park Ln",
-"zip": "37315",
-"phone": "(423) 236-2716",
-"email": "transportation@southern.edu",
-"evidence": "Transportation Services contact page on southern.edu",
-"note": "OFFICIAL SITE: reached the actual fleet contact. Transportation Services is 423-236-2716 / transportation@southern.edu at 10035 Park Lane - use this rather than the 423-236-2000 switchboard the sheet had."
+"name": "Southern Adventist University \u2013 Plant Services / Transportation",
+"note": "OFFICIAL SITE 2026-09-04: Transportation Services (423) 236-2716 RE-CONFIRMED at Park Lane with transportation@southern.edu - the 09-03 correction away from the 423-236-2000 switchboard holds, and this is the right desk. SECOND DEPARTMENT LINE: Plant Services, also at Park Lane, is (423) 236-2291 - the row covers both, so try Transportation first for the vehicle fleet and Plant Services for buildings and grounds equipment. A university fleet is one of the larger single-owner fleets in the county.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "329": {
 "i": 329,
@@ -1897,14 +1892,11 @@
 },
 "331": {
 "i": 331,
-"name": "D & G Roofing",
 "status": "keep",
-"address": "2016 Dayton Blvd",
-"city": "Chattanooga",
-"zip": "37415",
-"phone": "(423) 987-7529",
-"evidence": "Contact page on dgroofingco.com",
-"note": "OFFICIAL SITE: CORRECTED phone to 423-987-7529 (sheet had 423-877-5716) and city to Chattanooga (sheet said Signal Mountain). Also does siding, decks and painting."
+"name": "D & G Roofing Specialists, LLC",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 987-7529 RE-CONFIRMED and address 2016 Dayton Blvd, Chattanooga confirmed - both 09-03 corrections hold, including the move from Signal Mountain to Chattanooga. Roofing plus siding, decks and painting, so crew trucks on residential job sites.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "332": {
 "i": 332,
@@ -2179,10 +2171,11 @@
 },
 "330": {
 "i": 330,
-"name": "Mountain City Service",
 "status": "keep",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run Facebook page confirms Mountain City Service Inc is active in Signal Mountain doing HVAC and plumbing. No phone or address published there, so the sheet phone is unconfirmed."
+"name": "Mountain City Service, Inc. (HVAC & Plumbing)",
+"note": "WEBSITE CORRECTED 2026-09-04: the row pointed at a Facebook page. Their real site is mountaincityservice.com - it carries a Signal Mountain HVAC page, a commercial plumbing division and HVAC service-area pages out to Jasper and Kimball, describing them as a full mechanical and plumbing contractor across southeast Tennessee and north Georgia with 24/7 emergency service. PHONE STILL UNCONFIRMED: even their own site does not surface a number to search, so the (423) 801-1016 on file remains UNSOURCED - but the business is now solidly verified, which it was not before. Incorporated 2002 by David Broome and David Smith (per third-party records, so treat the names as a lead, not a fact).",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "288": {
 "i": 288,
@@ -2228,14 +2221,11 @@
 },
 "322": {
 "i": 322,
-"name": "Collegedale Academy",
 "status": "keep",
-"address": "4855 College Dr E",
-"zip": "37315",
-"email": "marketing@collegedaleacademy.com",
-"website": "collegedaleacademy.com",
-"evidence": "Contact page on collegedaleacademy.com",
-"note": "OFFICIAL SITE: address, phone and email confirmed. Found their website - the sheet had none."
+"name": "Collegedale Academy",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 396-2124, address 4855 College Dr E 37315 and marketing@collegedaleacademy.com ALL RE-CONFIRMED. Separate line for the Early Childhood Education Center: 423-396-2122, k-5registrar@collegedaleacademy.com. K-12 private school - activity buses and vans; ask for facilities or transportation, not the marketing mailbox on file.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "265": {
 "i": 265,
