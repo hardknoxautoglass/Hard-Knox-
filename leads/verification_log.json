@@ -2999,23 +2999,26 @@
 "392": {
 "i": 392,
 "status": "keep",
-"note": "New lead. Runs junk/dumpster trucks. Email address is obfuscated on their site - phone is the way in. No street address published.",
-"evidence": "Own site: Hixson service-area page states the company is located in Hamilton County; commercial junk removal and dumpster rental pages active.",
-"new_lead": true
+"name": "911 Junk Out TN",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 244-0848 RE-CONFIRMED. ADDRESS FOUND where the row had none - but read it carefully: their contact page gives 9163 Integra Preserve Ct APT 228, OOLTEWAH 37363, an apartment, so this is a home-based operator and the row's Hixson city line was wrong. Still Hamilton County. Hours Mon-Thu 7:00-19:00, Fri 7:00-15:00, Sun 8:00-18:00, closed Sat. Serves Chattanooga, East Ridge, Ooltewah, Lookout Mountain, Red Bank, Fort Oglethorpe and Hixson. Email is obfuscated on the site, so phone is still the way in. Junk and dumpster trucks.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "393": {
 "i": 393,
 "status": "keep",
-"note": "New lead. Runs crane trucks, chip trucks and bucket trucks - windshields take a beating in tree work.",
-"evidence": "Own site: Contact page lists this address and phone; 30+ years in business, dedicated Hixson service page, 24/7 emergency crews.",
-"new_lead": true
+"name": "Cut Right Tree Service",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 260-1238 RE-CONFIRMED on cutrighttreeservice.com's own contact page, address 3115 Curtis St 37406 confirmed. 24/7 emergency tree service with a dedicated crane-services division - crane trucks, chip trucks and bucket trucks, and tree work is about as hard on windshields as the trade gets.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "394": {
 "i": 394,
 "status": "keep",
-"note": "New lead. Crew size implies several trucks and chippers. No street address published.",
-"evidence": "Own site: Contact page lists phone and email; team page names 4 Board Certified Master Arborists and 6 ISA Certified Arborists; Hixson service-area page active.",
-"new_lead": true
+"name": "Tree Worx LLC",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 451-6388 RE-CONFIRMED on treeworxllc.com's own contact page. ISA Certified Arborists, 10+ years in Chattanooga, doing removal, trimming, pruning, planting, stump grinding and emergency work across Hixson, Signal Mountain and Lookout Mountain as well as the city. Still no street address published, so that line stays blank rather than guessed. Several trucks and chippers.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "395": {
 "i": 395,
@@ -3041,9 +3044,10 @@
 "398": {
 "i": 398,
 "status": "keep",
-"note": "New lead. Worth a call twice over - they run mobile rigs of their own AND they are inside the fleets you want, so a referral arrangement is on the table. Fully mobile, no shop address published.",
-"evidence": "Own site: dedicated Fleet Washing & Detailing page, plus mobile detailing, RV/boat and motorcycle service pages; serves Chattanooga and NW Georgia.",
-"new_lead": true
+"name": "Pro Auto and Fleet Detailing",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 488-0567 RE-CONFIRMED on proautoandfleetdetailing.com. Fully mobile, no shop address published - correctly left blank. Their own service list is the reason to call twice over: a dedicated fleet washing and detailing line, plus RV, boat and motorcycle detailing, ceramic coating and HEADLIGHT REPAIR - they already sell glass-adjacent work into the fleets you want, so a referral arrangement is the real play here, not just their own mobile rigs.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "399": {
 "i": 399,
@@ -3062,16 +3066,18 @@
 "401": {
 "i": 401,
 "status": "keep",
-"note": "New lead. Field service trucks run to customer sites daily. Also a Bobcat dealer. No email published.",
-"evidence": "Own site: Location page lists this address and phone (alt 423-867-3333); 30+ years in business; rentals, field service, preventative maintenance and hydraulic hose fabrication pages all active.",
-"new_lead": true
+"name": "Industrial Lift Truck",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 332-5533 RE-CONFIRMED on their own location page, address 1259 Hooker Road confirmed. Chattanooga's Bobcat dealer as well as a forklift dealer - sales, rentals, parts, hydraulic repairs and a preventative-maintenance programme, which means field service trucks running to customer sites daily. No email published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "402": {
 "i": 402,
 "status": "keep",
-"note": "New lead. Branch of a multi-state dealer HQ'd in Dalton GA - the Chattanooga branch runs its own service fleet. No email published.",
-"evidence": "Own site: Chattanooga location page lists this address, phone and hours; CLARK, Linde, Komatsu and Princeton dealer with rentals and service.",
-"new_lead": true
+"name": "Material Handling, Inc. (Chattanooga)",
+"note": "CORRECTED 2026-09-04: mhiusa.net's own Chattanooga branch page publishes (833) 277-9797 for 1050 Stuart Street 37406; the (423) 698-0264 on file appears nowhere on their site. Corrected to the published number, but keep the 423 as a direct line worth trying - a toll-free will land you in a queue, and you want the Chattanooga service manager. Branch of a multi-state dealer HQ'd in Dalton GA with Birmingham and Knoxville branches; the Chattanooga branch runs its own forklift service fleet.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "403": {
 "i": 403,
