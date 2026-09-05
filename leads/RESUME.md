@@ -1,14 +1,20 @@
 # Resume point — lead verification
 
-**Last updated:** 2026-09-04
+**Last updated:** 2026-09-05
 
 ## How to restart this work in a fresh session
 
 Paste this as the first message. It is deliberately short — everything else is on disk.
 
-> Read `leads/RESUME.md`, then pick up the work it lists under "Remaining work".
-> Same method and same sourcing rules as before. Record each batch with
-> `leads/tools/rec.py` and commit after every batch.
+> Read `leads/RESUME.md` and continue the phone re-check from the handoff section
+> at the top. Same method and same sourcing rules as before: one WebSearch scoped
+> to the company's own domain per row, no directories or social. Work in batches of
+> six, record each with `leads/tools/enrich.py`, and commit and push after every batch.
+
+**Current work is the phone re-check.** It records with `leads/tools/enrich.py`
+(entries need `row` and `name`; omitted fields are left untouched). `rec.py` and the
+other four scripts belong to the finished Vibe queue below — do not reach for them
+unless a new queue arrives.
 
 The Vibe queue itself is finished, so there is no queue file to work from any more.
 If a new queue arrives, drop it in as `vibe_queue.json` and the same four scripts run it.
@@ -337,6 +343,26 @@ signs of lapsing.
 Supersedes the 2026-09-04 handoff below, which is kept for the corrections it
 lists. Method, worklist query and recording command are unchanged.
 
+### Files in play (read this first)
+
+- **`leads/Hamilton_County_Auto_Glass_Leads_verified.xlsx`** — the master database,
+  685 rows. **This is the one to keep editing**; `leads/tools/enrich.py` writes to it.
+- **`leads/Hamilton_County_Auto_Glass_CALL_LIST.xlsx`** — a call-ready view built
+  2026-09-05 (Read Me / Call List / Verify First / Duplicates / Summary). It is a
+  *derived* file: rebuild it from the master rather than editing it by hand, with
+  the script quoted at the end of this handoff. Do not treat it as the source of truth.
+- **`leads/verification_log.json`** — drives the worklist. A row is "swept" once it
+  has a `gapfill` date, which `enrich.py` sets automatically.
+
+### To restart in one command
+
+```bash
+pip install openpyxl        # not preinstalled in the remote session
+git checkout claude/vibe-queue-verification-1p9xkh
+```
+
+Then run the worklist query below. It prints what is left, highest priority first.
+
 ### Where the sweep stands
 
 **Done: 206 rows. Remaining: 293 — 0 A, 224 B, 69 C.**
@@ -561,3 +587,32 @@ Commit and push after every batch to `claude/vibe-queue-verification-1p9xkh`.
 ### Still on offer, never accepted
 
 The A/B/C priority grades drift between sessions: 37% A among the original 433 rows versus 49-59% A among the Vibe additions, the same trades sitting in two different tiers, and inconsistent industry strings. A re-grade of all 685 rows against a written rubric was offered and the user has not answered either way.
+
+
+---
+
+## Rebuilding the call-list workbook
+
+`leads/Hamilton_County_Auto_Glass_CALL_LIST.xlsx` is generated, not maintained. After
+any batch of edits to the master workbook, regenerate it so the two stay in step.
+The build script is not committed (it was scratch); the logic is:
+
+1. Read every row of the `Leads` sheet in the master workbook.
+2. Derive a **Phone Confidence** value from the wording of `Verification Notes`:
+   - contains `UNCONFIRMED`, `UNSOURCED`, `KEPT BUT FLAGGED` or `RELAXED RULE`
+     → *Unconfirmed - verify before calling*
+   - contains `PHONE CHANGED`, `PHONE CORRECTED`, `REVERTS THE`, `PHONE BOTH CORRECTED`,
+     or starts `CORRECTED 2026` → *Corrected - use this number*
+   - contains `RE-CONFIRMED`, `RE-CHECKED` or `OFFICIAL SITE` → *Confirmed on company site*
+   - blank/placeholder phone → *No phone on file*
+   - otherwise → *Not phone re-checked*
+3. Blank any cell reading `Not publicly available` (audit-trail phrasing, not call-sheet
+   phrasing), writing a real `None` rather than an empty string so `COUNTA` behaves.
+4. Sort by priority (A, B, C), then confidence, then business name.
+5. Write five tabs and set `wb.calculation.fullCalcOnLoad = True`.
+
+**Environment note that cost real time:** LibreOffice cannot recalculate in this
+sandbox — `scripts/recalc.py` times out even on a three-cell test file. So Summary
+formulas ship without cached values. Verify ranges and criteria by computing the same
+counts in Python and comparing, then rely on `fullCalcOnLoad` to populate them when
+the user opens the file. Do not burn ten minutes retrying `recalc.py`.
