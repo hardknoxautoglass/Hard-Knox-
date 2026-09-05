@@ -1916,10 +1916,11 @@
 },
 "333": {
 "i": 333,
-"name": "Signal Pest Control",
 "status": "keep",
-"evidence": "signalmountainpestcontrol.com contact and about pages",
-"note": "OFFICIAL SITE: phone confirmed; has a commercial pest division and serves TN and North Georgia. No street address or email published, so the sheet address is unconfirmed."
+"name": "Signal Pest Control (Signal Mountain Pest Control)",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 498-4840 RE-CONFIRMED - they run it in their own page titles. Family owned and owner-operated, 40+ years, licensed bonded and insured, with a commercial/industrial division serving offices through to warehouses across TN and North Georgia. CAUTION STANDS: they publish no street address, so the 54 Miller Cove Rd on file remains unverified. Route trucks.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "338": {
 "i": 338,
@@ -2614,16 +2615,18 @@
 "348": {
 "i": 348,
 "status": "keep",
-"note": "NEW LEAD. OFFICIAL SITE: address and departmental numbers confirmed - sales 423-875-2023, service 423-875-2058, body shop 423-870-9573, parts 423-870-4053. Dealer inventory plus a body shop and a service fleet; the body shop line is the one to call.",
-"evidence": "Dealership pages on marshalmizeford.com",
-"new_lead": true
+"name": "Marshal Mize Ford",
+"note": "OFFICIAL SITE 2026-09-04: all four departmental numbers RE-CONFIRMED at 5348 Highway 153 (their site writes the city as Chattanooga 37343-4946, not Hixson). CALL COLLISION FIRST: 423-870-9573. Then service 423-875-2058 and parts 423-870-4053. Sales, the (423) 875-2023 on file, is the wrong desk for glass - it stays in the Phone column as the main published line but should not be the one dialled. A first search also threw up 423-531-2798 for sales, which looks like a call-tracking number; the 875-2023 is the one their contact page carries. They also run FORD MOBILE SERVICE - a service-van fleet on top of the dealer lot and body shop. Sales hours Mon-Fri 9-19, Sat 9-18, closed Sun.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "349": {
 "i": 349,
 "status": "keep",
-"note": "NEW LEAD. OFFICIAL SITE: address, phone and email confirmed. Mailing PO Box 1598, Hixson 37343-5598. Runs a standing fleet of service and meter trucks across the Hixson service area.",
-"evidence": "Contact page on hixsonutility.com",
-"new_lead": true
+"name": "Hixson Utility District",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 877-3513, address 5201 Hixson Pike and customerservice@hixsonutility.com ALL RE-CONFIRMED. Office hours 8:00-16:00; the same number is their leak and water-main-break emergency line, with voicemail after hours. Mailing PO Box 1598, Hixson 37343-5598. A water utility runs meter trucks, service trucks and backhoes across a fixed service area every working day - one of the steadier fleet prospects in Hixson.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "350": {
 "i": 350,
@@ -2751,9 +2754,10 @@
 "364": {
 "i": 364,
 "status": "keep",
-"note": "NEW LEAD. Branch page: address and phone confirmed. A rental fleet turns over glass constantly - one of the strongest prospects in Hixson. The sheet already carries the Avis Hixson branch.",
-"evidence": "Branch's own Facebook page",
-"new_lead": true
+"name": "Enterprise Rent-A-Car (Hixson)",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 877-5559 RE-CONFIRMED on enterprise.com's own Chattanooga-Hixson branch page, address 4514 Hixson Pike confirmed. A rental fleet turns glass over constantly - still one of the strongest prospects in Hixson. UNWORKED PROSPECTS STAND: the same locations list carries Downtown Chattanooga and Chattanooga Metropolitan Airport branches not in the sheet, alongside the Lee Hwy branch that is.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "365": {
 "i": 365,
@@ -2832,9 +2836,10 @@
 "375": {
 "i": 375,
 "status": "keep",
-"note": "NEW LEAD. Business-run page: address, phone and website confirmed. Grading and utilities contractor, so heavy trucks and equipment carriers working sites daily.",
-"evidence": "Business-maintained Facebook page",
-"new_lead": true
+"name": "Thomas Brothers Construction Company, Inc.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 842-6233 and address 7849 Dayton Pike, Hixson 37343 RE-CONFIRMED on tbccinc.net's own contact page - this replaces the business-run page the 09-03 pass had to rely on. EMAIL FOUND where the row had none: info@tbccinc.net. Fax (423) 842-5019. Serving Hixson and southeast Tennessee for 60+ years doing grading and utilities, and they sell topsoil and fill dirt - dump trucks and equipment carriers running daily.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "376": {
 "i": 376,
@@ -2986,9 +2991,10 @@
 "391": {
 "i": 391,
 "status": "keep",
-"note": "New lead. Heavy site-work fleet - dump trucks, pavers, service trucks. No email published; contact form only.",
-"evidence": "Own site: Chattanooga location page and Contact page list the Hixson office at 6111 Dayton Blvd with this phone; commercial/industrial concrete, asphalt paving and site development.",
-"new_lead": true
+"name": "Wright Construction Company",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. wrightconstructioninc.com is live with Chattanooga concrete and asphalt-paving pages, but publishes no phone for the Hixson office that a search of their domain will surface - and no 6111 Dayton Blvd address either. The (423) 475-6753 on file is UNSOURCED. They are a multi-city operator (Memphis, Nashville, Chattanooga, Birmingham, Huntsville) 30+ years in commercial paving, so the Chattanooga branch is real but needs a call to pin down. Heavy site-work fleet: dump trucks, pavers, service trucks.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "392": {
 "i": 392,
