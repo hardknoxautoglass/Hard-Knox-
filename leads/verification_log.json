@@ -4017,16 +4017,18 @@
 "524": {
 "i": 524,
 "status": "keep",
-"note": "Third gutter contractor found. Gutter rigs carry a brake press on the roof rack. Email on the site is obfuscated.",
-"evidence": "Own site: Contact page lists this address, phone and hours; 20+ years in seamless gutter installation and guards, serving 50+ miles around Chattanooga.",
-"new_lead": true
+"name": "Dyna-Tech Gutter Solutions",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 551-4663 and address 6234 Perimeter Drive 37421 RE-CONFIRMED, hours Mon-Fri 8:00-17:00, closed weekends. Seamless gutters, gutter guards, repair, cleaning and maintenance - gutter rigs carry a brake press on the rack, so the truck is the workshop. Email on the site is still obfuscated; phone is the way in.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "525": {
 "i": 525,
 "status": "keep",
-"note": "Two offices means superintendents commuting between them. They build automotive dealerships, which is a useful adjacency for you.",
-"evidence": "Own site: Contact page lists this Chattanooga address and phone plus a second office in Dayton; 30+ years in commercial contracting, construction management, design-build and development, with office, school and automotive sector pages.",
-"new_lead": true
+"name": "Dillard Construction Inc",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 634-9959 and address 1101 Broad Street 37408 RE-CONFIRMED. 30+ years in commercial contracting, construction management, design-build and development. THE ADJACENCY IS REAL AND ON THEIR OWN SITE: they run a dedicated AUTOMOTIVE page - they build car dealerships - alongside office and schools work. That makes them worth a call for their own superintendent trucks and worth a conversation about who they build for. No email published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "526": {
 "i": 526,
@@ -4039,9 +4041,10 @@
 "527": {
 "i": 527,
 "status": "keep",
-"note": "Dayton Blvd puts them on the Red Bank / Hixson corridor, close to you. The 843 prefix is local. Full contact set.",
-"evidence": "Own site: Contact page lists this address, phone and email; About and gallery pages active.",
-"new_lead": true
+"name": "DEXTER W. WHITE CONSTRUCTION, LLC",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 843-0033 RE-CONFIRMED against 3412 Dayton Blvd on their own contact page, and info@dexterwhiteconstruction.com holds. Their site does not publish a ZIP, so that stays blank rather than guessed. Dayton Blvd puts them on the Red Bank/Hixson corridor, close to you, and the 843 prefix is local - an easy first call.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "528": {
 "i": 528,
@@ -4069,9 +4072,10 @@
 "531": {
 "i": 531,
 "status": "keep",
-"note": "Dedicated carriers own their tractors. Downtown address, real sales inbox. Only a toll-free number published.",
-"evidence": "Own site: Contact page lists this address, toll-free phone, sales email and hours; driver recruitment and technology pages active.",
-"new_lead": true
+"name": "Express Dedicated LLC",
+"note": "OFFICIAL SITE 2026-09-04: phone 1-800-398-2275 and address 200 W Martin Luther King Blvd 37402 RE-CONFIRMED on their own contact page; hours Mon-SAT 8:00-19:00, so a six-day operation. Only the toll-free is published - ask for the Chattanooga terminal when you call. Dedicated and expedited freight, and they run their own driver-recruitment pages, which means company tractors rather than brokered loads. sales@expressdedicated.com is a real inbox.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "532": {
 "i": 532,
@@ -4099,16 +4103,18 @@
 "535": {
 "i": 535,
 "status": "keep",
-"note": "In-house trades means a real service-van fleet, not subcontractors. Service area explicitly includes Hixson, Red Bank and Signal Mountain.",
-"evidence": "Own site: service-call and service pages list this address and phone; custom homes, additions, commercial construction, HVAC, electrical, plumbing and concrete, with in-house licensed electricians and plumbers.",
-"new_lead": true
+"name": "Embark Project Services, LLC",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 208-9897 and address 6223 Airpark Dr Suite 101, 37421 RE-CONFIRMED on their own contact page. IN-HOUSE TRADES CONFIRMED: they run their own plumbing, electrical, MEP, concrete and handyman pages rather than subbing it out, which is what makes this a real service-van fleet rather than a paper contractor. Commercial and residential. No email published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "536": {
 "i": 536,
 "status": "keep",
-"note": "No street address published.",
-"evidence": "Own site: commercial roofing and Chattanooga roofer pages list this phone.",
-"new_lead": true
+"name": "Elevated Exteriors",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 605-4807 RE-CONFIRMED on elevatedexteriors.org. Residential roof replacement and repair plus a separate commercial roofing line for Chattanooga. Still no street address published, so that line stays blank. Roofing crews run loaded trucks; the number is the way in.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "537": {
 "i": 537,
