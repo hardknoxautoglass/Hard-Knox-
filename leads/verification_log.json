@@ -1788,17 +1788,19 @@
 },
 "291": {
 "i": 291,
-"name": "Soddy Daisy MountainView",
 "status": "keep",
-"evidence": "soddydaisymountainviewheatingcooling.com",
-"note": "OFFICIAL SITE: phone confirmed, 24/7 emergency service. No address or email published."
+"name": "Soddy Daisy MountainView Heating & Cooling",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 520-8099 RE-CONFIRMED, 24/7 emergency HVAC service. CAUTION STANDS: they still publish no street address or email, so the 122 Harrison Ln on file has no source - see also row 301, which claims 124 Harrison Ln for a business their own site places in Dayton. Two consecutive house numbers on one Soddy-Daisy lane, neither published by the business, is worth a second look before either is trusted.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "292": {
 "i": 292,
-"name": "All Around Heating",
 "status": "keep",
-"evidence": "aaheatingandairtn.com about page",
-"note": "OFFICIAL SITE: live, Soddy-Daisy based, serves greater Chattanooga. No address, phone or email published - sheet phone unconfirmed."
+"name": "All Around Heating and Air",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED - second pass agrees with the first. aaheatingandairtn.com is live with home and about pages confirming a Soddy-Daisy base serving greater Chattanooga, but publishes no address, phone or email. The (423) 760-1273 on file is UNSOURCED.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "184": {
 "i": 184,
@@ -1810,13 +1812,11 @@
 },
 "302": {
 "i": 302,
-"name": "Harbor Lights Marina",
 "status": "keep",
-"address": "9680 Hixson Pike",
-"zip": "37379",
-"email": "info@harborlightsmarinatn.com",
-"evidence": "Contact page on harborlightsmarinatn.com",
-"note": "OFFICIAL SITE: address, phone and email confirmed. Marina store and fuel dock on site."
+"name": "Harbor Lights Marina",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 842-5391 RE-CONFIRMED on harborlightsmarinatn.com's own contact page, address 9680 Hixson Pike, Soddy-Daisy 37379 confirmed. On Chickamauga Lake with a marina store and fuel dock, wet slips, outdoor dry storage and a boat-rental operation - the rental fleet and the yard trucks that move boats are both worth asking about.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "306": {
 "i": 306,
@@ -2350,14 +2350,11 @@
 },
 "297": {
 "i": 297,
-"name": "L H Lewis Tree Service",
 "status": "keep",
-"address": "8307 Dayton Pike",
-"zip": "37379",
-"email": "lhlewistreeservice@gmail.com",
-"website": "lhlewistreeservice.com",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page: address, phone and email confirmed, and found their website - the sheet had none. Trimming, removal and stump grinding, so bucket trucks and chippers."
+"name": "L H Lewis Tree Service",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. lhlewistreeservice.com resolves but two searches of it surface nothing beyond the bare home page - no phone, address or email. The 09-03 details came off a business-run social page rather than the website, so the (423) 843-3593, the 8307 Dayton Pike address and the gmail address are all UNSOURCED by any official page. Tree work means bucket trucks and chippers, so the lead is worth a call to confirm rather than dropping.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "245": {
 "i": 245,
@@ -2481,11 +2478,11 @@
 },
 "299": {
 "i": 299,
-"name": "Manzano Masonry",
 "status": "keep",
-"website": "manzanomasonry.com",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page: phone 423-298-8859 confirmed and website manzanomasonry.com found - the sheet had none. Registered as Manzano Masonry Group LLC and based in Dayton TN (Rhea County), not Soddy-Daisy, though it works the Chattanooga area."
+"name": "Manzano Masonry",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED, and the county is wrong. manzanomasonry.com publishes no phone number on any page reachable by search, so the (423) 298-8859 is UNSOURCED. Their own about page places Manzano Masonry Group LLC in DAYTON, TN - Rhea County - and lists Soddy-Daisy only as a SERVICE AREA alongside Dayton and Decatur, so the 124 Harrison Ln, Soddy-Daisy address on this row is not a location they claim. FLAG FOR OUT-OF-COUNTY REVIEW: on their own account this is a Rhea County business working into Hamilton, not a Hamilton County one. Family-owned; retaining walls, custom fireplaces and historic restoration.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "224": {
 "i": 224,
@@ -2607,12 +2604,11 @@
 },
 "295": {
 "i": 295,
-"name": "Crider Landscaping",
 "status": "keep",
-"email": "office@criderslandscaping.com",
-"website": "criderslandscaping.com",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page: phone confirmed, plus email and website criderslandscaping.com - the sheet had neither. Landscape construction as well as mowing, so trucks and trailers. No street address published."
+"name": "Crider Landscaping",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 708-5646 RE-CONFIRMED on criderslandscaping.com's own contact page, along with Office@Criderslandscaping.com and hours Mon-Fri 8:00-18:00. ADDRESS DOES NOT MATCH: the only address they publish is P.O. Box 1511, HIXSON TN 37343 - a mailing box, not the 1645 Wendy Circle, Soddy-Daisy 37379 on file, which has no source. Property maintenance, landscape design and installation, hardscapes and outdoor kitchens, holiday lighting and tree work across Chattanooga, Hixson, Soddy-Daisy and Red Bank - mowing crews plus construction trucks and trailers.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "301": {
 "i": 301,
