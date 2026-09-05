@@ -3810,16 +3810,18 @@
 "497": {
 "i": 497,
 "status": "keep",
-"note": "They publish an equipment page - bucket trucks and chippers. Family owned 50 years.",
-"evidence": "Own site: Contact page lists this address and phone; family owned since 1975, with a dedicated equipment page plus removal, pruning, stump and storm damage services.",
-"new_lead": true
+"name": "CHATTANOOGA TREE SERVICE, INC.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 899-5753 and address 8776 Igou Gap Rd 37421 RE-CONFIRMED. THEIR EQUIPMENT PAGE IS THE PITCH - they publish the fleet themselves: 3 cranes including a 140-ft, a 75-ft BUCKET TRUCK used for roadside tree work, two 90-ft tracked bucket lifts, a 70-ft tracked lift and a tracked stump grinder. The 75-ft roadside truck is the one taking rock strikes. Family owned 50 years, 24-hour emergency and storm-damage work. No email published; quote request form only.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "498": {
 "i": 498,
 "status": "keep",
-"note": "They publish the whole leadership team by name - Ethan Collier is CEO, Ernie Freistat runs construction. Ernie is your man for fleet.",
-"evidence": "Own site: Contact page lists this address, phone, fax and two emails (info@ and connect@ on 423-719-4374); team pages name the CEO, VP of Construction, estimator and pre-construction manager.",
-"new_lead": true
+"name": "Collier Construction",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 265-0110, address 2500 East 18th Street 37404 and info@collierbuild.com ALL RE-CONFIRMED; fax (423) 265-0115. Ethan Collier has been developing in Chattanooga 20+ years and they run named developments of their own (Mill Town, WayPoint South, Reside North) - active sites mean superintendent trucks. Their team page is public, so the earlier steer stands: Ernie Freistat on the construction side is the one for a fleet conversation, not the CEO.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "499": {
 "i": 499,
@@ -3831,30 +3833,34 @@
 "500": {
 "i": 500,
 "status": "keep",
-"note": "Trades as Chattanooga Contractors Group. A collective of contractors, so one call could reach several fleets. No address published.",
-"evidence": "Own site: home and service pages list this phone; a collaboration of family-owned licensed contractors covering roofing, siding and electrical across southeast Tennessee and north Georgia.",
-"new_lead": true
+"name": "Chattanooga Roofing Contractors",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 800-7752 RE-CONFIRMED on chattanoogacontractorsgroup.com. Trading name confirmed as Chattanooga Contractors Group, and their own description confirms the structure worth knowing: a COLLABORATION OF SEPARATE family-owned contractors - roofing and restoration plus a distinct electrical arm - serving southeast Tennessee and north Georgia. So one call can reach several fleets, but expect each to own its own vehicles; ask who buys for whom. No street address published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "501": {
 "i": 501,
 "status": "keep",
-"note": "Excavation and concrete means heavy trucks. SDVOSB status also opens government work. No street address published.",
-"evidence": "Own site: About page lists this phone and email; a Service-Disabled Veteran-Owned Small Business based in Chattanooga doing poured walls, retaining walls, basements, foundations, excavation and flatwork.",
-"new_lead": true
+"name": "Chickamauga Construction",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 883-5389 RE-CONFIRMED on chickamaugaconstruction.com. SDVOSB status confirmed on their own about page - founder is a US Marine veteran with large-scale civil experience for energy companies and federal agencies, which is what opens government work. 20+ years doing poured walls, retaining walls, basements, foundations, excavation, flatwork, drainage and commercial concrete (parking lots, curbs, ADA ramps). Excavators and heavy trucks. No street address published; contact@chickamaugaconstruction.com holds.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "502": {
 "i": 502,
 "status": "keep",
-"note": "Commercial maintenance crews run trucks and trailers every day, and three offices means a sizeable fleet. No street address published.",
-"evidence": "Own site: Contact page lists this phone, fax and email; 20+ years in the greater Chattanooga area with offices in Chattanooga, Atlanta and Nashville, doing commercial landscape maintenance and installation.",
-"new_lead": true
+"name": "CityGreen Services",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 648-5263 and info@citygreenservices.com RE-CONFIRMED; fax (423) 648-5265. THREE OFFICES CONFIRMED - Chattanooga, Atlanta and Nashville - so the fleet is regional, not local. 20+ years maintaining office parks, corporate campuses, retail, HOAs, industrial parks and hospitality properties: commercial maintenance crews running trucks and trailers every working day. No street address published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "503": {
 "i": 503,
 "status": "keep",
-"note": "Street sweepers are a pure fleet business and they work in construction zones - hard on glass. Now operating under Sweeping Corp. No address published.",
-"evidence": "Own site: home and news pages list this phone; residential, commercial and industrial sweeping plus road construction cleanup and milling sweeping across eastern Tennessee and north Georgia, for businesses and municipalities.",
-"new_lead": true
+"name": "Clean Sweep inc",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. cleansweepinc.com is live and confirms the business - street sweeping for businesses and municipalities across Tennessee, Georgia and Alabama, plus road-construction cleanup and milling sweeping - and confirms they now operate as SWEEPING CORP OF AMERICA. But no phone surfaces on their own domain, so the (423) 877-9192 on file is UNSOURCED; the parent company may be the better route in. Street sweepers are a pure fleet business working construction zones, which is about as hard on glass as it gets. No address published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "504": {
 "i": 504,
