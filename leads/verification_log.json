@@ -4923,30 +4923,34 @@
 "641": {
 "i": 641,
 "status": "keep",
-"note": "Thirty years of commercial and industrial work means crew trucks, spray rigs and lift trailers moving between sites - solid A lead with a full contact set. Their own site confirms the record's St Elmo Avenue address.",
-"evidence": "Own site: Contact page gives 3535 St. Elmo Avenue, Chattanooga TN 37409, this phone and this email. Commercial and industrial painting, traffic coating, ecoblasting and resinous flooring pages are live, with a Buc-ee's case study and a named leadership team.",
-"new_lead": true
+"name": "Southeast Painters, Inc.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 558-3842, address 3535 St. Elmo Avenue 37409 and info@southeastpainters.com ALL RE-CONFIRMED. Founded 1990, commercial and industrial painting across Chattanooga and the southeast region. Their case studies name the work: BUC-EE'S and East Brainerd Elementary - big-site jobs needing spray rigs and lift trailers. They publish a LEADERSHIP TEAM page with individual profiles (Troy Ballard among them), so you can ask for someone by name.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "642": {
 "i": 642,
 "status": "keep",
-"note": "Plumbing and HVAC service vans running calls in two markets - reliable windscreen business. Their own site publishes no street address or email, so the record's 949 Taft Avenue is left off; note that is the same building MEG Controls uses, so it may be a shared address rather than their yard.",
-"evidence": "Own site: publishes this phone across its plumbing, heating and air, water purification, ozone injection and bathroom remodel pages, and runs a separate Knoxville page.",
-"new_lead": true
+"name": "Southern Energy Water & Air, LLC",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. southernewa.com is live and detailed - HVAC, plumbing, water heaters, water and air purification, solar - but publishes no phone a search of their domain will surface, so the (423) 800-5902 on file is UNSOURCED. TWO MARKETS CONFIRMED: they run a dedicated KNOXVILLE page alongside Chattanooga, so service vans cover both, which strengthens the lead once the number is verified. Still no street address on the site, so the record's 949 Taft Avenue stays off - and note the earlier caution that MEG Controls uses the same building.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "643": {
 "i": 643,
 "status": "keep",
-"note": "One of the strongest leads left in the queue: 51-200 staff, steel fabrication plus erection crews and 3D laser scanning, with projects as far out as Alaska. That means flatbeds, boom trucks and crew pickups. Ask for Nick Crumley, who publishes a direct address; bids@ reaches the estimating desk. Their own site confirms the record's Workman Road address.",
-"evidence": "Own site: Contact page gives 55 Workman Road, Chattanooga TN 37410, this phone and departmental emails - bids@ and jobs@ - plus named staff. Project pages cover Dalton State College, the Red Wolves stadium, Hanger Cleveland and McMurdo in Alaska.",
-"new_lead": true
+"name": "Southern Spear Ironworks LLC",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 498-2862 and address 55 Workman Road 37410 RE-CONFIRMED, plus a SECOND LINE, 423-667-8063. NAMED CONTACT DIFFERS FROM THE EARLIER NOTE: this pass surfaces Sean@SOUTHERNSPEAR.COM - note that email domain drops the 'the' from the website, thesouthernspear.com, but both are theirs. The bids@thesouthernspear.com on file still reaches estimating; treat Nick Crumley from the 09-03 note as unconfirmed and ask for Sean. Their project list backs the reach: McMurdo ALASKA, Dalton State College, the Red Wolves pro soccer stadium and Hanger Cleveland. Steel fabrication plus erection crews and 3D laser scanning - flatbeds, boom trucks and crew pickups. Still one of the strongest leads left.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "644": {
 "i": 644,
 "status": "keep",
-"note": "Paving again - dump trucks, milling machines, rollers and crew pickups on gravel and torn-up lots, which is where windscreens go. Their own site confirms the record's Fisk Avenue address. Drew publishes a direct address, drew@spearshopkins.com, alongside the admin one.",
-"evidence": "Own site: Contact page gives 5730 Fisk Ave, Chattanooga TN 37421, this phone and this email; asphalt overlay, fabric overlay, full-depth reclamation, pervious pavement, projects and careers pages are all live.",
-"new_lead": true
+"name": "Spears Hopkins Paving Co",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 674-3947, address 5730 Fisk Ave 37421 and admin@spearshopkins.com ALL RE-CONFIRMED. Commercial, municipal and residential asphalt across the southeast: new construction, overlays, FULL-DEPTH RECLAMATION and pervious pavement - reclamation means milling machines and haul trucks working torn-up lots, which is where windscreens go. drew@spearshopkins.com remains the direct route past the admin box.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "645": {
 "i": 645,
@@ -4966,9 +4970,10 @@
 "647": {
 "i": 647,
 "status": "keep",
-"note": "Excavation is heavy-equipment work - dump trucks, lowboys hauling machines and crew pickups running rough sites six days a week. Their own site publishes no street address or email, so the record's 1004 East 10th Street is left off.",
-"evidence": "Own site: publishes this phone and Mon-Sat 8-5 hours across its land clearing, excavation and grading, drainage, erosion control and septic pages, serving Chattanooga and north Georgia.",
-"new_lead": true
+"name": "Stanley Excavation And Grading",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. stanleyexcavationgrading.com is live with real service pages - land clearing, grading, site prep, basements and footers, erosion control, storm-water drainage - but publishes no phone or street address a search of their domain will surface, so the (423) 413-7176 on file is UNSOURCED and the record's 1004 East 10th Street stays off. Heavy-equipment work: dump trucks, lowboys hauling machines and crew pickups on rough sites. Worth chasing the number rather than dropping the lead.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "648": {
 "i": 648,
@@ -4980,9 +4985,10 @@
 "649": {
 "i": 649,
 "status": "keep",
-"note": "Fence crews haul posts, panels and augers on trailers across three towns - steady windscreen exposure. The Chattanooga pages publish no street address or email, so the record's 900 Creekside Road is left off; ask when you call.",
-"evidence": "Own site: the Chattanooga franchise pages publish this number throughout, with about, contact and service pages covering Chattanooga, Cleveland and Ringgold GA.",
-"new_lead": true
+"name": "Superior Fence & Rail of Chattanooga",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 443-4833 RE-CONFIRMED - they run it in the title of every one of their Chattanooga pages. THE SERVICE AREA IS WIDER THAN THE EARLIER NOTE'S THREE TOWNS: their own town pages cover Chattanooga, Cleveland, Harrison, Signal Mountain, Ringgold, Dunlap AND Dalton GA - fence crews hauling posts, panels and augers on trailers across two states. 20+ years. Still no street address or email published, so the record's 900 Creekside Road stays off; ask when you call.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "650": {
 "i": 650,
