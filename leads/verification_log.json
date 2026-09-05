@@ -1206,8 +1206,10 @@
 "169": {
 "i": 169,
 "status": "keep",
-"address": "980 W 19th St",
-"note": "verified sarecycling.com yard page live"
+"name": "SA Recycling Chattanooga",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 756-6070 RE-CONFIRMED on sarecycling.com's own yard page, address 980 W 19th St 37408 confirmed. Their site says hours vary by yard and does not publish this one's. National scrap operator - roll-off and grapple trucks working a debris-heavy yard.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "170": {
 "i": 170,
@@ -1220,20 +1222,26 @@
 "172": {
 "i": 172,
 "status": "keep",
-"address": "835 Georgia Ave Ste 500",
-"note": "verified geosyntec.com Chattanooga office page live"
+"name": "Geosyntec Consultants",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 385-2310 RE-CONFIRMED on geosyntec.com's own Chattanooga office page, address 835 Georgia Ave Ste 500 37402 confirmed. Environmental and geotechnical consultancy: field crews in trucks running to job sites, which is where the glass damage happens - ask for the office or field-operations manager, not the front desk.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "173": {
 "i": 173,
 "status": "keep",
-"address": "51 Lost Mound Dr Ste 135",
-"note": "verified terracon.com locations page live"
+"name": "Terracon Consultants Inc.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 499-6111 RE-CONFIRMED on terracon.com's own Chattanooga office page, address 51 Lost Mound Dr Ste 135 37406 confirmed. Same shape of prospect as Geosyntec - drill rigs and field trucks out of this office.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "174": {
 "i": 174,
 "status": "keep",
-"address": "3903 Volunteer Dr #100",
-"note": "verified ecslimited.com Chattanooga page live"
+"name": "ECS Southeast, LLC",
+"note": "CORRECTED 2026-09-04: the row carried (615) 885-4983, a NASHVILLE-area number. ecslimited.com's own Chattanooga page publishes (423) 874-9020 for 3903 Volunteer Dr #100, 37416 - corrected. Worth noting this address is the same Volunteer Dr building as Landscape Workshop at row 128, different suite. Geotechnical and construction-materials testing with field crews in trucks.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "175": {
 "i": 175,
@@ -1252,13 +1260,11 @@
 },
 "178": {
 "i": 178,
-"name": "Holston Gases",
 "status": "keep",
-"address": "1105 Stuart St",
-"zip": "37406",
-"phone": "(423) 698-5312",
-"evidence": "Chattanooga branch page on holstongases.com",
-"note": "OFFICIAL SITE: Chattanooga branch address and phone confirmed, 7:30-17:00 Mon-Fri. Cylinder, bulk, propane and medical gas delivery, so a bobtail and cylinder-truck fleet. No branch email published."
+"name": "Holston Gases",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 698-5312 RE-CONFIRMED on holstongases.com's own Chattanooga page, address 1105 Stuart St 37406 and hours Mon-Fri 7:30-17:00 confirmed. Propane, bulk gas, cylinders, CO2, dry ice and medical gas out of this branch - bobtails and cylinder trucks. UNWORKED PROSPECTS on their own locations list: a second Chattanooga point (listed as Chattanooga TN - Arc 1) and an Ooltewah propane branch, neither in the sheet.",
+"evidence": "",
+"gapfill": "2026-09-04"
 },
 "177": {
 "i": 177,
@@ -5118,5 +5124,13 @@
 "note": "Insulation crews run box trucks with blowing rigs across a service area stretching from Whitwell to Cleveland - long daily mileage for a small franchise. The Chattanooga pages publish no street address, so the record's Gulf View Drive is left off. No email; they use a form.",
 "evidence": "Own site: the Chattanooga franchise pages publish this phone and list a service area of Chattanooga, Hixson, Ooltewah, Apison, Cleveland, Harrison, McDonald, Soddy Daisy, Signal Mountain, Lookout Mountain, Whitwell and Whiteside; residential, commercial, blown-in attic and insulation removal pages all live.",
 "new_lead": true
+},
+"179": {
+"i": 179,
+"status": "keep",
+"name": "Parman Energy Group, LLC",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. Three searches of parmanenergy.com surface no Chattanooga branch at all - no 1110 Stuart St page and no 423 number - only the Nashville HQ at 7101 Cockrill Bend Blvd on (800) 727-7920. The (423) 629-3888 on file is UNSOURCED; call the 800 line and ask for the Chattanooga terminal before relying on it. Their contact page also renders under the title 'All Seasons P.H.E., Inc.', so the site is carrying another entity's page - treat anything read off it with care. Bulk fuel and lubricant distributor: if the terminal is real it runs tankers and lube trucks.",
+"evidence": "",
+"gapfill": "2026-09-04"
 }
 }
