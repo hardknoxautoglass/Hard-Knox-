@@ -1713,19 +1713,19 @@
 },
 "266": {
 "i": 266,
-"name": "Gudel's Garage",
 "status": "keep",
-"address": "6403 Middle Valley Rd",
-"zip": "37343",
-"evidence": "Business-maintained Facebook page",
-"note": "Business-run page fills the gap their website left: address 6403 Middle Valley Rd confirmed, family owned since 1979. Their page lists 423-842-5277 while the sheet has 423-842-8010 - try both, the second may be the towing line."
+"name": "Gudel's Garage and Towing",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. gudelsgarageandtowing.com is live but two searches of it surface no phone number, so neither the (423) 842-8010 on file nor the 423-842-5277 from the 09-03 note has an official source - try both on the call. THEIR SITE ALSO CONTRADICTS THE ROW TWICE: it says the family built the garage on HIXSON PIKE, not the 6403 Middle Valley Rd on file, and dates it to 1981 rather than the 1979 in the earlier note. Treat the address as unverified. They run Gudel's Garage and Gudel's Body Shop together as one stop, 24/7 emergency towing - garage, body shop and wreckers is three fleets at one family business.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "268": {
 "i": 268,
-"name": "HEP Is On The Way",
 "status": "keep",
-"evidence": "Hixson service-area pages on hepisontheway.com",
-"note": "OFFICIAL SITE: Hixson service area confirmed (plumbing, electrical, HVAC, roofing, 24/7). Multi-market operator incl. Knoxville and Cleveland; no local address or phone published."
+"name": "HEP Is On The Way",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED - second pass agrees with the first. hepisontheway.com carries a Hixson location page and full Chattanooga service pages for plumbing, electrical, HVAC and roofing with 24/7 emergency work, but publishes no local address or phone anywhere searchable. The (423) 397-7772 on file is UNSOURCED. Multi-market operator (Chattanooga, Knoxville, Cleveland) - a large van fleet if you can reach the right branch.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "269": {
 "i": 269,
@@ -1772,22 +1772,19 @@
 },
 "276": {
 "i": 276,
-"name": "Christian Brothers Automotive",
 "status": "keep",
-"address": "5595 Hixson Pike",
-"zip": "37343",
-"evidence": "Contact page on cbac.com/hixson",
-"note": "OFFICIAL SITE: address and phone confirmed. No email published; franchise uses a contact form."
+"name": "Christian Brothers Automotive Hixson",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 403-3678 RE-CONFIRMED on cbac.com's own Hixson pages, address 5595 Hixson Pike 37343 confirmed. No email published; the franchise books through a form and a scheduler. Independent-franchise repair shop - a customer for glass on cars in their bays as much as for any fleet of their own.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "290": {
 "i": 290,
-"name": "Integrity Service Heating",
 "status": "keep",
-"address": "106 Karen Dr",
-"zip": "37379",
-"email": "info@integrityheatandcool.com",
-"evidence": "Contact page on integrityheatandcool.com",
-"note": "OFFICIAL SITE: address, phone and email confirmed. Does commercial HVAC and restaurant equipment - good fleet prospect."
+"name": "Integrity Service Heating & Cooling LLC",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 356-8282, address 106 Karen Dr, Soddy-Daisy 37379 and info@integrityheatandcool.com ALL RE-CONFIRMED on their own contact page. They run separate commercial HVAC repair and restaurant-equipment-repair lines plus a 24/7 emergency service page - restaurant work means service vans out at odd hours across the county.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "291": {
 "i": 291,
@@ -2223,14 +2220,11 @@
 },
 "284": {
 "i": 284,
-"name": "Lawson Electric",
 "status": "keep",
-"address": "6246 Dayton Blvd",
-"zip": "37343",
-"email": "info@lawsonelectric.com",
-"website": "lawsonelectric.com",
-"evidence": "Contact page on lawsonelectric.com",
-"note": "OFFICIAL SITE: address, phone and email confirmed. Found their website - the sheet had none. Industrial and residential electrical contractor since 1925, so a real service fleet."
+"name": "Lawson Electric Co",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 267-5471, address 6246 Dayton Blvd 37343 and info@lawsonelectric.com ALL RE-CONFIRMED - and their site names this the CORPORATE HEADQUARTERS, not a branch. Fax (423) 266-4368, hours Mon-Fri 7:00-17:30. Electrical contractor since 1925 running commercial, industrial and residential divisions out of Chattanooga, Nashville, Dalton and Manchester - the HQ service fleet here is the prize, and the residential arm has its own site at residential.lawsonelectric.com.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "322": {
 "i": 322,
@@ -2245,15 +2239,11 @@
 },
 "265": {
 "i": 265,
-"name": "Conley Towing",
 "status": "keep",
-"address": "6714 Middle Valley Rd",
-"zip": "37343",
-"phone": "(423) 842-7243",
-"email": "conleywrecker14@yahoo.com",
-"website": "conleywrecker.com",
-"evidence": "Business-maintained Facebook page for Conley Wrecker Service",
-"note": "CORRECTED: trades as Conley Wrecker Service, not Conley Towing. Phone is 423-842-7243 (sheet had 423-842-3535). Found address, email and website conleywrecker.com. Owner David Ratledge, open 24h - runs a wrecker fleet."
+"name": "Conley Towing",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED, and the website on file looks dead. A search scoped to conleywrecker.com returned nothing at all, and the open fallback found no official site for them - every hit carrying (423) 842-7243 and 6714 Middle Valley Rd is a towing directory, which is not a source. So both the phone and the 09-03 website find are UNSOURCED. FEDERAL RECORD (not a directory): FMCSA SAFER lists USDOT 2877384 as CONLEY WRECKER SERVICE / TENNESSEE WRECKER / SPICER TOWING & RECOVERY, registrant JAMES RATLEDGE - so this is one combined operation trading under three names, and the 09-03 note naming the owner as David Ratledge should be treated as unverified. Tennessee Wrecker's live site is mytnwrecker.com; that is the better door into the same fleet.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "237": {
 "i": 237,
