@@ -5093,9 +5093,10 @@
 "663": {
 "i": 663,
 "status": "keep",
-"note": "A moving company is a straightforward A: a yard full of box trucks doing local and long-distance runs every day. Two corrections to the record - the domain on it, rogexperts.com, is not theirs, and the address is Benton Drive, not the 5959 Shallowford Road mailbox. No email published; franchise sites use a quote form.",
-"evidence": "Own site: the Chattanooga franchise pages on twomenandatruck.com give 4230 Benton Dr, Chattanooga TN 37406 and this phone, with local reviews and a Chattanooga jobs board live.",
-"new_lead": true
+"name": "Two Men and a Truck Chattanooga",
+"note": "CORRECTED 2026-09-04. Address 4230 Benton Drive 37406 RE-CONFIRMED, so the 09-03 fixes hold (the record's rogexperts.com domain and Shallowford Road mailbox were both wrong). ON THE NUMBER: two searches of twomenandatruck.com never surfaced the (423) 893-3450 that was on file; what their own Chattanooga pages give is (423) 201-4154, so that is now the row's number - keep 893-3450 as a fallback to try, since franchise sites do rotate tracking numbers. National line is 877-720-0411. A yard full of box trucks doing local and long-distance runs daily. Their site has a Meet Your Chattanooga Moving Team page. No email; franchise quote form only.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "664": {
 "i": 664,
@@ -5150,9 +5151,10 @@
 "671": {
 "i": 671,
 "status": "keep",
-"note": "Seventy-five years of commercial concrete - pour crews, mixers and finishing trucks on site daily. Their own site puts them on Polk Street, not the 1928 Central Avenue on the record. No email published, but two named staff have pages, so ask for Seth Williams or Tyler Settles.",
-"evidence": "Own site: Contact page gives 1901 Polk St, Chattanooga TN 37408, this phone and 8-5 weekday hours; staff pages name Seth Williams and Tyler Settles, and the portfolio includes the Chattanooga Riverwalk. Building Chattanooga since 1950.",
-"new_lead": true
+"name": "YERBEY CONCRETE CONSTRUCTION, INC.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 756-8881 and address 1901 Polk St 37408 RE-CONFIRMED - their site beats the record's Central Avenue, as the 09-03 pass judged. Hours Mon-Fri 8:00-17:00. Their own strapline is 'Building Chattanooga Since 1950', which squares with the 75-year note. Portfolio includes the Chattanooga Riverwalk and Chattanooga Airport - big pours, so mixers and finishing trucks on site daily. Tyler Settles has a staff page; treat Seth Williams as unconfirmed, as only Settles resurfaced. NOTE THE STREET: 1901 Polk sits with JBH Steel at 1801 and H&H Brown at 1803 - Polk Street is a construction corridor, so three calls in one stop.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "672": {
 "i": 672,
@@ -5171,9 +5173,10 @@
 "674": {
 "i": 674,
 "status": "keep",
-"note": "Field-erected tanks and stack erection since 1978 at 51-200 staff - welding rigs, crew trucks and equipment moving to power plants and refineries, often out of state. A strong A lead, and Collegedale keeps it in Hamilton County. Note the published number is an 803 South Carolina area code, so it may route through a sister office; ask for the Collegedale yard.",
-"evidence": "Own site: Contact page gives 9384 Jac Cate Rd, Collegedale TN 37363 and this phone; project pages cover a TVA tank project, PSE&G air-cooled condensers and renewables work, and the site names DBM Global as the parent.",
-"new_lead": true
+"name": "Milco National Constructors",
+"note": "OFFICIAL SITE 2026-09-04: phone (803) 291-8805 and address 9384 Jac Cate Rd, Collegedale 37363 RE-CONFIRMED - so the 803 South Carolina area code really is what they publish against the Collegedale yard. The earlier steer stands: ring it but ASK FOR THE COLLEGEDALE YARD, since it may route out of state. PARENT COMPANY FOUND: their site carries a 'Meet DBM Global' page, so Milco is part of DBM Global - the vehicle decision may sit above the yard. Field-erected tanks, vessels and stack erection; their project list names a TENNESSEE VALLEY AUTHORITY tank project and PSE&G air-cooled condenser work, so crews and welding rigs travel out of state. No email published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "675": {
 "i": 675,
@@ -5192,9 +5195,10 @@
 "677": {
 "i": 677,
 "status": "keep",
-"note": "Restoration crews run vans and box trucks to emergencies around the clock - high mileage and high urgency, which is the profile that pays for mobile glass service. Their own site does not print the street address, so the record's 9028 Jetrail Drive is left off. See also the Team Cuthbertson record, which is the same operation.",
-"evidence": "Own site: publishes this phone across emergency restoration, mould remediation, storm and flooding, biohazard, commercial and contents pages, serving Ooltewah and the Chattanooga metro.",
-"new_lead": true
+"name": "SERVPRO of Chattanooga",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 326-1406 RE-CONFIRMED on servprochattanooga.com. PHONES ANSWERED 24/7 on their own account, covering Chattanooga, Red Bank, Soddy-Daisy, Hixson, Harrison, Ooltewah and Tyner - water, fire, storm and mould work plus biohazard cleaning, which is emergency call-out driving at all hours. That is the profile that pays for mobile glass service. Their site still does not print a street address, so the record's 9028 Jetrail Drive stays off. See also the Team Cuthbertson record - same operation.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "678": {
 "i": 678,
@@ -5206,16 +5210,18 @@
 "679": {
 "i": 679,
 "status": "keep",
-"note": "A water utility runs service trucks, meter readers and backhoe crews across the mountain every day, on gravel shoulders and job sites - good windscreen exposure and, being a public district, a body that buys on quotes rather than impulse. Their own site confirms the record's Taft Highway address. No email published.",
-"evidence": "Own site: Contact page gives 3900 Taft Highway, Signal Mountain TN 37377 and this phone, covering Walden's Ridge and Lone Oak Utility Districts; news, holiday hours, meter and service-line pages all live.",
-"new_lead": true
+"name": "WALDENS RIDGE UTILITY DISTRICT OF HAMILTON COUNTY INC",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 886-2683 and address 3900 Taft Highway, Signal Mountain 37377 RE-CONFIRMED. HOURS ARE TIGHT: Mon-Fri 8:00-16:00 and CLOSED 12:00-13:00 for lunch, so time the call. THEY RUN TWO DISTRICTS, not one - the site is branded Walden's Ridge Utility District AND LONE OAK UTILITY DISTRICT, so the service trucks, meter readers and backhoe crews cover more ground than the row's name suggests. A public district buys on quotes rather than impulse. No email published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "680": {
 "i": 680,
 "status": "keep",
-"note": "Remediation crews haul containment gear and waste in box trucks and trailers, and they also run a construction arm, so the fleet is bigger than the 1-10 headcount implies. Their own site confirms the record's Walden Street address. No email published.",
-"evidence": "Own site: Contact page gives 9916 Walden Street, Soddy Daisy TN 37379 and this phone; asbestos removal, mould remediation, meth lab cleanup, radon, Phase I/II site remediation and both commercial and residential construction pages are live.",
-"new_lead": true
+"name": "Affinity Environmental Group",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 332-7077 and address 9916 Walden Street, Soddy-Daisy 37379 RE-CONFIRMED. THE FLEET IS BIGGER THAN THE 1-10 HEADCOUNT: their own service list runs asbestos removal, mould remediation, fire and smoke restoration, radon abatement, METHAMPHETAMINE LAB CLEANUP and CRIME SCENE work, plus Phase I/II site assessments AND separate commercial and residential construction arms. Containment gear and waste hauled in box trucks and trailers, with call-out work on top. No email published.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "681": {
 "i": 681,
