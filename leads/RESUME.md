@@ -332,6 +332,123 @@ signs of lapsing.
 
 ---
 
+## HANDOFF — 2026-09-05 (phone re-check, batches 11-24 done)
+
+Supersedes the 2026-09-04 handoff below, which is kept for the corrections
+it lists. Method, worklist query and recording command are unchanged.
+
+### Where the sweep stands
+
+**Done: 141 rows. Remaining: 415 — 120 A, 226 B, 69 C.** The A tier is now
+past its worst: 204 A rows remained on 09-04, 120 remain now.
+
+**Next six rows:** row 430 All Aboard USA | row 431 Tennessee Roofing &
+Construction (TRC) | row 437 Red Iron Steel | row 443 Weeks Paving |
+row 444 Marion Environmental | row 453 ADI Pavement
+
+### One environment limit worth knowing
+
+WebFetch is blocked by this session's network policy for essentially every
+outside domain — `curl` gets a 403 from the egress proxy. **WebSearch is the
+only channel that reads a company's own site.** It works well, but when a
+site's number is not in the search index there is no second way to reach it,
+which is why some rows below are flagged UNCONFIRMED rather than resolved.
+
+### What batches 11-24 turned up
+
+Roughly **one row in three** still needs a correction or a flag, matching the
+rate on 09-04. Corrections made:
+
+- **Impact Facility Solutions — the 09-03 "correction" was wrong and is reverted.**
+  It had been changed to 423-415-1045 off a chamber listing; two searches of
+  their own site return **423-645-0830**, the number that was replaced.
+  *Any row corrected from a directory rather than the company site deserves
+  the same re-check.*
+- **ECS Southeast** carried **(615) 885-4983 — a Nashville number.** Their
+  Chattanooga page says **423-874-9020**.
+- **Chattanooga Camper Sales** — 423-681-9095 replaced by **423-427-6640**.
+- **Material Handling Inc** — 423-698-0264 appears nowhere on their site;
+  their branch page publishes **833-277-9797**.
+- **Walden Security** — site publishes both numbers; the local **423-702-8200**
+  is now primary, the 800 line the fallback.
+- **Mountain City Service** — Website field was a **Facebook page**; their real
+  site is **mountaincityservice.com**.
+- **Classic Collision (row 145)** — filed as Hixson; their site calls it
+  **Classic Collision Red Bank, Chattanooga 37415**. Needs renaming too, as
+  they have separate Hixson and Northgate shops in 37343.
+- ZIP fixes off the companies' own pages: Lumberjacks 37406, Cook's Pest 37416.
+- **Cintas** — their site does publish the address the earlier pass missed:
+  2131 Polymer Dr Ste 2131-A.
+- **911 Junk Out** — address found: 9163 Integra Preserve Ct **Apt 228,
+  Ooltewah** 37363. An apartment, so home-based, and the row's Hixson city
+  line was wrong.
+- Emails found where rows had none: **Action Air** Service@CallActionAir.com,
+  **Thomas Brothers** info@tbccinc.net.
+
+### Two data-quality problems that outlive this sweep
+
+1. **Manzano Masonry (row 301) is not a Hamilton County business.** Their own
+   site puts Manzano Masonry Group LLC in **Dayton, Rhea County**, and lists
+   Soddy-Daisy only as a service area. Flagged for out-of-county review.
+2. **Addresses that no source supports.** Row 197 (Express Courier) claims
+   2131 Polymer Dr, which is Cintas's own published address. Crider
+   Landscaping's only published address is a **PO box in Hixson**, not the
+   Soddy-Daisy street address on file. Gudel's own site puts them on **Hixson
+   Pike**, not Middle Valley Rd. L H Lewis's details came off a social page,
+   not a website.
+
+I ran a scan for duplicated and near-consecutive addresses across all 685
+rows. Most near-consecutive pairs are genuine commercial corridors — several
+were confirmed real during this sweep — so there is **no systemic fabrication
+pattern**, just the individual rows named above.
+
+### Newly flagged UNCONFIRMED in batches 11-24
+
+ABC Supply, Landscape Workshop, Parman Energy, Erwin Marine, Loomis Armored,
+Express Courier, Wilder Animal Care, Conley Towing, Gudel's Garage, HEP Is On
+The Way, All Around Heating, L H Lewis Tree Service, Manzano Masonry, Wright
+Construction, Repair Pros Services, JM Specialties, Grease Fellas, TVPS.
+
+Two of these are worth a note: **Parman Energy's** site shows no Chattanooga
+branch at all and its contact page renders under another company's name
+(All Seasons P.H.E., Inc.). **Conley Towing** has no reachable website, and
+FMCSA SAFER — a federal record, not a directory — lists USDOT 2877384 as
+Conley Wrecker / Tennessee Wrecker / Spicer Towing under one registrant,
+James Ratledge, contradicting the "David Ratledge" in the 09-04 note.
+
+### Department contacts found (the service desk, not the sales floor)
+
+- **Marshal Mize Ford** — collision **423-870-9573**, service 423-875-2058,
+  parts 423-870-4053. The 423-875-2023 on file is the sales floor.
+- **Camping World** — separate service, parts, collision and mobile-service
+  operations behind one toll-free.
+- **Southern Adventist University** — Plant Services **423-236-2291** alongside
+  Transportation's 423-236-2716.
+- **Cintas** — uniform services 423-822-5255 (on file) vs facility services
+  423-401-8800.
+- **Ferguson** — HVAC and Industrial at the same S Creek Rd campus on
+  423-493-3190.
+- **Overhead Door** — their 24-hour line, 865-573-1950, is a *Knoxville*
+  number.
+- **JM Specialties** is now a division of **Guardian Access Solutions**.
+
+### More unworked prospects found along the way
+
+- **Holston Gases**: a second Chattanooga point (Arc 1) and an Ooltewah branch
+- **Canteen**: a separate Ringgold/Chattanooga operation
+- **Lumberjacks**: the Hardwood Center, 4123 Cromwell Rd, 423-624-0000
+- **Erwin Marine**: Riverfront marina downtown, in addition to Kings Point Rd
+- **Tomahawk Crane** appears to be an HQ, with Mobile AL and Pensacola FL branches
+
+### Referral angle worth a call in its own right
+
+**Pro Auto and Fleet Detailing (row 400)** sells *headlight repair* alongside
+fleet washing — they already do glass-adjacent work inside the fleets on this
+list. **Chattanooga Mobile Truck Repair (row 423)** is in other people's
+fleets daily. Both are better as referral partners than as customers.
+
+---
+
 ## HANDOFF — 2026-09-04 (phone re-check paused mid-sweep)
 
 ### Where the work stands
