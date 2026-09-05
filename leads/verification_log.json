@@ -3481,30 +3481,34 @@
 "455": {
 "i": 455,
 "status": "keep",
-"note": "Install techs plus warehouse delivery - two sets of vehicles. Chattanooga owned and operated. Email on the site is obfuscated.",
-"evidence": "Own site: Contact page lists this address, two phone numbers (423-624-8900 and 888-499-4990) and hours; certified filtration techs installing commercial and industrial filters from a Chattanooga warehouse, plus paint booth services and wholesale.",
-"new_lead": true
+"name": "Air Filtration Service",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 624-8900 RE-CONFIRMED on their own contact page, address 2811 Dodson Ave 37406 confirmed, hours Mon-Fri 8:00-16:00. Toll-free 888-499-4990. Chattanooga owned and operated, certified filtration techs doing commercial and industrial installs plus wholesale supply - install techs and delivery trucks, two sets of vehicles. WORTH NOTING: they run a PAINT BOOTH filters and services line, which puts them inside body shops - the same rooms where glass work happens. Email on the site is obfuscated, so phone is the way in.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "456": {
 "i": 456,
 "status": "keep",
-"note": "Ask for Joseph Pendergrass, the office manager - his email is the one published. Note it is a gmail address, which is what they print.",
-"evidence": "Own site: About and Contact pages list this phone, a fax (423-698-8126) and the office manager by name; independent electrical contractor licensed in Tennessee and Georgia.",
-"new_lead": true
+"name": "Apex Electric Co., Inc.",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED. apexelectriccompany.com is live - home, about, services and contact - and confirms an independent commercial and light-industrial electrical contractor in Chattanooga, but publishes no phone a search of their domain will surface. The (423) 629-4343 on file is UNSOURCED. The named contact does hold up: Joseph Pendergrass, office manager, joseph.pendergrass@gmail.com - a gmail address, but it is what they print, so email is the more reliable first approach here.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "457": {
 "i": 457,
 "status": "keep",
-"note": "Note the email domain is atlasboltco.com while the website is atlasbolt.com - both are theirs. Counter and delivery trucks.",
-"evidence": "Own site: About page states 50+ years serving Chattanooga; contact details list this address, phone and sales email; fastener, tool, fall protection and fence accessory categories all live.",
-"new_lead": true
+"name": "Atlas Bolt & Supply Inc.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 265-2341 RE-CONFIRMED - but read this before dialling. A first search of atlasbolt.com returned 423-497-0463 instead; a second returned the 265-2341 on file. Two numbers off one domain, so ONE OF THEM IS STALE and 423-497-0463 is worth trying if the main line fails. Address 3217 Rossville Blvd 37407, sales@atlasboltco.com and hours Mon-Fri 7:00-16:30 all confirmed, plus 24/7 emergency service - the emergency line means after-hours running. 50+ years supplying fasteners, abrasives, tools and safety gear. Email domain atlasboltco.com differs from the website atlasbolt.com; both are theirs. Counter and delivery trucks.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "458": {
 "i": 458,
 "status": "keep",
-"note": "Owner Tyler Menne, 20+ years, degree in agriculture and plant science. Mowing crews plus snow plows means trucks and trailers year-round. Only a PO Box is published.",
-"evidence": "Own site: Contact page lists this phone; full-service land management and landscape company covering agricultural, commercial and residential accounts, plus snow plowing, irrigation and green roofs.",
-"new_lead": true
+"name": "APPALACHIAN LAND DESIGN INC.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 605-9632 RE-CONFIRMED - they run it in their own contact-page title. Owner Tyler Menne, 20+ years, degree in agriculture and plant science, certified LiveRoof installer. Residential and commercial: mowing, lawn maintenance, irrigation, mulching, sod, turf management, hardscapes, live green roofs, water harvesting AND SNOW PLOUGHING - plough trucks in winter and mowing trailers in summer means year-round road time. Only a PO Box published, no street address.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "459": {
 "i": 459,
@@ -3517,16 +3521,18 @@
 "460": {
 "i": 460,
 "status": "keep",
-"note": "Exterior crews run loaded trucks and trailers daily. No street address published.",
-"evidence": "Own site: location and about pages list the Chattanooga phone; locally owned general contractor doing roofing, siding, replacement windows, doors and decks, with a commercial roofing division.",
-"new_lead": true
+"name": "Armor Xteriors",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 760-3333 RE-CONFIRMED, and ADDRESS FOUND where the row had none - armorxteriors.com's own location page gives 7401 E. Brainerd Rd Suite 150, Chattanooga 37421. Added. Locally owned general contractor doing roofing, siding, replacement windows, doors, gutters and custom decks - crews running loaded trucks and trailers daily. They also fit replacement windows, so they buy flat glass already, just not for vehicles.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "461": {
 "i": 461,
 "status": "keep",
-"note": "Slab delivery is heavy-truck work and stone chips windshields - good fit. Full contact set.",
-"evidence": "Own site: quartz product page carries this address, phone and office email; granite, quartzite and marble slab lines.",
-"new_lead": true
+"name": "Bella Pietra Surfaces International",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 800-5680, address 1309 Appling Street 37406 and office@bellapietrasurfaces.com ALL RE-CONFIRMED. NOTE: their home page currently serves a 'Coming Soon' placeholder while the interior product pages (quartz, granite, quartzite, marble) are live - a site mid-rebuild, not a dead business, but worth knowing before you judge them by the front page. Slab delivery is heavy-truck work and stone chips windshields - a good fit. Row 653, T Gene Edwards, shares this Appling Street address.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "462": {
 "i": 462,
