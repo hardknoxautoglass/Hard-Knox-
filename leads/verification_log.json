@@ -1420,20 +1420,18 @@
 "209": {
 "i": 209,
 "status": "keep",
-"phone": "(423) 757-6262",
-"email": "circulationcs@timesfreepress.com",
-"address": "400 E 11th St",
-"evidence": "Contact page on timesfreepress.com",
-"note": "OFFICIAL SITE: CORRECTED phone - site lists circulation 423-757-6262 and newsroom 423-757-6260; sheet had 423-756-6900 which the site does not list"
+"name": "Chattanooga Times Free Press (WEHCO Media)",
+"note": "OFFICIAL SITE 2026-09-04: circulation (423) 757-6262 RE-CONFIRMED alongside circulationcs@timesfreepress.com - the 09-03 correction holds, and the 423-756-6900 that was on file still appears nowhere on their site. Circulation is the right department here: that is the carrier and delivery operation, not the newsroom. Their contact page now lists newsroom 423-757-6357 and 423-757-6397 and news@timesfreepress.com, with 423-757-6260 for story ideas and feedback - the earlier note called 6260 the newsroom line, which was close but not what the site says now. Circulation office hours Mon-Fri 9:00-17:00, Sat 9:00-10:30, Sun 9:00-12:00. Address 400 E 11th St confirmed.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "210": {
 "i": 210,
-"name": "Rio Grande Fence",
 "status": "keep",
-"phone": "(423) 874-8700",
-"email": "bids@rgfence.com",
-"evidence": "Chattanooga service-area and contact pages on rgfence.com",
-"note": "OFFICIAL SITE: Chattanooga phone and the bids@rgfence.com address confirmed. Commercial and industrial fence contractor, so crew trucks on job sites daily. bids@ is company-wide, not Chattanooga-specific."
+"name": "Rio Grande Fence Co. of Tennessee (Chattanooga branch)",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 874-8700 RE-CONFIRMED on rgfence.com's own Chattanooga pages, address 14 Pryor Dr Ste 405 37421 confirmed, hours Mon-Fri 7:00-16:00 ET. In business since 1958 with three TN branches (Nashville, Knoxville, Chattanooga). Commercial, industrial and institutional fencing plus temporary fence rentals - crew trucks and trailers on job sites daily, which is where the rock chips come from. CAUTION STANDS: bids@rgfence.com is company-wide, not this branch.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "213": {
 "i": 213,
@@ -1480,18 +1478,18 @@
 "221": {
 "i": 221,
 "status": "keep",
-"address": "3500 Alton Park Blvd",
-"zip": "37410",
-"evidence": "Overhead Door of Chattanooga official site",
-"note": "OFFICIAL SITE: address+phone confirmed; 24/7 service"
+"name": "Overhead Door Company of Chattanooga",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 867-4354 RE-CONFIRMED, address 3500 Alton Park Blvd 37410 confirmed, hours Mon-Fri 8:00-16:30. Note the 24-hour commercial service line they publish is (865) 573-1950, a KNOXVILLE number - the after-hours desk is not local, so use the 423 line in business hours. They service any brand of door and opener, residential and commercial, and their site has a management and support staff page worth mining for a named contact.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "222": {
 "i": 222,
 "status": "keep",
-"address": "806 N Holtzclaw Ave",
-"zip": "37404",
-"evidence": "Chattanooga branch page on afsrepair.com",
-"note": "OFFICIAL SITE: branch address+phone confirmed"
+"name": "AFS Foundation & Waterproofing Specialists (Groundworks)",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 212-8210 RE-CONFIRMED on afsrepair.com's own Chattanooga branch page, address 806 N Holtzclaw Ave 37404 confirmed. Hours are long - Mon-Fri 7:00-23:00, Sat 8:00-23:00, Sun 10:00-23:00 - which means crew trucks out most of the day, every day. Part of the Groundworks group; foundation, crawl space, driveway and waterproofing crews across TN, AL and GA.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "223": {
 "i": 223,
@@ -1568,12 +1566,11 @@
 },
 "235": {
 "i": 235,
-"name": "Action Air",
 "status": "keep",
-"address": "7605 Hixson Pike",
-"zip": "37343",
-"evidence": "Hixson service-area page on callactionairtoday.com",
-"note": "OFFICIAL SITE: address and phone confirmed. Commercial HVAC division."
+"name": "Action Air",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 842-5575 RE-CONFIRMED, address 7605 Hixson Pike 37343 confirmed, hours Mon-Fri 8:00-17:00, closed weekends. EMAIL FOUND where the row had none: Service@CallActionAir.com - note the domain is callactionair.com, not the callactionairtoday.com in the Website column, so both are theirs. They also publish a text line, 423-303-9088, and fax 423-843-3090. Commercial heating and cooling for Chattanooga businesses for 25+ years alongside the residential side - the commercial division is the bigger van fleet.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "236": {
 "i": 236,
@@ -1653,10 +1650,11 @@
 },
 "249": {
 "i": 249,
-"name": "Northwest Exterminating",
 "status": "keep",
-"evidence": "Ooltewah location page on callnorthwest.com",
-"note": "OFFICIAL SITE: Ooltewah branch and phone 423-822-5760 confirmed. Street address not published; regional operator since 1951."
+"name": "Northwest Exterminating",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 822-5760 RE-CONFIRMED on callnorthwest.com's own Ooltewah location page. CAUTION STANDS: they still publish no street address for this branch, so the 8822 Production Ln Ste 104 on file remains unverified. Regional green pest, termite and wildlife operator since 1951 across GA, AL and TN, with separate Ooltewah and Chattanooga service pages and a builder-services division - a branded route-truck fleet.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "251": {
 "i": 251,
