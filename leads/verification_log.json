@@ -484,9 +484,9 @@
 "i": 65,
 "status": "keep",
 "name": "Pointe General Contractors LLC",
-"note": "OFFICIAL SITE 2026-09-04: site is live (home, about, projects and a vendor/bid page) but publishes NO phone number anywhere - only a form. The (423) 755-0845 on file is UNCONFIRMED; verify by phone. Their Vendor/Bids page is the practical way in: they solicit subcontractors directly through it.",
-"evidence": "pointegeneralcontractors.com/bid",
-"gapfill": "2026-09-04"
+"note": "OFFICIAL SITE 2026-09-04: site is live (home, about, projects and a vendor/bid page) but publishes NO phone number anywhere - only a form. The (423) 755-0845 on file is UNCONFIRMED; verify by phone. Their Vendor/Bids page is the practical way in: they solicit subcontractors directly through it. DUPLICATE FOUND 2026-09-05: row 611, 'PGC LLC' on pointegc.com, is THIS SAME COMPANY - same (423) 755-0845, same GC, PGC being simply their initials, and it publishes no phone either. They run two domains: pointegeneralcontractors.com and pointegc.com. The two rows should be merged; do not call twice.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "66": {
 "i": 66,
@@ -4672,37 +4672,42 @@
 "609": {
 "i": 609,
 "status": "keep",
-"note": "Full-service GC running crews on commercial and office projects. Their own site puts them on Pointe Centre Drive, not the 1300 Premier Drive Suite 150 on the record. No email published - the vendor/bid page is the way in for a supplier.",
-"evidence": "Own site: Pointe General Contractors publishes 1209 Pointe Centre Drive Suite 105, Chattanooga TN 37421, phone (423) 755-0845 and fax (423) 267-6693, with a live vendor and bid-opportunities page.",
-"new_lead": true
+"name": "PGC LLC",
+"note": "PHONE RE-CHECK 2026-09-04: UNCONFIRMED - AND THIS ROW IS A DUPLICATE. pointegc.com confirms Pointe General Contractors as a full-service GC headquartered in Chattanooga, but publishes no phone anywhere searchable, so the (423) 755-0845 is UNSOURCED. THAT IS THE SAME NUMBER AND THE SAME COMPANY AS ROW 67, 'Pointe General Contractors LLC', which was flagged UNCONFIRMED on 09-04 for exactly the same reason - PGC is simply their initials. The two rows should be merged; do not call twice. The 09-03 address call (Pointe Centre Drive over the record's 1300 Premier Drive) stands, and their Vendor/Bid Opportunities page remains the practical way in for a supplier.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "610": {
 "i": 610,
 "status": "keep",
-"note": "Paving contractors are among the best fleet leads on this list - dump trucks, rollers, tack trucks and crew pickups working gravel lots all day. Rusty is the named contact and answers a real address, not a form.",
-"evidence": "Own site: Contact page gives 2611 Riverside Drive, Chattanooga TN 37406, this phone and this email.",
-"new_lead": true
+"name": "Phaltless Inc",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 622-1037, address 2611 Riverside Drive 37406 and rusty@phaltless.com ALL RE-CONFIRMED on their own contact page. Asphalt paving - dump trucks, rollers, tack trucks and crew pickups working gravel lots all day, which is among the best fleet profiles on this list. Rusty answers a real address, not a form.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "611": {
 "i": 611,
 "status": "keep",
-"note": "Commercial GC with hospital work on the books, so superintendent trucks and crew vehicles. Both partners publish direct emails - Will Gaither at wgaither@ and Cody Stubblefield at cstubblefield@ - which beats a form. Their site says Suite 204; the record says 233.",
-"evidence": "Own site: Contact page gives 3800 St Elmo Ave Suite 204, Chattanooga TN 37409, this phone and this email; partner pages for Will Gaither and Cody Stubblefield and a project page for Erlanger East Hospital are all live.",
-"new_lead": true
+"name": "Pillar Construction",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 718-5394, address 3800 St Elmo Ave SUITE 204, 37409 and wgaither@pillarco.com ALL RE-CONFIRMED - the site's Suite 204 beats the record's 233, as the 09-03 pass judged. Both partners still publish direct emails: Will Gaither (wgaither@, Auburn building-science graduate) and Cody Stubblefield (cstubblefield@). The hospital work is confirmed - Erlanger East Hospital is in their project list - so superintendent trucks and crew vehicles on real sites.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "612": {
 "i": 612,
 "status": "keep",
-"note": "A pipe and valve distributor runs delivery trucks to job sites all day - good windshield exposure despite the 1-10 headcount on the record, which looks low for a firm with its own utility division. Full contact set published.",
-"evidence": "Own site: Contact page gives 3008 N. Hickory Street, Chattanooga TN 37406, P.O. Box 5099, this phone, this email and 7:00-4:30 weekday hours. Product pages for pipe, valves, drainage and specialties are live, as is the AMS Utilities division.",
-"new_lead": true
+"name": "Piping Supply Company",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 698-8996 and address 3008 N. Hickory Street 37406 RE-CONFIRMED - they run the number in their own page titles - plus sales@pipingpvf.com. Hours Mon-Fri 7:00-16:30 WITH EMERGENCY SERVICE, which is the tell that delivery trucks run outside office hours. The utility division is confirmed: they trade as Piping Supply Company AND AMS UTILITIES, supplying municipal, fire protection, drainage and gas work - so the 1-10 headcount on the record is certainly understated.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "613": {
 "i": 613,
 "status": "keep",
-"note": "Chattanooga's oldest fence company by their own account. Fence crews haul posts and panels on flatbeds and trailers to residential and commercial sites daily - a solid fleet lead with a full contact set and a real email address. Their own site confirms the record's Pinehurst Avenue address.",
-"evidence": "Own site: Contact page gives 6020 Pinehurst Avenue, Chattanooga TN 37421, this phone, fax 423-821-9616, this email and 8:00-4:30 weekday hours. Residential, commercial, gates and showroom pages all live.",
-"new_lead": true
+"name": "Quality Fence Company",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 825-0513, address 6020 Pinehurst Avenue 37421 and info@fence.net ALL RE-CONFIRMED; hours Mon-Fri 8:00-16:30. Their own claims: Chattanooga's oldest and most experienced fence and gate company, and the city's largest gate and operator provider, 40+ years. Residential, commercial, temporary fencing and automatic gates - flatbeds and trailers hauling posts and panels daily, plus service calls on gate operators, which is a second stream of vehicle movement.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "614": {
 "i": 614,
@@ -4715,9 +4720,10 @@
 "615": {
 "i": 615,
 "status": "keep",
-"note": "Crews service accounts across Chattanooga, Knoxville, Nashville, Dalton and Atlanta, so vehicles cover real highway miles - better fleet exposure than the headcount suggests. Full contact set including a working email.",
-"evidence": "Own site: about and service pages give 6232 Airpark Drive, Chattanooga TN, this phone and this email, with named client testimonials from EPB and Hawks Property Management.",
-"new_lead": true
+"name": "RELIABLE BUILDING SOLUTIONS, INC.",
+"note": "OFFICIAL SITE 2026-09-04: phone (423) 954-9834, address 6232 Airpark Drive and info@RBSi-online.com ALL RE-CONFIRMED. THE FIVE-CITY FOOTPRINT IS CONFIRMED ON THEIR OWN PAGES: Chattanooga, Knoxville, Nashville, Dalton GA and Atlanta GA - real highway miles between accounts, and better fleet exposure than the headcount suggests. Commercial cleaning, custodial, janitorial and a green-cleaning line; their testimonials name EPB and Hawks Property Management as clients.",
+"evidence": "",
+"gapfill": "2026-09-05"
 },
 "616": {
 "i": 616,
