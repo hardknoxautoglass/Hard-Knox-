@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Hard Knox Auto Glass — Rock Chip Repair Flyer</title>
+<style>
+/*@FONTS@*/
+
+/* ============================================================
+   HARD KNOX AUTO GLASS — ROCK CHIP REPAIR FLYER
+   8.5in x 11in portrait, print-ready.
+   Brand colors sampled directly from the business cards:
+   deep glass green, brushed silver plate, brand gold sweep.
+   ============================================================ */
+
+:root{
+  --green-900:#001812;
+  --green-800:#042A1E;
+  --green-700:#0A3A2A;
+  --gold:#C69036;
+  --gold-lt:#F0D98C;
+  --gold-dk:#7E5C1E;
+  --alert:#8A1A10;
+  --ink:#14170F;
+  --ink-soft:#3D4238;
+
+  --gold-sweep:linear-gradient(100deg,#7E5C1E 0%,#E3C169 16%,#C69036 38%,#F0D98C 56%,#B4823A 76%,#6F5019 100%);
+  --silver-plate:linear-gradient(168deg,#FDFDFB 0%,#EFEFE9 42%,#DCDCD4 72%,#EDEDE6 100%);
+}
+
+*{margin:0;padding:0;box-sizing:border-box}
+
+body{
+  background:#fff;
+  font-family:'Barlow','Helvetica Neue',Arial,sans-serif;
+  color:var(--ink);
+  -webkit-font-smoothing:antialiased;
+}
+
+@page{ size:8.5in 11in; margin:0; }
+
+.page{
+  width:8.5in;height:11in;
+  margin:0 auto;
+  position:relative;
+  overflow:hidden;
+  background:var(--green-900);
+  display:grid;
+  /* rows sum to 1056px = 11in exactly, so the flyer is always one page */
+  grid-template-rows:146px 258px 300px 74px 152px 126px;
+  print-color-adjust:exact;
+  -webkit-print-color-adjust:exact;
+}
+
+/* ============================ 1. HEADER ==================== */
+.header{
+  position:relative;
+  background:radial-gradient(120% 150% at 50% -30%, #14523B 0%, #052A1E 55%, #001510 100%);
+  display:flex;align-items:center;justify-content:center;
+}
+/* faint diagonal glare, echoing the glass in the logo */
+.header::before{
+  content:"";position:absolute;inset:0;
+  background:linear-gradient(104deg,transparent 30%,rgba(255,255,255,.055) 38%,transparent 44%,
+                             transparent 58%,rgba(255,255,255,.04) 64%,transparent 70%);
+}
+.header::after{
+  content:"";position:absolute;left:0;right:0;bottom:0;height:5px;
+  background:var(--gold-sweep);
+}
+.header img{
+  position:relative;z-index:2;
+  height:122px;width:auto;display:block;
+  filter:drop-shadow(0 4px 10px rgba(0,0,0,.55));
+}
+
+/* ============================ 2. HERO ====================== */
+.hero{
+  position:relative;
+  background:var(--silver-plate);
+  padding:20px 44px 0;
+  text-align:center;
+  display:flex;flex-direction:column;align-items:center;
+}
+/* brushed-metal texture, matching the card stock */
+.hero::before{
+  content:"";position:absolute;inset:0;pointer-events:none;
+  background:repeating-linear-gradient(94deg,
+     rgba(0,0,0,.026) 0px, rgba(0,0,0,.026) 1px,
+     rgba(255,255,255,.05) 1px, rgba(255,255,255,.05) 3px);
+}
+.hero > *{position:relative;z-index:2}
+
+.eyebrow{
+  font-family:'Barlow Condensed',Arial Narrow,sans-serif;
+  font-weight:700;font-size:18.5px;letter-spacing:.20em;
+  color:#2A2008;
+  background:var(--gold-sweep);
+  padding:6px 24px 5px;
+  box-shadow:0 2px 0 rgba(0,0,0,.18);
+  text-transform:uppercase;white-space:nowrap;
+}
+
+h1{
+  font-family:'Archivo Black','Arial Black',Impact,sans-serif;
+  font-size:68px;line-height:.90;letter-spacing:-.02em;
+  color:var(--green-800);text-transform:uppercase;
+  margin-top:14px;
+  text-shadow:0 2px 0 rgba(255,255,255,.75);
+}
+h1 .hit{color:var(--alert);position:relative;white-space:nowrap}
+/* jagged crack rule under the payoff word */
+h1 .hit svg{position:absolute;left:-1%;width:102%;bottom:-11px;height:13px}
+
+.subhead{
+  margin-top:16px;
+  max-width:6.9in;
+  font-size:19px;line-height:1.32;
+  color:var(--ink-soft);font-weight:500;
+}
+.subhead b{color:var(--green-700);font-weight:700}
+
+/* ============================ 3. FOCAL ===================== */
+.focal{
+  position:relative;
+  background:radial-gradient(130% 120% at 22% 0%, #11573E 0%, #073B2A 28%, #05291D 58%, #00140F 100%);
+  padding:0 42px;
+  display:grid;grid-template-columns:.88fr 1.12fr;gap:24px;
+  align-items:center;
+}
+.focal::before{
+  content:"";position:absolute;inset:0;
+  background:linear-gradient(104deg,transparent 26%,rgba(255,255,255,.05) 33%,transparent 39%);
+}
+.focal > *{position:relative;z-index:2}
+
+.glass-art{width:100%;height:auto;display:block;
+  filter:drop-shadow(0 8px 18px rgba(0,0,0,.55))}
+
+.why .kicker{
+  font-family:'Barlow Condensed',sans-serif;font-weight:700;
+  font-size:15px;letter-spacing:.17em;text-transform:uppercase;
+  color:var(--gold);margin-bottom:9px;
+}
+.why h2{
+  font-family:'Archivo Black','Arial Black',sans-serif;
+  font-size:26px;line-height:1.04;
+  color:#fff;text-transform:uppercase;letter-spacing:-.015em;
+  margin-bottom:11px;
+}
+.why h2 span{color:var(--gold-lt)}
+
+ul{list-style:none}
+li{
+  display:flex;align-items:flex-start;gap:11px;
+  color:#EFF3EE;font-size:17px;line-height:1.26;font-weight:500;
+  padding:6.5px 0;
+  border-bottom:1px solid rgba(255,255,255,.11);
+}
+li:last-child{border-bottom:0}
+li b{font-weight:700;color:#fff}
+.check{
+  flex:0 0 auto;width:20px;height:20px;margin-top:1px;
+  border-radius:50%;background:var(--gold-sweep);
+  display:flex;align-items:center;justify-content:center;
+}
+.check svg{width:11px;height:11px;display:block}
+
+/* ============================ 4. SERVICES ================== */
+.services{
+  background:var(--silver-plate);
+  border-top:4px solid var(--gold);border-bottom:4px solid var(--gold);
+  display:flex;align-items:center;padding:0 28px;
+}
+.services .svc{
+  flex:1;text-align:center;
+  font-family:'Barlow Condensed',Arial Narrow,sans-serif;
+  font-weight:700;font-size:23px;letter-spacing:.07em;
+  text-transform:uppercase;color:var(--green-800);line-height:1.04;
+}
+.services .svc small{
+  display:block;font-family:'Barlow',sans-serif;font-weight:500;
+  font-size:12.5px;letter-spacing:.03em;color:#6A705F;
+  text-transform:none;margin-top:1px;
+}
+.services .sep{
+  flex:0 0 1px;height:40px;
+  background:linear-gradient(180deg,transparent,var(--gold) 50%,transparent);
+}
+
+/* ============================ 5. CTA ======================= */
+.cta{
+  position:relative;background:var(--gold-sweep);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  border-bottom:4px solid var(--green-900);
+}
+.cta::before{
+  content:"";position:absolute;inset:0;
+  background:repeating-linear-gradient(98deg,rgba(255,255,255,.10) 0 2px,transparent 2px 6px);
+}
+.cta > *{position:relative;z-index:2}
+.cta .line{
+  font-family:'Archivo Black','Arial Black',sans-serif;
+  font-size:25px;text-transform:uppercase;color:#241B06;
+  text-shadow:0 1px 0 rgba(255,255,255,.45);
+}
+.cta .phone{
+  font-family:'Barlow Condensed',Arial Narrow,sans-serif;
+  font-weight:700;font-size:84px;line-height:.95;
+  color:#12100A;text-decoration:none;
+  margin-top:1px;
+  display:flex;align-items:center;gap:15px;
+  text-shadow:0 2px 0 rgba(255,255,255,.35);
+}
+.cta .phone svg{width:46px;height:46px;flex:0 0 auto}
+
+/* ============================ 6. FOOTER ==================== */
+.footer{
+  background:linear-gradient(180deg,#05241A 0%,#00120D 100%);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  gap:10px;padding:0 30px;
+}
+.contact{display:flex;align-items:center;width:100%}
+.contact .item{
+  flex:1;display:flex;align-items:center;justify-content:center;gap:9px;
+  color:#F2F5F1;line-height:1.2;
+}
+.contact .item svg{width:19px;height:19px;flex:0 0 auto}
+.contact .item b{display:block;font-weight:700;color:#fff;font-size:15px;white-space:nowrap}
+.contact .item span span{display:block;font-size:13.5px;color:#A9B5A8;font-weight:500;white-space:nowrap}
+.contact .vsep{flex:0 0 1px;height:34px;background:rgba(198,144,54,.45)}
+
+.vet{
+  display:flex;align-items:center;justify-content:center;gap:11px;width:100%;
+  font-family:'Barlow Condensed',sans-serif;font-weight:700;
+  font-size:15.5px;letter-spacing:.18em;text-transform:uppercase;
+  color:var(--gold-lt);
+  padding-top:8px;border-top:1px solid rgba(198,144,54,.3);
+}
+.vet .star{color:var(--gold);font-size:13px}
+.vet .owner{
+  font-family:'Barlow',sans-serif;font-weight:500;text-transform:none;
+  letter-spacing:.04em;font-size:13.5px;color:#8C9A8B;
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- ===================== 1. HEADER / LOGO ===================== -->
+  <header class="header">
+    <img src="@LOGO@" alt="Hard Knox Auto Glass — Auto Glass &amp; Recalibrations — Veteran Owned &amp; Operated">
+  </header>
+
+  <!-- ===================== 2. HERO HEADLINE ===================== -->
+  <section class="hero">
+    <div class="eyebrow">Rock Chip Repair &nbsp;&#9733;&nbsp; Ringgold, GA</div>
+
+    <h1>
+      Don't Let a Chip<br>
+      Become a <span class="hit">Crack<svg viewBox="0 0 300 13" preserveAspectRatio="none" aria-hidden="true"><path d="M2 9 L38 4 L64 10 L102 3 L134 9 L170 3 L206 10 L238 4 L268 9 L298 3" fill="none" stroke="#8A1A10" stroke-width="4.5" stroke-linejoin="miter" stroke-linecap="square"/></svg></span>
+    </h1>
+
+    <p class="subhead">
+      One pothole. One cold morning. That tiny star spreads fast &mdash; and a
+      <b>quick repair</b> turns into a <b>full windshield replacement</b>.
+    </p>
+  </section>
+
+  <!-- ===================== 3. FOCAL GRAPHIC ===================== -->
+  <section class="focal">
+
+    <!-- Windshield with a chip spreading into a crack.
+         Gold trim + silver bezel + deep green glass = the logo's badge materials. -->
+    <svg class="glass-art" viewBox="0 0 420 330" role="img"
+         aria-label="Car windshield with a rock chip spreading into a long crack">
+      <defs>
+        <linearGradient id="bezel" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#FFFFFF"/><stop offset=".3" stop-color="#C5C9C5"/>
+          <stop offset=".56" stop-color="#F4F6F3"/><stop offset=".82" stop-color="#989D98"/>
+          <stop offset="1" stop-color="#E8EBE8"/>
+        </linearGradient>
+        <linearGradient id="glass" x1=".15" y1="0" x2=".85" y2="1">
+          <stop offset="0" stop-color="#1D7051"/><stop offset=".48" stop-color="#0B3E2D"/>
+          <stop offset="1" stop-color="#03211A"/>
+        </linearGradient>
+        <linearGradient id="goldg" x1="0" y1="0" x2="1" y2=".4">
+          <stop offset="0" stop-color="#7E5C1E"/><stop offset=".22" stop-color="#F0D98C"/>
+          <stop offset=".55" stop-color="#C69036"/><stop offset=".8" stop-color="#E3C169"/>
+          <stop offset="1" stop-color="#7E5C1E"/>
+        </linearGradient>
+        <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stop-color="#3A403B"/><stop offset=".55" stop-color="#20251F"/>
+          <stop offset="1" stop-color="#101410"/>
+        </linearGradient>
+        <radialGradient id="flash" cx=".5" cy=".5" r=".5">
+          <stop offset="0" stop-color="#FFFFFF"/><stop offset=".4" stop-color="#FFFFFF" stop-opacity=".9"/>
+          <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+        </radialGradient>
+      </defs>
+
+      <!-- roof line above the glass -->
+      <path d="M58 60 Q210 20 362 60 L357 42 Q210 2 63 42 Z" fill="url(#body)"/>
+
+      <!-- cowl / hood below the glass, with parked wipers -->
+      <path d="M44 246 Q210 268 376 246 L384 292 Q210 318 36 292 Z" fill="url(#body)"/>
+      <g stroke="#0C0F0C" stroke-linecap="round" fill="none" opacity=".85">
+        <path d="M96 258 L214 236" stroke-width="6"/>
+        <path d="M212 262 L330 242" stroke-width="6"/>
+      </g>
+      <g stroke="#4E554E" stroke-linecap="round" fill="none" opacity=".7">
+        <path d="M98 256 L212 234" stroke-width="1.6"/>
+        <path d="M214 260 L328 240" stroke-width="1.6"/>
+      </g>
+
+      <!-- gold trim, silver bezel, glass -->
+      <path d="M78 56 Q210 36 342 56 L374 244 Q210 266 46 244 Z" fill="url(#goldg)"/>
+      <path d="M87 64 Q210 45 333 64 L363 237 Q210 258 57 237 Z" fill="url(#bezel)"/>
+      <path d="M97 73 Q210 54 323 73 L352 230 Q210 250 68 230 Z" fill="url(#glass)"/>
+
+      <!-- glare streaks across the glass -->
+      <path d="M126 240 L168 62 L188 60 L146 242 Z" fill="#FFFFFF" opacity=".06"/>
+      <path d="M244 246 L286 60 L297 61 L255 246 Z" fill="#FFFFFF" opacity=".042"/>
+
+      <!-- rear-view mirror, hanging inside the glass -->
+      <path d="M205 67 L215 67 L214 80 L206 80 Z" fill="#1A1E1A"/>
+      <path d="M186 80 Q210 74 234 80 L231 96 Q210 102 189 96 Z" fill="#191D19"/>
+      <path d="M190 83 Q210 78 230 83 L228 92 Q210 96 192 92 Z" fill="#2A302A"/>
+
+      <!-- the crack, travelling down-left away from the impact -->
+      <g stroke-linecap="round" fill="none">
+        <path d="M268 116 L240 148 L248 168 L206 196 L212 216 L164 238"
+              stroke="#04231A" stroke-opacity=".6" stroke-width="6"/>
+        <path d="M268 116 L240 148 L248 168 L206 196 L212 216 L164 238"
+              stroke="#F4FCF8" stroke-width="3.4"/>
+        <path d="M240 148 L217 152 M206 196 L182 190 M212 216 L234 227"
+              stroke="#F4FCF8" stroke-opacity=".6" stroke-width="2.1"/>
+        <path d="M164 238 L140 244" stroke="#F4FCF8" stroke-opacity=".5"
+              stroke-width="2.5" stroke-dasharray="5 6"/>
+      </g>
+
+      <!-- impact star -->
+      <g transform="translate(268 116)">
+        <circle r="34" fill="url(#flash)" opacity=".85"/>
+        <g stroke="#FFFFFF" stroke-linecap="round">
+          <path d="M0 0 L0 -30" stroke-width="2.7"/><path d="M0 0 L26 -17" stroke-width="2.4"/>
+          <path d="M0 0 L31 5" stroke-width="2.7"/> <path d="M0 0 L20 25" stroke-width="2.3"/>
+          <path d="M0 0 L-3 30" stroke-width="2.5"/><path d="M0 0 L-24 20" stroke-width="2.3"/>
+          <path d="M0 0 L-30 -2" stroke-width="2.7"/><path d="M0 0 L-21 -22" stroke-width="2.5"/>
+          <path d="M0 0 L14 -26" stroke-width="1.8" opacity=".8"/>
+          <path d="M0 0 L-12 -27" stroke-width="1.7" opacity=".8"/>
+        </g>
+        <circle r="7.8" fill="#FFFFFF"/><circle r="3.5" fill="#EAF6FF"/>
+      </g>
+
+      <!-- callouts -->
+      <path d="M212 130 L238 122" stroke="#F0D98C" stroke-width="1.8" stroke-dasharray="4 4" fill="none"/>
+      <rect x="112" y="118" width="98" height="25" rx="3" fill="#C69036"/>
+      <text x="161" y="135.5" text-anchor="middle" font-family="Barlow Condensed,Arial Narrow,sans-serif"
+            font-weight="700" font-size="15" letter-spacing="1.3" fill="#231A06">STARTS SMALL</text>
+
+      <path d="M150 217 L161 234" stroke="#F0D98C" stroke-width="1.8" stroke-dasharray="4 4" fill="none"/>
+      <rect x="86" y="192" width="94" height="25" rx="3" fill="#8A1A10"/>
+      <text x="133" y="209.5" text-anchor="middle" font-family="Barlow Condensed,Arial Narrow,sans-serif"
+            font-weight="700" font-size="15" letter-spacing="1.3" fill="#FFECEA">ENDS COSTLY</text>
+
+    </svg>
+
+    <!-- Benefit bullets -->
+    <div class="why">
+      <div class="kicker">Fix it early</div>
+      <h2>Repair Now,<br><span>Not Replace Later</span></h2>
+      <ul>
+        <li><span class="check"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.3 L4.4 9.2 L10.5 2.6" fill="none" stroke="#1E1403" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            <span><b>Stops the spread</b> before it crosses your view</span></li>
+        <li><span class="check"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.3 L4.4 9.2 L10.5 2.6" fill="none" stroke="#1E1403" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            <span><b>A fraction of the cost</b> of a replacement</span></li>
+        <li><span class="check"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.3 L4.4 9.2 L10.5 2.6" fill="none" stroke="#1E1403" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            <span><b>Restores strength</b> &amp; clear visibility</span></li>
+        <li><span class="check"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.3 L4.4 9.2 L10.5 2.6" fill="none" stroke="#1E1403" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            <span><b>Veteran owned</b> &mdash; done right the first time</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== 4. SERVICES STRIP ==================== -->
+  <section class="services">
+    <div class="svc">Rock Chip Repair<small>Stop it before it spreads</small></div>
+    <div class="sep"></div>
+    <div class="svc">Auto Glass<small>Repair &amp; replacement</small></div>
+    <div class="sep"></div>
+    <div class="svc">ADAS Recalibration<small>Safety systems re-aimed</small></div>
+  </section>
+
+  <!-- ===================== 5. CALL TO ACTION ==================== -->
+  <section class="cta">
+    <div class="line">Call Today &mdash; Before It Spreads!</div>
+    <a class="phone" href="tel:+14232275964">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#12100A" d="M6.6 10.8c1.4 2.8 3.8 5.2 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.2.4 2.4.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.4 0 .8-.2 1l-2.3 2.2Z"/></svg>
+      (423) 227-5964
+    </a>
+  </section>
+
+  <!-- ===================== 6. FOOTER / CONTACT ================== -->
+  <footer class="footer">
+    <div class="contact">
+      <div class="item">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#C69036" d="M12 2a7 7 0 0 0-7 7c0 5 7 13 7 13s7-8 7-13a7 7 0 0 0-7-7Zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5Z"/></svg>
+        <span><b>5904 Alabama Hwy</b><span>Ringgold, GA 30736</span></span>
+      </div>
+      <div class="vsep"></div>
+      <div class="item">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#C69036" d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm6.9 9h-3a15.7 15.7 0 0 0-1.3-5.4A8 8 0 0 1 18.9 11ZM12 4.1c.8 1.2 1.6 3.4 1.8 6.9h-3.6c.2-3.5 1-5.7 1.8-6.9ZM5.1 13h3c.1 2 .5 3.9 1.3 5.4A8 8 0 0 1 5.1 13Zm3-2h-3a8 8 0 0 1 4.3-5.4A15.7 15.7 0 0 0 8.1 11ZM12 19.9c-.8-1.2-1.6-3.4-1.8-6.9h3.6c-.2 3.5-1 5.7-1.8 6.9Zm2.6-1.5c.8-1.5 1.2-3.4 1.3-5.4h3a8 8 0 0 1-4.3 5.4Z"/></svg>
+        <span><b>hardknoxautoglass.com</b><span>Get a fast quote online</span></span>
+      </div>
+      <div class="vsep"></div>
+      <div class="item">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#C69036" d="M3 5h18c.6 0 1 .4 1 1v12c0 .6-.4 1-1 1H3c-.6 0-1-.4-1-1V6c0-.6.4-1 1-1Zm9 8.1 8-5.1H4l8 5.1Z"/></svg>
+        <span><b>hardknoxautoglass</b><span>@gmail.com</span></span>
+      </div>
+    </div>
+
+    <div class="vet">
+      <span class="star">&#9733;</span>
+      Veteran Owned &amp; Operated
+      <span class="star">&#9733;</span>
+      <span class="owner">Brandon Layne, Owner</span>
+    </div>
+  </footer>
+
+</div>
+</body>
+</html>
