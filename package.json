@@ -1,0 +1,21 @@
+{
+  "name": "hard-knox-auto-glass-site",
+  "private": true,
+  "description": "Static site build and test tooling for HardKnoxAutoGlass.com (tooling only; the delivered site in site/ has no runtime dependencies)",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "node tools/build.js",
+    "serve": "node tools/serve.js",
+    "check:html": "node tools/check-html.js",
+    "check:crawl": "node tools/crawl.js",
+    "check:facts": "node tools/check-facts.js",
+    "check:a11y": "node tools/a11y.js",
+    "check:perf": "node tools/perf.js",
+    "release": "node tools/release.js"
+  },
+  "devDependencies": {
+    "axe-core": "4.14.0",
+    "html-validate": "11.18.0",
+    "lighthouse": "13.6.0"
+  }
+}
