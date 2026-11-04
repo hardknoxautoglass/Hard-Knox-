@@ -12,8 +12,9 @@ const ROOT = path.join(__dirname, '..');
 const SITE = path.join(ROOT, 'site');
 const OUT = path.join(__dirname, 'out', 'preview');
 const info = JSON.parse(fs.readFileSync(path.join(__dirname, 'out', 'build-info.json'), 'utf8'));
-const checksums = fs.existsSync(path.join(ROOT, 'release', 'CHECKSUMS.txt')) ? fs.readFileSync(path.join(ROOT, 'release', 'CHECKSUMS.txt'), 'utf8').trim().split('\n').pop() : '';
-const sha = (checksums.match(/^([0-9a-f]{64})/) || [])[1] || '';
+// Usage: node tools/preview-artifact.js [label] [sha256-of-matching-release-zip]
+const label = process.argv[2] || 'preview';
+const sha = process.argv[3] || '';
 
 fs.rmSync(OUT, { recursive: true, force: true });
 fs.mkdirSync(OUT, { recursive: true });
@@ -21,7 +22,7 @@ fs.mkdirSync(OUT, { recursive: true });
 const files = [];
 (function walk(d) { for (const f of fs.readdirSync(d)) { const p = path.join(d, f); if (fs.statSync(p).isDirectory()) walk(p); else files.push(path.relative(SITE, p)); } })(SITE);
 
-const banner = (prefix) => `<div class="preview-banner" role="note"><strong>Preview build v1.0${sha ? ' · ' + sha.slice(0, 8) : ''}</strong> — a private review copy, not the live site. Call, Text and email buttons may do nothing inside this preview; test them on the real site. Print also does not work here. <a href="${prefix}index.html">Home</a></div>`;
+const banner = (prefix) => `<div class="preview-banner" role="note"><strong>Preview build ${label}${sha ? ' · ' + sha.slice(0, 8) : ''}</strong> — a private review copy, not the live site. Call, Text and email buttons may do nothing inside this preview; test them on the real site. Print also does not work here. <a href="${prefix}index.html">Home</a></div>`;
 const bannerCss = `.preview-banner{background:#7a4706;color:#fff;font:600 14px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;padding:10px max(16px,env(safe-area-inset-right,0px)) 10px max(16px,env(safe-area-inset-left,0px));text-align:center}.preview-banner a{color:#fff}`;
 
 // Rewrite "/x" references to be relative to a page at `depth` directory levels below the root.
