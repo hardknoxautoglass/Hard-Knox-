@@ -37,8 +37,10 @@
 
   --gold-sheen: linear-gradient(90deg, var(--gold-700) 0%, var(--gold-300) 38%, var(--gold-500) 62%, var(--gold-700) 100%);
   --gold-button: linear-gradient(180deg, var(--gold-300) 0%, var(--gold-500) 100%);
-  --forest-panel: radial-gradient(120% 90% at 18% 0%, var(--forest-700) 0%, var(--forest-900) 55%, var(--forest-950) 100%);
-  --forest-panel-sweep: linear-gradient(104deg, transparent 58%, rgba(201, 162, 39, 0.10) 58.3%, rgba(232, 210, 122, 0.16) 63%, transparent 63.4%);
+  /* Dark panel: lightest stop forest-800 and a ≤11% gold sweep so gold-300 small text stays ≥ 5.1:1 and cream ≥ 7:1
+     even at the theoretical worst point where the sweep crosses the lightest corner (computed, see validation report). */
+  --forest-panel: radial-gradient(120% 90% at 18% 0%, var(--forest-800) 0%, var(--forest-900) 55%, var(--forest-950) 100%);
+  --forest-panel-sweep: linear-gradient(104deg, transparent 58%, rgba(201, 162, 39, 0.07) 58.3%, rgba(232, 210, 122, 0.11) 63%, transparent 63.4%);
 
   --font-display: "Montserrat", "Montserrat Fallback", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   --font-body: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
