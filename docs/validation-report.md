@@ -1,6 +1,6 @@
-# Validation report — v1.0 preview (private)
+# Validation report — v1.1 preview (private)
 
-**Release:** `hardknox-site-2026-11-04-v1.0.zip` · SHA-256 `1c2a2a08ded8db263bef5d40772d60c6c3f4ab5f824a315a7881ee4b8e743f3f` · 25 files · 126,083 bytes (355,722 bytes extracted)
+**Release:** `hardknox-site-2026-11-04-v1.1.zip` · SHA-256 `722d9937b1b37b12c2c1af5eaf8ec1d6d1339277ebb16615135d572156dc4522` · 26 files · 143,235 bytes. Supersedes v1.0 (`1c2a2a08…43f3f`): owner's name removed from the site; forest-and-gold design pass; Montserrat 600 added. Every check below was re-run on the v1.1 build on 2026-11-04.
 **Status label:** **Ready for owner testing.** Not launch verified. Not published.
 
 Three conclusions are kept separate throughout: **(A) preview verified** = run by the builder on the local preview server (Node emulation of the intended `.htaccess`, Chromium only); **(B) authorized deployment verified** = on Hostinger (preview subdomain or live) — *none run yet*; **(C) post-launch observations** — *none yet*. A local pass is never promoted to a live pass.
@@ -31,7 +31,8 @@ Suite: `tools/a11y.js` → `tools/out/a11y-report.json`, final run on the packag
 
 | Check | Path(s) | Expected | Observed | Status |
 |---|---|---|---|---|
-| axe-core WCAG 2.0/2.1/2.2 A+AA + best-practice rules | 13 pages + a missing URL (404), 360 and 1280 px | 0 violations | 0 violations. 6 "needs review" nodes, all `.notice--bar` (axe cannot see through the fixed overlay); manually computed: cream `#F6F3EB` on forest-900 `#0B3526` = **12.21:1** | (A) pass |
+| axe-core WCAG 2.0/2.1/2.2 A+AA + best-practice rules | 13 pages + a missing URL (404), 360 and 1280 px | 0 violations | 0 violations. 346 "needs review" nodes: every text node on the gradient panels (hero, page headers, closing panel) plus `.notice--bar` under the fixed overlay — axe cannot evaluate gradients, so these were computed by hand (next row). | (A) pass |
+| Gradient panels, computed worst case (lightest radial stop forest-800 `#0f4531` under the strongest point of the gold sweep: gold-500 at 7% then gold-300 at 11% → `#2f5a3b`-range) | hero, interior page headers, closing panel, breadcrumbs | ≥ 4.5:1 text, ≥ 3:1 non-text | white headings ≈ 6.0:1; cream body/notice **7.04:1**; gold-300 eyebrows/links/meta **5.18:1**; gold-500 ribbon border 3.23:1 (non-text); on the flat forest-950 bands: cream 13.94:1, gold-300 10.25:1. Buttons: forest-900 lettering on the gold gradient 8.98:1 (top) to 5.60:1 (bottom). | (A) pass |
 | Contrast, measured with the real colors | all states | ≥ 4.5:1 text, ≥ 3:1 large/non-text | ink/cream 14.24; forest-700/cream 8.23; forest-600 hover/cream 5.90; white/forest-700 9.13; cream/forest-900 12.21; gold-300 text/forest-700 6.06; gold-300 links/forest-900 8.98; forest-900 on gold-500 button 5.60; forest-900 on gold-300 hover 8.98; cream outline button on forest-700 8.23; amber-800 eyebrow/cream 6.93 and /cream-deep 6.23; ink-muted notice/cream 7.55, /cream-deep 6.78, /white 8.37; gold-600 icons/cream 3.17 and /white 3.51 (non-text); gold-500 ribbon/forest-700 3.77 (non-text). White on gold is never used (2.42). | (A) pass |
 | Focus visible (double ring gold-300 + forest-900) | all | visible on cream, white, forest, gold | pass (axe + screenshots) | (A) pass |
 | Skip link first in tab order, moves focus to `main` | `/` | yes | yes | (A) pass |
@@ -64,7 +65,7 @@ Suite: `tools/a11y.js` → `tools/out/a11y-report.json`, final run on the packag
 | 404 page uses absolute asset paths (renders on nested misses) | yes | yes | (A) pass |
 | JSON-LD syntax + agreement with visible text | parses; breadcrumb names and Service names visible on their pages | pass on all pages | (A) pass |
 | Schema Markup Validator (code-snippet mode, no preview URL) and Rich Results Test | vocabulary OK; LocalBusiness rich result **expected ineligible** (no address) | **not run** (Rich Results Test needs the live URL; snippet validation to be done at cutover) | pending (cutover) — expected limitation, not an error |
-| Lighthouse SEO/Best Practices | 100/100 | 100/100 on all four pages | (A) pass |
+| Lighthouse SEO/Best Practices | 100/100 | 100/100 on all four pages (v1.1) | (A) pass |
 
 ## 5. Privacy and release
 
@@ -73,7 +74,7 @@ Suite: `tools/a11y.js` → `tools/out/a11y-report.json`, final run on the packag
 | Requests on first and repeat visit (Home, Contact, Warranty), menu and FAQ interaction | same-origin only | 7 distinct same-origin URLs; 0 off-origin | (A) pass |
 | Cookies, localStorage, sessionStorage, IndexedDB, service workers | none | none, first and repeat | (A) pass |
 | CSP header behaviour | foreign inline scripts blocked | blocked (observed when the harness injected one without bypass) | (A) pass (emulated header) |
-| Public ZIP contents vs allow-list; no README/maps/backups/docs/logs/credentials; no enclosing folder; dotfile present | 25 allowed files | 25 files, re-extracted and byte-compared OK (`tools/release.js`) | (A) pass |
+| Public ZIP contents vs allow-list; no README/maps/backups/docs/logs/credentials; no enclosing folder; dotfile present | 26 allowed files | 26 files, re-extracted and byte-compared OK (`tools/release.js`) | (A) pass |
 | No private address or private materials anywhere in `site/` | none | none (grep for street/PO/road numbers: none; owner record has no address) | (A) pass |
 | **Host-level:** `Set-Cookie`, injected scripts, security layer, real headers, directory listing, compression, 404 status | per `docs/deploy-rollback.md` §4 | **not run** | (B) pending |
 | **Provider behaviour** (phone line, voicemail, SMS app, Gmail retention, card processor) vs notice | matches notice | **owner facts pending (A8)** | pending |
@@ -85,12 +86,12 @@ Suite: `tools/a11y.js` → `tools/out/a11y-report.json`, final run on the packag
 
 | Page | Perf | LCP (median) | CLS | TBT | FCP | Transferred (total-byte-weight) | Requests | Status |
 |---|---|---|---|---|---|---|---|---|
-| `/` | 100 | 901 ms | 0 | 0 ms | 901 ms | 94,377 B | 6 | pass (≤ 2.5 s lab) |
-| `/windshield-replacement/` | 100 | 901 ms | 0 | 0 ms | 901 ms | 80,950 B | 6 | pass |
-| `/warranty/` | 100 | 901 ms | 0 | 0 ms | 901 ms | 83,753 B | 6 | pass |
-| `/service-area-contact/` | 100 | 1,111 ms | 0 | 0 ms | 1,111 ms | 78,313 B | 6 | pass |
+| `/` | 100 | 1,052 ms | 0 | 0 ms | 1,052 ms | 116,203 B | 7 | pass (≤ 2.5 s lab) |
+| `/windshield-replacement/` | 100 | 1,052 ms | 0 | 0 ms | 1,052 ms | 101,386 B | 7 | pass |
+| `/warranty/` | 100 | 1,051 ms | 0 | 0 ms | 1,051 ms | 104,175 B | 7 | pass |
+| `/service-area-contact/` | 100 | 1,052 ms | 0 | 0 ms | 1,052 ms | 98,774 B | 7 | pass |
 
-Per page: 1 HTML (16–26 KB), 1 CSS (≈ 20 KB), 1 JS (≈ 3 KB), 2 WOFF2 (12 KB each), favicon. No lazy-loaded hero; explicit `width`/`height` on the SVG; metric-adjusted font fallback; CLS 0 in every run. Lab interactions (menu, FAQ disclosure, print button) have no measurable blocking time (TBT 0). **INP is a field metric and was not measured; field data: insufficient (not launched).** Core Web Vitals field targets (LCP ≤ 2.5 s, INP ≤ 200 ms, CLS ≤ 0.1 at p75, mobile and desktop) are to be read from CrUX/Search Console after launch if populated; otherwise record "insufficient field data" — this does not block launch.
+Per page: 1 HTML (17–28 KB), 1 CSS (≈ 29 KB), 1 JS (≈ 3 KB), 3 WOFF2 (12 KB each), favicon. v1.0 measured 0.9 s LCP / ~80–94 KB; v1.1's extra font weight and richer stylesheet cost about 150 ms of simulated LCP and ~20 KB per page, well inside the budget. No lazy-loaded hero; explicit `width`/`height` on the SVG; metric-adjusted font fallback; CLS 0 in every run. Lab interactions (menu, FAQ disclosure, print button) have no measurable blocking time (TBT 0). **INP is a field metric and was not measured; field data: insufficient (not launched).** Core Web Vitals field targets (LCP ≤ 2.5 s, INP ≤ 200 ms, CLS ≤ 0.1 at p75, mobile and desktop) are to be read from CrUX/Search Console after launch if populated; otherwise record "insufficient field data" — this does not block launch.
 
 ## 7. Owner device tests (exact steps)
 

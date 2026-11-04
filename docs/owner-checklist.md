@@ -1,6 +1,6 @@
 # Owner checklist — remaining decisions and checks (private)
 
-Release: **v1.0 preview** (built 2026-11-04). Status: **ready for owner review and owner device testing — not launch verified, not published.**
+Release: **v1.1 preview** (built 2026-11-04; supersedes v1.0). Status: **ready for owner review and owner device testing — not launch verified, not published.** Private preview: https://claude.ai/artifact/49gDP4YN8Scg5U8Grjed4z (version 2).
 
 Each item says exactly what it affects and what evidence resolves it. Items marked **BLOCKS LAUNCH** must be resolved before the site goes public. Everything else is a decision you can make now or leave as built.
 

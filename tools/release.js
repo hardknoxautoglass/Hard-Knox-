@@ -14,7 +14,7 @@ const SITE = path.join(ROOT, 'site');
 const REL = path.join(ROOT, 'release');
 fs.mkdirSync(REL, { recursive: true });
 
-const ALLOW = /^(index\.html|404\.html|robots\.txt|sitemap\.xml|\.htaccess|[a-z0-9-]+\/index\.html|assets\/(css\/site\.[0-9a-f]{8}\.css|js\/site\.[0-9a-f]{8}\.js|fonts\/montserrat-(700|800)\.[0-9a-f]{8}\.woff2|fonts\/OFL\.txt|img\/(favicon\.svg|favicon-32\.png|apple-touch-icon\.png)))$/;
+const ALLOW = /^(index\.html|404\.html|robots\.txt|sitemap\.xml|\.htaccess|[a-z0-9-]+\/index\.html|assets\/(css\/site\.[0-9a-f]{8}\.css|js\/site\.[0-9a-f]{8}\.js|fonts\/montserrat-(600|700|800)\.[0-9a-f]{8}\.woff2|fonts\/OFL\.txt|img\/(favicon\.svg|favicon-32\.png|apple-touch-icon\.png)))$/;
 
 function listFiles(dir) {
   const out = [];
