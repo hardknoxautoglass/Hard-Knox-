@@ -22,27 +22,27 @@ const body = `
 <li><a href="#quarter-glass">Quarter glass</a> — a smaller pane that does not roll down: behind the rear door, in the rear pillar, or the small vent pane in a door.</li>
 <li><a href="#back-glass">Back glass</a> — the rear windshield, often with defroster lines.</li>
 </ul>
-<p>Unlike a windshield, these panes are usually <strong>tempered</strong> glass, which breaks into small pieces and cannot be repaired. They are replaced. A photo of the broken window and the surrounding door or pillar helps Brandon quote the right part.</p>
+<p>Unlike a windshield, these panes are usually <strong>tempered</strong> glass, which breaks into small pieces and cannot be repaired. They are replaced. A photo of the broken window and the surrounding door or pillar helps us quote the right part.</p>
 
 <section class="anchor-section" id="door-glass" aria-labelledby="door-h">
 <h2 id="door-h">${icon('door')} Door glass replacement</h2>
 <p>Door glass is the roll-up window in a front or rear door. When it breaks, most of the glass falls inside the door and onto the seat and floor.</p>
-<p><strong>What Brandon does:</strong> removes the interior door panel, vacuums the broken glass out of the door cavity and the cabin, fits the new glass to the window regulator (the mechanism that raises and lowers it), checks that the window travels fully and seals against the weatherstrip, and refits the panel.</p>
-<p><strong>Good to know:</strong> if the regulator or motor was damaged when the glass broke, Brandon will show you and tell you before any extra work is quoted. A quote inquiry is never authorization for additional work. Until the window is replaced, a temporary cover keeps rain out; avoid driving with loose glass in the door.</p>
+<p><strong>What we do:</strong> remove the interior door panel, vacuum the broken glass out of the door cavity and the cabin, fit the new glass to the window regulator (the mechanism that raises and lowers it), check that the window travels fully and seals against the weatherstrip, and refit the panel.</p>
+<p><strong>Good to know:</strong> if the regulator or motor was damaged when the glass broke, we will show you and tell you before any extra work is quoted. A quote inquiry is never authorization for additional work. Until the window is replaced, a temporary cover keeps rain out; avoid driving with loose glass in the door.</p>
 </section>
 
 <section class="anchor-section" id="quarter-glass" aria-labelledby="quarter-h">
 <h2 id="quarter-h">${icon('quarter')} Quarter glass replacement</h2>
 <p>Quarter glass is a smaller fixed pane: behind the rear door on many sedans and SUVs, in the rear pillar on wagons and vans, or the small vent window at the front or back of a door. Some are bonded in place; some are held by clips, screws or a rubber gasket; some vent panes hinge open.</p>
-<p><strong>What Brandon does:</strong> removes the broken pane and any trim, cleans the opening, and fits the new glass the way the vehicle was built, bonded with urethane, clipped, or gasketed, so it seals against water and wind noise.</p>
-<p><strong>Good to know:</strong> quarter glass is the pane most often broken in a break-in. If that is what happened, photograph the damage before anything is touched if you need it for a report, and tell Brandon whether there is glass inside the cargo area so he can plan cleanup.</p>
+<p><strong>What we do:</strong> remove the broken pane and any trim, clean the opening, and fit the new glass the way the vehicle was built, bonded with urethane, clipped, or gasketed, so it seals against water and wind noise.</p>
+<p><strong>Good to know:</strong> quarter glass is the pane most often broken in a break-in. If that is what happened, photograph the damage before anything is touched if you need it for a report, and tell us whether there is glass inside the cargo area so cleanup can be planned.</p>
 </section>
 
 <section class="anchor-section" id="back-glass" aria-labelledby="back-h">
 <h2 id="back-h">${icon('back')} Back glass replacement</h2>
 <p>Back glass is the rear windshield. On most vehicles it is tempered and bonded in with urethane, and it usually carries the rear defroster grid; on some vehicles it also carries an antenna or a brake-light mount.</p>
-<p><strong>What Brandon does:</strong> cleans the broken glass out of the trunk or cargo area and the rear deck, removes the old urethane and prepares the opening, bonds in the new glass, reconnects the defroster and any antenna connections the replacement glass carries, and checks the seal.</p>
-<p><strong>Good to know:</strong> a bonded back glass needs adhesive cure time before the vehicle is driven, the same as a windshield. Ask Brandon for the safe drive-away time for your vehicle. If the vehicle has a hatch or liftgate, a quick photo of the glass area helps identify the right part.</p>
+<p><strong>What we do:</strong> clean the broken glass out of the trunk or cargo area and the rear deck, remove the old urethane and prepare the opening, bond in the new glass, reconnect the defroster and any antenna connections the replacement glass carries, and check the seal.</p>
+<p><strong>Good to know:</strong> a bonded back glass needs adhesive cure time before the vehicle is driven, the same as a windshield. Ask for the safe drive-away time for your vehicle before the technician leaves. If the vehicle has a hatch or liftgate, a quick photo of the glass area helps identify the right part.</p>
 </section>
 
 <h2 id="guarantee">What the guarantee covers</h2>

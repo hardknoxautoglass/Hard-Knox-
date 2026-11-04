@@ -35,6 +35,7 @@ const forbidden = [
   [/\b(5:00 PM|5 PM|7:00 AM|8:00 AM|Sunday[^.]*open)\b/, 'wrong hours'],
   [/\b(walk-ins welcome|visit our shop|our location at|stop by)\b/i, 'storefront wording'],
   [/\bpower window|sunroof|mirror repair|leak repair|fleet\b/i, 'service not in scope'],
+  [/\b(Brandon|Layne)\b/, "owner's personal name (not published, owner instruction 2026-11-04)"],
 ];
 const required = [
   [cfg.business.phoneDisplay, 'phone number'],

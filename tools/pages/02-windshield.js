@@ -11,25 +11,25 @@ const body = `
 <section class="page-intro"><div class="wrap">
 <p class="eyebrow">Windshield replacement</p>
 <h1>Mobile Windshield Replacement in Hamilton County, TN</h1>
-<p class="lede">Hard Knox Auto Glass replaces windshields at your home, workplace or another suitable location anywhere in ${esc(b.county)}, ${esc(b.state)}, including Chattanooga. Brandon Layne, the owner, does the work himself. ${esc(cfg.strings.quoteLine)}</p>
+<p class="lede">Hard Knox Auto Glass replaces windshields at your home, workplace or another suitable location anywhere in ${esc(b.county)}, ${esc(b.state)}, including Chattanooga. The owner does the work personally. ${esc(cfg.strings.quoteLine)}</p>
 </div></section>
 
 <section class="section"><div class="wrap page-grid">
 <div class="prose">
 <h2 id="when">When a windshield needs replacing rather than repairing</h2>
-<p>Replacement is usually the answer when the damage is a long crack, when a chip sits in the driver's main line of sight, when the damage reaches the edge of the glass, when there are several chips, or when an in-person look shows a chip is too deep or has already started to spread. Smaller, fresher chips can often be <a href="/rock-chip-repair/">repaired instead</a>, which keeps the factory glass and its original seal. Brandon makes the call in person; a photo sent with your text helps him give you a realistic first answer.</p>
+<p>Replacement is usually the answer when the damage is a long crack, when a chip sits in the driver's main line of sight, when the damage reaches the edge of the glass, when there are several chips, or when an in-person look shows a chip is too deep or has already started to spread. Smaller, fresher chips can often be <a href="/rock-chip-repair/">repaired instead</a>, which keeps the factory glass and its original seal. The call is made in person; a photo sent with your text helps us give you a realistic first answer.</p>
 
 <h2 id="what-happens">What happens at a mobile replacement</h2>
 <ol>
 <li><strong>Protecting the vehicle.</strong> Wipers, cowl trim and mouldings come off; the dash, hood and paint are covered.</li>
-<li><strong>Cutting out the old glass.</strong> The old windshield is cut free of its urethane bed and lifted out, and the pinchweld (the metal lip the glass sits on) is cleaned and prepared. If rust, corrosion or frame damage is found under the old glass, Brandon will show you before going further, because those conditions affect how well new glass can seal (see the <a href="/warranty/#not-covered">guarantee exclusions</a>).</li>
+<li><strong>Cutting out the old glass.</strong> The old windshield is cut free of its urethane bed and lifted out, and the pinchweld (the metal lip the glass sits on) is cleaned and prepared. If rust, corrosion or frame damage is found under the old glass, we will show you before going further, because those conditions affect how well new glass can seal (see the <a href="/warranty/#not-covered">guarantee exclusions</a>).</li>
 <li><strong>Setting the new glass.</strong> Primer and fresh automotive urethane adhesive are applied and the new windshield is set and aligned. Mouldings, clips, the mirror, rain sensor and camera bracket are refitted as the vehicle requires.</li>
 <li><strong>Cure time and drive-away.</strong> The adhesive needs time to reach the strength required to hold the windshield in a crash. See the safety note below.</li>
 <li><strong>Calibration, if your vehicle needs it.</strong> Vehicles with a camera behind the windshield may require ADAS calibration after the glass is replaced. See the next section.</li>
 </ol>
 
 <h2 id="glass">Glass options</h2>
-<p><strong>Aftermarket glass is available</strong> and is what most replacements use. <strong>OEM glass</strong> (glass made for the vehicle manufacturer and carrying its branding) <strong>may be available on request</strong>; tell Brandon when you ask for a quote and he will confirm availability and price for your vehicle. Either way the installation is the same, and both are covered by the same <a href="/warranty/">limited guarantee</a> against defects in the glass Hard Knox supplies and in the installation workmanship.</p>
+<p><strong>Aftermarket glass is available</strong> and is what most replacements use. <strong>OEM glass</strong> (glass made for the vehicle manufacturer and carrying its branding) <strong>may be available on request</strong>; say so when you ask for a quote and we will confirm availability and price for your vehicle. Either way the installation is the same, and both are covered by the same <a href="/warranty/">limited guarantee</a> against defects in the glass Hard Knox supplies and in the installation workmanship.</p>
 
 <h2 id="adas">Will my windshield need ADAS calibration?</h2>
 <p>If your vehicle has a camera mounted behind the windshield near the mirror, used for features such as lane-keeping assistance, forward-collision warning or automatic emergency braking, the manufacturer may call for that camera to be calibrated after the windshield is replaced, because the new glass changes what the camera sees. Not every windshield needs it, and the decision depends on your specific vehicle and its manufacturer's instructions, not on a general rule.</p>
@@ -37,7 +37,7 @@ const body = `
 
 <div class="callout callout--safety">
 <h2 id="safe-drive-away">Safe drive-away time</h2>
-<p>Windshield adhesive needs time to reach the strength required to hold the windshield in place in a crash, and driving too soon can compromise windshield retention. The safe drive-away time depends on the adhesive used, the installation conditions and your vehicle's requirements, so there is no single number that applies to every job. Ask Brandon for the safe drive-away time for your vehicle before he leaves, and do not drive the vehicle before it. Always wear your seatbelt.</p>
+<p>Windshield adhesive needs time to reach the strength required to hold the windshield in place in a crash, and driving too soon can compromise windshield retention. The safe drive-away time depends on the adhesive used, the installation conditions and your vehicle's requirements, so there is no single number that applies to every job. Ask for the safe drive-away time for your vehicle before the technician leaves, and do not drive the vehicle before it. Always wear your seatbelt.</p>
 </div>
 
 <h2 id="site">Where the work can be done</h2>

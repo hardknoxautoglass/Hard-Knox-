@@ -20,7 +20,7 @@ os.makedirs(OUT_DIR, exist_ok=True)
 # Basic Latin, Latin-1 Supplement, general punctuation used in the copy.
 UNICODES = "U+0020-007E,U+00A0-00FF,U+2013-2014,U+2018-201A,U+201C-201E,U+2022,U+2026,U+2122,U+00D7"
 
-for weight in (700, 800):
+for weight in (600, 700, 800):
     vf = TTFont(SRC)
     static = instancer.instantiateVariableFont(vf, {"wght": weight}, inplace=False)
     tmp = os.path.join(OUT_DIR, f"montserrat-{weight}.static.ttf")

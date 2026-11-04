@@ -17,7 +17,7 @@ const body = `
 <section class="section"><div class="wrap page-grid">
 <div class="prose">
 <h2 id="can-it-be-repaired">Can my chip be repaired?</h2>
-<p>Often, but not always, and not from a text message alone. Whether a chip can be repaired depends on its size, its type (a bullseye, a star break, a combination, a short crack), how deep it goes, where it sits on the windshield, and how long dirt and moisture have had to get into it. Chips in the driver's main line of sight, damage at the edge of the glass, and cracks that have already run are usually replacement jobs. Brandon makes the decision when he sees the glass. A photo sent with your text helps him give you a realistic first answer and tell you what to expect.</p>
+<p>Often, but not always, and not from a text message alone. Whether a chip can be repaired depends on its size, its type (a bullseye, a star break, a combination, a short crack), how deep it goes, where it sits on the windshield, and how long dirt and moisture have had to get into it. Chips in the driver's main line of sight, damage at the edge of the glass, and cracks that have already run are usually replacement jobs. The decision is made in person, at the glass. A photo sent with your text helps us give you a realistic first answer and tell you what to expect.</p>
 <p>Sooner is better. A fresh chip is cleaner and takes resin better; one that has been driven on through rain and car washes is harder to repair well. Until it is looked at, avoid slamming doors and sudden temperature changes such as blasting the defroster on a cold morning, which can make a chip run.</p>
 
 <h2 id="what-repair-does">What a repair does, and what it does not</h2>
@@ -33,7 +33,7 @@ const body = `
 </ul>
 
 <h2 id="visit">What a mobile chip repair visit looks like</h2>
-<p>Brandon comes to your home, workplace or another suitable location. The glass needs to be dry and reasonably shaded from direct sun while the resin is worked and cured, so a carport, garage or shaded spot helps; in bright sun he can shade the area. A chip repair takes less time than a replacement and the vehicle can usually be driven as soon as the resin is cured and the surface polished. Card or cash is due when the work is complete.</p>
+<p>We come to your home, workplace or another suitable location. The glass needs to be dry and reasonably shaded from direct sun while the resin is worked and cured, so a carport, garage or shaded spot helps; in bright sun the technician can shade the area. A chip repair takes less time than a replacement and the vehicle can usually be driven as soon as the resin is cured and the surface polished. Card or cash is due when the work is complete.</p>
 
 <h2 id="related">Related pages</h2>
 <ul>

@@ -1,6 +1,6 @@
 'use strict';
 const cfg = require('../site-config');
-const { esc, icon, telLink, smsLink, ctaGroup, securityNotice, PHONE_NB } = require('../layout');
+const { esc, icon, telLink, smsLink, ctaGroup, securityNotice, ribbonArt, PHONE_NB } = require('../layout');
 const S = require('./_shared');
 
 const b = cfg.business;
@@ -9,17 +9,17 @@ const serviceCards = cfg.services.map((s) => `<li><article class="card">
   ${icon(s.icon)}
   <h3><a href="${s.url}">${esc(s.name)}</a></h3>
   <p>${esc(s.blurb)}</p>
-  <a class="card-link" href="${s.url}">About ${esc(s.name.toLowerCase())}</a>
+  <a class="card-link" href="${s.url}">About ${esc(s.name.toLowerCase().replace("adas", "ADAS").replace("oem", "OEM"))}</a>
 </article></li>`).join('\n');
 
 const faqs = [
   ['faq-services', 'What services does Hard Knox Auto Glass offer?',
     `<p>Six things: windshield replacement, windshield rock chip repair, door glass replacement, quarter glass replacement, back glass replacement, and ADAS calibration for vehicles that need it after a windshield is replaced. All glass work is done at your location. <a href="/services/">Compare the services</a>.</p>`],
   ['faq-shop', 'Is this a shop I can drive to? How do I get a quote?',
-    `<p>No. Hard Knox Auto Glass is mobile only. There is no shop, storefront, waiting room or walk-in address; Brandon comes to your home, workplace or another suitable location in Hamilton County, Tennessee.</p>
+    `<p>No. Hard Knox Auto Glass is mobile only. There is no shop, storefront, waiting room or walk-in address; we come to your home, workplace or another suitable location in Hamilton County, Tennessee.</p>
 <p>To get a free, no-obligation quote, call or text ${telLink('', PHONE_NB)} with your vehicle's year, make and model, which glass is damaged and the general area where the vehicle will be. ${esc(cfg.strings.securityNotice)}</p>`],
   ['faq-where', 'Where can the work be done?',
-    `<p>Most glass work needs a reasonably level, safe spot with room to open the doors and the hood, out of heavy rain or strong wind: a driveway, a workplace parking space you are allowed to use, or a similar location. Brandon confirms that the spot will work when he quotes the job. Weather or unsuitable site conditions can require rescheduling. ADAS calibration has its own site and vehicle requirements, explained on the <a href="/adas-recalibration/">ADAS calibration page</a>.</p>`],
+    `<p>Most glass work needs a reasonably level, safe spot with room to open the doors and the hood, out of heavy rain or strong wind: a driveway, a workplace parking space you are allowed to use, or a similar location. We confirm that the spot will work when we quote the job. Weather or unsuitable site conditions can require rescheduling. ADAS calibration has its own site and vehicle requirements, explained on the <a href="/adas-recalibration/">ADAS calibration page</a>.</p>`],
   ['faq-info', 'What should I send for a quote?',
     `<p>Year, make and model; which glass is damaged; what you see (a photo of a chip or crack helps but is not a diagnosis); whether there is a camera or sensor housing behind the mirror; the general area where the vehicle will be; and days that suit you. Please leave out your full VIN, plate, exact home address, insurance documents and payment details. <a href="/services/#quote">What to have ready</a>.</p>`],
   ['faq-pay', 'How do I pay, and is there a cancellation fee?',
@@ -27,13 +27,13 @@ const faqs = [
   ['faq-hours', 'What are your hours?',
     `<p>${esc(b.hoursDisplay)}. Those are the hours for calls and texts; a particular appointment is subject to availability.</p>`],
   ['faq-travel', 'I\'m just outside Hamilton County. Is travel included?',
-    `<p>Call or text first to confirm that Brandon can come to you. Within Hamilton County, mobile service is part of the quoted price. Outside the county, ${esc(cfg.strings.travelLine).toLowerCase()} A free quote means the quote itself costs nothing; it does not set the final cost until the vehicle, the work, the location and any travel charge have been confirmed. <a href="/service-area-contact/">Service area details</a>.</p>`],
+    `<p>Call or text first to confirm that we can come to you. Within Hamilton County, mobile service is part of the quoted price. Outside the county, ${esc(cfg.strings.travelLine).toLowerCase()} A free quote means the quote itself costs nothing; it does not set the final cost until the vehicle, the work, the location and any travel charge have been confirmed. <a href="/service-area-contact/">Service area details</a>.</p>`],
   ['faq-rock', 'Is a new rock strike covered by the guarantee for as long as I own the car?',
     `<p>No. The limited guarantee covers defects in Hard Knox's installation workmanship and in glass Hard Knox supplies and installs, for as long as the original customer owns the vehicle. New damage from road debris, rocks, accidents, vandalism, misuse or other outside events is not a defect and is not covered. <a href="/warranty/#not-covered">What the guarantee does not cover</a>.</p>`],
   ['faq-chip-spread', 'My repaired chip spread. Do I get a cash refund?',
     `<p>No cash refund; you get a credit. If a chip Hard Knox repaired spreads, fails an applicable state inspection, or you are simply not satisfied with the repair, the amount you paid for that repair is applied toward a full windshield replacement by Hard Knox. The benefit belongs to the original customer. A cash refund is a different remedy that applies only when a covered <em>replacement</em> problem cannot be corrected. <a href="/warranty/#chip-repair-credit">Chip repair credit terms</a>.</p>`],
   ['faq-adas-driveway', 'Can you come to my driveway for ADAS calibration?',
-    `<p>Sometimes. Hard Knox Auto Glass offers ADAS calibration, but whether it can be done in a driveway depends on your vehicle, the procedure its manufacturer requires (static, dynamic or both) and the site. Some procedures need a level, well-lit space with room for targets; some are completed by driving the vehicle on suitable roads; some need a different location. Call or text with your year, make, model and general location, and Brandon will confirm the arrangements for your vehicle before anything is scheduled. <a href="/adas-recalibration/">ADAS calibration explained</a>.</p>`],
+    `<p>Sometimes. Hard Knox Auto Glass offers ADAS calibration, but whether it can be done in a driveway depends on your vehicle, the procedure its manufacturer requires (static, dynamic or both) and the site. Some procedures need a level, well-lit space with room for targets; some are completed by driving the vehicle on suitable roads; some need a different location. Call or text with your year, make, model and general location, and we will confirm the arrangements for your vehicle before anything is scheduled. <a href="/adas-recalibration/">ADAS calibration explained</a>.</p>`],
   ['faq-30-days', 'Can I call after 30 days about a defect?',
     `<p>Yes. Hard Knox asks you to call as soon as you notice a problem, preferably within 30 days of noticing it, with your invoice or other proof of service handy, because early reporting makes the cause easier to find and fix. Reporting later does not by itself cancel coverage. Covered defects are covered for as long as the original customer owns the vehicle. If you cannot make a voice call, text or email instead. <a href="/warranty/#how-to-report">How to report a problem</a>.</p>`],
   ['faq-insurance', 'Do you work with my insurance company?',
@@ -50,7 +50,7 @@ const body = `
     <div>
       <p class="ribbon">${icon('star')}Veteran Owned &amp; Operated${icon('star')}</p>
       <h1>Mobile Auto Glass Repair, Replacement &amp; ADAS Calibration</h1>
-      <p class="lede">Hard Knox Auto Glass comes to you across ${esc(b.county)}, ${esc(b.state)}, including Chattanooga. Brandon Layne replaces windshields, repairs rock chips and replaces door, quarter and back glass where your vehicle is parked, and offers ADAS calibration for vehicles that need it.</p>
+      <p class="lede">Hard Knox Auto Glass comes to you across ${esc(b.county)}, ${esc(b.state)}, including Chattanooga. One veteran owner-technician replaces windshields, repairs rock chips and replaces door, quarter and back glass where your vehicle is parked, and offers ADAS calibration for vehicles that need it.</p>
       <p><strong>We come to you.</strong> Mobile glass work can be done at:</p>
       <ul class="hero-where">
         <li>${icon('house')}<span><strong>Your home</strong> — a level driveway or parking spot with room to work</span></li>
@@ -63,14 +63,16 @@ const body = `
     </div>
     ${S.heroArt()}
   </div>
+  ${ribbonArt('hero')}
 </section>
 
-<section class="section section--night" aria-labelledby="cred-h">
+<section class="section section--deep cred-strip" aria-labelledby="cred-h">
   <div class="wrap">
+    <p class="eyebrow eyebrow--center">Your location. Our expertise.</p>
     <h2 id="cred-h" class="visually-hidden">Who you are dealing with</h2>
     <ul class="cred-list">
-      <li>${icon('star')}<div><strong>Veteran Owned &amp; Operated</strong><span>Owner Brandon Layne served six years as an Army National Guard mechanic.</span></div></li>
-      <li>${icon('wrench')}<div><strong>10+ years in auto glass</strong><span>Brandon has more than 10 years in auto glass and more than 15 years in the automotive industry.</span></div></li>
+      <li>${icon('star')}<div><strong>Veteran Owned &amp; Operated</strong><span>The owner served six years as an Army National Guard mechanic.</span></div></li>
+      <li>${icon('wrench')}<div><strong>10+ years in auto glass</strong><span>The owner has more than 10 years in auto glass and more than 15 years in the automotive industry.</span></div></li>
       <li>${icon('van')}<div><strong>Mobile service only</strong><span>No shop to drive to. The work is done where your vehicle is parked.</span></div></li>
     </ul>
   </div>
@@ -93,8 +95,8 @@ ${serviceCards}
     <h2 id="how-h" class="section-title">Three steps from damaged glass to done</h2>
     <ol class="steps">
       <li><div><h3>Call or text for a free quote</h3><p>Tell us the year, make and model, which glass is damaged, and the general area where the vehicle will be. A photo of a chip helps, though it is not a diagnosis. Quotes are free with no obligation.</p></div></li>
-      <li><div><h3>We confirm the details</h3><p>Brandon confirms the vehicle, the scope of work, the location, the price and availability before anything is scheduled. Outside Hamilton County, ${esc(cfg.strings.travelLine).toLowerCase()}</p></div></li>
-      <li><div><h3>The work is done at a suitable site</h3><p>Brandon comes to your home, workplace or another approved location. Card or cash is due when the work is complete. For ADAS calibration, the arrangements confirmed in step 2 apply: some vehicles and procedures need a different site.</p></div></li>
+      <li><div><h3>We confirm the details</h3><p>We confirm the vehicle, the scope of work, the location, the price and availability before anything is scheduled. Outside Hamilton County, ${esc(cfg.strings.travelLine).toLowerCase()}</p></div></li>
+      <li><div><h3>The work is done at a suitable site</h3><p>We come to your home, workplace or another approved location. Card or cash is due when the work is complete. For ADAS calibration, the arrangements confirmed in step 2 apply: some vehicles and procedures need a different site.</p></div></li>
     </ol>
   </div>
 </section>
@@ -104,9 +106,9 @@ ${serviceCards}
     <p class="eyebrow">Why Hard Knox</p>
     <h2 id="why-h" class="section-title">One local technician, start to finish</h2>
     <ul class="features">
-      <li>${icon('road')}<div><h3>Local roots</h3><p>Brandon was born and raised in Hamilton County and works here, not out of a call center.</p></div></li>
+      <li>${icon('road')}<div><h3>Local roots</h3><p>The owner was born and raised in Hamilton County and works here, not out of a call center.</p></div></li>
       <li>${icon('wrench')}<div><h3>Experience you can ask about</h3><p>More than 10 years in auto glass and more than 15 years in the automotive industry, including six years as an Army National Guard mechanic.</p></div></li>
-      <li>${icon('phone')}<div><h3>Direct contact</h3><p>Call or text and you reach Brandon, the person who does the work, not a dispatcher. Quotes are free with no obligation.</p></div></li>
+      <li>${icon('phone')}<div><h3>Direct contact</h3><p>Call or text and you reach the owner, the person who does the work, not a dispatcher. Quotes are free with no obligation.</p></div></li>
       <li>${icon('shield')}<div><h3>A written limited guarantee</h3><p>Installation workmanship and glass we supply are guaranteed against defects for as long as you own the vehicle, with the terms published in full. <a href="/warranty/">Read the guarantee</a>.</p></div></li>
     </ul>
   </div>
@@ -139,9 +141,9 @@ ${serviceCards}
     </div>
     <div>
       <p class="eyebrow">About</p>
-      <h2 class="section-title">Meet Brandon Layne</h2>
-      <p>Brandon was born and raised in Hamilton County. He has spent more than 15 years in the automotive industry, including six years as an Army National Guard mechanic, and more than 10 years working on auto glass. Hard Knox Auto Glass is his veteran-owned mobile service.</p>
-      <p><a class="link-strong" href="/about/">Brandon's story</a></p>
+      <h2 class="section-title">Who does the work</h2>
+      <p>The owner was born and raised in Hamilton County, has spent more than 15 years in the automotive industry, including six years as an Army National Guard mechanic, and has worked on auto glass for more than 10 of those years. Hard Knox Auto Glass is that owner's veteran-owned mobile service.</p>
+      <p><a class="link-strong" href="/about/">About Hard Knox Auto Glass</a></p>
     </div>
   </div>
 </section>
@@ -173,6 +175,7 @@ ${faqHtml}
       <dt>Email</dt><dd><span class="email">${esc(b.email)}</span> (calls and texts get the quickest reply)</dd>
     </dl>
   </div>
+  ${ribbonArt('contact')}
 </section>
 `;
 

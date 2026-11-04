@@ -33,7 +33,7 @@ ${securityNotice()}
 <p>Email is the slower route; calls and texts get the quickest reply. If you prefer email, write to <a href="mailto:${esc(b.email)}">${esc(b.email)}</a> (<span class="email">${esc(b.email)}</span>). Please keep insurance documents, card details and other sensitive information out of email, too.</p>
 
 <h2 id="hours">Hours</h2>
-<p><strong>${esc(b.hoursDisplay)}.</strong> Closed Sunday. These are the hours for calls, texts and email replies; a particular appointment is subject to availability, and Brandon will offer times when he confirms your quote.</p>
+<p><strong>${esc(b.hoursDisplay)}.</strong> Closed Sunday. These are the hours for calls, texts and email replies; a particular appointment is subject to availability, and times are offered when your quote is confirmed.</p>
 
 <h2 id="what-to-send">What to send for a quote</h2>
 ${S.quoteChecklist()}
@@ -50,13 +50,13 @@ ${S.quoteChecklist()}
 <p>If you are in a community directly adjacent to Hamilton County, call or text to confirm availability for your location. ${esc(cfg.strings.travelLine)} Within Hamilton County, mobile service is part of the quoted price. A free quote means the quote costs nothing; the final price is confirmed once the vehicle, the work, the location and any travel charge are known, and before any work is scheduled.</p>
 
 <h2 id="where">Where the work happens</h2>
-<p>Brandon comes to your home, your workplace or another approved location: a reasonably level spot with room to open the doors and hood, sheltered from heavy rain and strong wind, where the vehicle can stay parked while the work is done. He confirms the exact address by phone when the job is scheduled, so there is no need to put it in a first text. Weather or unsuitable site conditions can require rescheduling; there is no cancellation fee. <a href="/services/#site">More on suitable locations</a>. ADAS calibration has its own requirements, explained on the <a href="/adas-recalibration/#site">ADAS calibration page</a>.</p>
+<p>We come to your home, your workplace or another approved location: a reasonably level spot with room to open the doors and hood, sheltered from heavy rain and strong wind, where the vehicle can stay parked while the work is done. We confirm the exact address by phone when the job is scheduled, so there is no need to put it in a first text. Weather or unsuitable site conditions can require rescheduling; there is no cancellation fee. <a href="/services/#site">More on suitable locations</a>. ADAS calibration has its own requirements, explained on the <a href="/adas-recalibration/#site">ADAS calibration page</a>.</p>
 
 <h2 id="accessibility">Need another way to reach us?</h2>
 <p>If a phone call is difficult for you, text or email works just as well for quotes, scheduling and warranty questions. See the <a href="/accessibility/">accessibility page</a> for more about the help available and how to report a problem with this site.</p>
 
 <h2 id="privacy">What happens with your details</h2>
-<p>Calls, texts and emails go to Brandon and are used to answer you and arrange the work. The <a href="/privacy/">privacy notice</a> explains what is kept, who provides the phone and email services, and how to ask a question about your information.</p>
+<p>Calls, texts and emails go directly to the owner and are used to answer you and arrange the work. The <a href="/privacy/">privacy notice</a> explains what is kept, who provides the phone and email services, and how to ask a question about your information.</p>
 </div>
 
 <aside class="aside" aria-labelledby="aside-h">

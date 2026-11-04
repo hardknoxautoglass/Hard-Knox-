@@ -22,7 +22,7 @@ const body = `
 <li><strong>By phone:</strong> call ${esc(b.phoneDisplay)}, ${esc(b.hoursDisplay)}.</li>
 <li><strong>By text:</strong> text the same number. Texting works for quotes, scheduling and warranty questions, and is a full alternative if a voice call is difficult for you.</li>
 <li><strong>By email:</strong> <span class="email">${esc(b.email)}</span>. Email is slower than a call or text but is answered.</li>
-<li><strong>In person:</strong> Brandon can read you the guarantee or any page of this site, and can bring a paper copy of the guarantee to the appointment. Ask when you book.</li>
+<li><strong>In person:</strong> the technician can read you the guarantee or any page of this site, and can bring a paper copy of the guarantee to the appointment. Ask when you book.</li>
 </ul>
 <p>The <a href="/service-area-contact/">contact page</a> has all of these options with working links.</p>
 
@@ -58,7 +58,7 @@ const body = `
 <li>Call or text ${esc(b.phoneDisplay)} (${esc(b.hoursShort)}).</li>
 <li>Email <span class="email">${esc(b.email)}</span>.</li>
 </ul>
-<p>Messages go to Brandon, the owner, and are read during business hours. You will get a reply, and real problems get fixed.</p>
+<p>Messages go directly to the owner and are read during business hours. You will get a reply, and real problems get fixed.</p>
 </div>
 </div></section>
 `;

@@ -9,7 +9,7 @@ module.exports = {
 
   business: {
     name: 'Hard Knox Auto Glass',
-    owner: 'Brandon Layne',
+    // Owner's name is intentionally not published anywhere on the site (owner instruction 2026-11-04).
     phoneDisplay: '(865) 299-3533',
     phoneE164: '+18652993533',
     email: 'HardKnoxAutoGlass@gmail.com',

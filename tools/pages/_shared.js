@@ -24,7 +24,6 @@ function businessNode(extra = {}) {
     telephone: b.phoneE164,
     email: b.email,
     description: `Veteran-owned mobile auto glass service for ${b.county}, ${b.state}, including Chattanooga: windshield replacement, windshield chip repair, door, quarter and back glass replacement, and ADAS calibration. Mobile only; no shop or walk-in location.`,
-    founder: { '@type': 'Person', name: b.owner },
     areaServed: areaServed(),
     openingHoursSpecification: [{
       '@type': 'OpeningHoursSpecification',
@@ -73,14 +72,14 @@ function heroArt() {
 <linearGradient id="hk-gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a8841a"/><stop offset="0.45" stop-color="#e8d27a"/><stop offset="1" stop-color="#c9a227"/></linearGradient>
 <clipPath id="hk-hood"><path d="M24 320 C 24 250 120 216 240 216 C 360 216 456 250 456 320 Z"/></clipPath>
 </defs>
-<path d="M24 320 C 24 250 120 216 240 216 C 360 216 456 250 456 320 Z" fill="#14523b"/>
+<path d="M24 320 C 24 250 120 216 240 216 C 360 216 456 250 456 320 Z" fill="#1b6a4c" stroke="#e8d27a" stroke-width="2"/>
 <g clip-path="url(#hk-hood)">
 <path d="M0 270 C 140 244 320 240 480 214 L 480 234 C 320 260 140 264 0 290 Z" fill="url(#hk-gold)"/>
 <path d="M0 298 C 140 274 320 270 480 244 L 480 250 C 320 276 140 280 0 304 Z" fill="#e8d27a"/>
 </g>
-<path d="M110 52 Q 240 32 370 52 L 390 66 L 90 66 Z" fill="#0b3526"/>
-<path d="M90 66 L 60 214 Q 240 192 420 214 L 390 66 Z" fill="#0b3526"/>
-<path d="M104 78 L 82 200 Q 240 184 398 200 L 376 78 Z" fill="url(#hk-glass)" stroke="#14523b" stroke-width="3" stroke-linejoin="round"/>
+<path d="M110 52 Q 240 32 370 52 L 390 66 L 90 66 Z" fill="#072a1e" stroke="#c9a227" stroke-width="2" stroke-linejoin="round"/>
+<path d="M90 66 L 60 214 Q 240 192 420 214 L 390 66 Z" fill="#072a1e" stroke="#c9a227" stroke-width="2" stroke-linejoin="round"/>
+<path d="M104 78 L 82 200 Q 240 184 398 200 L 376 78 Z" fill="url(#hk-glass)" stroke="#e8d27a" stroke-width="2.5" stroke-linejoin="round"/>
 <path d="M150 92 L 128 186" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
 <path d="M172 92 L 158 150" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
 <rect x="212" y="86" width="56" height="26" rx="6" fill="#0b3526"/>
@@ -103,7 +102,7 @@ function quoteChecklist() {
 <li>${icon('check')}<span>The general area where the vehicle will be, such as the town or neighborhood, and whether it is a driveway, a workplace lot or another spot</span></li>
 <li>${icon('check')}<span>Days and times that suit you</span></li>
 </ul>
-<p>Please do not send a full VIN, a license plate, your exact home address, insurance documents or any payment details in a first text. Brandon confirms the exact address by phone when the work is scheduled.</p>`;
+<p>Please do not send a full VIN, a license plate, your exact home address, insurance documents or any payment details in a first text. We confirm the exact address by phone when the work is scheduled.</p>`;
 }
 
 function quoteAside({ heading = 'Get a free quote', extra = '' } = {}) {
@@ -120,7 +119,7 @@ ${extra}
 }
 
 function adasQualifier() {
-  return `<p><strong>ADAS calibration:</strong> whether calibration can be done at your location depends on your vehicle, the procedure it requires and the site. Brandon confirms the arrangements for your vehicle before anything is scheduled. <a href="/adas-recalibration/">How ADAS calibration works</a>.</p>`;
+  return `<p><strong>ADAS calibration:</strong> whether calibration can be done at your location depends on your vehicle, the procedure it requires and the site. We confirm the arrangements for your vehicle before anything is scheduled. <a href="/adas-recalibration/">How ADAS calibration works</a>.</p>`;
 }
 
 module.exports = { businessNode, serviceNode, breadcrumbList, trailHome, trailServices, heroArt, quoteChecklist, quoteAside, adasQualifier, BUSINESS_ID };

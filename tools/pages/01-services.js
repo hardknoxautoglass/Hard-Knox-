@@ -12,7 +12,7 @@ const compare = `<ul class="compare">
 <p><strong>Keep in mind:</strong> some vehicles need <a href="/adas-recalibration/">ADAS calibration</a> after the windshield is replaced.</p></div></li>
 
 <li>${icon('chip')}<div><h3><a href="/rock-chip-repair/">Windshield rock chip repair</a></h3>
-<p><strong>Choose this when:</strong> a stone has left a small chip or short crack and you want to stop it from spreading. Whether a chip can be repaired depends on its size, type, depth, location and how long it has been exposed; Brandon assesses it in person.</p>
+<p><strong>Choose this when:</strong> a stone has left a small chip or short crack and you want to stop it from spreading. Whether a chip can be repaired depends on its size, type, depth, location and how long it has been exposed; it is assessed in person.</p>
 <p><strong>What you get:</strong> the chip cleaned, filled with resin and cured. A repair stabilizes the glass and usually improves its appearance, but it does not restore the windshield to original condition and cannot guarantee the chip will not spread.</p>
 <p><strong>Keep in mind:</strong> if a repaired chip spreads, the amount you paid for the repair is credited toward a full windshield replacement. <a href="/warranty/#chip-repair-credit">Chip repair credit</a>.</p></div></li>
 
@@ -47,12 +47,12 @@ const body = `
 ${compare}
 
 <h2 id="repair-or-replace">Not sure whether a windshield can be repaired?</h2>
-<p>Send a photo of the damage with your text, say roughly where it is on the windshield and when it happened, and Brandon will tell you whether it looks like a repair or a replacement. The photo is a starting point, not a diagnosis: the final call is made in person, because the depth of a chip and whether it has started to spread are hard to see in a picture.</p>
+<p>Send a photo of the damage with your text, say roughly where it is on the windshield and when it happened, and we will tell you whether it looks like a repair or a replacement. The photo is a starting point, not a diagnosis: the final call is made in person, because the depth of a chip and whether it has started to spread are hard to see in a picture.</p>
 
 <h2 id="quote">What to have ready for a quote</h2>
 <p>A quote is free and carries no obligation. The more of this you can send, the quicker the quote:</p>
 ${S.quoteChecklist()}
-<p>Brandon confirms the vehicle, the scope of work, the location, the price and availability before anything is scheduled. Card or cash is due when the work is complete. Outside Hamilton County, ${esc(cfg.strings.travelLine).toLowerCase()}</p>
+<p>We confirm the vehicle, the scope of work, the location, the price and availability before anything is scheduled. Card or cash is due when the work is complete. Outside Hamilton County, ${esc(cfg.strings.travelLine).toLowerCase()}</p>
 
 <h2 id="site">What makes a location suitable?</h2>
 <ul>

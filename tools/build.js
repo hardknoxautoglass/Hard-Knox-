@@ -29,7 +29,7 @@ const assets = {};
 
 // Fonts (optional: if the subset step was not run, fall back to the system stack).
 let css = fs.readFileSync(path.join(SRC, 'site.css'), 'utf8');
-const fontFiles = ['montserrat-800.woff2', 'montserrat-700.woff2'];
+const fontFiles = ['montserrat-800.woff2', 'montserrat-700.woff2', 'montserrat-600.woff2'];
 const haveFonts = fontFiles.every((f) => fs.existsSync(path.join(FONT_CACHE, f)));
 if (haveFonts) {
   for (const f of fontFiles) {

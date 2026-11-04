@@ -38,12 +38,35 @@ function ctaGroup({ withNotice = true, compact = false } = {}) {
 </div>`;
 }
 
+// Original shield mark (placeholder until the owner's logo file arrives): forest shield, gold rim, gold stripe, windshield.
+function brandMark() {
+  return `<svg class="brand-mark" viewBox="0 0 48 52" width="40" height="44" aria-hidden="true" focusable="false">
+<defs><clipPath id="hk-shield"><path d="M24 2.5 43 9.5v15.2c0 11-7.6 20.2-19 24.3C12.6 44.9 5 35.7 5 24.7V9.5l19-7Z"/></clipPath></defs>
+<path d="M24 2.5 43 9.5v15.2c0 11-7.6 20.2-19 24.3C12.6 44.9 5 35.7 5 24.7V9.5l19-7Z" fill="#14523b" stroke="#c9a227" stroke-width="2.5" stroke-linejoin="round"/>
+<g clip-path="url(#hk-shield)"><path d="M2 36 48 22v5L2 41Z" fill="#c9a227"/><path d="M2 42 48 28v2L2 44Z" fill="#e8d27a"/></g>
+<path d="M13.5 31 18.2 16.8a2 2 0 0 1 1.9-1.4h7.8a2 2 0 0 1 1.9 1.4L34.5 31Z" fill="#f6f3eb" stroke="#0b3526" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M18.5 28.5 21.5 19" stroke="#14523b" stroke-width="1.6" stroke-linecap="round"/>
+</svg>`;
+}
+
 function brand() {
   return `<a class="brand" href="/" aria-label="${esc(cfg.business.name)} — home">
-  <span class="brand-top">Hard Knox</span>
-  <span class="brand-rule" aria-hidden="true"></span>
-  <span class="brand-bottom">Auto Glass</span>
+  ${brandMark()}
+  <span class="brand-text">
+    <span class="brand-top">Hard Knox</span>
+    <span class="brand-rule" aria-hidden="true"></span>
+    <span class="brand-bottom">Auto Glass</span>
+  </span>
 </a>`;
+}
+
+// Decorative gold ribbon sweep (echoes the van wrap) for dark panels. Unique gradient id per instance.
+function ribbonArt(id) {
+  return `<svg class="ribbon-art" viewBox="0 0 1440 220" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+<defs><linearGradient id="rb-${id}" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8a6a10"/><stop offset="0.35" stop-color="#e8d27a"/><stop offset="0.62" stop-color="#c9a227"/><stop offset="1" stop-color="#8a6a10"/></linearGradient></defs>
+<path d="M0 158 C 340 118 720 58 1440 26 L 1440 60 C 720 92 340 152 0 192 Z" fill="url(#rb-${id})"/>
+<path d="M0 206 C 360 170 780 112 1440 82 L 1440 92 C 780 122 360 180 0 216 Z" fill="#e8d27a" opacity="0.55"/>
+</svg>`;
 }
 
 function header(current) {
@@ -124,7 +147,7 @@ function footer() {
     </section>
   </div>
   <div class="wrap footer-base">
-    <p>© ${esc(cfg.copyrightYear)} ${esc(b.name)}. Veteran Owned &amp; Operated. Owner: ${esc(b.owner)}.</p>
+    <p>© ${esc(cfg.copyrightYear)} ${esc(b.name)}. Veteran Owned &amp; Operated.</p>
   </div>
 </footer>`;
 }
@@ -172,4 +195,4 @@ ${footer()}
 `;
 }
 
-module.exports = { page, esc, icon, telLink, smsLink, ctaGroup, securityNotice, INLINE_BOOT, PHONE_NB };
+module.exports = { page, esc, icon, telLink, smsLink, ctaGroup, securityNotice, ribbonArt, INLINE_BOOT, PHONE_NB };

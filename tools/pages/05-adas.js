@@ -21,7 +21,7 @@ const body = `
 <p>The camera is aimed very precisely. When the windshield is replaced, the camera is unbolted and refitted and it now looks through a different piece of glass, so its aim can be slightly off. <strong>Calibration</strong> (sometimes called recalibration) is the manufacturer's procedure for re-aiming the camera so that the features behave the way they were designed to.</p>
 
 <h2 id="does-my-vehicle-need-it">Does my vehicle need calibration?</h2>
-<p>Not every windshield does. Whether calibration is required, and which procedure, is set by your vehicle's manufacturer for your specific year, make, model and equipment, not by a general rule. As a starting point: if there is a camera housing behind your mirror and your vehicle has any of the features above, calibration is likely to be part of the job. Brandon checks the manufacturer's current information for your vehicle when he quotes a windshield replacement and tells you what applies.</p>
+<p>Not every windshield does. Whether calibration is required, and which procedure, is set by your vehicle's manufacturer for your specific year, make, model and equipment, not by a general rule. As a starting point: if there is a camera housing behind your mirror and your vehicle has any of the features above, calibration is likely to be part of the job. We check the manufacturer's current information for your vehicle when quoting a windshield replacement and tell you what applies.</p>
 
 <h2 id="static-dynamic">Static, dynamic or both</h2>
 <dl class="defs">
@@ -35,22 +35,22 @@ const body = `
 
 <h2 id="driveway">Can you calibrate in my driveway?</h2>
 <p><strong>Sometimes.</strong> Whether calibration can be done at your location depends on three things: your vehicle, the procedure its manufacturer requires, and the site. A dynamic calibration is done on the road, not in the driveway at all. A static calibration needs a level, well-lit space with enough clear room in front of the vehicle for the targets, which some driveways and parking areas have and many do not. Some vehicles need conditions that only a controlled indoor space provides.</p>
-<p>That is why Hard Knox does not promise driveway calibration for every vehicle. <strong>Call or text with your vehicle year, make, model and general location</strong> and Brandon will confirm the arrangements that apply to your vehicle: where it can be done, what the site needs to provide, and what happens if a procedure cannot be completed at the planned location, before anything is scheduled.</p>
+<p>That is why Hard Knox does not promise driveway calibration for every vehicle. <strong>Call or text with your vehicle year, make, model and general location</strong> and we will confirm the arrangements that apply to your vehicle: where it can be done, what the site needs to provide, and what happens if a procedure cannot be completed at the planned location, before anything is scheduled.</p>
 
 <h2 id="site">Site and vehicle requirements</h2>
 <ul>
 <li>A level, firm surface and even lighting for a static procedure, with clear space in front of the vehicle for targets. Strong direct sun, deep shadow or a sloping driveway can prevent a static procedure from completing.</li>
 <li>Suitable roads with clear lane markings and good weather for a dynamic procedure.</li>
-<li>A windshield that is the correct type for the vehicle's camera. Some vehicles require specific glass for the camera to calibrate; Brandon confirms this when he quotes the glass.</li>
+<li>A windshield that is the correct type for the vehicle's camera. Some vehicles require specific glass for the camera to calibrate; We confirm this when quoting the glass.</li>
 <li>Correct tire pressures, a vehicle at its normal weight (no heavy cargo) and no warning lights for unrelated faults; these can stop a calibration routine from completing.</li>
 </ul>
 
 <h2 id="what-to-expect">What to expect</h2>
 <ol>
-<li>When you ask for a windshield quote, say whether there is a camera behind the mirror. Brandon checks what your vehicle's manufacturer requires.</li>
-<li>Before anything is scheduled, he confirms the calibration arrangements for your vehicle: the procedure, where it will be done, what the site needs, the price, and the calibration terms that apply.</li>
+<li>When you ask for a windshield quote, say whether there is a camera behind the mirror. We check what your vehicle's manufacturer requires.</li>
+<li>Before anything is scheduled, we confirm the calibration arrangements for your vehicle: the procedure, where it will be done, what the site needs, the price, and the calibration terms that apply.</li>
 <li>After the windshield is installed and the adhesive has reached its safe drive-away strength, the calibration procedure is carried out as confirmed.</li>
-<li>You are told the result. If a procedure cannot be completed at the planned location or on the day, Brandon tells you what the next step is and what, if anything, it costs, as part of the arrangements confirmed before the job.</li>
+<li>You are told the result. If a procedure cannot be completed at the planned location or on the day, we tell you what the next step is and what, if anything, it costs, as part of the arrangements confirmed before the job.</li>
 </ol>
 
 <h2 id="terms">Calibration terms are separate</h2>

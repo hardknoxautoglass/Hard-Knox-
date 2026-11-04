@@ -18,16 +18,16 @@ const body = `
 <section class="section"><div class="wrap">
 <div class="prose">
 <h2 id="who">1. Who runs this site</h2>
-<p>${esc(b.domainDisplay)} is the website of ${esc(b.name)}, a mobile auto glass service owned and operated by ${esc(b.owner)} in ${esc(b.county)}, ${esc(b.state)}. Contact details are on the <a href="/service-area-contact/">contact page</a>.</p>
+<p>${esc(b.domainDisplay)} is the website of ${esc(b.name)}, a veteran-owned mobile auto glass service in ${esc(b.county)}, ${esc(b.state)}. Contact details are on the <a href="/service-area-contact/">contact page</a>.</p>
 
 <h2 id="information">2. What the information on this site is for</h2>
 <p>The pages describe the services offered, how they work, where they are offered, and the guarantee and policies that apply. They are general information to help you decide what to ask for. They are not a diagnosis of your vehicle, and nothing on the site tells you whether a particular chip can be repaired, whether your vehicle needs calibration, or whether a vehicle is safe to drive; those decisions are made for your specific vehicle, in person, by the technician. We try to keep the site accurate and current; if you find something that looks wrong, please tell us.</p>
 
 <h2 id="quotes">3. Quote inquiries</h2>
-<p>Calling, texting or emailing for a quote is free and places you under no obligation. A quote inquiry is a request for information, not an order. ${esc(b.name)} confirms the vehicle, the scope of work, the service location, the price, any mobile/travel charge outside Hamilton County, and availability with you before anything is scheduled. A quote is based on what you describe; if the vehicle or the damage turns out to be different when inspected in person, Brandon will tell you before any work starts and you can decide how to proceed.</p>
+<p>Calling, texting or emailing for a quote is free and places you under no obligation. A quote inquiry is a request for information, not an order. ${esc(b.name)} confirms the vehicle, the scope of work, the service location, the price, any mobile/travel charge outside Hamilton County, and availability with you before anything is scheduled. A quote is based on what you describe; if the vehicle or the damage turns out to be different when inspected in person, you will be told before any work starts and you can decide how to proceed.</p>
 
 <h2 id="authorization">4. How work is authorized</h2>
-<p>Work begins only when you have agreed to the confirmed scope and price for your vehicle. Your agreement is given to Brandon directly, by phone, text or in person, and is recorded on the work order or invoice for the job. <strong>A quote inquiry is never authorization for additional work.</strong> If something extra is found during the job, for example a damaged window regulator behind a broken door glass, or rust under an old windshield, you are told first, any additional work is quoted separately, and it is done only if you authorize it.</p>
+<p>Work begins only when you have agreed to the confirmed scope and price for your vehicle. Your agreement is given to the owner directly, by phone, text or in person, and is recorded on the work order or invoice for the job. <strong>A quote inquiry is never authorization for additional work.</strong> If something extra is found during the job, for example a damaged window regulator behind a broken door glass, or rust under an old windshield, you are told first, any additional work is quoted separately, and it is done only if you authorize it.</p>
 
 <h2 id="payment">5. Payment</h2>
 <p>Payment is by card or cash and is due upon completion of the work. There is no cancellation fee. Details, including what happens when weather or site conditions force a reschedule, are in the <a href="/cancellation-refund-policy/">cancellation, rescheduling and refund policy</a>.</p>

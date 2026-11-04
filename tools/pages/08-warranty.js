@@ -13,7 +13,7 @@ const body = `
 <p class="eyebrow">Guarantee</p>
 <h1>Hard Knox Auto Glass Limited Warranty / Service Guarantee</h1>
 <p class="doc-meta">Version ${esc(W.version)} · Effective ${esc(W.effective)} · Applies to work authorized on or after the effective date. <span class="print-url" data-url=" Online copy: ${esc(cfg.origin)}${url}"></span></p>
-<p class="lede">This is the complete guarantee, written to be read before you order work. You do not need an account, an appointment or a phone call to read it, and you can print it or ask Brandon for a paper copy before you authorize anything.</p>
+<p class="lede">This is the complete guarantee, written to be read before you order work. You do not need an account, an appointment or a phone call to read it, and you can print it or ask for a paper copy before you authorize anything.</p>
 <p><button class="btn btn-outline btn-small print-btn" type="button">${icon('print')}Print this guarantee</button></p>
 </div></section>
 
@@ -42,7 +42,7 @@ const body = `
 <p>${esc(cfg.strings.guaranteePreview)} If something covered goes wrong, Hard Knox inspects it and repairs, reinstalls or replaces the covered work or glass at no charge to you. If a covered problem with a windshield or other glass <em>replacement</em> cannot be corrected, Hard Knox refunds what you paid for that replacement. Chip repairs work differently: if a repaired chip spreads or you are not satisfied, what you paid for the repair is credited toward a full windshield replacement. New damage from rocks, debris, accidents and the like is not a defect and is not covered. ADAS calibration has separate terms. The sections below are the terms themselves; where this summary and a section differ, the section applies.</p>
 
 <h2 id="who">2. Who gives this guarantee and who it covers</h2>
-<p><strong>Warrantor:</strong> ${esc(b.name)}, a mobile auto glass service owned and operated by ${esc(b.owner)} in ${esc(b.county)}, ${esc(b.state)}. Telephone and text: ${esc(b.phoneDisplay)}. Email: <span class="email">${esc(b.email)}</span>.</p>
+<p><strong>Warrantor:</strong> ${esc(b.name)}, a veteran-owned mobile auto glass service in ${esc(b.county)}, ${esc(b.state)}. Telephone and text: ${esc(b.phoneDisplay)}. Email: <span class="email">${esc(b.email)}</span>.</p>
 <p><strong>Who is covered:</strong> the original customer, meaning the person who paid Hard Knox for the work, for the vehicle the work was performed on. This guarantee is not transferable: it ends if the vehicle is sold or otherwise transferred to someone else.</p>
 
 <h2 id="what-is-covered">3. What is covered</h2>
@@ -57,8 +57,8 @@ const body = `
 
 <h2 id="replacement">5. What Hard Knox will do: the covered remedy</h2>
 <ol>
-<li><strong>Inspection.</strong> Brandon inspects the vehicle to confirm whether the problem is a covered defect. Inspection is done at a mutually agreed location within Hard Knox's normal service area, or at the location where the original work was done.</li>
-<li><strong>Repair, reinstallation or replacement at no charge.</strong> If the problem is a covered defect, Hard Knox repairs, reinstalls or replaces the covered work or glass without charging you for parts, labor or Brandon's travel to the vehicle within the normal service area.</li>
+<li><strong>Inspection.</strong> Hard Knox inspects the vehicle to confirm whether the problem is a covered defect. Inspection is done at a mutually agreed location within Hard Knox's normal service area, or at the location where the original work was done.</li>
+<li><strong>Repair, reinstallation or replacement at no charge.</strong> If the problem is a covered defect, Hard Knox repairs, reinstalls or replaces the covered work or glass without charging you for parts, labor or travel to the vehicle within the normal service area.</li>
 <li><strong>Calibration needed to complete a covered correction.</strong> If correcting a covered windshield defect requires the vehicle's camera to be calibrated again, that calibration is arranged as part of the correction and you are not charged for it.</li>
 <li><strong>Refund if a covered replacement problem cannot be corrected.</strong> If a covered problem with a glass replacement cannot be corrected, Hard Knox refunds the amount you paid for that replacement. The refund is paid to the original customer.</li>
 </ol>
@@ -78,7 +78,7 @@ const body = `
 <h2 id="not-covered">8. What is not covered</h2>
 <ul>
 <li><strong>New damage from outside events</strong>, including road debris, rocks, accidents, vandalism, misuse, improper care, or any other event after the work was completed. A new rock strike on a replaced windshield is new damage, not a defect, no matter how long you own the vehicle.</li>
-<li><strong>Problems caused by pre-existing rust, corrosion or damage to the frame or pinchweld</strong> (the metal lip the glass bonds to). Some of these conditions only become visible once the old glass is removed; when that happens Brandon tells you before continuing, and this guarantee does not cover leaks or bonding problems that result from those conditions.</li>
+<li><strong>Problems caused by pre-existing rust, corrosion or damage to the frame or pinchweld</strong> (the metal lip the glass bonds to). Some of these conditions only become visible once the old glass is removed; when that happens you are told before the work continues, and this guarantee does not cover leaks or bonding problems that result from those conditions.</li>
 <li><strong>Problems unrelated to covered workmanship or to a defect in glass supplied by Hard Knox</strong>, such as wear in the vehicle's own regulators, motors, seals or trim that Hard Knox did not supply or install, or damage caused by someone else's later work.</li>
 <li><strong>Spreading of a repaired chip</strong>, which is handled by the replacement credit in section 6 rather than by repair or refund.</li>
 </ul>
@@ -87,12 +87,12 @@ const body = `
 <ol>
 <li><strong>Contact Hard Knox as soon as you notice the problem</strong>, preferably within 30 days of noticing it. The quickest way is to call ${telLink('', PHONE_NB)}. If a voice call is difficult for you, ${smsLink('', 'text the same number')} or email <span class="email">${esc(b.email)}</span>; all three routes are accepted.</li>
 <li><strong>Have your invoice or other proof of service available</strong> (the date, the vehicle and the work done are enough if you have lost the paper copy).</li>
-<li><strong>Describe what you see</strong> and, if you can, send a photo. Brandon will arrange an inspection.</li>
+<li><strong>Describe what you see</strong> and, if you can, send a photo. Hard Knox will arrange an inspection.</li>
 </ol>
 <p>The 30-day request is about prompt reporting, because an early look makes the cause easier to find and fix. <strong>Reporting after 30 days does not by itself cancel coverage</strong>, and this is not a 30-day warranty: covered defects remain covered for as long as the original customer owns the vehicle (section 4).</p>
 
 <h2 id="costs">10. What a covered claim costs you</h2>
-<p>Nothing. There is no charge for the inspection of a reported problem, for a covered repair, reinstallation or replacement, or for Brandon's travel to the vehicle within the normal service area. If an inspection shows the problem is not covered (for example, a new rock strike), Hard Knox will tell you and quote any repair or replacement as new work, which you are free to accept or decline.</p>
+<p>Nothing. There is no charge for the inspection of a reported problem, for a covered repair, reinstallation or replacement, or for travel to the vehicle within the normal service area. If an inspection shows the problem is not covered (for example, a new rock strike), Hard Knox will tell you and quote any repair or replacement as new work, which you are free to accept or decline.</p>
 
 <h2 id="legal-rights">11. Your legal rights</h2>
 <p><strong>This warranty gives you specific legal rights, and you may also have other rights which vary from state to state.</strong></p>
@@ -101,12 +101,12 @@ const body = `
 
 <div class="callout callout--safety">
 <h2 id="safe-drive-away">12. Safety note: safe drive-away time</h2>
-<p>Windshield and back glass adhesive needs time to reach the strength required to hold the glass in place in a crash, and driving too soon can compromise glass retention. The safe drive-away time depends on the adhesive used, the installation conditions and your vehicle's requirements, so there is no single number that applies to every job. Ask Brandon for the safe drive-away time for your vehicle before he leaves, and do not drive the vehicle before it. Always wear your seatbelt.</p>
+<p>Windshield and back glass adhesive needs time to reach the strength required to hold the glass in place in a crash, and driving too soon can compromise glass retention. The safe drive-away time depends on the adhesive used, the installation conditions and your vehicle's requirements, so there is no single number that applies to every job. Ask for the safe drive-away time for your vehicle before the technician leaves, and do not drive the vehicle before it. Always wear your seatbelt.</p>
 </div>
 
 <h2 id="version">13. Version, copies and earlier work</h2>
 <p>This is version ${esc(W.version)} of the Hard Knox Auto Glass Limited Warranty / Service Guarantee, effective ${esc(W.effective)}. It applies to work authorized on or after that date. Work authorized earlier is covered by the terms given to that customer at the time of the work; if you are unsure which terms apply to you, call or text ${esc(b.phoneDisplay)}.</p>
-<p>You can read this page at any time without an account or appointment, print it, or ask Brandon for a paper copy before you authorize any work. Changes to this guarantee apply only to work authorized after the change; the version in force when your work was authorized continues to apply to that work.</p>
+<p>You can read this page at any time without an account or appointment, print it, or ask for a paper copy before you authorize any work. Changes to this guarantee apply only to work authorized after the change; the version in force when your work was authorized continues to apply to that work.</p>
 <p>Related pages: <a href="/cancellation-refund-policy/">Cancellation, rescheduling and refund policy</a> · <a href="/terms/">Website terms of use</a> · <a href="/service-area-contact/">Contact</a>.</p>
 </div>
 </div></section>

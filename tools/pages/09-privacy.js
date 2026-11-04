@@ -27,7 +27,7 @@ const body = `
 <p>The Call and Text buttons on this site open your own phone's dialer or messaging app with the business number filled in. <strong>Tapping a button sends nothing by itself</strong>; you decide whether to place the call or send the message. The email link on the Contact page works the same way.</p>
 <p>When you do call, text or email, ${esc(b.name)} receives what you send: your phone number or email address, what you tell us about your vehicle and the glass, any photos you attach, and where you would like the work done. This information is used to answer you, give you a quote, and arrange and perform the work. It is <strong>not used for marketing</strong>, you are not added to any mailing or messaging list, and asking for a quote does not sign you up for anything.</p>
 <p>Calls and texts are carried by the telephone and messaging providers involved (your carrier and ours), which handle them under their own terms. Voicemail and text messages are stored on the business phone. Email is received through <strong>Google's Gmail service</strong>, which stores and processes it under Google's terms.</p>
-<p><strong>Please do not send</strong> payment-card numbers, bank details, insurance policy or claim documents, your full VIN, or your exact home address in a first message. Brandon will confirm the address by phone when the work is scheduled.</p>
+<p><strong>Please do not send</strong> payment-card numbers, bank details, insurance policy or claim documents, your full VIN, or your exact home address in a first message. We confirm the address by phone when the work is scheduled.</p>
 
 <h2 id="work">3. When work is quoted, scheduled and done</h2>
 <p>To do the job and honor the guarantee, ${esc(b.name)} keeps a record of the work: your name, phone number (and email if you used it), the vehicle's year, make and model, the glass and work performed, the service location, the date and the amount paid. This is the invoice or work order you also receive.</p>
@@ -51,7 +51,7 @@ const body = `
 
 <h2 id="choices">5. Your choices and questions</h2>
 <ul>
-<li><strong>Ask what we hold about you, correct it, or ask for it to be deleted.</strong> Call or text ${esc(b.phoneDisplay)} or email <span class="email">${esc(b.email)}</span>. Brandon will confirm it is you (usually by matching the phone number or email the record came from), answer, and delete what you ask to have deleted unless it is needed to honor your guarantee or to meet a tax or legal obligation, in which case he will tell you.</li>
+<li><strong>Ask what we hold about you, correct it, or ask for it to be deleted.</strong> Call or text ${esc(b.phoneDisplay)} or email <span class="email">${esc(b.email)}</span>. We will confirm it is you (usually by matching the phone number or email the record came from), answer, and delete what you ask to have deleted unless it is needed to honor your guarantee or to meet a tax or legal obligation, in which case we will tell you.</li>
 <li><strong>Stop contact.</strong> There is no marketing to stop, but if you want no further contact about a quote or job, say so and it ends there.</li>
 <li><strong>Links to other sites.</strong> This site links to a small number of outside pages (for example, government guidance). Those sites have their own privacy practices; this site does not send them anything when a page loads, only when you choose to follow a link.</li>
 </ul>
